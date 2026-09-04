@@ -43,16 +43,43 @@ The following table delineates the specific verses revealed concerning the event
 | Ayah (Verse) | Arabic Excerpt | Classical Sabab al-Nuzūl (Occasion of Revelation) | Historical Person / Group Involved |
 | :--- | :--- | :--- | :--- |
 | **8:1** | ﴿يَسْأَلُونَكَ عَنِ الْأَنفَالِ...﴾ | Dispute between the young vanguard who routed the enemy and the elders who guarded the standards and ʿArīsh over who owned the spoils. Allāh revoked personal claims, placing them under divine and Prophetic jurisdiction (*Subul al-Hudā*, 4:58). | [[Ahl Badr]], [[Saʿd b. Abī Waqqāṣ]] |
-| **8:5–6** | ﴿كَمَا أَخْرَجَكَ رَبُّكَ مِن بَيْتِكَ بِالْحَقِّ...﴾ | Initial hesitation of some believers when realizing they were to confront the heavily armed Meccan army (*dhāt al-shawkah*) instead of the lightly defended trading caravan (*Subul al-Hudā*, 4:26). | Early Muslim Contingent |
+| **8:5–6** | ﴿كَمَا أَخْرَجَكَ رَبُّكَ مِن بَيْتِكَ بِالْحَقِّ...﴾ | Initial hesitation of some believers when realizing they were to confront the heavily armed Meccan army (*dhāt al-shawkah*) instead of the lightly defended trading caravan (*Subul al-Hudā*, 4:27). | Early Muslim Contingent |
 | **8:7** | ﴿وَإِذْ يَعِدُكُمُ اللَّهُ إِحْدَى الطَّائِفَتَيْنِ...﴾ | Divine promise that Muslims would obtain either the caravan of [[Abū Sufyān b. Ḥarb]] or triumph over the army of [[Abū Jahl (ʿAmr b. Hishām)]]. | [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ |
-| **8:9–10** | ﴿إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ﴾ | The Prophet's ﷺ fervent, weeping supplication inside [[al-ʿArīsh]] with [[Abū Bakr al-Ṣiddīq]], resulting in the dispatch of the angelic legions led by Jibrīl (*Subul al-Hudā*, 4:36–37). | [[Abū Bakr al-Ṣiddīq]], Jibrīl ﵊ |
-| **8:11** | ﴿إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً...﴾ | Miraculous slumber casting peace upon the anxious believers on the eve of battle, and the cleansing rain that firmed the sand beneath Muslim feet while turning Quraysh's slope into mud (*Subul al-Hudā*, 4:29). | The Muslim Army at Badr |
-| **8:12** | ﴿إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا...﴾ | Divine operational command to the angels to strike the necks and fingertips of the polytheists (*Subul al-Hudā*, 4:40). | Angels, [[al-Zubayr b. al-ʿAwwām]] |
-| **8:17** | ﴿فَلَمْ تَقْتُلُوهُمْ وَلَكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَىٰ...﴾ | The Prophet ﷺ casting a handful of pebbles (*ḥaṣbāʾ*) handed to him by ʿAlī into the eyes of the polytheist host, crying *"Shāhat al-wujūh!"* (*Subul al-Hudā*, 4:48). | [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ, [[ʿAlī b. Abī Ṭālib]] |
+| **8:9–10** | ﴿إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ﴾ | The Prophet's ﷺ fervent, weeping supplication inside [[al-ʿArīsh]] with [[Abū Bakr al-Ṣiddīq]], resulting in the dispatch of the angelic legions led by Jibrīl (*Subul al-Hudā*, 4:38). | [[Abū Bakr al-Ṣiddīq]], Jibrīl ﵊ |
+| **8:11** | ﴿إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً...﴾ | Miraculous slumber casting peace upon the anxious believers on the eve of battle, and the cleansing rain that firmed the sand beneath Muslim feet while turning Quraysh's slope into mud (*Subul al-Hudā*, 4:30). | The Muslim Army at Badr |
+| **8:12** | ﴿إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا...﴾ | Divine operational command to the angels to strike the necks and fingertips of the polytheists (*Subul al-Hudā*, 4:38). | Angels, [[al-Zubayr b. al-ʿAwwām]] |
+| **8:17** | ﴿فَلَمْ تَقْتُلُوهُمْ وَلَكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَىٰ...﴾ | The Prophet ﷺ casting a handful of pebbles (*ḥaṣbāʾ*) handed to him by ʿAlī into the eyes of the polytheist host, crying *"Shāhat al-wujūh!"* (*Subul al-Hudā*, 4:47). | [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ, [[ʿAlī b. Abī Ṭālib]] |
 | **8:41** | ﴿وَاعْلَمُوا أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ... يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ﴾ | Codification of the *Khumus* (one-fifth division) of war booty for public welfare, orphans, and the Prophet's kin, naming Badr *Yawm al-Furqān* (*Subul al-Hudā*, 4:58). | The Ummah |
 | **8:48** | ﴿وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ... فَلَمَّا تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ...﴾ | [[Iblīs]] appearing in the guise of Surāqah b. Mālik encouraging Quraysh, but fleeing into the sea when beholding Jibrīl and the descent of the angels (*Subul al-Hudā*, 4:22, 4:42). | [[Iblīs]], [[Surāqah b. Mālik b. Juʿshum]] |
-| **8:67–68** | ﴿مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ...﴾ | Divine gentle reproof regarding the decision to accept financial ransom from the seventy Meccan captives instead of executing the chief instigators of tyranny (*Subul al-Hudā*, 4:68). | [[Abū Bakr al-Ṣiddīq]], [[ʿUmar b. al-Khaṭṭāb]] |
-| **8:70** | ﴿يَا أَيُّهَا النَّبِيُّ قُل لِّمَن فِي أَيْدِيكُم مِّنَ الْأَسْرَىٰ إِن يَعْلَمِ اللَّهُ فِي قُلُوبِكُمْ خَيْرًا...﴾ | Comfort and guarantee of restitution given to [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] and other captives who claimed internal faith (*Subul al-Hudā*, 4:70). | [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] |
+| **8:67–68** | ﴿مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ...﴾ | Divine gentle reproof regarding the decision to accept financial ransom from the seventy Meccan captives instead of executing the chief instigators of tyranny (*Subul al-Hudā*, 4:61). | [[Abū Bakr al-Ṣiddīq]], [[ʿUmar b. al-Khaṭṭāb]] |
+| **8:70** | ﴿يَا أَيُّهَا النَّبِيُّ قُل لِّمَن فِي أَيْدِيكُم مِّنَ الْأَسْرَىٰ إِن يَعْلَمِ اللَّهُ فِي قُلُوبِكُمْ خَيْرًا...﴾ | Comfort and guarantee of restitution given to [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] and other captives who claimed internal faith (*Subul al-Hudā*, 4:18). | [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] |
+
+
+> [!WARNING] Citation Audit of This Table
+> The book **tags its own Qurʾānic quotations** with a bracketed reference — `[الأنفال ١١]` — which
+> makes the verse-to-page map decidable rather than inferred. Checked against those tags, **six of the
+> ten rows above pointed at the wrong page** and have been corrected: 8:5–6 to **4:27** (was 4:26),
+> 8:9–10 to **4:38** (was 4:36–37), 8:11 to **4:30** (was 4:29; also quoted at 4:45), 8:12 to
+> **4:38** (was 4:40), 8:67–68 to **4:61** (was 4:68), and 8:70 to **4:18** (was 4:70).
+>
+> Verified as already correct: 8:1 at 4:58, 8:17 at 4:47–48, 8:48 at 4:22.
+>
+> **8:41 is a special case.** The *khumus* verse is not bracket-quoted anywhere in volume 4. What
+> 4:58 carries is the *occasion* — the Companions' dispute over the *fayʾ* — and the phrase
+> *yawm al-Furqān* appears at 4:18. The row is retained on that basis, and the distinction is stated
+> here rather than left implicit.
+
+## 2b. Further Anfāl Verses the Book Quotes in the Badr Chapter
+
+These are bracket-tagged in volume 4 and were absent from the table above:
+
+| Ayah | Page | Context in the book |
+| :--- | :--- | :--- |
+| **8:19** | 4:46 | In the section on Abū Jahl's supplication against himself |
+| **8:42** | 4:31 | The two camps and the marking of the *maṣāriʿ* |
+| **8:45** | 4:59 | Following the division of the *fayʾ* |
+| **8:47** | 4:22 | With 8:48, at Iblīs's incitement of Quraysh |
+| **8:49** | 4:33 | The opening of the fighting |
 
 ---
 
