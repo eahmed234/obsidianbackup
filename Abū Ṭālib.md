@@ -25,17 +25,32 @@ father's death he received the Prophet's ﷺ guardianship by explicit bequest (*
 and raised him alongside his own sons — among them **[[ʿAlī b. Abī Ṭālib]]** ﵁ and
 **[[Jaʿfar b. Abī Ṭālib]]** ﵁.
 
-Al-Ṣāliḥī records his taking the boy on the trading journey to Shām (*Subul al-Hudā*, 2:140), and the
-occasion on which Abū Ṭālib sought rain through him (*al-istisqāʾ bi-Rasūlillāh ﷺ*), at
-*Subul al-Hudā*, 2:137.
+Al-Ṣāliḥī records his taking the boy on the trading journey to Shām at age twelve — see
+**[[Riḥlat al-Shām al-Ūlā]]** for the Baḥīrā episode that followed (*Subul al-Hudā*, 2:140).
 
-## 2. Protection Under Persecution
+## 2. Rain Sought Through Him
+**Jalhamah b. ʿArfaṭah** reported arriving in Makkah during a drought to find Quraysh disputing which
+idol to petition, until an elder said: *"How can you be so deluded, when among you is the remnant of
+Ibrāhīm and the offspring of Ismāʿīl?"* — meaning Abū Ṭālib. The people went to his door; he came out
+**with the young Muḥammad ﷺ, "like the sun behind a thin cloud,"** and other small boys around him.
+Abū Ṭālib pressed the boy's back to the Kaʿbah, and the child raised his finger to the sky — *"and not
+a wisp of cloud was in it"* — whereupon rain gathered from every direction and the valley overflowed.
+Abū Ṭālib himself composed the verse:
+
+> «وَأَبْيَضَ يُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ … ثِمَالُ الْيَتَامَىٰ عِصْمَةٌ لِلْأَرَامِلِ»
+> *"And a fair-faced one through whose face the clouds are asked for rain — sustainer of orphans,
+> refuge of widows."* (*Subul al-Hudā*, 2:137)
+
+A second account has Abū Ṭālib himself complaining of thirst directly to his nephew while they were at
+**Dhū al-Majāz** (*Subul al-Hudā*, 2:137–138).
+
+## 3. Protection Under Persecution
 As chief of **[[Banū Hāshim]]** he extended clan protection over the Prophet ﷺ through the hardest
 Makkan years, refusing every Qurashī demand that he withdraw it. That refusal is what forced Quraysh
 to escalate to collective punishment — the boycott of the whole clan in
 **[[al-Ḥiṣār fī Shiʿb Abī Ṭālib]]**, which is named for the very ravine his protection defined.
 
-## 3. Death
+## 4. Death
 He died in **3 BH**, weeks apart from **[[Khadījah bint Khuwaylid]]** ﵂ — the twin loss that gives
 **[[ʿĀm al-Ḥuzn]]** (the Year of Sorrow) its name. His death removed the Prophet's ﷺ tribal shield
 and directly precipitated the escalation that led to **[[Riḥlat al-Ṭāʾif]]** and ultimately the
@@ -46,7 +61,7 @@ Hijrah.
 > profess Islam before he died. This is the position of the Sunnī authorities al-Ṣāliḥī transmits,
 > and he is accordingly not given the honorific ﵁ in this vault.
 
-## 4. References
+## 5. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 135 (the bequest of guardianship).
-2. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 137 (seeking rain through the Prophet ﷺ).
+2. *[[Subul al-Hudā war-Rashād]]*, vol. 2, pp. 137–138 (rain sought through him, twice).
 3. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 140 (the journey to Shām).
