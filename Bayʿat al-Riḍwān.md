@@ -40,6 +40,8 @@ For the number present, the book gives al-Barāʾ's own testimony:
 > *"We were with the Messenger of Allāh ﷺ at al-Ḥudaybiyah — **fourteen hundred**."*
 > (*Subul al-Hudā*, 5:41)
 
+During the pledge, **[[Maʿqil b. Yasār]]** ﵁ held up the branch of the tree away from the Prophet's ﷺ head (*al-Iṣābah*, 6:146), while **[[Salamah b. al-Akwaʿ]]** ﵁ uniquely swore allegiance three times: in the first cohort, in the middle, and at the end (*Subul al-Hudā*, 5:48). The Prophet ﷺ placed his right hand into his left, declaring: *«This is the hand of ʿUthmān!»* (*Subul al-Hudā*, 5:48).
+
 > [!NOTE] What the Book Does Not Say
 > An earlier version described the tree as an acacia (*samurah*) and the pledge as one *"not to flee,
 > and by some reports to fight to the death,"* with a figure of *"fourteen to fifteen hundred."* The

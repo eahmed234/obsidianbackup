@@ -221,6 +221,15 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Tumāḍir bint al-Aṣbagh]] ﵂ — *Princess of Banū Kalb, wife of [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁*
 - [[Abū Salamah b. ʿAbd al-Raḥmān]] — *Son of ʿAbd al-Raḥmān and Tumāḍir; one of the Seven Jurists of Medina*
 
+### Companions of al-Ḥudaybiyah & The Later Treaties
+- [[Abū Baṣīr (ʿUtbah b. Usayd)]] ﵁ — *Hero of the coastal outpost at al-ʿĪṣ and striker of the Red Sea blockade*
+- [[Abū Jandal b. Suhayl]] ﵁ — *The bound believer of al-Ḥudaybiyah and commander of the believers at al-ʿĪṣ*
+- [[Salamah b. al-Akwaʿ]] ﵁ — *Hero of the three pledges beneath the tree and swift knight of Dhī Qarad*
+- [[Khirāsh b. Umayyah]] ﵁ — *First envoy dispatched to Makkah at al-Ḥudaybiyah and barber of the Prophet ﷺ*
+- [[Maʿqil b. Yasār]] ﵁ — *Guardian who held the tree branch during Bayʿat al-Riḍwān and builder of Nahr Maʿqil*
+- [[Budayl b. Warqāʾ al-Khuzāʿī]] ﵁ — *Chieftain of Khuzāʿah, repository of prophetic counsel, and diplomatic intermediary*
+
+
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
 - [[ʿUtbah b. Rabīʿah]] ☠ — *Qurashī chief who counselled against Badr and died in it*
