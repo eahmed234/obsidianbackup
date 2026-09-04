@@ -212,6 +212,9 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Kurz b. Jābir al-Fihrī]] ﵁ — *Commander of the punitive detachment of al-ʿUraniyyīn and cavalry martyr of the Conquest of Makkah*
 - [[Ḥubaysh b. Khālid al-Khuzāʿī]] ﵁ — *Ibn al-Ashʿar; brother of Umm Maʿbad and cavalry martyr of the Conquest of Makkah*
 - [[Ayman b. ʿUbayd]] ﵁ — *Son of Umm Ayman, brother of Usāmah b. Zayd, and steadfast martyr of Ḥunayn*
+- [[ʿAbdullāh Dhū al-Bijādayn]] ﵁ — *Devout penitent of Muzaynah whom the Prophet ﷺ personally buried at Tabūk*
+- [[Murārah b. al-Rabīʿ]] ﵁ — *Badri veteran and one of the three penitent Companions forgiven in Sūrat al-Tawbah*
+- [[Hilāl b. Umayyah]] ﵁ — *Badri veteran, occasion of Liʿān, and one of the three penitents forgiven in Sūrat al-Tawbah*
 - [[Bishr b. al-Barāʾ]] ﵁ — *Veteran of Badr and martyr of Khaybar*
 - [[Abū Hurayrah]] ﵁ — *Preserver of Hadith who joined the Prophet ﷺ at Khaybar*
 - [[al-Aṣbagh b. ʿAmr al-Kalbī]] ﵁ — *Paramount king of Banū Kalb at Dūmat al-Jandal who embraced Islam*
