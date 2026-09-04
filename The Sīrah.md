@@ -51,6 +51,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Banī al-Naḍīr]] (4 AH) — *Siege & Expulsion (Sūrat al-Ḥashr)*
 - [[Ghazwat al-Khandaq]] (5 AH) — *Battle of the Trench (The Grand Confederate Siege)*
 - [[Ghazwat Banī Qurayẓah]] (5 AH) — *Judgment of Saʿd b. Muʿādh on Wartime Treason*
+- [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
@@ -110,6 +111,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
 - [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
 - [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
+- [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
 
@@ -233,6 +235,11 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Thābit b. Aqram]] ﵁ — *Badri veteran of the Anṣār who seized the falling standard at Muʾtah and elevated Khālid b. al-Walīd*
 - [[al-Ḥārith b. ʿUmayr al-Azdī]] ﵁ — *The sole murdered diplomatic envoy of the Prophet ﷺ whose assassination provoked Muʾtah*
 - [[Quṭbah b. Qatādah al-ʿUdhrī]] ﵁ — *Commander of the Right Flank at Muʾtah and slayer of the Byzantine auxiliary general Mālik b. Zāfilah*
+
+### Companions of Banū al-Muṣṭaliq
+- [[Zayd b. Arqam]] ﵁ — *The faithful youth whose truthful hearing of the hypocrites was vindicated by Sūrat al-Munāfiqūn*
+- [[Jahjāh b. Saʿīd al-Ghifārī]] ﵁ — *Veteran of the Tree whose dispute at the well of al-Muraysīʿ led to the repudiation of Jāhiliyyah calls*
+
 
 
 
