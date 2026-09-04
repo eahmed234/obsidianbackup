@@ -32,3 +32,9 @@ Drafted by the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ, *Dustūr al-
 2. **Religious Freedom**: *"To the Jews their religion, and to the Muslims their religion."*
 3. **Collective Defense**: All signatories are obligated to defend the oasis of Medina against external aggression, sharing financial expenses of war.
 4. **Supreme Judicial Sovereignty**: *"Whenever any dispute or controversy arises among the people of this document... it shall be referred to Allāh and to Muḥammad, the Messenger of Allāh ﷺ."* (*Subul al-Hudā*, 3:380).
+
+> [!WARNING] Citation Unverified
+> This entry cites *Subul al-Hudā* **3:380**. The heading governing that page is the chapter on the Islam of ʿAbdullāh b. Salām — it does not
+> appear to carry this material, and the correct chapter has **not yet been located**. The citation is
+> left in place, flagged, rather than removed on an unconfirmed reading or silently trusted.
+

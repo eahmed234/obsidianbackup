@@ -30,4 +30,8 @@ While the lines dissolved, the Messenger of Allāh ﷺ charged forward alone upo
 > «أَنَا النَّبِيُّ لَا كَذِبْ ... أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ!»
 > *"I am the Prophet without falsehood! I am the son of ʿAbd al-Muṭṭalib!"* (*Ṣaḥīḥ al-Bukhārī*, no. 4315).
 
-He ordered **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]** (who possessed a booming voice) to cry out: *"O companions of the Acacia Tree (Aṣḥāb al-Samurah)! O people of Surah al-Baqarah!"* The Companions pivoted mid-flight, shouting *«لَبَّيْكَ! لَبَّيْكَ!»* and turned a catastrophic ambush into overwhelming victory (*Subul al-Hudā*, 5:365).
+He ordered **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]** (who possessed a booming voice) to cry out: *"O companions of the Acacia Tree (Aṣḥāb al-Samurah)! O people of Surah al-Baqarah!"* The Companions pivoted mid-flight, shouting *«لَبَّيْكَ! لَبَّيْكَ!»* and turned a catastrophic ambush into overwhelming victory (*Subul al-Hudā*, 5:310).
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **5:365**, which does not carry this material. The chapter is at
+> **5:310**: *الباب الثامن والعشرون في غزوة حنين*. Corrected.

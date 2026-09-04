@@ -37,3 +37,9 @@ $$\text{وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاط
 Facing the petrified chieftains of Quraysh who had persecuted him for two decades, the Prophet ﷺ asked: *«مَا تَرَوْنَ أَنِّي فَاعِلٌ بِكُمْ؟»* (*"What do you think I shall do with you?"*). They replied: *"Noble brother, son of a noble brother!"* The Prophet ﷺ proclaimed:
 > «لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ، يَغْفِرُ اللَّهُ لَكُمْ، وَهُوَ أَرْحَمُ الرَّاحِمِينَ! اذْهَبُوا فَأَنْتُمُ الطُّلَقَاءُ!»
 > *"No blame shall be upon you today! May Allāh forgive you, and He is the Most Merciful of those who show mercy! Go, for you are entirely free (*al-Ṭulaqāʾ*)!"* (*Subul al-Hudā*, 5:295).
+
+> [!WARNING] Citation Unverified
+> This entry cites *Subul al-Hudā* **5:285**. The heading governing that page is a glossary of Ḍirār b. al-Khaṭṭāb's ﵁ verse — it does not
+> appear to carry this material, and the correct chapter has **not yet been located**. The citation is
+> left in place, flagged, rather than removed on an unconfirmed reading or silently trusted.
+

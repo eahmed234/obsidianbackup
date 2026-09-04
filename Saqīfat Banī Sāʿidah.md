@@ -36,4 +36,8 @@ Abū Bakr delivered a speech reminding them that the Arabs would only accept the
 
 ʿUmar stepped forward, grabbed Abū Bakr's hand, and cried:
 > *"Who among us could step ahead of the feet that the Messenger of Allāh ﷺ put forward to lead our prayers?!"*
-ʿUmar gave him the pledge of allegiance (*bayʿah*), followed immediately by the Anṣār and the entire congregation, inaugurating the Rightly Guided Caliphate (*al-Khilāfah al-Rāshidah*) (*Subul al-Hudā*, 12:355).
+ʿUmar gave him the pledge of allegiance (*bayʿah*), followed immediately by the Anṣār and the entire congregation, inaugurating the Rightly Guided Caliphate (*al-Khilāfah al-Rāshidah*) (*Subul al-Hudā*, 12:311).
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **12:355**, which does not carry this material. The chapter is at
+> **12:311**: *الباب الثالث والثلاثون في ذكر خبر السقيفة وبيعة أبي بكر ﵁*. Corrected.

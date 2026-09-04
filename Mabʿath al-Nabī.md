@@ -38,3 +38,9 @@ Khadījah brought him to her cousin, the aged Christian scholar **Waraqah b. Naw
 - **First Child / Youth**: [[ʿAlī b. Abī Ṭālib]]
 - **First Freed Slave**: [[Zayd b. Ḥārithah]]
 - **Early Pioneers via Abū Bakr**: [[ʿAbd al-Raḥmān b. ʿAwf]], [[ʿUthmān b. ʿAffān]], [[al-Zubayr b. al-ʿAwwām]], [[Saʿd b. Abī Waqqāṣ]], [[Ṭalḥah b. ʿUbaydillāh]].
+
+> [!WARNING] Citation Unverified
+> This entry cites *Subul al-Hudā* **2:215**. The heading governing that page is a tafsīr al-gharīb page — it does not
+> appear to carry this material, and the correct chapter has **not yet been located**. The citation is
+> left in place, flagged, rather than removed on an unconfirmed reading or silently trusted.
+

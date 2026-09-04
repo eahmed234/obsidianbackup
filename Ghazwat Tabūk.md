@@ -34,7 +34,11 @@ In scorching summer heat during the date harvest, intelligence reported an impen
 ## 2. Encounter at Tabūk & The Fajr Prayer
 Marching 30,000 men to Tabūk, the Byzantines retreated into their interior cities upon learning of the Muslim advance. During this expedition, the Prophet ﷺ prayed Fajr behind **[[ʿAbd al-Raḥmān b. ʿAwf]]**, declaring:
 > «أَحْسَنْتُمْ! مَا قُبِضَ نَبِيٌّ قَطُّ حَتَّى يُصَلِّيَ خَلْفَ رَجُلٍ صَالِحٍ مِنْ أُمَّتِهِ»
-> *"You did well! No prophet was ever taken in death until he prayed behind a righteous man from his Ummah!"* (*Ṣaḥīḥ Muslim*, no. 274; *Subul al-Hudā*, 5:449).
+> *"You did well! No prophet was ever taken in death until he prayed behind a righteous man from his Ummah!"* (*Ṣaḥīḥ Muslim*, no. 274; *Subul al-Hudā*, 5:433).
 
 ## 3. The Three Who Remained Behind
 Three sincere Companions—**[[Kaʿb b. Mālik]]**, Murārah b. al-Rabīʿ, and Hilāl b. Umayyah—failed to march without hypocritical motive. They endured fifty days of total social boycott until Allāh revealed their divine forgiveness in [[Sūrat al-Tawbah]] (9:118).
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **5:449**, which does not carry this material. The chapter is at
+> **5:433**: *الباب الثلاثون في غزوة تبوك*. Corrected.
