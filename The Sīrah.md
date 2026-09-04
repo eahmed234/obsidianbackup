@@ -59,6 +59,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Ghazwat Ḥunayn]] (8 AH) — *The Lesson against Pride in Numbers*
+- [[Ghazwat al-Ṭāʾif]] (Shawwāl 8 AH) — *The Siege of the Citadel, Ballistas, and Covenant of the Anṣār*
 - [[Ghazwat Tabūk]] (Rajab 9 AH) — *Jaysh al-ʿUsrah & The Confrontation on the Byzantine Frontier*
 
 ### 4. The Culmination & Departure (10–11 AH)
@@ -239,6 +240,11 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### Companions of Banū al-Muṣṭaliq
 - [[Zayd b. Arqam]] ﵁ — *The faithful youth whose truthful hearing of the hypocrites was vindicated by Sūrat al-Munāfiqūn*
 - [[Jahjāh b. Saʿīd al-Ghifārī]] ﵁ — *Veteran of the Tree whose dispute at the well of al-Muraysīʿ led to the repudiation of Jāhiliyyah calls*
+
+### Companions of al-Ṭāʾif & The Envoys
+- [[Abū Bakrah al-Thaqafī]] ﵁ — *Freedman of the Prophet ﷺ who scaled down the ramparts of al-Ṭāʾif with a pulley rope*
+- [[Mālik b. ʿAwf al-Naṣrī]] ﵁ — *Supreme commander of Hawāzin at Ḥunayn who embraced Islam, received 100 camels, and besieged Thaqīf*
+
 
 
 
