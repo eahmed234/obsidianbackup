@@ -38,7 +38,12 @@ Revealed in his lifetime, it foretold his end while he still had every opportuni
 and he never did.
 
 ## 3. Death After Badr
-He did not fight at **[[Ghazwat Badr al-Kubrā]]**, but died in Makkah days afterward. Al-Ṣāliḥī
+He did not fight at **[[Ghazwat Badr al-Kubrā]]** — and the book singles him out for it. Describing
+the Meccan muster it says they went out *"in nine hundred and fifty fighters, and it is said in a
+thousand, and **not one of their nobles stayed behind except Abū Lahab**"*
+(*Subul al-Hudā*, 4:22).
+
+Al-Ṣāliḥī
 treats the arrival of the news of Badr to the families of the slain together with the destruction of
 Abū Lahab in a single section — *dhikr wuṣūl khabar muṣāb ahl Badr ilā ahlīhim wa-mahlak Abī Lahab*
 (*Subul al-Hudā*, 4:66). > [!NOTE] What the Book Does Not Say
