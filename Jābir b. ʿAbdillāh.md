@@ -1,9 +1,11 @@
 ---
 title: Jābir b. ʿAbdillāh
-arabic: جابر بن عبد الله الأنصاري
+arabic: جابر بن عبد الله
 aliases:
   - Jabir ibn Abdillah
   - Jabir b. Abd Allah
+  - Abū ʿAbdillāh
+  - Abū ʿAbd al-Raḥmān
 type: person
 tags:
   - person
@@ -11,30 +13,35 @@ tags:
   - ansari
   - khazraji
   - bayat_al_ridwan
-death: ~78 AH (Medina, aged 94; among the last surviving Companions in Medina)
+death: ~78 AH (Medina, aged 94; last surviving Companion in Medina)
 lineage: "Jābir b. ʿAbdillāh b. ʿAmr b. Ḥarām al-Salmī al-Khazrajī (Banū Salimah)"
-notable_status: "Prominent narrator of the Sīrah; host of the miraculous feast during the Battle of the Trench"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 213; vol. 4, pp. 188, 365–367; vol. 5, pp. 48, 142)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 213; vol. 4, pp. 188, 365–367; vol. 5, pp. 48, 142); [[al-Iṣābah]] (1:546–548, entry 1028)"
 ---
 
-# Jābir b. ʿAbdillāh (جابر بن عبد الله الأنصاري) ﵄
-*The Devoted Scholar-Warrior of Banū Salimah and Witness of the Tree*
+# Jābir b. ʿAbdillāh (جابر بن عبد الله السلمي) ﵄
+*Abū ʿAbdillāh al-Khazrajī al-Salamī — Prolific Narrator of the Sunnah, Veteran of Nineteen Expeditions, and Witness of the Tree*
 
-## 1. Lineage & Early Islam
-He is Jābir b. ʿAbdillāh b. ʿAmr b. Ḥarām b. Thaʿlabah al-Salmī al-Khazrajī, belonging to the Banū Salimah clan of the Khazraj (*Subul al-Hudā*, 3:213; 4:188). His father was the noble chieftain and martyr **[[ʿAbdullāh b. ʿAmr b. Ḥarām]]** ﵁, one of the twelve Nuqabāʾ at the Second Pledge of al-ʿAqabah. Jābir attended [[Bayʿat al-ʿAqabah al-Thāniyah]] as a youth alongside his father (*Subul al-Hudā*, 3:213).
+## 1. Lineage, Family & Early Islam
+He is Jābir b. ʿAbdillāh b. ʿAmr b. Ḥarām b. Kaʿb b. Ghanam b. Kaʿb b. Salimah al-Anṣārī al-Khazrajī al-Salamī (kunyas: Abū ʿAbdillāh, Abū ʿAbd al-Raḥmān, and Abū Muḥammad) (*al-Iṣābah*, 1:546). Both he and his father were illustrious Companions. His father was the noble leader and martyr **[[ʿAbdullāh b. ʿAmr b. Ḥarām]]** ﵁, one of the twelve Nuqabāʾ of al-ʿAqabah.
 
-Prior to [[Ghazwat Uḥud]], his father instructed him to remain in Medina to care for his seven (or nine) unmarried sisters, making him miss both Badr and Uḥud (*Subul al-Hudā*, 4:188). Following his father's martyrdom at Uḥud, Jābir participated in every subsequent expedition led by the Prophet ﷺ (*Subul al-Hudā*, 4:367).
+Jābir attended [[Bayʿat al-ʿAqabah al-Thāniyah]] with his father as a youth (*al-Iṣābah*, 1:546; *Subul al-Hudā*, 3:213). At **[[Ghazwat Badr al-Kubrā]]**, Jābir assisted the Muslim army by drawing water for his companions (*al-Iṣābah*, 1:546). 
 
-## 2. Key Sīrah Milestones
-- **[[Ghazwat al-Khandaq]] (5 AH)**: Host of the celebrated food miracle at the Trench. Seeing the Prophet ﷺ tying a stone to his abdomen from severe hunger, Jābir slaughtered a small ewe (*ʿanāq*) and his wife prepared a measure of barley. He privately invited the Prophet ﷺ with a small party, but the Messenger of Allāh ﷺ called all one thousand trench workers. The Prophet ﷺ blessed the dough and the pot, and the entire army ate to repletion while the pot remained boiling and full (*Subul al-Hudā*, 4:365–367).
-- **[[Ṣulḥ al-Ḥudaybiyah]] (6 AH)**: Pledged under the tree at [[Bayʿat al-Riḍwān]], where the Prophet ﷺ declared: *“You are the best of the people of the earth today!”* (*Subul al-Hudā*, 5:48).
-- **[[Ghazwat Khaybar]] (7 AH)**: Although prevented from marching to Khaybar, the Prophet ﷺ allotted him a full warrior's share of the spoils as though he had been present, honoring his veteran status from Ḥudaybiyah (*Subul al-Hudā*, 5:142).
-- **Transmitter of Sacred Lore**: He served as a premier narrator of the Prophet's final pilgrimage (**[[Ḥajjat al-Wadāʿ]]**), providing the standard textual framework for the rites of Hajj.
+Before **[[Ghazwat Uḥud]]**, his father instructed him to stay behind in Medina to care for his seven (or nine) unmarried sisters, telling him: *“I cannot leave these young daughters behind without a protector, nor can I prefer myself over you to go out except that I yearn for martyrdom in the path of Allāh!”* (*Subul al-Hudā*, 4:188; *al-Iṣābah*, 1:546). When his father fell as a martyr at Uḥud, Jābir shouldered the heavy debts of his father and the care of his sisters, and never missed a single expedition thereafter (*al-Iṣābah*, 1:546).
 
-## 3. Demise & Legacy
-Jābir lived a long life dedicated to teaching in the Prophet’s Mosque in Medina, holding a study circle where scholars gathered to hear traditions directly from him. He was the last surviving companion from the Pledge of al-ʿAqabah, passing away in Medina around 78 AH (*Subul al-Hudā*, 1:36; 4:365).
+## 2. Key Sīrah Milestones & Nineteen Expeditions
+- **Nineteen Ghazawāt**: In *Ṣaḥīḥ Muslim*, Jābir stated: *“I fought alongside the Messenger of Allāh ﷺ in nineteen expeditions”* (*al-Iṣābah*, 1:546).
+- **The Miracle of the Trench (5 AH)**: During **[[Ghazwat al-Khandaq]]**, Jābir witnessed the extreme hunger of the Prophet ﷺ. He slipped home, slaughtered a small ewe (*ʿanāq*), and his wife ground a measure of barley (*Subul al-Hudā*, 4:365). He invited the Prophet ﷺ along with a few companions, but the Prophet ﷺ called out to all one thousand trench-diggers (*Subul al-Hudā*, 4:365–366). The Messenger of Allāh ﷺ spat with blessing into the dough and the meat-pot; the entire host ate in groups of ten until sated, leaving the pot boiling full and the bread being baked uninterrupted (*Subul al-Hudā*, 4:366).
+- **The Night of the Camel (*Laylat al-Baʿīr*)**: Returning from an expedition, Jābir’s exhausted camel lagged behind. The Prophet ﷺ prodded it with his staff and supplicated, causing it to surge ahead of the entire caravan (*al-Iṣābah*, 1:546). The Prophet ﷺ then negotiated to purchase the camel from Jābir, allowed him to ride it back to Medina, paid him its full price in gold upon arrival, and gifted the camel back to him (*al-Iṣābah*, 1:546). That night, the Messenger of Allāh ﷺ supplicated for forgiveness for Jābir twenty-five times (*al-Iṣābah*, 1:546).
+- **Bayʿat al-Riḍwān (6 AH)**: Pledged under the tree at **[[Ṣulḥ al-Ḥudaybiyah]]**, where the Prophet ﷺ declared to the participants: *“You are the best of the people of the earth today!”* (*Subul al-Hudā*, 5:48).
+- **Share of Khaybar Spoils (7 AH)**: Although Jābir remained in Medina during **[[Ghazwat Khaybar]]**, the Prophet ﷺ assigned him a full warrior's share of the spoils in recognition of his pledge at Ḥudaybiyah (*Subul al-Hudā*, 5:142).
+
+## 3. Teaching, Long Life & Demise
+Jābir was one of the most prolific transmitters of Prophetic hadīth (*al-mukthirūn*), transmitting the comprehensive master-narrative of the Prophet's Farewell Pilgrimage (**[[Ḥajjat al-Wadāʿ]]**). In his later years, he presided over a famous study circle (*ḥalqah*) inside the Prophet's Mosque in Medina, where senior Tābiʿīn gathered to receive sacred knowledge from him (*al-Iṣābah*, 1:546).
+
+He lived until he lost his eyesight and dyed his hair and beard yellow (*al-Iṣābah*, 1:546). He died in Medina in 78 AH (or 74 AH) at the age of ninety-four (*al-Iṣābah*, 1:547). Qatādah affirmed: *“The last of the Companions of the Messenger of Allāh ﷺ to die in Medina was Jābir”* (*al-Iṣābah*, 1:546).
 
 ## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 213 (*Bayʿat al-ʿAqabah*).
-2. *Subul al-Hudā*, vol. 4, p. 188 (*Ghazwat Uḥud*); vol. 4, pp. 365–367 (*Āyāt Ghazwat al-Khandaq: Ṭaʿām Jābir*).
-3. *Subul al-Hudā*, vol. 5, p. 48 (*Bayʿat al-Riḍwān*); vol. 5, p. 142 (*Maghānim Khaybar*).
+1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 1, pp. 546–548 (entry no. 1028).
+2. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 213 (*Bayʿat al-ʿAqabah*).
+3. *Subul al-Hudā*, vol. 4, p. 188 (*Ghazwat Uḥud*); vol. 4, pp. 365–367 (*Ghazwat al-Khandaq: Ṭaʿām Jābir*).
+4. *Subul al-Hudā*, vol. 5, p. 48 (*Bayʿat al-Riḍwān*); vol. 5, p. 142 (*Maghānim Khaybar*).

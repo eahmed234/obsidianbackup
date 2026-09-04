@@ -31,26 +31,26 @@ battles:
   - "[[Ghazwat Ḥunayn]]"
   - "[[Ghazwat Tabūk]]"
 hadith_narrations: 65
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 318–322)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 318–322); [[al-Iṣābah]] (vol. 4, pp. 290–293, no. 5195)"
 ---
 
 # ʿAbd al-Raḥmān b. ʿAwf (عبد الرحمن بن عوف)
 *Abū Muḥammad al-Qurashī al-Zuhrī — One of the Ten Promised Paradise*
 
 > [!NOTE] Classical Scholarly Provenance
-> This biographical entry and its event branches are anchored in the authoritative compilation ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), specifically *al-Bāb al-Khāmis ʿAshar fī Baʿḍ Faḍāʾil ʿAbd al-Raḥmān b. ʿAwf* (Vol. 11, pp. 318–322), complemented by the chronicles of his military and civil achievements across Volumes 3, 4, 5, 6, 7, and 12.
+> This biographical entry and its event branches are anchored in the authoritative compilation ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), specifically *al-Bāb al-Khāmis ʿAshar fī Baʿḍ Faḍāʾil ʿAbd al-Raḥmān b. ʿAwf* (Vol. 11, pp. 318–322), complemented by the chronicles of his military and civil achievements across Volumes 3, 4, 5, 6, 7, and 12, as well as ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*** by **[[Ibn Ḥajar al-ʿAsqalānī]]** (Vol. 4, pp. 290–293, entry no. 5195).
 
 ---
 
 ## 1. Lineage, Early Life, and Conversion
 
 ### Lineage and Prophetic Kinship
-- **Full Name**: ʿAbd al-Raḥmān b. ʿAwf b. ʿAbd ʿAwf b. ʿAbd al-Ḥārith b. Zuhrah b. Kilāb b. Murrah al-Qurashī al-Zuhrī (*Subul al-Hudā*, 11:318).
+- **Full Name**: ʿAbd al-Raḥmān b. ʿAwf b. ʿAbd ʿAwf b. ʿAbd al-Ḥārith b. Zuhrah b. Kilāb b. Murrah al-Qurashī al-Zuhrī (*Subul al-Hudā*, 11:318; *al-Iṣābah*, 4:290).
 - **Maternal Connection to the Prophet ﷺ**: He belongs to [[Banū Zuhrah]], the clan of **[[Āminah bint Wahb]]**, the noble mother of the Prophet ﷺ; his lineage converges with the Messenger of Allāh ﷺ at their forefather **Kilāb b. Murrah**.
 - **His Mother, the Midwife of the Prophet ﷺ**: His mother was **[[al-Shifāʾ bint ʿAwf]]** b. ʿAbd b. al-Ḥārith al-Zuhriyyah. She served as the midwife (*qābilah*) who delivered the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ into the world. She witnessed the celestial light that illuminated the palaces of Bostra in Syria upon the Prophet's birth (*Subul al-Hudā*, 2:6). She accepted Islam early and migrated to Medina.
 
-### Pre-Islamic Name & Conversion
-Prior to Islam, his name was *ʿAbd ʿAmr* (or in some transmissions, *ʿAbd al-Kaʿbah*). Upon his conversion, the Prophet ﷺ renamed him:
+### Pre-Islamic Demeanor & Conversion
+Prior to Islam, his name was *ʿAbd ʿAmr* (or according to others, *ʿAbd al-Kaʿbah*; Ibn Mandah affirmed *ʿAbd ʿAmr* as the firmer report, *al-Iṣābah*, 4:291). He forbade wine (*khamr*) upon himself even during the Jāhiliyyah (*al-Iṣābah*, 4:293). Upon his conversion, the Prophet ﷺ renamed him:
 > «بَلْ أَنْتَ عَبْدُ الرَّحْمَنِ»
 > *"Rather, you are ʿAbd al-Raḥmān (The Servant of the Most Merciful)."*
 
@@ -58,6 +58,15 @@ He accepted Islam at the very inception of the Daʿwah through the invitation of
 - One of the **Eight Foremost Pioneers** (*al-Thamāniyah al-Sābiqūn ilā al-Islām*).
 - One of the **Ten Promised Paradise** (*al-ʿAsharah al-Mubashsharūn bil-Jannah*).
 - One of the **Six Members of the Consultative Council** (*Aṣḥāb al-Shūrā*) appointed by ʿUmar b. al-Khaṭṭāb (*Subul al-Hudā*, 11:318).
+
+### Marital Networks and Progeny
+ʿAbd al-Raḥmān contracted several notable marriages across major tribal lines recorded in classical compendia (*al-Iṣābah*, 4:291; 8:194, 374; *Subul al-Hudā*, 3:365; 6:93–95):
+1. **Anṣārī wife**: Married shortly after his arrival in Medina following the *muʾākhāh* with Saʿd b. al-Rabīʿ for a gold weight (*nawāt min dhahab*) (*Subul al-Hudā*, 3:365).
+2. **[[Tumāḍir bint al-Aṣbagh]] al-Kalbiyyah**: Daughter of al-Aṣbagh b. ʿAmr, chieftain and king of [[Banū Kalb]] at [[Dūmat al-Jandal]], married following [[Sariyyat Dūmat al-Jandal]] by directive of the Prophet ﷺ (*al-Iṣābah*, 4:291; *Subul al-Hudā*, 6:93–95). She bore him the eminent Tābiʿī jurist **[[Abū Salamah b. ʿAbd al-Raḥmān]]**.
+3. **[[Umm Ḥabībah bint Jaḥsh]] al-Asadiyyah**: Sister of the Mother of the Believers Zaynab bint Jaḥsh and maternal cousin of the Prophet ﷺ (*al-Iṣābah*, 8:374).
+4. **Sahlah bint ʿĀṣim**: Betrothed at Khaybar (*al-Iṣābah*, 8:194).
+
+Among his prominent sons who transmitted knowledge from him and became eminent figures of the Tābiʿūn were **Ibrāhīm**, **Ḥumayd**, **ʿUmar**, **Muṣʿab**, and **Abū Salamah**, as well as his grandson **al-Miswar b. Ibrāhīm** (*al-Iṣābah*, 4:291). In 13 AH, ʿUmar b. al-Khaṭṭāb appointed ʿAbd al-Raḥmān b. ʿAwf over the Hajj pilgrimage upon assuming the Caliphate (*al-Iṣābah*, 4:292).
 
 ---
 
@@ -238,7 +247,7 @@ As his bier was carried, ʿAlī b. Abī Ṭālib ﵁ remarked:
    - *Leading the Prophet in Fajr at Tabūk*: Vol. 5, p. 449.
    - *Sariyyat Dūmat al-Jandal & Black Turban*: Vol. 6, pp. 94–95; Vol. 8, p. 324.
 2. **[[Ibn Saʿd]]**. *al-Ṭabaqāt al-Kubrā*. Beirut: Dār Ṣādir, Vol. 3, pp. 124–136.
-3. **[[Ibn Ḥajar al-ʿAsqalānī]]**. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*. Biography no. 5138.
+3. **[[Ibn Ḥajar al-ʿAsqalānī]]**. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*. Ed. ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1415/1995, Vol. 4, pp. 290–293, entry no. 5195; Vol. 8, pp. 194, 374.
 4. **[[al-Dhahabī]]**. *Siyar Aʿlām al-Nubalāʾ*. Ed. Shuʿayb al-Arnāʾūṭ. Beirut: Muʾassasat al-Risālah, Vol. 1, pp. 68–92.
 
 ---

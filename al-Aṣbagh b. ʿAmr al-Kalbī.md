@@ -3,6 +3,7 @@ title: al-Aṣbagh b. ʿAmr al-Kalbī
 arabic: الأصبغ بن عمرو الكلبي
 aliases:
   - Al-Asbagh ibn Amr
+  - Sayyid Banī Kalb
 type: person
 tags:
   - person
@@ -10,26 +11,32 @@ tags:
   - banu_kalb
   - dumat_al_jandal
   - 6-ah
-lineage: "King and paramount chieftain of [[Banū Kalb]] at [[Dūmat al-Jandal]]"
-role: "Christian Arab monarch who embraced Islam under [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, pp. 94–95)"
+lineage: "Paramount chieftain of [[Banū Kalb]] at [[Dūmat al-Jandal]]"
+role: "Paramount Kalbite chieftain who embraced Islam under [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁"
+clan: Banū Kalb (Quḍāʿah)
+daughter: "[[Tumāḍir bint al-Aṣbagh]]"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, pp. 94–95); *al-Iṣābah* (vol. 1, p. 346, entry 470)"
 ---
 
-# al-Aṣbagh b. ʿAmr al-Kalbī (الأصبغ بن عمرو الكلبي)
-*The Chieftain of Dūmah — Paramount King of Banū Kalb*
+# al-Aṣbagh b. ʿAmr al-Kalbī (الأصبغ بن عمرو الكلبي) ﵁
+*The Chieftain of Dūmah — Paramount King and Leader of Banū Kalb*
 
-## 1. Lineage & Monarchy in Northern Arabia
-Al-Aṣbagh b. ʿAmr b. Thaʿlabah al-Kalbī was the sovereign king and paramount chieftain of the great northern confederation of **[[Banū Kalb]]**, centered in the fortified oasis of **[[Dūmat al-Jandal]]** in the al-Jawf basin (*Subul al-Hudā*, 6:94). Prior to Islam, he was a Christian monarch governing the northern Arabian trade routes bordering the Byzantine Empire.
+## 1. Lineage & Chieftainship in Northern Arabia
+- **Genealogy**: Al-Aṣbagh b. ʿAmr b. Thaʿlabah b. Ḥiṣn b. Ḍamḍam b. ʿAdī b. Janāb al-Kalbī al-Quḍāʿī (*al-Iṣābah*, 1:346).
+- **Chieftainship**: He was the sovereign chieftain and king of the great northern confederation of **[[Banū Kalb]]**, centered in the strategic northern fortress-oasis of **[[Dūmat al-Jandal]]** (*Subul al-Hudā*, 6:94; *al-Iṣābah*, 1:346).
+- **Pre-Islamic Standing**: Prior to his conversion, he was a Christian ruler governing the prosperous trade corridor linking northern Arabia to the Byzantine frontier (*al-Iṣābah*, 1:346).
 
 ## 2. Conversion under ʿAbd al-Raḥmān b. ʿAwf (Shaʿbān 6 AH)
-In Shaʿbān 6 AH, the Messenger of Allāh ﷺ dispatched **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ at the head of seven hundred companions during **[[Sariyyat Dūmat al-Jandal]]**, personally winding a black turban upon ʿAbd al-Raḥmān's head and instructing him:
-> «ادْعُهُمْ ثَلَاثًا، فَإِنْ أَجَابُوكَ فَتَزَوَّجِ ابْنَةَ مَلِكِهِمْ»
-> *"Call them to Islam for three days; if they respond, then marry the daughter of their king"* (*Subul al-Hudā*, 6:94).
+- In Shaʿbān 6 AH, the Messenger of Allāh ﷺ dispatched **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ at the head of seven hundred companions on **[[Sariyyat Dūmat al-Jandal]]** (*Subul al-Hudā*, 6:94).
+- The Prophet ﷺ personally wound a black turban upon ʿAbd al-Raḥmān's head and gave him explicit diplomatic instructions:
+  > «ادْعُهُمْ ثَلَاثًا، فَإِنْ أَجَابُوكَ فَتَزَوَّجِ ابْنَةَ مَلِكِهِمْ»
+  > *"Call them to Islam for three days; if they respond, then marry the daughter of their king [or chieftain]"* (*Subul al-Hudā*, 6:94; *al-Iṣābah*, 8:56).
+- Upon arrival, ʿAbd al-Raḥmān proclaimed the Islamic message to the inhabitants of Dūmat al-Jandal for three consecutive days. On the third day, al-Aṣbagh embraced Islam, followed by many of Banū Kalb, while those who chose to maintain their Christian faith concluded a treaty to pay the *jizyah* poll-tax (*Subul al-Hudā*, 6:94; *al-Iṣābah*, 1:346; 8:56).
 
-Upon ʿAbd al-Raḥmān's arrival at Dūmat al-Jandal, he presented the Islamic faith to al-Aṣbagh and his people for three consecutive days. On the third day, King al-Aṣbagh embraced Islam, followed by vast segments of Banū Kalb (*Subul al-Hudā*, 6:94). Those who chose to retain their Christian faith agreed to pay the jizyah poll-tax (*Subul al-Hudā*, 6:94).
-
-## 3. Alliance & Matrimony
-In fulfillment of the prophetic instruction, ʿAbd al-Raḥmān b. ʿAwf married al-Aṣbagh's daughter, **[[Tumāḍir bint al-Aṣbagh]]**, bringing her to Medina, where she gave birth to the renowned jurist **[[Abū Salamah b. ʿAbd al-Raḥmān]]** (*Subul al-Hudā*, 6:94–95). This union established an enduring strategic alliance between the Prophet's state and the northern tribes.
+## 3. Matrimonial Alliance & Offspring
+- In execution of the Prophet’s ﷺ directive, ʿAbd al-Raḥmān b. ʿAwf married al-Aṣbagh's daughter, **[[Tumāḍir bint al-Aṣbagh]]**, bringing her to Medina (*Subul al-Hudā*, 6:94–95; *al-Iṣābah*, 1:346).
+- Through this union, al-Aṣbagh became the maternal grandfather of the celebrated scholar and jurist **[[Abū Salamah b. ʿAbd al-Raḥmān]]**, cementing an enduring alliance between Banū Zuhrah of Quraysh and the Quḍāʿite tribes of northern Arabia (*Subul al-Hudā*, 6:95; *al-Iṣābah*, 8:56).
 
 ## 4. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 6, pp. 94–95 (*Sariyyat ʿAbd al-Raḥmān b. ʿAwf ilā Banī Kalb bi-Dūmat al-Jandal*).
+2. Ibn Ḥajar al-ʿAsqalānī, *al-Iṣābah fī Tamyīz al-Ṣaḥābah*, vol. 1, p. 346 (entry 470); vol. 8, pp. 56–57 (entry 10957).

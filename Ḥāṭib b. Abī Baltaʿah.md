@@ -4,6 +4,8 @@ arabic: حاطب بن أبي بلتعة اللخمي
 aliases:
   - Hatib ibn Abi Balta'ah
   - Hatib b. Abi Balta'a
+  - Abū Muḥammad
+  - Abū ʿAbdillāh
 type: person
 tags:
   - person
@@ -11,10 +13,9 @@ tags:
   - badri
   - muhajir
   - envoy
-death: 30 AH (Medina, aged 65; funeral prayer led by ʿUthmān b. ʿAffān)
-lineage: "Ḥāṭib b. Abī Baltaʿah ʿAmr b. ʿUmayr al-Lakhmī (confederate of Banū Asad b. ʿAbd al-ʿUzzā)"
-notable_status: "Veteran of Badr and Uḥud; envoy of the Prophet ﷺ to al-Muqawqis; recipient of divine forgiveness for Ahl Badr"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 97, 102, 206; vol. 5, pp. 202–204; vol. 11, pp. 348–350)"
+lineage: "Lakhm, confederate of [[Banū Asad]] (Quraysh)"
+role: "Badri veteran, envoy of the Prophet ﷺ to al-Muqawqis, recipient of divine pardon for Ahl Badr"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 97, 102, 206; vol. 5, pp. 202–204; vol. 11, pp. 348–350); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, pp. 4–5, entry 1543)"
 ---
 
 # Ḥāṭib b. Abī Baltaʿah (حاطب بن أبي بلتعة اللخمي) ﵁
@@ -38,6 +39,5 @@ He is Ḥāṭib b. Abī Baltaʿah ʿAmr b. ʿUmayr b. Salmah al-Lakhmī (kunya:
 Ḥāṭib passed away in Medina in 30 AH at the age of sixty-five. The Caliph **[[ʿUthmān b. ʿAffān]]** ﵁ personally led his funeral prayer in the Prophet's Mosque (*Subul al-Hudā*, 11:348).
 
 ## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 97, 102 (*Faḍl Ahl Badr*); vol. 4, p. 206 (*Ghazwat Uḥud*).
-2. *Subul al-Hudā*, vol. 5, pp. 202–204 (*Fatḥ Makkah: Qiṣṣat Ḥāṭib b. Abī Baltaʿah*).
-3. *Subul al-Hudā*, vol. 11, pp. 348–350 (*al-Bāb al-khāmis fī irsālihi ﷺ Ḥāṭiban ilā al-Muqawqis*).
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 97, 102; vol. 4, p. 206; vol. 5, pp. 202–204; vol. 11, pp. 348–350.
+2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 2, pp. 4–5, entry 1543.

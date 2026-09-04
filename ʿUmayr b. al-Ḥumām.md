@@ -9,14 +9,11 @@ tags:
   - khazraji
   - badri
   - shahid
-birth: ~25 BH (598 CE)
-death: 17 Ramaḍān 2 AH (13 March 624 CE)
 battles:
   - "[[Ghazwat Badr al-Kubrā]]"
+lineage: "Anṣārī of [[al-Khazraj]], [[Banū Salimah]]"
 status: First Martyr of the Anṣār at Badr
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 49)"
-hadith_references:
-  - "Ṣaḥīḥ Muslim (no. 1901)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 45, 49); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, p. 593, entry 6045)"
 ---
 
 # ʿUmayr b. al-Ḥumām (عمير بن الحمام)
@@ -68,7 +65,5 @@ The narration of ʿUmayr b. al-Ḥumām represents a classical example of **Saba
 
 ## 3. References
 
-1. **[[al-Ṣāliḥī]]**. *[[Subul al-Hudā war-Rashād]]*. Vol. 4, p. 49.
-2. **[[Muslim]]** b. al-Ḥajjāj. *Ṣaḥīḥ Muslim*. Hadith no. 1901.
-3. **[[Ibn Ḥajar al-ʿAsqalānī]]**. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*. Vol. 4, p. 719.
-4. **[[Ibn ʿAbd al-Barr]]**. *al-Istīʿāb fī Maʿrifat al-Aṣḥāb*. Vol. 3, p. 1217.
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 45, 49.
+2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, p. 593, entry 6045.

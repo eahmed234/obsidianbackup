@@ -62,22 +62,25 @@ breaks the link graph. Copy names from existing notes rather than retyping them.
 preserve as-is: the Prophet's note is filed as `Muḥammad b. ʻAbdullah.md` (curly `ʻ`, undiacriticised `Abdullah`)
 and is therefore always linked with a display alias — `[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ`.
 
-## Sourcing rule (absolute)
+## Sourcing rules (absolute)
 
-**Subul al-Hudā war-Rashād is the ONLY permitted source of content.** This is a religious text; every
-statement in every note must trace back to it and be verifiable there. This rule overrides
-helpfulness, completeness, and fluency — an incomplete note that is fully sourced is correct, and a
-rich note carrying unsourced background is defective, however accurate that background may be.
+The vault relies exclusively upon **two canonical primary sources**:
+1. **Subul al-Hudā war-Rashād** by Imām Muḥammad b. Yūsuf al-Ṣāliḥī (d. 942 AH) — the primary narrative, geographical, and campaign backbone (Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993, 12 vols).
+2. **al-Iṣābah fī Tamyīz al-Ṣaḥābah** by al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī (d. 852 AH) — the premier biographical encyclopedia for the Ṣaḥābah (Dār al-Kutub al-ʿIlmiyyah, Beirut, 1415/1995, 8 vols, ed. ʿĀdil ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ).
 
-**Do not add anything from general knowledge of the sīrah**, however well established: no dates,
-places, genealogies, kunyas, death years, work titles, appraisals, hadith numbers, or narrative
-detail that is not in the book. If the book does not say it, it does not go in the vault. Where a
-fact is genuinely needed and absent, say it is absent rather than supplying it.
+This is a religious text; every statement in every note must trace back to one of these two sources and be verifiable there. This rule overrides helpfulness, completeness, and fluency — an incomplete note that is fully sourced is correct, and a rich note carrying unsourced background is defective, however accurate that background may be.
 
-**Working method — read before writing.** A heading title or an index entry establishes only *where a
-topic is treated*, never the content of a claim. Before writing a sentence, read the page it will
-cite in `~/Documents/repos/sirah-corpus/corpus.jsonl` and write from that text. Never cite a page
-whose body you have not read.
+**Biographical Enrichment Protocol for Ṣaḥābah**:
+Whenever a Ṣaḥābī's note is created or updated, consult their entry in both *Subul al-Hudā* and *al-Iṣābah* (`sirah-corpus/isabah.jsonl`). Flesh out their profile comprehensively, with particular emphasis on:
+- Detailed genealogical chains tracing ancestors back to common tribal progenitors (linking them to other Companions and to the Prophet ﷺ).
+- Maternal lineage, tribal and clan affiliations (*al-qabāʾil wal-buṭūn*), confederacies (*ḥilf*), and clientship (*walāʾ*).
+- Kinship networks, marriages, fosterage (*riḍāʿah*), and progeny.
+- Sequence of conversion, early trials in Makkah, participation in the migrations, and roles across all military campaigns.
+- Precise death dates, ages, locations, and burial sites.
+
+**Do not add anything from general knowledge of the sīrah**, however well established. If neither book mentions a detail, it does not enter the vault. Where a fact is needed but absent from both, state its absence explicitly.
+
+**Working method — read before writing.** Before writing a claim, read the cited page in `~/Documents/repos/sirah-corpus/corpus.jsonl` (for Subul) or `~/Documents/repos/sirah-corpus/isabah.jsonl` (for al-Iṣābah) and write directly from the source text. Never cite a page whose text you have not inspected.
 
 ### The two tiers, and how to cite them
 
@@ -85,10 +88,12 @@ The vault cites the Dār al-Kutub al-ʿIlmiyyah edition (Beirut, 1414/1993), whi
 distinct authorial voices. **Both are permitted; they must be told apart**, because they do not carry
 equal weight:
 
-| Tier | Whose words | Cite as |
+| Source & Tier | Whose words | Cite as |
 | --- | --- | --- |
-| **Matn** — al-Ṣāliḥī's own text | Imām al-Ṣāliḥī (d. 942 AH) | `*Subul al-Hudā*, 4:50` |
-| **Taḥqīq** — the editors' critical apparatus | ʿĀdil ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ (1414/1993), themselves citing al-Khulāṣah, al-Taqrīb, al-Iṣābah, al-Aʿlām | `*Subul al-Hudā*, 1:68 n. 5 (taḥqīq)` |
+| **Subul al-Hudā: Matn** | Imām al-Ṣāliḥī (d. 942 AH) | `*Subul al-Hudā*, 4:50` |
+| **Subul al-Hudā: Taḥqīq** | Editors (1414/1993), citing al-Taqrīb, al-Iṣābah, etc. | `*Subul al-Hudā*, 1:68 n. 5 (taḥqīq)` |
+| **al-Iṣābah: Matn** | al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī (d. 852 AH) | `*al-Iṣābah*, 4:145` or `*al-Iṣābah*, no. 4835 (4:145)` |
+| **al-Iṣābah: Taḥqīq** | Editors (1415/1995), apparatus | `*al-Iṣābah*, 4:145 n. 1 (taḥqīq)` |
 
 The apparatus is where the *transmitters' biographies* live — death years, gradings, work titles. It
 is the only place in the book such material exists, so notes on the authorities depend on it

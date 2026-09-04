@@ -10,16 +10,15 @@ tags:
   - ansari
   - khazraji
   - badri
-birth: ~31 BH (591 CE)
-death: ~20 AH (during the caliphate of ʿUmar b. al-Khaṭṭāb)
 battles:
   - "[[Ghazwat Badr al-Kubrā]]"
   - "[[Ghazwat Uḥud]]"
   - "[[Ghazwat al-Khandaq]]"
   - "[[Ghazwat Khaybar]]"
   - "[[Ghazwat Ḥunayn]]"
-hadith_narrations: 1
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 27–28)"
+lineage: "Anṣārī of [[al-Khazraj]], [[Banū Salimah]]"
+role: "Standard-bearer of al-Khazraj at Badr, tactician of the wells (Dhū al-Raʾy)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 24, 27–28; vol. 5, p. 12); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, pp. 9–10, entry 1557)"
 ---
 
 # al-Ḥubāb b. al-Mundhir (الحباب بن المنذر)
@@ -92,7 +91,5 @@ Al-Ḥubāb witnessed all major campaigns alongside the Prophet ﷺ:
 
 ## 5. References
 
-1. **[[al-Ṣāliḥī]]**. *[[Subul al-Hudā war-Rashād]]*. Vol. 4, pp. 27–28; Vol. 5, p. 124.
-2. **[[Ibn Ḥajar al-ʿAsqalānī]]**. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*. Biography no. 1656.
-3. **[[Ibn al-Athīr]]**. *Usd al-Ghābah fī Maʿrifat al-Ṣaḥābah*. Vol. 1, p. 416.
-4. **[[Ibn Saʿd]]**. *al-Ṭabaqāt al-Kubrā*. Vol. 3, pp. 566–567.
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 24, 27–28; vol. 5, p. 12.
+2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 2, pp. 9–10, entry 1557.
