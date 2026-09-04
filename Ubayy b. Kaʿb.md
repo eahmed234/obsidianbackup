@@ -1,10 +1,11 @@
 ---
 title: Ubayy b. Kaʿb
-arabic: أبي بن كعب الأنصاري
+arabic: أبي بن كعب
 aliases:
   - Ubayy ibn Ka'b
   - Sayyid al-Qurrāʾ
   - Abū al-Mundhir
+  - Abū al-Ṭufayl
 type: person
 tags:
   - person
@@ -13,31 +14,43 @@ tags:
   - badri
   - khazraji
   - katib_al_wahy
-death: ~22 AH (or ~30 AH, Medina during the Caliphate of ʿUmar or ʿUthmān)
+death: ~30 AH (or twenty-two AH, Medina)
 lineage: "Ubayy b. Kaʿb b. Qays al-Najjārī al-Khazrajī (Banū al-Najjār)"
-notable_status: "Master of Reciters (Sayyid al-Qurrāʾ); first scribe of revelation in Medina; veteran of Badr"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 95, 183; vol. 11, pp. 328, 330, 375–377)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 95, 183; vol. 11, pp. 328, 330, 375–377); [[al-Iṣābah]] (1:180–182, entry 32)"
 ---
 
 # Ubayy b. Kaʿb (أبي بن كعب الأنصاري) ﵁
-*Sayyid al-Qurrāʾ (Master of the Reciters) and Foremost Exponent of the Qurʾān*
+*Abū al-Mundhir al-Khazrajī al-Najjārī — Sayyid al-Qurrāʾ (Master of the Reciters), Sayyid al-Muslimīn, and First Scribe of Medina*
 
-## 1. Lineage & Early Islam
-He is Ubayy b. Kaʿb b. Qays b. ʿUbayd al-Najjārī al-Khazrajī (kunya: Abū al-Mundhir or Abū al-Ṭufayl), belonging to the noble **[[Banū al-Najjār]]** of Medina (*Subul al-Hudā*, 11:375). He pledged allegiance to the Prophet ﷺ at [[Bayʿat al-ʿAqabah al-Thāniyah]].
+## 1. Lineage, Description & Early Islam
+He is Ubayy b. Kaʿb b. Qays b. ʿUbayd b. Zayd b. Muʿāwiyah b. ʿAmr b. Mālik b. al-Najjār al-Anṣārī al-Khazrajī al-Najjārī (kunyas: Abū al-Mundhir and Abū al-Ṭufayl) (*al-Iṣābah*, 1:180–181). Through Banū al-Najjār, he shared maternal clan kinship with the Prophet's grandfather **[[ʿAbd al-Muṭṭalib]]**.
 
-He was the very first person in Medina to write the divine revelation for the Messenger of Allāh ﷺ upon the Hijrah, and the first to conclude letters with the formula: *“Written by so-and-so”* (*Subul al-Hudā*, 11:375).
+In appearance, Ubayy was of medium height (*rabʿah*), with a white beard, and he chose not to dye his gray hair (*al-Iṣābah*, 1:181).
 
-## 2. Key Sīrah Milestones
-- **[[Ghazwat Badr al-Kubrā]] (2 AH)**: Fought among the foremost Anṣārī combatants and is numbered among the venerable Ahl Badr (*Subul al-Hudā*, 4:95).
-- **Intelligence at [[Ghazwat Uḥud]] (3 AH)**: When the secret letter from **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]** ﵁ arrived at the Mosque of Qubāʾ warning of the Meccan advance, the Prophet ﷺ summoned Ubayy to read the confidential letter in private (*Subul al-Hudā*, 4:183). He sustained wounds during the battle of Uḥud while protecting the Prophet ﷺ (*Subul al-Hudā*, 4:206).
-- **Divine Instruction to Recite to Ubayy**: In an unprecedented honor, the Messenger of Allāh ﷺ informed him:
-  > «إِنَّ اللَّهَ أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ الْقُرْآنَ»
-  > *"Indeed, Allāh has commanded me to recite the Qurʾān to you!"* Ubayy wept and asked: *“And did Allāh mention me to you by name?!”* The Prophet ﷺ replied: *“Yes, Allāh mentioned you by name!”* (*Subul al-Hudā*, 11:376).
-- **Sayyid al-Qurrāʾ & Muftī**: Named by the Prophet ﷺ as the master of recitation (*“The most reciting of my Ummah is Ubayy”*), he served as one of the six authorized companions permitted to issue fatāwā during the Prophet's lifetime (*Subul al-Hudā*, 11:328, 330).
+Ubayy embraced Islam in Yathrib and witnessed [[Bayʿat al-ʿAqabah al-Thāniyah]] (*al-Iṣābah*, 1:181). Following the Hijrah, he was appointed the very first scribe to record the divine revelation in Medina for the Messenger of Allāh ﷺ, and was the first in Islam to introduce the concluding colophon: *“Written by so-and-so”* (*al-Iṣābah*, 1:181; *Subul al-Hudā*, 11:375).
 
-## 3. Demise & Legacy
-Under the Caliphate of **[[ʿUmar b. al-Khaṭṭāb]]** ﵁, Ubayy was appointed to lead the unified Tarāwīḥ prayers in congregation at the Prophet's Mosque. He passed away in Medina around 22 AH (or 30 AH) (*Subul al-Hudā*, 11:377).
+## 2. Scholarly Distinction & Qurʾānic Mastery
+- **Sayyid al-Qurrāʾ & Divine Recitation**: The Messenger of Allāh ﷺ said to him:
+  > «إِنَّ اللَّهَ أَمَرَنِي أَنْ أَقْرَأَ عَلَيْكَ»
+  > *"Indeed, Allāh has commanded me to recite to you!"* 
+  Ubayy asked in tears: *“Did Allāh mention me to you by name?”* The Prophet ﷺ replied: *“Yes, Allāh mentioned you by name!”* (*al-Iṣābah*, 1:181; *Subul al-Hudā*, 11:376).
+- **The Greatest Ayah**: The Prophet ﷺ tested him by asking: *“O Abū al-Mundhir, which verse from the Book of Allāh with you is the greatest?”* Ubayy answered: *“Allāhu lā ilāha illā Huwa al-Ḥayyu al-Qayyūm (Āyat al-Kursī).”* The Prophet ﷺ struck him playfully on the chest and exclaimed:
+  > «لِيَهْنِكَ الْعِلْمُ أَبَا الْمُنْذِرِ!»
+  > *"May knowledge be pleasant and joyful for you, O Abū al-Mundhir!"* (*al-Iṣābah*, 1:181).
+- **Sayyid al-Muslimīn**: The Caliph **[[ʿUmar b. al-Khaṭṭāb]]** ﵁ held Ubayy in supreme esteem, referring to him as *Sayyid al-Muslimīn* ("Master of the Muslims") and directing the community: *“Recite, O Ubayy!”* (*al-Iṣābah*, 1:181).
+- **Master of Fatwā**: Masrūq counted Ubayy among the elite council of six Companions to whom the giving of legal verdicts (*al-fatyā*) belonged (*al-Iṣābah*, 1:181; *Subul al-Hudā*, 11:328).
 
-## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, p. 95 (*Shuhadāʾ wa-Ahl Badr*); vol. 4, p. 183 (*Ghazwat Uḥud*).
-2. *Subul al-Hudā*, vol. 11, pp. 328, 330 (*al-Muftūn wa-ḥuffāẓ al-Qurʾān*); vol. 11, pp. 375–377 (*al-Bāb al-thānī fī istiktābihi ﷺ Ubayy b. Kaʿb*).
+## 3. Key Sīrah Milestones
+- **Presence in all Battles**: Fought at **[[Ghazwat Badr al-Kubrā]]**, **[[Ghazwat Uḥud]]**, and witnessed all subsequent expeditions alongside the Prophet ﷺ (*al-Iṣābah*, 1:181; *Subul al-Hudā*, 4:95).
+- **Confidential Intelligence at Uḥud (3 AH)**: When the intelligence letter from **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]** ﵁ arrived at Qubāʾ warning of the Meccan offensive, the Prophet ﷺ selected Ubayy in strict confidentiality to read the letter to him in private (*Subul al-Hudā*, 4:183).
+- **Prayer for Perpetual Expiation**: When the Prophet ﷺ taught that all illness expiates sins, even a thorn-prick, Ubayy supplicated that mild fever never leave his body until his death, provided it never hindered his prayer, fasting, or striving in the path of Allāh; thus he constantly had a slight fever (*al-Iṣābah*, 1:182).
+
+## 4. Later Years & Demise
+During the Caliphate of ʿUmar, Ubayy was selected to lead the Muslims in the unified congregational Tarāwīḥ prayers in the Prophet's Mosque. 
+
+Authorities recorded that he died in Medina in 30 AH during the Caliphate of **[[ʿUthmān b. ʿAffān]]** ﵁ (as authenticated by Abū Nuʿaym), while Ibn Ḥibbān and others placed his demise in twenty-two AH during the Caliphate of ʿUmar (*al-Iṣābah*, 1:182; *Subul al-Hudā*, 11:377).
+
+## 5. Classical References
+1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 1, pp. 180–182 (entry no. 32).
+2. *[[Subul al-Hudā war-Rashād]]*, vol. 4, p. 95 (*Ahl Badr*); vol. 4, p. 183 (*Ghazwat Uḥud*).
+3. *Subul al-Hudā*, vol. 11, pp. 328, 330 (*al-Muftūn wa-ḥuffāẓ al-Qurʾān*); vol. 11, pp. 375–377 (*Istiktāb Ubayy b. Kaʿb*).

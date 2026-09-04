@@ -4,6 +4,7 @@ arabic: أبو سفيان صخر بن حرب الأموي
 aliases:
   - Abu Sufyan ibn Harb
   - Sakhr b. Harb
+  - Abū Ḥanẓalah
   - Chieftain of Quraysh
 type: person
 tags:
@@ -12,18 +13,34 @@ tags:
   - umayyah
   - chieftain
   - later_convert
-birth: ~57 BH (567 CE, Makkah)
-death: 31 AH (652 CE, Medina, aged 88; buried in al-Baqīʿ)
+kunya: Abū Sufyān, Abū Ḥanẓalah
+birth: ~57 BH (567 CE, Makkah, ~10 years older than the Prophet ﷺ)
+death_hijri: 31 AH
+burial: "[[al-Baqīʿ]]"
+clan: Banū Umayyah
+father: Ḥarb b. Umayyah
+mother: Ṣafiyyah bint Ḥazn al-Hilāliyyah
+spouse:
+  - Hind bint ʿUtbah
+children:
+  - "[[Umm Ḥabībah]] (Ramlah)"
+  - Muʿāwiyah b. Abī Sufyān
+  - Yazīd b. Abī Sufyān
+  - Ḥanẓalah b. Abī Sufyān
 lineage: "Ṣakhr b. Ḥarb b. Umayyah b. ʿAbd Shams al-Umawī al-Qurashī"
 notable_status: "Supreme political chieftain of Quraysh; commander at Uḥud and the Trench; embraced Islam at Fatḥ Makkah"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 15–18, 182, 226, 309, 363; vol. 5, pp. 204–207, 312; vol. 11, p. 375)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 15–18, 182, 226, 309, 363; vol. 5, pp. 204–207, 312; vol. 11, p. 375); *al-Iṣābah* (vol. 3, pp. 332–333, entry 4066; vol. 7, p. 154, entry 10029)"
 ---
 
 # Abū Sufyān b. Ḥarb (أبو سفيان صخر بن حرب الأموي) ﵁
 *Ṣakhr b. Ḥarb al-Umawī al-Qurashī — The Chieftain of Quraysh and Penitent Veteran of Yarmūk*
 
-## 1. Lineage & Chieftainship of Quraysh
-He is Ṣakhr b. Ḥarb b. Umayyah b. ʿAbd Shams b. ʿAbd Manāf al-Qurashī al-Umawī (kunya: Abū Sufyān) (*Subul al-Hudā*, 11:375). He was the father of Umm al-Muʾminīn **Umm Ḥabībah (Ramlah bint Abī Sufyān)** ﵂ and the later Caliph Muʿāwiyah b. Abī Sufyān. Belonging to the wealthy mercantile house of Banū Umayyah, he was the hereditary commander of the cavalry and leader of foreign commercial caravans for Quraysh (*Subul al-Hudā*, 1:300; 4:15).
+## 1. Lineage, Kunyah & Maternal Connections
+- **Ancestry**: Ṣakhr b. Ḥarb b. Umayyah b. ʿAbd Shams b. ʿAbd Manāf al-Qurashī al-Umawī (*Subul al-Hudā*, 11:375; *al-Iṣābah*, 3:332).
+- **Kunyah**: Widely known by his primary kunyah **Abū Sufyān**, he was also called **Abū Ḥanẓalah** after his eldest son Ḥanẓalah, who was killed at Badr (*al-Iṣābah*, 3:333).
+- **Maternal Roots**: His mother was **Ṣafiyyah bint Ḥazn al-Hilāliyyah**, who was the paternal aunt of Umm al-Muʾminīn **Maymūnah bint al-Ḥārith** (*al-Iṣābah*, 3:333).
+- **Marital & Familial Network**: He married **Hind bint ʿUtbah** (daughter of ʿUtbah b. Rabīʿah). He was the father of the Mother of the Believers **[[Umm Ḥabībah]] (Ramlah bint Abī Sufyān)** ﵂, as well as Yazīd b. Abī Sufyān and the future caliph Muʿāwiyah b. Abī Sufyān (*al-Iṣābah*, 3:333).
+- **Chieftainship**: Belonging to the wealthiest patrician family of Banū Umayyah, he was the hereditary commander of the cavalry and leader of foreign commercial caravans for Quraysh (*Subul al-Hudā*, 1:300; 4:15).
 
 ## 2. Arch-Leadership of the Polytheist Opposition
 - **The Caravan of Badr (2 AH)**: Commanded the great 1,000-camel caravan carrying 50,000 dinars of Meccan capital (*Subul al-Hudā*, 4:15). Utilizing desert scouts, he discovered the Muslim mobilization, diverted his route along the Red Sea coast to safety, and dispatched a rider to urge the Meccan army to withdraw, though Abū Jahl refused (*Subul al-Hudā*, 4:16–18). Following the slaughter of the Meccan aristocrats at Badr, Abū Sufyān emerged as the supreme military and political ruler of Mecca (*Subul al-Hudā*, 4:182).

@@ -12,32 +12,32 @@ tags:
   - ansari
   - khazraji
   - shahid
-tribe: "[[al-Khazraj]] ([[Banū al-Najjār]])"
-matronymic: "Known by his mother ʿAfrāʾ bint ʿUbayd, as were his brothers"
-role_in_seerah: "One of the two who brought down [[Abū Jahl (ʿAmr b. Hishām)]] at Badr"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 220; vol. 4, p. 50)"
+lineage: "Anṣārī of [[al-Khazraj]], Banū al-Najjār"
+matronymic: "Known by his mother ʿAfrāʾ bint ʿUbayd"
+role: "One of the two youths who brought down Abū Jahl at Badr; Badri martyr"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 9; vol. 3, p. 220; vol. 4, pp. 45, 50); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 6, p. 152, entry 8180; vol. 8, p. 280)"
 ---
 
 # Muʿawwidh b. ʿAfrāʾ (معوذ بن عفراء)
-*One of the Sons of ʿAfrāʾ — Slayer of Abū Jahl at Badr*
+*One of the Sons of ʿAfrāʾ — Slayer of Abū Jahl and Badri Martyr*
 
-## 1. Identity
-An Anṣārī of **[[Banū al-Najjār]]** of **[[al-Khazraj]]**. His father was al-Ḥārith, but he and his
-brothers are known throughout the Sīrah by their **mother, ʿAfrāʾ** — al-Ṣāliḥī notes the usage
-explicitly, *yuʿraf bi-ummihi ʿAfrāʾ* ("he is known by his mother, ʿAfrāʾ")
-(*Subul al-Hudā*, 3:220). The *banū ʿAfrāʾ* are among the most distinguished Anṣārī brothers of Badr.
+## 1. Lineage & Family Network
+Muʿawwidh b. al-Ḥārith b. Rifāʿah b. al-Ḥārith b. Sawād b. Mālik b. Ghanam b. Mālik b. al-Najjār al-Anṣārī al-Khazrajī al-Najjārī, widely known by his mother ʿAfrāʾ bint ʿUbayd b. Thaʿlabah al-Najjāriyyah, belonged to the prominent Banū al-Najjār clan of **[[al-Khazraj]]** (*al-Iṣābah*, 6:152; *Subul al-Hudā*, 3:220). 
 
-Al-Ṣāliḥī also vocalizes the name against misreading: *Muʿawwidh — bi-ḍamm al-mīm wa-fatḥ al-ʿayn
-al-muhmalah wa-kasr al-wāw* (*Subul al-Hudā*, 2:9).
+His brothers—ʿAwf b. ʿAfrāʾ and Muʿādh b. ʿAfrāʾ—were likewise illustrious Badri combatants, forming the heroic *Banū ʿAfrāʾ* cadre (*al-Iṣābah*, 6:152; *Subul al-Hudā*, 3:220). His daughter was al-Furayʿah bint Muʿawwidh, the sister of al-Rubayyiʿ bint Muʿawwidh (*al-Iṣābah*, 8:280).
 
-## 2. Badr
-At **[[Ghazwat Badr al-Kubrā]]** he and **[[Muʿādh b. ʿAmr b. al-Jamūḥ]]** ﵁ together struck down
-**[[Abū Jahl (ʿAmr b. Hishām)]]** ☠. The Prophet ﷺ examined both their swords and judged
-*«كِلَاكُمَا قَتَلَهُ»* — *"Both of you killed him"* — awarding the spoils to Muʿādh
-(*Subul al-Hudā*, 4:50).
+Al-Ṣāliḥī clarifies the vocalization of his name: *bi-ḍamm al-mīm wa-fatḥ al-ʿayn al-muhmalah wa-kasr al-wāw al-mushaddadah* (*Subul al-Hudā*, 2:9). Muʿawwidh embraced Islam early and pledged allegiance at **[[Bayʿat al-ʿAqabah al-Thāniyah]]** (*Subul al-Hudā*, 3:220).
 
-He is reported to have been martyred at Badr in the same engagement.
+## 2. Ghazwat Badr and Felling Abū Jahl (2 AH)
+At **[[Ghazwat Badr al-Kubrā]]**, Muʿawwidh and his brother stood in the front lines next to **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ (*al-Iṣābah*, 6:113, 152). When ʿAbd al-Raḥmān identified **[[Abū Jahl (ʿAmr b. Hishām)]]** ☠ enclosed within a ring of polytheist spears, Muʿawwidh and **[[Muʿādh b. ʿAmr b. al-Jamūḥ]]** ﵁ launched a concerted assault, cutting through the guard and striking Abū Jahl down (*al-Iṣābah*, 6:113; *Subul al-Hudā*, 4:50).
 
-## 3. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 220 (the sons of ʿAfrāʾ); vol. 2, p. 9 (vocalization).
-2. *[[Subul al-Hudā war-Rashād]]*, vol. 4, p. 50 (the killing of Abū Jahl).
+As recorded in *Ṣaḥīḥ al-Bukhārī*, the sons of ʿAfrāʾ struck Abū Jahl until he lay motionless (*hattā barad*), mortally wounded (*al-Iṣābah*, 6:113). When both warriors approached the Prophet ﷺ with the tidings, he examined their bloodied blades and ruled:
+> «كِلَاكُمَا قَتَلَهُ»
+> *"Both of you killed him."* (*Subul al-Hudā*, 4:50).
+
+## 3. Martyrdom at Badr
+Continuing to fight fiercely following the fall of Abū Jahl, Muʿawwidh and his brother ʿAwf b. ʿAfrāʾ were both martyred on the battlefield of Badr (*al-Iṣābah*, 6:152; *Subul al-Hudā*, 4:45). They were among the fourteen honored martyrs of Badr (*shuhadāʾ Badr*).
+
+## 4. References
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 9; vol. 3, p. 220; vol. 4, pp. 45, 50.
+2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 6, p. 152, entry 8180; vol. 8, p. 280.

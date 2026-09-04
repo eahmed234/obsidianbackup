@@ -10,37 +10,48 @@ tags:
   - sahabiyyah
   - ahl_al_bayt
   - daughter_of_prophet
-death: Ramaḍān 2 AH (Medina; buried in al-Baqīʿ on the day of victory at Badr)
+  - hashim
+  - 2-ah
+death: Ramaḍān 2 AH (Medina, aged ~22; buried in al-Baqīʿ on the day of victory at Badr)
 lineage: "Daughter of the Prophet ﷺ and Umm al-Muʾminīn Khadījah bint Khuwaylid"
 matrimony: "Married to ʿUthmān b. ʿAffān ﵁; earned him the title Dhū al-Nūrayn alongside her sister"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 382; vol. 4, pp. 24, 138; vol. 11, pp. 33–36)"
+notable_status: "Daughter of the Messenger of Allāh ﷺ; emigrant of both migrations (Abyssinia and Medina); mother of ʿAbdullāh b. ʿUthmān"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 382; vol. 4, pp. 24, 138; vol. 11, pp. 33–36); [[al-Iṣābah]] (vol. 8, pp. 138–139, no. 11187)"
 ---
 
 # Ruqayyah bint Rasūlillāh (رقية بنت رسول الله) ﵂
-*The Noble Daughter of the Prophet ﷺ and Muhājirah of Two Emigrations*
+*The Noble Daughter of the Prophet ﷺ, Emigrant of Two Migrations, and Mother of ʿAbdullāh b. ʿUthmān*
 
-## 1. Lineage & Early Life
-She is the second daughter of the Messenger of Allāh ﷺ and **[[Khadījah bint Khuwaylid]]** ﵂, born in Mecca when the Prophet ﷺ was approximately thirty-three years of age (*Subul al-Hudā*, 11:33).
+## 1. Lineage & Early Life in Mecca
+She is Ruqayyah bint Sayyid al-Bashar Muḥammad b. ʿAbdillāh ﷺ b. ʿAbd al-Muṭṭalib al-Hāshimiyyah, born to the Prophet ﷺ and Umm al-Muʾminīn **[[Khadījah bint Khuwaylid]]** ﵂ (*al-Iṣābah*, 8:138, no. 11187; *Subul al-Hudā*, 11:33). See **[[Banū Hāshim]]**.
 
-In the pre-Islamic era, she was contracted in marriage to ʿUtbah b. Abī Lahab. When divine revelation descended condemning Abū Lahab in Sūrat al-Masad (111:1), Abū Lahab compelled his son to divorce her before the marriage was consummated (*Subul al-Hudā*, 11:33).
+She was born in Mecca when the Messenger of Allāh ﷺ was approximately thirty-three years of age (*Subul al-Hudā*, 11:33). According to the majority of genealogists and historians, she was the second daughter of the Prophet ﷺ, younger than Zaynab and older than Umm Kulthūm and **[[Fāṭimah al-Zahrāʾ]]** (*al-Iṣābah*, 8:138).
 
-## 2. Marriage to ʿUthmān & Two Migrations
-She was subsequently wed to **[[ʿUthmān b. ʿAffān]]** ﵁ in a marriage celebrated for its beauty and nobility (*Subul al-Hudā*, 11:33). Together, they participated in the first and second migrations during **[[al-Hijrah ilā al-Ḥabashah]]**. The Prophet ﷺ praised their departure, saying:
-> «صَحِبَهُمَا اللَّهُ! إِنَّ عُثْمَانَ لَأَوَّلُ مَنْ هَاجَرَ بِأَهْلِهِ بَعْدَ لُوطٍ ﵊»
-> *"May Allāh accompany them! Truly, ʿUthmān is the first to migrate with his family after Lot ﵊!"* (*Subul al-Hudā*, 2:382; 11:33).
+In the pre-Islamic Jāhiliyyah, she was contracted in marriage to ʿUtbah b. Abī Lahab. When the Prophet ﷺ was sent with divine revelation and Sūrat al-Masad (111:1) was revealed condemning Abū Lahab, Abū Lahab commanded his son: *“My head is forbidden to your head if you do not divorce the daughter of Muḥammad!”* ʿUtbah divorced her before the marriage had been consummated, by which Allāh preserved her from polytheist association (*al-Iṣābah*, 8:138; *Subul al-Hudā*, 11:33).
 
-In Abyssinia, she bore ʿUthmān their son ʿAbdullāh, through whom ʿUthmān took his kunya Abū ʿAbdillāh (*Subul al-Hudā*, 11:33). They later made the second great migration during **[[al-Hijrah ilā al-Madīnah]]**.
+## 2. Marriage to ʿUthmān & The Two Migrations
+Following her divorce, the Messenger of Allāh ﷺ wed Ruqayyah to **[[ʿUthmān b. ʿAffān]]** ﵁ in a marriage renowned across Mecca for their combined nobility, piety, and striking beauty (*al-Iṣābah*, 8:138; *Subul al-Hudā*, 11:33).
 
-## 3. Illness & Passing during Badr (2 AH)
-In Ramaḍān 2 AH, as the Muslim army mobilized for **[[Ghazwat Badr al-Kubrā]]**, Ruqayyah fell gravely ill with a severe fever and smallpox (*Subul al-Hudā*, 4:24; 11:34). The Prophet ﷺ instructed ʿUthmān to remain in Medina at her bedside to nurse her, assuring him:
+When the persecution against the early Muslims escalated, Ruqayyah and ʿUthmān were among the foremost pioneers who embarked upon **[[al-Hijrah ilā al-Ḥabashah]]** (*al-Iṣābah*, 8:138–139; *Subul al-Hudā*, 2:382). The Prophet ﷺ commended their journey, declaring:
+> «صَحِبَهُمَا اللَّهُ! إِنَّ عُثْمَانَ لَأَوَّلُ مَنْ هَاجَرَ بِأَهْلِهِ بَعْدَ إِبْرَاهِيمَ وَلُوطٍ ﵊»
+> *"May Allāh accompany them! Truly, ʿUthmān is the first to migrate with his wife after Abraham and Lot ﵊!"* (*al-Iṣābah*, 8:139; *Subul al-Hudā*, 2:382; 11:33).
+
+While in Abyssinia, Ruqayyah gave birth to their son **ʿAbdullāh**, through whom ʿUthmān took his lifelong kunya **Abū ʿAbdillāh** (*al-Iṣābah*, 8:138; *Subul al-Hudā*, 11:33). Later, when conditions permitted, they returned to Mecca and subsequently undertook the second great migration during **[[al-Hijrah ilā al-Madīnah]]** (*al-Iṣābah*, 8:139).
+
+## 3. Illness & Demise during Badr (2 AH)
+In Ramaḍān 2 AH, as the Muslim army mobilized to intercept the Qurayshite caravan at **[[Ghazwat Badr al-Kubrā]]**, Ruqayyah fell gravely ill in Medina with measles or smallpox (*Subul al-Hudā*, 4:24; 11:34). 
+
+Deeply devoted to his daughter, the Messenger of Allāh ﷺ instructed ʿUthmān to remain behind in Medina at her bedside to nurse her, guaranteeing him the status of the Badriyyūn:
 > «إِنَّ لَكَ أَجْرَ رَجُلٍ مِمَّنْ شَهِدَ بَدْرًا وَسَهْمَهُ»
-> *"You shall have the full spiritual reward and share of spoils of a man who witnessed Badr!"* (*Subul al-Hudā*, 4:24; 11:34; *Ṣaḥīḥ al-Bukhārī*, no. 3130).
+> *"Indeed, you shall have the spiritual reward and the full battle-share of a man who witnessed Badr!"* (*Subul al-Hudā*, 4:24; 11:34; *al-Iṣābah*, 8:139; *Ṣaḥīḥ al-Bukhārī*).
 
-Ruqayyah passed away while ʿUthmān was attending to her in Medina. She was laid to rest in **[[Jannat al-Baqīʿ]]**. As the dust was being smoothed over her grave, **[[Zayd b. Ḥārithah]]** ﵁ rode into Medina atop the Prophet's camel *al-Qaṣwāʾ*, proclaiming the triumphant victory of Badr and the slaying of the Meccan tyrants (*Subul al-Hudā*, 4:138; 11:34).
+Ruqayyah succumbed to her illness in Medina at the age of approximately twenty-two years while ʿUthmān was attending to her (*Subul al-Hudā*, 4:138; 11:34). She was washed and shrouded, and laid to rest in **[[Jannat al-Baqīʿ]]**, becoming the first member of the Prophetic household to be buried in the blessed cemetery (*Subul al-Hudā*, 11:34).
 
-Following her demise, the Prophet ﷺ wed her younger sister, Umm Kulthūm ﵂, to ʿUthmān, conferring upon him the everlasting title *Dhū al-Nūrayn* ("Possessor of the Two Lights") (*Subul al-Hudā*, 11:36).
+At the exact moment the earth was being leveled over her grave, **[[Zayd b. Ḥārithah]]** ﵁ rode into the city atop the Prophet's camel al-Qaṣwāʾ, shouting aloud the joyous news of the decisive victory at Badr and the slaying of Quraysh's tyrannical chieftains (*Subul al-Hudā*, 4:138; 11:34).
+
+Following her demise, the Prophet ﷺ wed her younger sister, **Umm Kulthūm** ﵂, to ʿUthmān, conferring upon him the everlasting honorific title ***Dhū al-Nūrayn*** (*"The Possessor of the Two Lights"*) (*Subul al-Hudā*, 11:36).
 
 ## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 382 (*Hijrat al-Ḥabashah*).
-2. *Subul al-Hudā*, vol. 4, p. 24 (*Khurūj Badr*); vol. 4, p. 138 (*Bishārat Badr*).
+1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 8, pp. 138–139, no. 11187 (*Tarjamatu Ruqayyah bint Sayyid al-Bashar ﷺ*).
+2. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 382 (*Hijrat al-Ḥabashah*); vol. 4, pp. 24, 138 (*Badr: Istikhlāf ʿUthmān ʿalā Ruqayyah wa-Bashīr al-Fatḥ*).
 3. *Subul al-Hudā*, vol. 11, pp. 33–36 (*al-Bāb al-sābiʿ fī baʿḍ manāqib al-Sayyidah Ruqayyah*).
