@@ -154,6 +154,9 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Muḥammad b. Maslamah]] ﵁ — *Badri veteran, knight of the Prophet ﷺ, and paramount auditor of the Caliphate*
 - [[al-Mundhir b. Qudāmah]] ﵁ — *Badri veteran and officer of custody over Banū Qaynuqāʿ*
 - [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
+- [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
+- [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
+- [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
 
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
@@ -163,6 +166,11 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 
 ### Further Companions of Badr & Uḥud
 - [[ʿUbaydah b. al-Ḥārith]] ﵁ — *First champion of the duel; first Muhājir martyr*
+- [[ʿĀṣim b. Thābit]] ﵁ — *Ḥamiyy al-Dabr; archer of the Prophet protected by hornets at al-Rajīʿ*
+- [[Mālik b. Sinān]] ﵁ — *Father of Abū Saʿīd al-Khudrī; martyr who cleansed the Prophet's face at Uḥud*
+- [[al-Uṣayrim (ʿAmr b. Thābit)]] ﵁ — *The Ashhali hero who entered Paradise without praying a single prayer*
+- [[Ḥusīl b. Jābir (al-Yamān)]] ﵁ — *Father of Ḥudhayfah b. al-Yamān; aged martyr slain mistakenly at Uḥud*
+- [[Mukhayrīq]] ﵁ — *Rabbi of Medina who accepted Islam at Uḥud and endowed the Prophet's seven orchards*
 - [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
 - [[Anas b. al-Naḍr]] ﵁ — *Hero of Uḥud who scented the fragrance of Paradise*
 - [[Ḥanẓalah b. Abī ʿĀmir]] ﵁ — *Ghasīl al-Malāʾikah (Washed by the Angels)*
