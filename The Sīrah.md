@@ -21,6 +21,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 
 ### 1. The Makkan Era (العهد المكي)
 - [[Mawlid al-Nabī]] (~53 BH / 570 CE) — *The Year of the Elephant & Celestial Portents*
+- [[Shaqq al-Ṣadr]] (early childhood) — *The Opening of His Chest and the Removal of Shayṭān's Portion*
 - [[Ḥilf al-Fuḍūl]] (~20 BH / 590 CE) — *The League of the Virtuous*
 - [[Tajdīd al-Kaʿbah]] (~15 BH / 605 CE) — *Reconstruction & Arbiter of the Black Stone*
 - [[Mabʿath al-Nabī]] (13 BH / 610 CE) — *Dawn of Revelation in Cave Ḥirāʾ*
@@ -99,6 +100,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
 - [[Abū Ṭālib]] — *Paternal uncle, third guardian, and shield of the Makkan years*
 - [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
+- [[Ḥalīmah al-Saʿdiyyah]] ﵂ — *Wet-nurse whose poverty turned to abundance the moment she took him*
 - [[Umm Ayman]] ﵂ — *Lifelong nursemaid ("my mother after my mother"), mother of [[Usāmah b. Zayd]]*
 - [[ʿAbdullāh b. Judʿān]] — *Paramount host of the historic Ḥilf al-Fuḍūl league in Makkah*
 
