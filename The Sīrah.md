@@ -53,6 +53,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Banī Qurayẓah]] (5 AH) — *Judgment of Saʿd b. Muʿādh on Wartime Treason*
 - [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
 - [[Ghazwat Dhī Qarad]] (6 AH) — *The Expedition of al-Ghābah & The Sprint of Ibn al-Akwaʿ*
+- [[Ghazwat Banī Liḥyān]] (6 AH) — *The Punitive March to ʿUsfān & Deterrence of Quraysh*
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
@@ -197,6 +198,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### Further Companions of Badr & Uḥud
 - [[ʿUbaydah b. al-Ḥārith]] ﵁ — *First champion of the duel; first Muhājir martyr*
 - [[ʿĀṣim b. Thābit]] ﵁ — *Ḥamiyy al-Dabr; archer of the Prophet protected by hornets at al-Rajīʿ*
+- [[Khubayb b. ʿAdī]] ﵁ — *Balīʿ al-Arḍ; Badri veteran, martyr of al-Tanʿīm, and originator of the prayer before execution*
 - [[Mālik b. Sinān]] ﵁ — *Father of Abū Saʿīd al-Khudrī; martyr who cleansed the Prophet's face at Uḥud*
 - [[al-Uṣayrim (ʿAmr b. Thābit)]] ﵁ — *The Ashhali hero who entered Paradise without praying a single prayer*
 - [[Ḥusīl b. Jābir (al-Yamān)]] ﵁ — *Father of Ḥudhayfah b. al-Yamān; aged martyr slain mistakenly at Uḥud*

@@ -46,6 +46,7 @@ primary_source: "*al-Iṣābah* (vol. 3, pp. 460–461, entry 4365); [[Subul al-
 - At the watering place of **al-Rajīʿ**, Banū Liḥyān betrayed the party, surrounding them with roughly one hundred archers. They offered safe conduct, but ʿĀṣim refused, uttering: *«As for me, by Allāh, I will never descend into the covenant and protection of a polytheist!»* (*al-Iṣābah*, 3:461).
 - ʿĀṣim had made a covenant with Allāh in his life never to touch a polytheist and never to allow a polytheist to touch him. He fought fiercely alongside his companions until he fell a martyr (*al-Iṣābah*, 3:461).
 - **Ḥamiyy al-Dabr (The Swarm of Hornets)**: Knowing Sulāfah's bounty, Banū Liḥyān sought to sever ʿĀṣim's head to sell it to Quraysh. However, Allāh dispatched a thick cloud of hornets or bees (*al-dabr*) like a protective canopy over his body, driving the pagans back every time they drew near. That night, a sudden torrential flash flood (*sayl*) swept through the desert ravine, carrying his body away to an undiscovered grave, thus fulfilling his vow that no pagan would ever touch his flesh (*Ṣaḥīḥ al-Bukhārī*; *al-Iṣābah*, 3:461).
+- **Avenged in Ghazwat Banī Liḥyān (6 AH)**: In 6 AH, the Prophet ﷺ led **[[Ghazwat Banī Liḥyān]]** directly to Baṭn Ghurān to avenge ʿĀṣim and **[[Khubayb b. ʿAdī]]** ﵁, halting at the site of their martyrdom to supplicate for them (*Subul al-Hudā*, 5:30).
 
 ## 5. References
 1. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*, vol. 1, p. 533; vol. 3, pp. 460–461 (entry 4365).
