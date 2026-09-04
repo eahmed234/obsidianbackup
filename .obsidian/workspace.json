@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17b99f1b35ad58ec",
+        "id": "9cf5354627e89021",
         "type": "tabs",
         "children": [
           {
-            "id": "09d8404225b3cbd2",
+            "id": "6bf8a6f018b4b670",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "6f969869d2212094",
@@ -195,12 +196,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09d8404225b3cbd2",
+  "active": "6bf8a6f018b4b670",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Ghazwat Badr al-Kubrā.md",
     "The Sīrah.md",
-    "Muḥammad b. ʻAbdullah.md",
-    "2026-04-30.md",
-    "Welcome.md"
+    "Ibn Ḥajar al-ʿAsqalānī.md",
+    "Saʿd b. al-Rabīʿ.md",
+    "Tabūk.md",
+    "Dūmat al-Jandal.md",
+    "Khaybar.md",
+    "al-Ḥudaybiyah.md",
+    "Jabal Uḥud.md",
+    "Badr.md",
+    "al-Madīnah al-Munawwarah.md",
+    "Makkah al-Mukarramah.md",
+    "Sūrat al-Ḥashr.md",
+    "Sūrat al-Tawbah.md",
+    "Sūrat al-Fatḥ.md",
+    "Sūrat al-Aḥzāb.md",
+    "Sūrat Āl ʿImrān.md",
+    "ʿAbdullāh b. Ubayy b. Salūl.md",
+    "Abū Jahl (ʿAmr b. Hishām).md",
+    "Abū Sufyān b. Ḥarb.md",
+    "Khālid b. al-Walīd.md",
+    "ʿAbdullāh b. Masʿūd.md",
+    "Saʿd b. Muʿādh.md",
+    "Salmān al-Fārisī.md",
+    "Bilāl b. Rabāḥ.md",
+    "Muṣʿab b. ʿUmayr.md",
+    "Untitled.canvas"
   ]
 }
