@@ -16,7 +16,7 @@ tags:
 date_hijri: 20 Ramaḍān 8 AH (January 630 CE)
 location: "[[Makkah al-Mukarramah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
-commanders_enemy: "[[Abū Sufyān b. Ḥarb]] (converted), ʿIkrimah b. Abī Jahl, Ṣafwān b. Umayyah, Suhayl b. ʿAmr"
+commanders_enemy: "[[Abū Sufyān b. Ḥarb]] (converted), [[ʿIkrimah b. Abī Jahl]], [[Ṣafwān b. Umayyah]], [[Suhayl b. ʿAmr]]"
 forces_muslim: "10,000 warriors (Subul al-Hudā 5:212)"
 forces_enemy: "Disorganized resistance broken at Khandamah (Subul al-Hudā 5:226–227)"
 deputy_medina: "[[ʿAbdullāh b. Umm Maktūm]] ﵁ (Subul al-Hudā 5:212)"
@@ -38,9 +38,9 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 200–298)"
 ## 1. Provocation: The Massacre at al-Watīr & The Cry of Khuzāʿah
 Under the terms of the Treaty of al-Ḥudaybiyah (**[[Ṣulḥ al-Ḥudaybiyah]]**, 6 AH), tribes across Arabia were free to enter covenants with either party: **[[Banū Khuzāʿah]]** allied with the Messenger of Allāh ﷺ, while Banū Bakr b. ʿAbd Manāt entered the pact of Quraysh (*Subul al-Hudā*, 5:200).
 
-In Shaʿbān 8 AH, an ancient blood feud reignited. Nawfal b. Muʿāwiyah al-Daylī led Banū Bakr in a nighttime surprise attack against Banū Khuzāʿah at the watering spring of **al-Watīr** (*Subul al-Hudā*, 5:200). Chieftains of Quraysh—including Ṣafwān b. Umayyah, ʿIkrimah b. Abī Jahl, and Suhayl b. ʿAmr—covertly supplied Banū Bakr with horses and weapons, and fought alongside them in the darkness disguised (*Subul al-Hudā*, 5:200). Khuzāʿah retreated into the Sacred Sanctuary of Makkah (*al-Ḥaram*), but the attackers pursued them, violating the ancient sanctity of the Kaʿbah.
+In Shaʿbān 8 AH, an ancient blood feud reignited. Nawfal b. Muʿāwiyah al-Daylī led Banū Bakr in a nighttime surprise attack against Banū Khuzāʿah at the watering spring of **al-Watīr** (*Subul al-Hudā*, 5:200). Chieftains of Quraysh—including [[Ṣafwān b. Umayyah]], [[ʿIkrimah b. Abī Jahl]], and [[Suhayl b. ʿAmr]]—covertly supplied Banū Bakr with horses and weapons, and fought alongside them in the darkness disguised (*Subul al-Hudā*, 5:200). Khuzāʿah retreated into the Sacred Sanctuary of Makkah (*al-Ḥaram*), but the attackers pursued them, violating the ancient sanctity of the Kaʿbah.
 
-**The Mission of ʿAmr b. Sālim**: The Khuzāʿī chieftain ʿAmr b. Sālim galloped to Medina with forty riders and stood before the Prophet ﷺ in his Mosque, chanting:
+**The Mission of [[ʿAmr b. Sālim al-Khuzāʿī|ʿAmr b. Sālim]]**: The Khuzāʿī chieftain **[[ʿAmr b. Sālim al-Khuzāʿī]]** galloped to Medina with forty riders and stood before the Prophet ﷺ in his Mosque, chanting:
 > «يَا رَبِّ إِنِّي نَاشِدٌ مُحَمَّدًا ... حِلْفَ أَبِينَا وَأَبِيهِ الْأَتْلَدَا»
 > «هُمْ بَيَّتُونَا بِالْوَتِيرِ هُجَّدًا ... وَقَتَلُونَا رُكَّعًا وَسُجَّدًا»
 > *"O Lord! Indeed, I appeal to Muḥammad by the ancestral alliance between his forebears and ours! They raided us at al-Watīr while asleep, and slaughtered us while bowing and prostrating!"* (*Subul al-Hudā*, 5:202).
@@ -91,12 +91,13 @@ On Friday, 20 Ramaḍān 8 AH, the army deployed into Makkah through four design
 1. **[[Khālid b. al-Walīd]]** ﵁: Commanded the right cavalry wing, advancing through the lower pass (*al-Lit* / Kudā).
 2. **[[al-Zubayr b. al-ʿAwwām]]** ﵁: Commanded the left wing, entering through the upper pass (*Kudā*) with the Prophet's banner.
 3. **[[Abū ʿUbaydah b. al-Jarrāḥ]]** ﵁: Commanded the infantry and Muhājir vanguard, entering through the mountain defile.
-4. **[[Qays b. Saʿd]] b. ʿUbādah** ﵁: Commanded the Anṣār (reassigned after his father Saʿd b. ʿUbādah exclaimed: *«Today is the day of slaughter!»* which the Prophet ﷺ corrected: *«No, today is the day of mercy!»*) (*Subul al-Hudā*, 5:221).
+4. **[[Qays b. Saʿd b. ʿUbādah]]** ﵁: Commanded the Anṣār (reassigned after his father [[Saʿd b. ʿUbādah]] exclaimed: *«Today is the day of slaughter!»* which the Prophet ﷺ corrected: *«No, today is the day of mercy!»*) (*al-Iṣābah*, 5:360–361; *Subul al-Hudā*, 5:221).
 
 **The Skirmish at Khandamah**:
-While all columns entered peacefully, a pagan extremist faction led by ʿIkrimah b. Abī Jahl, Ṣafwān b. Umayyah, and Suhayl b. ʿAmr assembled at **Khandamah** with weapons to resist Khālid's cavalry (*Subul al-Hudā*, 5:226).
+While all columns entered peacefully, a pagan extremist faction led by **[[ʿIkrimah b. Abī Jahl]]**, **[[Ṣafwān b. Umayyah]]**, and **[[Suhayl b. ʿAmr]]** assembled at **Khandamah** with weapons to resist Khālid's cavalry (*Subul al-Hudā*, 5:226).
 - In the skirmish, twenty-four to twenty-eight polytheists were slain before the pagan force routed and fled into the hills (*Subul al-Hudā*, 5:227).
 - Two Muslim cavalrymen who had strayed into an adjacent defile—**[[Kurz b. Jābir al-Fihrī]]** ﵁ and **[[Ḥubaysh b. Khālid al-Khuzāʿī]]** ﵁—were ambushed and attained martyrdom (*al-Iṣābah*, 5:435; *Subul al-Hudā*, 5:226–227).
+- **Enforcement of Justice**: The apostate murderer Miqyas b. Ṣubābah was apprehended between al-Ṣafā and al-Marwah and executed by **[[Numaylah b. ʿAbdillāh al-Laythī]]** ﵁ (*al-Iṣābah*, 6:373; *Subul al-Hudā*, 5:224–225).
 
 ---
 
@@ -110,7 +111,7 @@ The Messenger of Allāh ﷺ entered Makkah riding his camel *al-Qaṣwāʾ*, wea
   > «قُلْ جَاءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ»
   > *"Say: 'Truth has come, and falsehood can neither originate anything nor repeat it!'"* (Qurʾān 34:49).
   Every idol upon which he pointed collapsed onto its back, shattered (*Subul al-Hudā*, 5:234).
-- **Entering the Interior of the Kaʿbah**: The Prophet ﷺ retrieved the key from **ʿUthmān b. Ṭalḥah** ﵁ of Banū ʿAbd al-Dār, ordered all murals and images of prophets holding divination arrows washed away, entered with **[[Usāmah b. Zayd]]** and **[[Bilāl b. Rabāḥ]]**, prayed between the two pillars, and returned the key to ʿUthmān b. Ṭalḥah as an eternal trust (fulfilling Qurʾān 4:58: *«Indeed, Allāh commands you to render trusts to whom they belong»*) (*Subul al-Hudā*, 5:236–238, 244).
+- **Entering the Interior of the Kaʿbah**: The Prophet ﷺ retrieved the key from **[[ʿUthmān b. Ṭalḥah]]** ﵁ of Banū ʿAbd al-Dār, ordered all murals and images of prophets holding divination arrows washed away, entered with **[[Usāmah b. Zayd]]** and **[[Bilāl b. Rabāḥ]]**, prayed between the two pillars, and returned the key to ʿUthmān b. Ṭalḥah as an eternal trust (fulfilling Qurʾān 4:58: *«Indeed, Allāh commands you to render trusts to whom they belong»*) (*al-Iṣābah*, 4:373; *Subul al-Hudā*, 5:236–238, 244).
 
 ---
 
@@ -123,7 +124,9 @@ He recited Qurʾān 49:13: *«O mankind, indeed We created you from male and fem
 Then he asked the breathless crowd:
 > «يَا مَعْشَرَ قُرَيْشٍ! مَا تَرَوْنَ أَنِّي فَاعِلٌ بِكُمْ؟»
 > *"O company of Quraysh! What do you think I shall do with you?"*
-They replied: *"Good! A noble brother, son of a noble brother!"* (*akhun karīm, wa-bnu akhin karīm*) (*Subul al-Hudā*, 5:243).
+It was **[[Suhayl b. ʿAmr]]** who stepped forward and spoke on behalf of the multitude:
+> «نَقُولُ خَيْرًا وَنَظُنُّ خَيْرًا: أَخٌ كَرِيمٌ وَابْنُ أَخٍ كَرِيمٍ، وَقَدْ قَدَرْتَ!»
+> *"We say good and anticipate good: A noble brother, and the son of a noble brother, and you have triumphed!"* (*al-Iṣābah*, 3:177; *Subul al-Hudā*, 5:243).
 The Messenger of Allāh ﷺ proclaimed:
 > «قَالَ: فَإِنِّي أَقُولُ لَكُمْ كَمَا قَالَ يُوسُفُ لِإِخْوَتِهِ: لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ! يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ! اذْهَبُوا فَأَنْتُمُ الطُّلَقَاءُ!»
 > *"I say to you as Joseph said to his brothers: 'No blame shall be upon you today! May Allāh forgive you, and He is the Most Merciful of those who show mercy!' Go forth, for you are entirely free (*al-Ṭulaqāʾ*)!"* (*Subul al-Hudā*, 5:243).
@@ -132,16 +135,31 @@ The Messenger of Allāh ﷺ proclaimed:
 
 ## 9. The Adhān of Bilāl & Mass Pledges of Allegiance
 - At noon (*Ẓuhr*), the Prophet ﷺ commanded **[[Bilāl b. Rabāḥ]]** ﵁ to ascend atop the roof of the Kaʿbah and proclaim the Adhān (*Subul al-Hudā*, 5:248). Bilāl's voice echoed across the valleys of Makkah, establishing Islamic worship over the sanctuary where he had once been tortured on scorching stones.
-- **The Conversion of Abū Quḥāfah**: **[[Abū Bakr al-Ṣiddīq]]** ﵁ brought his frail, blind father **Abū Quḥāfah ʿUthmān b. ʿĀmir** (whose hair was white like the thaghāmah flower) to the Prophet ﷺ. The Prophet ﷺ remarked: *«Why did you not leave the elder in his house so I could come to him?»* Abū Bakr replied that his father had greater need to come. The Prophet ﷺ stroked his chest, and Abū Quḥāfah embraced Islam (*Subul al-Hudā*, 5:232).
-- **The Pledges on Mount al-Ṣafā**: The Prophet ﷺ sat on Mount al-Ṣafā taking the pledge of allegiance (*al-bayʿah*) from men, followed by the women of Quraysh—including **Hind bint ʿUtbah** (the wife of Abū Sufyān, veiled in repentance)—pledging not to associate partners with Allāh, steal, commit adultery, or kill their children (fulfilling Qurʾān 60:12) (*Subul al-Hudā*, 5:247, 297).
-- Prominent adversaries, including ʿIkrimah b. Abī Jahl, Ṣafwān b. Umayyah, Suhayl b. ʿAmr, and the poet ʿAbdullāh b. al-Zibaʿrā, embraced Islam sincerely (*Subul al-Hudā*, 5:295, 297).
+- **The Conversion of Abū Quḥāfah**: **[[Abū Bakr al-Ṣiddīq]]** ﵁ brought his frail, blind father **[[Abū Quḥāfah]]** ʿUthmān b. ʿĀmir (whose hair was white like the thaghāmah flower) to the Prophet ﷺ. The Prophet ﷺ remarked: *«Why did you not leave the elder in his house so I could come to him?»* Abū Bakr replied that his father had greater need to come. The Prophet ﷺ stroked his chest, and Abū Quḥāfah embraced Islam (*al-Iṣābah*, 4:374–375; *Subul al-Hudā*, 5:232).
+- **The Pledges on Mount al-Ṣafā**: The Prophet ﷺ sat on Mount al-Ṣafā taking the pledge of allegiance (*al-bayʿah*) from men, followed by the women of Quraysh—including **[[Hind bint ʿUtbah]]** (the wife of Abū Sufyān, veiled in repentance)—pledging not to associate partners with Allāh, steal, commit adultery, or kill their children (fulfilling Qurʾān 60:12) (*al-Iṣābah*, 8:346; *Subul al-Hudā*, 5:247, 297).
+- **Conversions of Chieftains**: Prominent adversaries embraced Islam sincerely:
+  - **[[ʿIkrimah b. Abī Jahl]]**: Fled toward Yemen; his wife **[[Umm Ḥakīm bint al-Ḥārith]]** ﵂ secured his royal pardon and brought him back to embrace Islam (*al-Iṣābah*, 4:443–444; 8:379–380; *Subul al-Hudā*, 5:252).
+  - **[[Ṣafwān b. Umayyah]]**: Granted a four-month reprieve through the intercession of ʿUmayr b. Wahb, provided 100 coats of mail for Ḥunayn, and embraced Islam at Jiʿrānah (*al-Iṣābah*, 3:349–350; *Subul al-Hudā*, 5:253–254).
+  - **[[Suhayl b. ʿAmr]]**: Embraced Islam sincerely and became the steadfast orator of Makkah (*al-Iṣābah*, 3:177–178; *Subul al-Hudā*, 5:295).
+  - **[[ʿAbdullāh b. al-Zibaʿrā]]**: Returned from Najrān, offered his poetic apology, and was gifted an honorary mantle (*ḥullah*) by the Prophet ﷺ (*al-Iṣābah*, 4:76–77; *Subul al-Hudā*, 5:250–251).
 
 ---
 
 ## 10. References
 1. **al-Ṣāliḥī**, Shams al-Dīn Muḥammad b. Yūsuf (d. 942 AH). ***Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād***. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993, vol. 5, pp. 200–298 (*al-Bāb al-Sābiʿ wal-ʿIshrūn fī Ghazwat al-Fatḥ al-Aʿẓam*).
 2. **Ibn Ḥajar al-ʿAsqalānī**, Aḥmad b. ʿAlī (d. 852 AH). ***al-Iṣābah fī Tamyīz al-Ṣaḥābah***. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1415/1995:
-   - *Kurz b. Jābir al-Fihrī*: vol. 5, p. 435 (entry 7409).
-   - *Ḥubaysh b. Khālid al-Khuzāʿī*: vol. 2, p. 24 (entry 1612).
+   - *ʿUthmān b. Ṭalḥah*: vol. 4, p. 373 (no. 5456).
+   - *ʿAmr b. Sālim al-Khuzāʿī*: vol. 4, pp. 521–522 (no. 5851); vol. 5, pp. 223–224 (no. 6858).
+   - *Abū Quḥāfah*: vol. 4, pp. 374–375 (no. 5458); vol. 7, p. 274 (no. 10414).
+   - *Suhayl b. ʿAmr*: vol. 3, pp. 177–178 (no. 3586).
+   - *ʿIkrimah b. Abī Jahl*: vol. 4, pp. 443–444 (no. 5654).
+   - *Qays b. Saʿd b. ʿUbādah*: vol. 5, pp. 359–361 (no. 7192).
+   - *Ṣafwān b. Umayyah*: vol. 3, pp. 349–350 (no. 4093).
+   - *Hind bint ʿUtbah*: vol. 8, pp. 346–347 (no. 11860).
+   - *Umm Ḥakīm bint al-Ḥārith*: vol. 8, pp. 379–380 (no. 11984).
+   - *ʿAbdullāh b. al-Zibaʿrā*: vol. 4, pp. 76–77 (no. 4697).
+   - *Numaylah b. ʿAbdillāh al-Laythī*: vol. 6, pp. 373–374 (no. 8831).
+   - *Kurz b. Jābir al-Fihrī*: vol. 5, p. 435 (no. 7409).
+   - *Ḥubaysh b. Khālid al-Khuzāʿī*: vol. 2, p. 24 (no. 1612).
 3. **al-Bukhārī**, Muḥammad b. Ismāʿīl (d. 256 AH). *Ṣaḥīḥ al-Bukhārī*, *Kitāb al-Maghāzī: Ghazwat al-Fatḥ* (nos. 4275–4340).
 4. **Muslim**, b. al-Ḥajjāj (d. 261 AH). *Ṣaḥīḥ Muslim*, *Kitāb al-Jihād wal-Siyar: Fatḥ Makkah* (nos. 1780–1784).

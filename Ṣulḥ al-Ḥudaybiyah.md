@@ -17,12 +17,12 @@ tags:
 date_hijri: Dhū al-Qaʿdah 6 AH (March 628 CE)
 location: "[[al-Ḥudaybiyah]], on the boundary perimeter of the Sacred Sanctuary"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
-commanders_enemy: "Suhayl b. ʿAmr, ʿUrwah b. Masʿūd, Khālid b. al-Walīd"
-deputy_in_medina: "Numaylah b. ʿAbdillāh al-Laythī (or [[ʿAbdullāh b. Umm Maktūm]]) ﵁"
+commanders_enemy: "[[Suhayl b. ʿAmr]], ʿUrwah b. Masʿūd, [[Khālid b. al-Walīd]]"
+deputy_in_medina: "[[Numaylah b. ʿAbdillāh al-Laythī]] (or [[ʿAbdullāh b. Umm Maktūm]]) ﵁"
 strength_muslim: "1,400 Companions (with 70 sacrificial camels)"
 strength_enemy: "Quraysh confederacy with 200 vanguard cavalry"
 emissaries_muslim: "[[Khirāsh b. Umayyah]] ﵁, [[ʿUthmān b. ʿAffān]] ﵁"
-emissaries_enemy: "[[Budayl b. Warqāʾ al-Khuzāʿī]], ʿUrwah b. Masʿūd al-Thaqafī, al-Ḥulays b. ʿAlqamah, Mikraz b. Ḥafṣ, Suhayl b. ʿAmr"
+emissaries_enemy: "[[Budayl b. Warqāʾ al-Khuzāʿī]], ʿUrwah b. Masʿūd al-Thaqafī, al-Ḥulays b. ʿAlqamah, Mikraz b. Ḥafṣ, [[Suhayl b. ʿAmr]]"
 scribe: "[[ʿAlī b. Abī Ṭālib]] ﵁"
 quranic_reference: "[[Sūrat al-Fatḥ]] (48:1–29); Sūrat al-Baqarah (2:196)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 33–94)"
@@ -41,12 +41,12 @@ Allāh commemorated this vision in the Qurʾān:
 The Prophet ﷺ summoned the Muhājirūn, the Anṣār, and the outlying Bedouin tribes to embark on peaceful ʿUmrah. While the hypocrites and faint-hearted desert tribes excused themselves, declaring that the Muslims would never return alive from the grasp of Quraysh, fourteen hundred devoted Companions answered the call (*Subul al-Hudā*, 5:33, 64).
 
 ## 2. Mobilization & Sacrificial Camels (*al-Hady*)
-On Monday, at the beginning of Dhū al-Qaʿdah 6 AH, the Messenger of Allāh ﷺ departed Medina, appointing Numaylah b. ʿAbdillāh al-Laythī (or [[ʿAbdullāh b. Umm Maktūm]]) as deputy governor over the city (*Subul al-Hudā*, 5:33). His wife Umm al-Muʾminīn **[[Umm Salamah]]** ﵂ accompanied him (*Subul al-Hudā*, 5:33).
+On Monday, at the beginning of Dhū al-Qaʿdah 6 AH, the Messenger of Allāh ﷺ departed Medina, appointing **[[Numaylah b. ʿAbdillāh al-Laythī]]** (or [[ʿAbdullāh b. Umm Maktūm]]) as deputy governor over the city (*Subul al-Hudā*, 5:33). His wife Umm al-Muʾminīn **[[Umm Salamah]]** ﵂ accompanied him (*Subul al-Hudā*, 5:33).
 
 The Muslims marched unarmed for war, carrying only travellers' swords sheathed in their scabbards (*fī al-qurub*), clad in the two white garments of *Iḥrām* (*Subul al-Hudā*, 5:33). At **Dhū al-Ḥulayfah**, the Prophet ﷺ consecrated seventy sacrificial camels (*sabʿīna badanah*), garlanding them with cords (*qalladahā*) and notching their right humps (*ashʿarahā*) as unambiguous visible proof to all Arabian tribes that this expedition was entirely sacred and non-belligerent (*Subul al-Hudā*, 5:34).
 
 ## 3. Deployment to al-Ḥudaybiyah & Miraculous Signs
-The Prophet ﷺ dispatched Bisr b. Sufyān al-Kaʿbī al-Khuzāʿī ahead as an advance scout (*Subul al-Hudā*, 5:35). Bisr returned at Usfān reporting that Quraysh had mobilized their armed confederates, donned leopard skins (*julūd al-numūr*), and dispatched two hundred cavalrymen under [[Khālid b. al-Walīd]] to intercept the pilgrims at **Kurāʿ al-Ghamīm** (*Subul al-Hudā*, 5:35).
+The Prophet ﷺ dispatched **[[Bisr b. Sufyān al-Khuzāʿī|Bisr b. Sufyān al-Kaʿbī al-Khuzāʿī]]** ahead as an advance scout (*Subul al-Hudā*, 5:35). Bisr returned at Usfān reporting that Quraysh had mobilized their armed confederates, donned leopard skins (*julūd al-numūr*), and dispatched two hundred cavalrymen under [[Khālid b. al-Walīd]] to intercept the pilgrims at **Kurāʿ al-Ghamīm** (*Subul al-Hudā*, 5:35).
 
 Refusing to initiate military conflict, the Prophet ﷺ took an arduous, circuitous path through the rugged mountain pass of **Thaniyyat al-Murār**, bypassing the pagan cavalry and descending into the lower valley of **[[al-Ḥudaybiyah]]**, located at the outermost boundary perimeter of the Sacred Sanctuary (*Subul al-Hudā*, 5:36).
 
@@ -87,8 +87,9 @@ Upon hearing that his envoy had been murdered, the Messenger of Allāh ﷺ sat b
 > «لَا نَبْرَحُ حَتَّى نُنَاجِزَ الْقَوْمَ!»
 > *"We shall not depart until we fight this people to the finish!"* (*Subul al-Hudā*, 5:48).
 
-Fourteen hundred Companions surged forward to place their hands in his, swearing fealty upon martyrdom and resolute steadfastness never to flee (*bāyaʿū ʿalā al-mawt wa-an lā yafirru*) (*Subul al-Hudā*, 5:48). 
+Fourteen hundred Companions surged forward to place their hands in his, swearing fealty upon martyrdom and resolute steadfastness never to flee (*bāyaʿū ʿalā al-mawt wa-an lā yafirru*) (**[[Bayʿat al-Riḍwān]]**) (*Subul al-Hudā*, 5:48). 
 
+- **[[Sinān b. Abī Sinān al-Asadī]]** ﵁ was the very first person to step forward and swear allegiance beneath the tree, pledging «عَلَى مَا فِي نَفْسِكَ يَا رَسُولَ اللَّهِ» (*«Upon whatever is in your soul, O Messenger of Allāh!»*) (*Subul al-Hudā*, 5:48; *al-Iṣābah*, 3:157).
 - **[[Maʿqil b. Yasār]]** ﵁ held up the thorny branches of the tree away from the Prophet's ﷺ head during the ceremony (*al-Iṣābah*, 6:146).
 - **[[Salamah b. al-Akwaʿ]]** ﵁ pledged allegiance three times: in the first cohort, in the middle, and at the end (*al-Iṣābah*, 3:127; *Subul al-Hudā*, 5:48).
 - The Prophet ﷺ placed his right hand into his left, declaring:
@@ -104,7 +105,7 @@ The Prophet ﷺ solemnly affirmed:
 > *"Not one of those who pledged allegiance beneath the tree shall ever enter the Fire!"* (*Subul al-Hudā*, 5:49).
 
 ## 7. The Treaty of al-Ḥudaybiyah & Clauses
-Terrified by the report of the unanimous pledge, Quraysh quickly released ʿUthmān and sent their chief plenipotentiary, **Suhayl b. ʿAmr**, to finalize a binding peace treaty (*Subul al-Hudā*, 5:51).
+Terrified by the report of the unanimous pledge, Quraysh quickly released ʿUthmān and sent their chief plenipotentiary, **[[Suhayl b. ʿAmr]]**, to finalize a binding peace treaty (*Subul al-Hudā*, 5:51).
 
 The Prophet ﷺ appointed **[[ʿAlī b. Abī Ṭālib]]** ﵁ as the scribe (*Subul al-Hudā*, 5:51). The drafting witnessed fierce contestation:
 1. **The Basmalah**: When ʿAlī wrote *«In the Name of Allāh, the Most Gracious, the Most Merciful»*, Suhayl objected: *«As for 'al-Raḥmān', by Allāh I do not know what it is! Rather write: 'In Your Name, O Allāh' (Bismika Allāhumma).»* The Prophet ﷺ agreed (*Subul al-Hudā*, 5:51).
@@ -175,5 +176,15 @@ Hearing of this, **[[Abū Jandal b. Suhayl]]** ﵁ escaped from Makkah and joine
 
 ## 12. References
 1. al-Ṣāliḥī, *[[Subul al-Hudā war-Rashād]]*, vol. 5, pp. 33–94 (*al-Bāb al-Thānī wal-ʿIshrūn fī Ghazwat al-Ḥudaybiyah*).
-2. Ibn Ḥajar al-ʿAsqalānī, *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, entries for Abū Baṣīr (4:359), Abū Jandal (7:58), Salamah b. al-Akwaʿ (3:127), Khirāsh b. Umayyah (2:231), Maʿqil b. Yasār (6:146), and Budayl b. Warqāʾ (1:408).
+2. Ibn Ḥajar al-ʿAsqalānī, *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, entries for:
+   - *Bisr b. Sufyān al-Khuzāʿī*: vol. 1, pp. 424–425 (no. 646).
+   - *Sinān b. Abī Sinān al-Asadī*: vol. 3, pp. 156–157 (no. 3513).
+   - *Salamah b. al-Akwaʿ*: vol. 3, p. 127 (no. 3432).
+   - *Suhayl b. ʿAmr*: vol. 3, pp. 177–178 (no. 3586).
+   - *Khirāsh b. Umayyah*: vol. 2, p. 231 (no. 2244).
+   - *Abū Baṣīr*: vol. 4, p. 359 (no. 5424).
+   - *Numaylah b. ʿAbdillāh al-Laythī*: vol. 6, pp. 373–374 (no. 8831).
+   - *Maʿqil b. Yasār*: vol. 6, p. 146 (no. 8171).
+   - *Abū Jandal b. Suhayl*: vol. 7, p. 58 (no. 9694).
+   - *Budayl b. Warqāʾ al-Khuzāʿī*: vol. 1, p. 408 (no. 614).
 3. al-Bukhārī, *Ṣaḥīḥ al-Bukhārī*, *Kitāb al-Shurūṭ* (Bāb al-Shurūṭ fī al-Jihād) and *Kitāb al-Maghāzī* (Bāb Ghazwat al-Ḥudaybiyah).

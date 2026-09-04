@@ -241,12 +241,27 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Salamah b. ʿAbd al-Raḥmān]] — *Son of ʿAbd al-Raḥmān and Tumāḍir; one of the Seven Jurists of Medina*
 
 ### Companions of al-Ḥudaybiyah & The Later Treaties
+- [[Sinān b. Abī Sinān al-Asadī]] ﵁ — *Badri veteran and the very first Companion to swear allegiance beneath the tree at Bayʿat al-Riḍwān*
 - [[Abū Baṣīr (ʿUtbah b. Usayd)]] ﵁ — *Hero of the coastal outpost at al-ʿĪṣ and striker of the Red Sea blockade*
 - [[Abū Jandal b. Suhayl]] ﵁ — *The bound believer of al-Ḥudaybiyah and commander of the believers at al-ʿĪṣ*
 - [[Salamah b. al-Akwaʿ]] ﵁ — *Hero of the three pledges beneath the tree and swift knight of Dhī Qarad*
 - [[Khirāsh b. Umayyah]] ﵁ — *First envoy dispatched to Makkah at al-Ḥudaybiyah and barber of the Prophet ﷺ*
 - [[Maʿqil b. Yasār]] ﵁ — *Guardian who held the tree branch during Bayʿat al-Riḍwān and builder of Nahr Maʿqil*
 - [[Budayl b. Warqāʾ al-Khuzāʿī]] ﵁ — *Chieftain of Khuzāʿah, repository of prophetic counsel, and diplomatic intermediary*
+- [[Bisr b. Sufyān al-Khuzāʿī]] ﵁ — *Chieftain of Khuzāʿah and prophetic advance scout who delivered the critical reconnaissance at ʿUsfān*
+- [[Numaylah b. ʿAbdillāh al-Laythī]] ﵁ — *Deputy governor of Medina during al-Ḥudaybiyah and enforcer of justice against apostasy at Fatḥ Makkah*
+
+### Companions of the Supreme Conquest (Fatḥ Makkah)
+- [[ʿUthmān b. Ṭalḥah]] ﵁ — *Hereditary custodian of the Kaʿbah key entrusted with the eternal trust by the Prophet ﷺ fulfilling Qurʾān 4:58*
+- [[ʿAmr b. Sālim al-Khuzāʿī]] ﵁ — *Chieftain of Banū Kaʿb, reciter of the stirring plea of al-Watīr, and standard-bearer of Khuzāʿah*
+- [[Abū Quḥāfah]] ﵁ — *Venerable father of Abū Bakr al-Ṣiddīq who embraced Islam on the Day of Conquest and first whose hair was dyed in Islam*
+- [[Suhayl b. ʿAmr]] ﵁ — *Khaṭīb Quraysh, negotiator of al-Ḥudaybiyah, eloquent orator who stabilized Makkah upon the Prophet's death, and martyr of ʿAmwās*
+- [[ʿIkrimah b. Abī Jahl]] ﵁ — *The repentant cavalier welcomed as 'al-Rākib al-Muhājir' who led the historic 400-strong death pledge at Yarmūk*
+- [[Qays b. Saʿd b. ʿUbādah]] ﵁ — *Prophetic security commander, knight of the Anṣār, and standard-bearer of Fatḥ Makkah*
+- [[Ṣafwān b. Umayyah]] ﵁ — *Chieftain of Banū Jumaḥ who provided 100 coats of mail as a guaranteed loan for Ḥunayn and embraced Islam at Jiʿrānah*
+- [[Hind bint ʿUtbah]] ﵂ — *Noble matron of Banū ʿAbd Shams, mother of Muʿāwiyah, and eloquent voice of the women's pledge on Mount al-Ṣafā*
+- [[Umm Ḥakīm bint al-Ḥārith]] ﵂ — *Chivalric matron of Banū Makhzūm who secured the pardon of ʿIkrimah and slew seven Romans with a tent pole at Marj al-Ṣuffar*
+- [[ʿAbdullāh b. al-Zibaʿrā]] ﵁ — *Premier poet of Quraysh who offered his heartfelt panegyric of repentance and was gifted an honorary mantle by the Prophet ﷺ*
 
 ### Heroes & Martyrs of Muʾtah
 - [[Thābit b. Aqram]] ﵁ — *Badri veteran of the Anṣār who seized the falling standard at Muʾtah and elevated Khālid b. al-Walīd*

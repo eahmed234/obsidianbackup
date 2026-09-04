@@ -31,7 +31,7 @@ spread through the camp that he had been killed.
 Al-Ṣāliḥī devotes a dedicated section to the pledge and to the merit of those who gave it —
 *dhikr mubāyaʿatihi ﷺ bayʿat al-Riḍwān wa-faḍl man bāyaʿa* (*Subul al-Hudā*, 5:48). That section
 records that a party of Muslims had entered Makkah **under ʿUthmān's protection** (*fī amān ʿUthmān*)
-and were seized, and that Quraysh then sent Suhayl b. ʿAmr, Ḥuwayṭib b. ʿAbd al-ʿUzzā and Mikraz b.
+and were seized, and that Quraysh then sent [[Suhayl b. ʿAmr]], Ḥuwayṭib b. ʿAbd al-ʿUzzā and Mikraz b.
 Ḥafṣ to negotiate.
 
 For the number present, the book gives al-Barāʾ's own testimony:
@@ -40,7 +40,11 @@ For the number present, the book gives al-Barāʾ's own testimony:
 > *"We were with the Messenger of Allāh ﷺ at al-Ḥudaybiyah — **fourteen hundred**."*
 > (*Subul al-Hudā*, 5:41)
 
-During the pledge, **[[Maʿqil b. Yasār]]** ﵁ held up the branch of the tree away from the Prophet's ﷺ head (*al-Iṣābah*, 6:146), while **[[Salamah b. al-Akwaʿ]]** ﵁ uniquely swore allegiance three times: in the first cohort, in the middle, and at the end (*Subul al-Hudā*, 5:48). The Prophet ﷺ placed his right hand into his left, declaring: *«This is the hand of ʿUthmān!»* (*Subul al-Hudā*, 5:48).
+During the pledge:
+- **[[Sinān b. Abī Sinān al-Asadī]]** ﵁ was the first person among the Companions to swear allegiance beneath the tree (*awwal man bāyaʿa taḥta al-shajarah*), pledging «عَلَى مَا فِي نَفْسِكَ يَا رَسُولَ اللَّهِ» (*«Upon whatever is in your soul, O Messenger of Allāh!»*) (*Subul al-Hudā*, 5:48; *al-Iṣābah*, 3:157).
+- **[[Maʿqil b. Yasār]]** ﵁ held up the branch of the tree away from the Prophet's ﷺ head (*al-Iṣābah*, 6:146).
+- **[[Salamah b. al-Akwaʿ]]** ﵁ uniquely swore allegiance three times: in the first cohort, in the middle, and at the end (*Subul al-Hudā*, 5:48).
+- The Prophet ﷺ placed his right hand into his left, declaring: *«This is the hand of ʿUthmān!»* (*Subul al-Hudā*, 5:48).
 
 > [!NOTE] What the Book Does Not Say
 > An earlier version described the tree as an acacia (*samurah*) and the pledge as one *"not to flee,
@@ -63,3 +67,5 @@ The pledge immediately preceded and strengthened the negotiation of **[[Ṣulḥ
 ## 5. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 5, p. 41 (al-Barāʾ on the number); pp. 48–60 (the pledge and
    the merit of those who gave it); glossary at p. 89.
+2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, entries for Sinān b. Abī Sinān (3:156–157, no. 3513),
+   Maʿqil b. Yasār (6:146, no. 8171), and Salamah b. al-Akwaʿ (3:127, no. 3432).
