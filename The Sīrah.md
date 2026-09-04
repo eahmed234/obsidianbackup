@@ -136,6 +136,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Waḥshī b. Ḥarb]] ﵁ — *Slayer of Ḥamzah who later converted and slew Musaylimah*
 - [[Surāqah b. Mālik b. Juʿshum]] ﵁ — *Pursuer of the Hijrah who became a Companion*
 - [[Maʿbad b. Abī Maʿbad al-Khuzāʿī]] — *Khuzāʿī chieftain who turned back Quraysh at al-Rawḥāʾ*
+- [[Nuʿaym b. Masʿūd]] ﵁ — *Strategist who dissolved the confederacy at the Trench*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
@@ -171,6 +172,9 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Banū al-Najjār]] — *Khazrajī clan; the Prophet's ﷺ maternal kin and hosts of the Hijrah*
 - [[Banū Salimah]] — *Khazrajī clan of the western quarter*
 
+### Jewish Tribes of Yathrib
+- [[Banū Qurayẓah]] — *Southern bastion; treaty breach during the Trench*
+
 ### Frontier & Outlying Tribes
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
@@ -186,6 +190,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Jabal Uḥud]] — *The Mountain of Love and Martyrdom*
 - [[Jabal al-Rumāh]] — *Mount ʿAynayn; the Archers' Hill at Uḥud*
 - [[Ḥamrāʾ al-Asad]] — *Plain of the Five Hundred Fires & pursuit of deterrence*
+- [[Jabal Salʿ]] — *Mount Salʿ; the basaltic bastion of the Trench*
 - [[al-Ḥudaybiyah]] — *The Boundary Plain of the Sacred Covenant*
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
