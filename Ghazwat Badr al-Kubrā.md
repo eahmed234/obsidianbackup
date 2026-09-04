@@ -25,8 +25,8 @@ commanders_enemy:
   - "[[Abū Jahl (ʿAmr b. Hishām)]] ☠"
   - "[[ʿUtbah b. Rabīʿah]] ☠"
   - "[[Umayyah b. Khalaf]] ☠"
-strength_muslim: 313–317 (82–86 Muhājirūn, 61 Aws, 170 Khazraj; 2 horses, 70 camels)
-strength_enemy: 950–1,000 (~100 cavalry, 700 camels, 600 armored infantry)
+strength_muslim: "313, the count Saʿd b. Abī Waqqāṣ ﵁ reported (Subul al-Hudā 4:25); also given as 319 (4:37)"
+strength_enemy: "950, and it is said a thousand (Subul al-Hudā 4:22)"
 casualties_muslim: 14 martyrs (6 Muhājirūn, 8 Anṣār)
 casualties_enemy: 70 slain, 70 captured
 quranic_references:

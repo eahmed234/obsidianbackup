@@ -97,6 +97,32 @@ entirely. It is never to be presented as al-Ṣāliḥī's own statement.
 The corpus separates the tiers mechanically: each page's `body` is matn, its `footnotes` array is
 taḥqīq.
 
+### Auditing what is already written
+
+`~/Documents/repos/sirah-corpus/audit.py` cross-checks every numeral asserted in a note against the
+numerals actually present on the pages that note cites (Arabic-Indic digits and number-words, matn
+plus apparatus). It produces a triage list, not a verdict — a flagged number may still be sound, and
+an unflagged one is not thereby verified. Run it after any batch of writing:
+
+```bash
+cd ~/Documents/repos/sirah-corpus && python3 audit.py
+```
+
+Known false positives: Qurʾānic sūrah and āyah numbers, Hijrī years the book writes as word-compounds
+(`مات سنة إحدى وخمسين ومائة` = 151), and Gregorian years — see below.
+
+### Gregorian dates — unresolved
+
+The book is dated in Hijrī throughout. Gregorian equivalents appear **only** in the editors'
+Muqaddimah — the Mawlid at *"20 April 571 CE"* (Muqaddimah p. 6) and some later AH/CE pairs
+(p. 37). Every other `CE` date in this vault (622, 624, 625 …) is an editorial conversion that is
+**not in the book**, carried over from the vault's original notes.
+
+They are arithmetic rather than claims about the sīrah, so they sit awkwardly against the sourcing
+rule. **Pending a decision, they are left in place and flagged here** rather than silently kept or
+silently stripped. If they are to stay, they should be marked as conversions; if not, they come out
+of roughly twenty-five notes.
+
 ### Where the book is silent
 
 Some authorities the book cites are given no biographical entry in it — as of this audit,

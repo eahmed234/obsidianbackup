@@ -14,7 +14,7 @@ location: "Mount [[Jabal Uḥud]], north of [[al-Madīnah al-Munawwarah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
 commanders_enemy: "[[Abū Sufyān b. Ḥarb]] & [[Khālid b. al-Walīd]] (before Islam)"
 forces_muslim: 700 (after 300 hypocrites defected under Ibn Ubayy)
-forces_enemy: 3,000 warriors (200 cavalry)
+forces_enemy: "3,000 with 200 horses (Subul al-Hudā 4:191)"
 casualties_muslim: 70 martyrs, including [[Ḥamzah b. ʿAbd al-Muṭṭalib]] & [[Muṣʿab b. ʿUmayr]]
 quranic_reference: "[[Sūrat Āl ʿImrān]] (3:121–180)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 191–315)"
@@ -24,7 +24,14 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 191–315)"
 *The Battle of Uḥud — The Severe Trial and Martyrdom of the Elect*
 
 ## 1. Strategic Context
-Seeking vengeance for their elite slain at [[Ghazwat Badr al-Kubrā]], Quraysh mobilized 3,000 warriors financed by Abū Sufyān's preserved caravan profits. They marched north and encamped below **Mount Uḥud**.
+Al-Ṣāliḥī describes the Meccan deployment: *"the polytheists formed ranks at the Sabkhah and drew
+themselves up for war, and **they were three thousand, and with them two hundred horses** which they
+had led along; and they set **[[Khālid b. al-Walīd]]** over the right wing of the cavalry and
+ʿIkrimah b. Abī Jahl over the left, and Ṣafwān b. Umayyah over the infantry … and they handed the
+standard to Ṭalḥah b. Abī Ṭalḥah"* (*Subul al-Hudā*, 4:191). Abū Sufyān then reproached Banū ʿAbd
+al-Dār over the standard, reminding them that they had held it at Badr.
+
+They marched north and encamped below **[[Jabal Uḥud|Mount Uḥud]]**.
 
 ## 2. Tactical Deployment & The Archers' Hill
 The Prophet ﷺ stationed fifty elite marksmen atop Mount ʿAynayn (Mount of Archers) under **[[ʿAbdullāh b. Jubayr]]** ﵁ with strict non-negotiable orders:

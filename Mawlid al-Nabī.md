@@ -42,3 +42,16 @@ The birth of the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ occurred in
 - Detailed genealogy tracing back to ʿAdnān and Ismāʿīl ﵊ (*Vol. 1*).
 - Miracles accompanying the birth: the quaking of the palace of Khosrow and quenching of the sacred fire of Persia (*Vol. 2*).
 - Classical Sunni legal discussions regarding the commemoration and sending blessings upon the Prophet ﷺ.
+
+## The Date, as the Book's Editors Give It
+The critical apparatus of the Muqaddimah states the date directly, and is one of the very few places
+in *[[Subul al-Hudā war-Rashād]]* that supplies a Gregorian equivalent at all:
+
+> «وَكَانَ مَوْلِدُهُ ﷺ فِي التَّاسِعِ أَوِ الثَّانِي عَشَرَ شَهْرِ رَبِيعِ الْأَوَّلِ (٢٠ إِبْرِيلَ ٥٧١ م)»
+> *"And his birth ﷺ was on the ninth or the twelfth of the month of Rabīʿ al-Awwal
+> (**20 April 571 CE**)."* (*Subul al-Hudā*, Muqaddimah p. 6)
+
+Note that the book gives **the ninth or the twelfth** — it does not settle between them.
+
+### Reference
+1. *[[Subul al-Hudā war-Rashād]]*, Muqaddimah p. 6.

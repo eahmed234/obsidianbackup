@@ -34,7 +34,9 @@ faith (*Subul al-Hudā*, 3:183).
 
 ## 2. Key Sīrah Milestones
 - *Naqīb* of the Khazraj at the second pledge of al-ʿAqabah.
-- Bore the standard of the Anṣār on campaign.
+- **Bore the standard of the Anṣār.** At **[[Ghazwat al-Khandaq]]** the book states it directly:
+  *"the standard of the Muhājirūn was with [[Zayd b. Ḥārithah]] ﵁, and the standard of the Anṣār with
+  Saʿd b. ʿUbādah"* (*Subul al-Hudā*, 4:371).
 - Present through the major *ghazawāt*, including **[[Ghazwat Badr al-Kubrā]]** and
   **[[Ghazwat al-Khandaq]]**.
 - His son **Qays b. Saʿd** ﵄ commanded the expedition to Ṣudāʾ in the direction of Yemen
