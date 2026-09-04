@@ -11,7 +11,7 @@ tags:
   - pre_prophethood
   - childhood
   - travel
-date_hijri: "At about twelve years of age (~41 BH)"
+date_hijri: "At about twelve years of age, per al-Balādhurī (Subul al-Hudā 2:140); the Yemen journey preceded it"
 location: "Via [[Makkah al-Mukarramah]] to Buṣrā, Syria; the Yemen journey preceding it"
 participants: "[[Abū Ṭālib]] (Syria); al-Zubayr b. ʿAbd al-Muṭṭalib (Yemen)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 139–146)"

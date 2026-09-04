@@ -71,12 +71,21 @@ covering what the book records of that ancestor individually:
 21. **[[Maʿadd b. ʿAdnān]]** — survivor of Bukht Naṣr, named by the Prophet ﷺ in his own voice
 22. **[[ʿAdnān]]** — the boundary of the agreed lineage; a descendant of Ismāʿīl ﵊
 
-## 2. Before Prophethood (*qabl al-baʿthah*)
-- **[[Ḥilf al-Fuḍūl]]** (~20 BH) — his participation in the League of the Virtuous.
-- Marriage to **[[Khadījah bint Khuwaylid]]** ﵂ (~25 years of age), his first wife and the first of
-  all people to believe in him.
-- **[[Tajdīd al-Kaʿbah]]** (~15 BH) — arbitration over the placement of the Black Stone, and the
-  title *al-Amīn* (The Trustworthy) by which Makkah knew him.
+## 2. Childhood and Youth Before Prophethood (*qabl al-baʿthah*)
+- **[[Riḥlat al-Shām al-Ūlā]]** — two journeys of his youth: to Yemen with his uncle al-Zubayr, and to
+  Syria at twelve with [[Abū Ṭālib]], where the monk **Baḥīrā** at Buṣrā recognised the seal of
+  prophethood between his shoulders.
+- **[[Ḥarb al-Fijār]]** (~20 or ~14–15 BH) — present with his uncles at some of its battles; by his
+  own account he shot arrows in it.
+- **[[Ḥilf al-Fuḍūl]]** (~20 BH) — his participation in the League of the Virtuous, which he later
+  said he would still answer if summoned to it in Islam.
+- **Shepherding** — he tended sheep for the people of Makkah for wages, and said of himself:
+  *"no prophet was sent except he had been a shepherd of sheep"* (*Subul al-Hudā*, 2:156).
+- **[[Riḥlat al-Shām al-Thāniyah]]** (age 25) — trading Khadījah's ﵂ caravan to Syria, where the monk
+  Nasṭūrā and her servant Maysarah both recognised him; the journey that led directly to his marriage
+  to **[[Khadījah bint Khuwaylid]]** ﵂, his first wife and the first of all people to believe in him.
+- **[[Tajdīd al-Kaʿbah]]** — arbitration over the placement of the Black Stone, and the title
+  *al-Amīn* (The Trustworthy) by which Makkah knew him.
 
 ## 3. Revelation and the Makkan Daʿwah
 - **[[Mabʿath al-Nabī]]** (13 BH / 610 CE) — the first revelation in the cave of Ḥirāʾ.
