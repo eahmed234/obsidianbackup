@@ -26,7 +26,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 370–375)"
 ## 1. Overview
 For approximately sixteen or seventeen months following the [[al-Hijrah ilā al-Madīnah|al-Hijrah]], the Muslim community faced **al-Masjid al-Aqṣā** in Jerusalem for prayer. The Prophet ﷺ yearned deeply that the Qiblah be redirected to the ancient sanctuary of his forefather Ibrāhīm ﵊—the Kaʿbah in Makkah. He would turn his face toward the skies awaiting revelation.
 
-While leading the believers in prayer at the mosque of Banū Salamah ([`Masjid al-Qiblatayn`](file:///home/eahmed/Projects/obsidianbackup/Masjid%20al-Qiblatayn.md)), Allāh revealed mid-prayer:
+While leading the believers in prayer at the mosque of Banū Salamah ([[Masjid al-Qiblatayn]]), Allāh revealed mid-prayer:
 $$\text{قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ}$$
 > *"We have certainly seen the turning of your face toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face toward al-Masjid al-Ḥarām..."* (Qurʾān 2:144).
 
