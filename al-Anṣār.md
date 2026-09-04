@@ -43,7 +43,7 @@ For the count of those present at **[[Ghazwat Badr al-Kubrā]]** see **[[Ahl Bad
 book's own figures are cited; the Aws/Khazraj breakdown is not asserted here, not having been located
 in the book. The Qurʾān praises them for
 preferring others over themselves even in their own need
-(**[[Sūrat al-Ḥashr]]** 59:9), and **[[Saʿd b. ʿUbādah]]** ﵁ transmitted that love of the Anṣār is
+(**[[Sūrat al-Ḥashr]]** 59:9, quoted at *Subul al-Hudā*, 4:325), and **[[Saʿd b. ʿUbādah]]** ﵁ transmitted that love of the Anṣār is
 itself a test of faith (*Subul al-Hudā*, 3:183).
 
 Chieftains and heroes in this vault: [[Saʿd b. Muʿādh]] ﵁ · [[Saʿd b. ʿUbādah]] ﵁ ·
