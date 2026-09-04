@@ -70,6 +70,12 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ### The Central Figure
 - **[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ** — *The Messenger of Allāh, Seal of the Prophets*
 
+### Forebears, Guardians & the Mawlid
+- [[ʿAbd al-Muṭṭalib]] — *Grandfather & second guardian; rediscoverer of Zamzam*
+- [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
+- [[Abū Ṭālib]] — *Paternal uncle, third guardian, and shield of the Makkan years*
+- [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
+
 ### The Household & Mothers of the Believers (*Ahl al-Bayt*)
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
@@ -98,6 +104,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Salmān al-Fārisī]] ﵁ — *Architect of the Trench (From the Ahl al-Bayt)*
 - [[Zayd b. Ḥārithah]] ﵁ — *Ḥibb Rasūlillāh (Only Companion Named in the Qurʾān)*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
+- [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
 - [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
 
@@ -107,10 +114,29 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[al-Ḥubāb b. al-Mundhir]] ﵁ — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
 - [[ʿAbdullāh b. Rawāḥah]] ﵁ — *Shāʿir Rasūlillāh & Third Commander at Muʾtah*
 - [[Asʿad b. Zurārah]] ﵁ — *Abū Umāmah, Naqīb of the Banū al-Najjār*
+- [[Saʿd b. ʿUbādah]] ﵁ — *Sayyid al-Khazraj; standard-bearer of the Anṣār*
+- [[Abū Ayyūb al-Anṣārī]] ﵁ — *Host of the Prophet ﷺ on his arrival in Medina*
+- [[Abū Lubābah b. ʿAbd al-Mundhir]] ﵁ — *Deputy over Medina; the binding repentance*
 - [[ʿUmayr b. al-Ḥumām]] ﵁ — *First Martyr of the Anṣār at Badr*
+- [[Muʿādh b. ʿAmr b. al-Jamūḥ]] ﵁ — *«Both of you killed him» — slayer of Abū Jahl*
+- [[Muʿawwidh b. ʿAfrāʾ]] ﵁ — *Of the sons of ʿAfrāʾ; his companion in that strike*
+
+### The Companies of the Community
+- [[al-Muhājirūn]] — *The Emigrants of Makkah*
+- [[al-Anṣār]] — *The Helpers of Medina; al-Aws and al-Khazraj*
+- [[Ahl Badr]] — *al-Badriyyūn; the 313 of Yawm al-Furqān*
+
+### Further Companions of Badr & Uḥud
+- [[ʿUbaydah b. al-Ḥārith]] ﵁ — *First champion of the duel; first Muhājir martyr*
+- [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
+- [[Surāqah b. Mālik b. Juʿshum]] ﵁ — *Pursuer of the Hijrah who became a Companion*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
+- [[ʿUtbah b. Rabīʿah]] ☠ — *Qurashī chief who counselled against Badr and died in it*
+- [[Umayyah b. Khalaf]] ☠ — *Torturer of Bilāl ﵁, slain at Badr*
+- [[Iblīs]] ☠ — *The Adversary; the borrowed likeness at Badr*
+- [[Abū Lahab]] ☠ — *Paternal uncle condemned by name in Sūrat al-Masad*
 - [[ʿAbdullāh b. Ubayy b. Salūl]] ☠ — *Chief of the Hypocrites in Medina*
 
 ---
@@ -129,6 +155,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 
 ### Quraysh of Makkah
 - [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
+- [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
 
 ### The Anṣār of Yathrib
@@ -146,6 +173,8 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
 - [[Badr]] — *The Valley of the Wells & Yawm al-Furqān*
+- [[al-ʿArīsh]] — *The Prophetic command booth at Badr*
+- [[Wādī al-Ṣafrāʾ]] — *The return road; burial place of ʿUbaydah b. al-Ḥārith ﵁*
 - [[Jabal Uḥud]] — *The Mountain of Love and Martyrdom*
 - [[al-Ḥudaybiyah]] — *The Boundary Plain of the Sacred Covenant*
 - [[Khaybar]] — *The Fortress Oasis of the North*
@@ -161,6 +190,13 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - **[[Muslim]]** — *Ṣaḥīḥ Muslim; Kitāb al-Jihād wal-Siyar (d. 261 AH)*
 - **[[Ibn Saʿd]]** — *al-Ṭabaqāt al-Kubrā; the biographical register (d. 230 AH)*
 - **[[Ibn Kathīr]]** — *al-Bidāyah wan-Nihāyah & the Tafsīr (d. 774 AH)*
+- **[[Mūsā b. ʿUqbah]]** — *The earliest and most highly graded Maghāzī (d. 141 AH)*
+- **[[Ibn Isḥāq]]** — *Father of the Sīrah genre (d. 150 AH)*
+- **[[Ibn Hishām]]** — *His recension: Sīrat Ibn Hishām (d. 218 AH)*
+- **[[al-Wāqidī]]** — *Kitāb al-Maghāzī; the campaign detail (d. 207 AH)*
+- **[[al-Wāḥidī]]** — *Asbāb al-Nuzūl (d. 468 AH)*
+- **[[al-Suhaylī]]** — *al-Rawḍ al-Unuf, commentary on Ibn Hishām (d. 581 AH)*
+- **[[al-Dhahabī]]** — *Siyar Aʿlām al-Nubalāʾ (d. 748 AH)*
 
 ---
 
