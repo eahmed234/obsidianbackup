@@ -20,7 +20,11 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 331–350)"
 *The Siege and Exile of Banū al-Naḍīr — Sūrat al-Ḥashr*
 
 ## 1. Provocation
-When the Prophet ﷺ, accompanied by [[Abū Bakr al-Ṣiddīq]] and [[ʿUmar b. al-Khaṭṭāb]], visited **Banū al-Naḍīr** to collect blood money contributions under the terms of *Dustūr al-Madīnah*, their conspirators plotted to drop a millstone (*raḥā*) upon his head from atop a wall. Jibrīl informed the Prophet ﷺ, who swiftly departed (*Subul al-Hudā*, 4:332).
+When the Prophet ﷺ, accompanied by [[Abū Bakr al-Ṣiddīq]] and [[ʿUmar b. al-Khaṭṭāb]], visited **Banū al-Naḍīr** to collect blood money contributions under the terms of *Dustūr al-Madīnah*, their conspirators plotted to drop a millstone (*raḥā*) upon his head from atop a wall. Jibrīl informed the Prophet ﷺ, who swiftly departed (*Subul al-Hudā*, 4:317).
 
 ## 2. Siege & Divine Surrender
 The Muslims besieged their reinforced citadels for six nights. Relying upon the false promises of [[ʿAbdullāh b. Ubayy b. Salūl]], the clan refused to surrender until Allāh cast terror (*al-ruʿb*) into their hearts. They negotiated safe passage out of Medina, taking whatever their camels could carry except weapons, demolishing their homes with their own hands (Qurʾān 59:2). Their wealthy aristocracy relocated to **[[Khaybar]]**, plotting future vengeance.
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **4:332**, which does not carry this material. The chapter is at
+> **4:317**: *الباب الخامس عشر في غزوة بني النضير*. Corrected.

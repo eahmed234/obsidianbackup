@@ -25,7 +25,11 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 180–195)"
 During the pilgrimage season of the 12th year of Nubūwah, twelve delegates from the oasis of **Yathrib** ([`al-Madīnah al-Munawwarah`](file:///home/eahmed/Projects/obsidianbackup/al-Madīnah%20al-Munawwarah.md)) met secretly with the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ at the pass of **al-ʿAqabah** near Minā. Led by **[[Asʿad b. Zurārah]]**, they took a solemn pledge of pure religious and moral fidelity.
 
 Because it contained no clause regarding military defense, it is historically styled *Bayʿat al-Nisāʾ* (The Pledge of Faith):
-> *"We pledge to Allāh that we will associate nothing with Him, will not steal, will not commit adultery, will not kill our children, will not utter slander, and will not disobey the Messenger of Allāh in that which is good"* (*Subul al-Hudā*, 3:182).
+> *"We pledge to Allāh that we will associate nothing with Him, will not steal, will not commit adultery, will not kill our children, will not utter slander, and will not disobey the Messenger of Allāh in that which is good"* (*Subul al-Hudā*, 3:194).
 
 ## 2. The Mission of Muṣʿab b. ʿUmayr
 The Prophet ﷺ dispatched the noble youth **[[Muṣʿab b. ʿUmayr]]** ﵁ to Yathrib as the first resident teacher and ambassador of Islam. Stationed with Asʿad b. Zurārah, Muṣʿab’s gentle wisdom converted the preeminent chieftains of the city, including **[[Saʿd b. Muʿādh]]** and **[[Usayd b. Ḥuḍayr]]**, transforming Yathrib into a city ready to welcome the Prophet ﷺ.
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **3:182**, which does not carry this material. The chapter is at
+> **3:194**: *الباب الخامس في بيعة العقبة الأولى*. Corrected.

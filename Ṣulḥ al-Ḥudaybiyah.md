@@ -35,4 +35,8 @@ $$\text{۞ لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْم�
 Suhayl b. ʿAmr negotiated a ten-year non-aggression pact on terms seemingly unfavorable to Muslims (returning without ʿUmrah this year; returning any Meccan who fled to Medina without guardian consent). Despite initial heartbreak among the Companions, Allāh revealed upon their return:
 $$\text{إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا}$$
 > *"Indeed, We have granted you a manifest victory!"* (Qurʾān 48:1).
-The peace enabled exponential spreading of the Daʿwah: more people embraced Islam in the subsequent two years than in the previous eighteen combined (*Subul al-Hudā*, 5:80).
+The peace enabled exponential spreading of the Daʿwah: more people embraced Islam in the subsequent two years than in the previous eighteen combined (*Subul al-Hudā*, 5:33).
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **5:80**, which does not carry this material. The chapter is at
+> **5:33**: *الباب الثاني والعشرون في غزوة الحديبية*. Corrected.

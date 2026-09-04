@@ -30,3 +30,9 @@ The Prophet ﷺ named this period *ʿĀm al-Ḥuzn* (The Year of Sorrow). With t
 ## 2. Subsequent Events
 - **[[Riḥlat al-Ṭāʾif]]**: Seeking support and sanctuary among the tribe of Thaqīf (Shawwāl 10th Year).
 - **[[al-Isrāʾ wal-Miʿrāj]]**: Divine solace and cosmic elevation by Allāh (late 10th or 11th Year).
+
+> [!WARNING] Citation Unverified
+> This entry cites *Subul al-Hudā* **2:402**. The heading governing that page is a letter-heading inside a glossary — it does not
+> appear to carry this material, and the correct chapter has **not yet been located**. The citation is
+> left in place, flagged, rather than removed on an unconfirmed reading or silently trusted.
+

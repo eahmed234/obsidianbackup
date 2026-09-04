@@ -34,4 +34,8 @@ The Prophet ﷺ had established a strict command chain in Medina:
 - **ʿAbdullāh b. Rawāḥah** took the standard and fought until martyred.
 
 ## 3. Khālid b. al-Walīd and Tactical Withdrawal
-The soldiers unanimously elected **[[Khālid b. al-Walīd]]**. Displaying miraculous military maneuvering, Khālid broke nine swords in combat, reorganized the wings and vanguard overnight to simulate incoming massive reinforcements, panicked the Byzantines, and executed a masterclass tactical withdrawal without pursuit (*Subul al-Hudā*, 5:230).
+The soldiers unanimously elected **[[Khālid b. al-Walīd]]**. Displaying miraculous military maneuvering, Khālid broke nine swords in combat, reorganized the wings and vanguard overnight to simulate incoming massive reinforcements, panicked the Byzantines, and executed a masterclass tactical withdrawal without pursuit (*Subul al-Hudā*, 6:152).
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **5:230**, which does not carry this material. The chapter is at
+> **6:152**: *ذكر بعض ما غنمه المسلمون يوم مؤتة*. Corrected.

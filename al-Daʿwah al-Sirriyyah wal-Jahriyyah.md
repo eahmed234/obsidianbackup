@@ -41,3 +41,9 @@ His uncle **[[Abū Lahab]]** spat: *"May you perish this day! Did you gather us 
 - **Primary Opponents**: [[Abū Jahl (ʿAmr b. Hishām)]], [[Abū Lahab]], Umayyah b. Khalaf
 - **Persecuted Weak Companions**: [[Bilāl b. Rabāḥ]], Khabbāb b. al-Aratt, the family of Yāsir
 - **Subsequent Event**: [[al-Hijrah ilā al-Ḥabashah]] (5 BH)
+
+> [!WARNING] Citation Unverified
+> This entry cites *Subul al-Hudā* **2:325**. The heading governing that page is a glossary of the preceding section — it does not
+> appear to carry this material, and the correct chapter has **not yet been located**. The citation is
+> left in place, flagged, rather than removed on an unconfirmed reading or silently trusted.
+

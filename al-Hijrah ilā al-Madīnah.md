@@ -25,7 +25,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 230–300)"
 *The Prophetic Migration from Makkah to Medina — The Genesis of the Islamic Calendar*
 
 ## 1. Overview
-Faced with an assassination conspiracy by the chieftains of Quraysh at **Dār al-Nadwah**, the Messenger of Allāh [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ instructed **[[ʿAlī b. Abī Ṭālib]]** to sleep in his bed covered by his green Ḥaḍramī cloak to return entrusted deposits (*al-amānāt*), while the Prophet slipped past the assassins unperceived, casting dust upon their heads while reciting [[Sūrat Yā-Sīn]] (36:9) (*Subul al-Hudā*, 3:235).
+Faced with an assassination conspiracy by the chieftains of Quraysh at **Dār al-Nadwah**, the Messenger of Allāh [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ instructed **[[ʿAlī b. Abī Ṭālib]]** to sleep in his bed covered by his green Ḥaḍramī cloak to return entrusted deposits (*al-amānāt*), while the Prophet slipped past the assassins unperceived, casting dust upon their heads while reciting [[Sūrat Yā-Sīn]] (36:9) (*Subul al-Hudā*, 3:224).
 
 He joined **[[Abū Bakr al-Ṣiddīq]]** ﵁, and together they concealed themselves for three nights in **Cave Thawr** (*Ghār Thawr*).
 
@@ -41,3 +41,7 @@ He joined **[[Abū Bakr al-Ṣiddīq]]** ﵁, and together they concealed themse
 On Monday, 12th Rabīʿ al-Awwal, the Prophet ﷺ entered **Qubāʾ**, founding the first mosque of Islam (**Masjid Qubāʾ**). He then entered Yathrib amid ecstatic celebration, as the Anṣār sang:
 > *«طَلَعَ الْبَدْرُ عَلَيْنَا ... مِنْ ثَنِيَّاتِ الْوَدَاعِ»*
 He lodged at the house of **[[Abū Ayyūb al-Anṣārī]]** ﵁ while the foundations of the new Islamic commonwealth were established (*Subul al-Hudā*, 3:275).
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **3:235**, which does not carry this material. The chapter is at
+> **3:224**: *الباب الأول في إذن النبي ﷺ للمسلمين في الهجرة إلى المدينة*. Corrected.

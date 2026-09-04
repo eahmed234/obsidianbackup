@@ -29,7 +29,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 155–160)"
 
 The Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ witnessed this pact in his youth alongside his uncles and later reaffirmed its enduring ethical validity in Islam:
 > «لَقَدْ شَهِدْتُ فِي دَارِ عَبْدِ اللَّهِ بْنِ جُدْعَانَ حِلْفًا مَا أُحِبُّ أَنَّ لِيَ بِهِ حُمْرَ النَّعَمِ، وَلَوْ أُدْعَى بِهِ فِي الْإِسْلَامِ لَأَجَبْتُ»
-> *"I witnessed in the house of ʿAbdullāh b. Judʿān a pact that I would not trade for red camels; and were I to be summoned to it in Islam, I would surely respond!"* (*Subul al-Hudā*, 2:156).
+> *"I witnessed in the house of ʿAbdullāh b. Judʿān a pact that I would not trade for red camels; and were I to be summoned to it in Islam, I would surely respond!"* (*Subul al-Hudā*, 2:154).
 
 ## 2. Juristic & Ethical Significance
 Sunni scholars cite this pact as universal proof that alliances established with non-Muslims for civic justice, human dignity, and opposing oppression are completely valid and sanctified in Islamic law.
@@ -38,3 +38,7 @@ Sunni scholars cite this pact as universal proof that alliances established with
 - **Host**: ʿAbdullāh b. Judʿān al-Taymī (cousin of [[Abū Bakr al-Ṣiddīq]])
 - **Chief Advocates**: [[al-Zubayr b. ʿAbd al-Muṭṭalib]]
 - **Subsequent Event**: [[Tajdīd al-Kaʿbah]] (~15 BH)
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **2:156**, which does not carry this material. The chapter is at
+> **2:154**: *الباب الحادي عشر في شهوده ﷺ حلف الفضول*. Corrected.

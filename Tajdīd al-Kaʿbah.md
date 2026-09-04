@@ -32,3 +32,9 @@ The Prophet ﷺ laid his cloak upon the earth, lifted the Black Stone upon it, a
 ## 3. Related Figures & Events
 - **Antecedent Event**: Marriage to [[Khadījah bint Khuwaylid]] (~28 BH / 595 CE)
 - **Subsequent Event**: [[Mabʿath al-Nabī]] (commencement of revelation, 13 BH)
+
+> [!WARNING] Citation Unverified
+> This entry cites *Subul al-Hudā* **2:173**. The heading governing that page is a tanbīhāt page — it does not
+> appear to carry this material, and the correct chapter has **not yet been located**. The citation is
+> left in place, flagged, rather than removed on an unconfirmed reading or silently trusted.
+

@@ -31,7 +31,7 @@ In the pilgrimage season of the 13th year of Nubūwah, seventy-three men and two
 
 ## 2. The Oath of Mutual Protection
 Al-Barāʾ b. Maʿrūr took the Prophet's hand, and the Anṣār swore:
-> *"We pledge to listen and obey in ease and hardship, to spend in prosperity and adversity, to command the good and forbid the evil, to speak the truth for Allāh fearing no blame, and to defend you from whatever we defend our own women and children!"* (*Subul al-Hudā*, 3:205).
+> *"We pledge to listen and obey in ease and hardship, to spend in prosperity and adversity, to command the good and forbid the evil, to speak the truth for Allāh fearing no blame, and to defend you from whatever we defend our own women and children!"* (*Subul al-Hudā*, 3:197).
 
 When **[[Asʿad b. Zurārah]]** warned them that taking this pledge meant declaring enmity against all the Arabs, the Anṣār cried with one voice:
 > *"Take our pledge, O Messenger of Allāh! What is our reward if we fulfill this?"*
@@ -40,3 +40,7 @@ The Prophet ﷺ replied with a single word:
 
 ## 3. The Appointment of the Twelve Leaders (*al-Nuqabāʾ*)
 The Prophet ﷺ appointed twelve tribal leaders (*nuqabāʾ*) over the Anṣār, including **[[Saʿd b. al-Rabīʿ]]**, **[[al-Ḥubāb b. al-Mundhir]]'s relatives**, and **[[Saʿd b. ʿUbādah]]**, mirroring the twelve disciples of ʿĪsā ﵊ and the chieftains of Banū Isrāʾīl. This pact legally triggered the historic **[[al-Hijrah ilā al-Madīnah]]**.
+
+> [!WARNING] Citation Corrected
+> This entry cited *Subul al-Hudā* **3:205**, which does not carry this material. The chapter is at
+> **3:197**: *الباب السادس في بيعة العقبة الثانية*. Corrected.
