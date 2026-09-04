@@ -39,8 +39,9 @@ attached. The sources dwell on the extremity of the generosity: **[[Saʿd b. al-
 refused payment for it.
 
 ## 3. Standing
-At **[[Ghazwat Badr al-Kubrā]]** they were 231 of the 313 — 61 of the Aws and 170 of the Khazraj —
-and eight of the fourteen martyrs were Anṣār; see **[[Ahl Badr]]**. The Qurʾān praises them for
+For the count of those present at **[[Ghazwat Badr al-Kubrā]]** see **[[Ahl Badr]]**, where the
+book's own figures are cited; the Aws/Khazraj breakdown is not asserted here, not having been located
+in the book. The Qurʾān praises them for
 preferring others over themselves even in their own need
 (**[[Sūrat al-Ḥashr]]** 59:9), and **[[Saʿd b. ʿUbādah]]** ﵁ transmitted that love of the Anṣār is
 itself a test of faith (*Subul al-Hudā*, 3:183).

@@ -11,33 +11,43 @@ tags:
   - ansar
   - awsi
   - medina
-lineage: "al-Aws b. Ḥārithah, of the Azd of Yemen — brother-tribe to [[al-Khazraj]]"
-territory: "[[al-Madīnah al-Munawwarah]] (Yathrib), the eastern and southern quarters"
-notables: "[[Saʿd b. Muʿādh]], [[Abū Lubābah b. ʿAbd al-Mundhir]], [[ʿAbdullāh b. Jubayr]]"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 398–405)"
+lineage: "al-Aws b. Ḥārithah — brother-line to [[al-Khazraj]] b. Ḥārithah"
+territory: "[[al-Madīnah al-Munawwarah]] (Yathrib)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 195–199, 398–405)"
 ---
 
 # al-Aws (الأوس)
 *The Second of the Two Anṣār Tribes of Yathrib*
 
-## 1. Origin
-Of Yemeni **Azd** stock, descended from al-Aws b. Ḥārithah, brother to **[[al-Khazraj]]**. Before
-Islam the two tribes were locked in a protracted feud, and the Aws held standing alliances with the
-Jewish tribes of the oasis — notably **[[Banū Qurayẓah]]** and **[[Banū al-Naḍīr]]**.
+## 1. Lineage
+The book traces its clans to **al-Aws b. Ḥārithah** — as in the line *"…b. Sāʿidah, of Banū ʿAmr b.
+ʿAwf b. Mālik b. **al-Aws b. Ḥārithah**"* (*Subul al-Hudā*, 3:195). **[[al-Khazraj]]** is traced to
+*al-Khazraj b. Ḥārithah* in the same register.
 
-That old alliance became consequential at **[[Ghazwat Banī Qurayẓah]]** (5 AH), when the Awsī chief
-**[[Saʿd b. Muʿādh]]** ﵁ was made arbiter over his own tribe's former confederates.
+Al-Ṣāliḥī also records a distinct grouping called ***Aws Allāh***: *"and that was of the dwelling of
+Banū Umayyah b. Zayd and Khaṭmah and Wāʾil and Wāqif — and those are Aws Allāh, and they are of
+al-Aws b. Ḥārithah"* (*Subul al-Hudā*, 3:199).
 
-## 2. Role in the Sīrah
-- Represented at both pledges of al-ʿAqabah, and 61 of the Anṣār at
-  **[[Ghazwat Badr al-Kubrā]]** were of the Aws.
-- **[[Saʿd b. Muʿādh]]** ﵁, their chief, gave the decisive covenant speech before Badr and later the
-  judgment on Banū Qurayẓah; the Prophet ﷺ reported that the Throne shook at his death.
-- **[[ʿAbdullāh b. Jubayr]]** ﵁ commanded the fifty archers at **[[Ghazwat Uḥud]]**.
-- **[[Abū Lubābah b. ʿAbd al-Mundhir]]** ﵁ was left over the civil affairs of Medina during the Badr
-  campaign (*Subul al-Hudā*, 4:23).
-- The Prophet ﷺ ended the residual Aws–Khazraj enmity when [[Shās b. Qays]] tried to revive it
-  (*Subul al-Hudā*, 3:398).
+## 2. The Attempted Sedition
+The chapter on **Shās b. Qays**'s attempt to set the two tribes against one another again *"when he
+saw that their word had become united"* concerns al-Aws equally
+(*Subul al-Hudā*, 3:398). See **[[al-Khazraj]]**.
 
-## 3. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, pp. 398–405.
+## 3. Members in This Vault
+- **[[Saʿd b. Muʿādh]]** ﵁ — their chief, arbiter at **[[Ghazwat Banī Qurayẓah]]**
+  (*Subul al-Hudā*, 5:9).
+- **[[ʿAbdullāh b. Jubayr]]** ﵁ — commander of the archers at **[[Ghazwat Uḥud]]**
+  (*Subul al-Hudā*, 3:218; 4:205).
+- **[[Abū Lubābah b. ʿAbd al-Mundhir]]** ﵁ — left over Medina during the Badr campaign
+  (*Subul al-Hudā*, 4:23), and the episode of his repentance (*Subul al-Hudā*, 5:8).
+
+> [!NOTE] What the Book Does Not Say
+> An earlier version described al-Aws as *"of Yemeni Azd stock"* and asserted standing pre-Islamic
+> alliances with Banū Qurayẓah and Banū al-Naḍīr. **Neither is supported here** and both have been
+> removed. What the book does record is that Banū Qurayẓah were referred to the judgment of the Awsī
+> chief Saʿd b. Muʿādh ﵁ (*Subul al-Hudā*, 5:9); it is not stated here that this followed from a
+> prior alliance. Badr troop figures are cited in **[[Ahl Badr]]** rather than repeated here.
+
+## 4. References
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 195 (the lineage); p. 199 (Aws Allāh).
+2. *[[Subul al-Hudā war-Rashād]]*, vol. 3, pp. 398–405.
