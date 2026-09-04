@@ -70,6 +70,12 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ### The Central Figure
 - **[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ** — *The Messenger of Allāh, Seal of the Prophets*
 
+### Forebears, Guardians & the Mawlid
+- [[ʿAbd al-Muṭṭalib]] — *Grandfather & second guardian; rediscoverer of Zamzam*
+- [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
+- [[Abū Ṭālib]] — *Paternal uncle, third guardian, and shield of the Makkan years*
+- [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
+
 ### The Household & Mothers of the Believers (*Ahl al-Bayt*)
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
@@ -98,6 +104,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Salmān al-Fārisī]] ﵁ — *Architect of the Trench (From the Ahl al-Bayt)*
 - [[Zayd b. Ḥārithah]] ﵁ — *Ḥibb Rasūlillāh (Only Companion Named in the Qurʾān)*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
+- [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
 - [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
 
@@ -107,10 +114,16 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[al-Ḥubāb b. al-Mundhir]] ﵁ — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
 - [[ʿAbdullāh b. Rawāḥah]] ﵁ — *Shāʿir Rasūlillāh & Third Commander at Muʾtah*
 - [[Asʿad b. Zurārah]] ﵁ — *Abū Umāmah, Naqīb of the Banū al-Najjār*
+- [[Saʿd b. ʿUbādah]] ﵁ — *Sayyid al-Khazraj; standard-bearer of the Anṣār*
+- [[Abū Ayyūb al-Anṣārī]] ﵁ — *Host of the Prophet ﷺ on his arrival in Medina*
+- [[Abū Lubābah b. ʿAbd al-Mundhir]] ﵁ — *Deputy over Medina; the binding repentance*
 - [[ʿUmayr b. al-Ḥumām]] ﵁ — *First Martyr of the Anṣār at Badr*
+- [[Muʿādh b. ʿAmr b. al-Jamūḥ]] ﵁ — *«Both of you killed him» — slayer of Abū Jahl*
+- [[Muʿawwidh b. ʿAfrāʾ]] ﵁ — *Of the sons of ʿAfrāʾ; his companion in that strike*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
+- [[Abū Lahab]] ☠ — *Paternal uncle condemned by name in Sūrat al-Masad*
 - [[ʿAbdullāh b. Ubayy b. Salūl]] ☠ — *Chief of the Hypocrites in Medina*
 
 ---
