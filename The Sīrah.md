@@ -150,6 +150,10 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[al-Barāʾ b. ʿĀzib]] ﵁ — *Eyewitness chronicler of Ḥudaybiyah and military expeditions*
 - [[ʿAbdullāh b. ʿAbdillāh b. Ubayy]] ﵁ — *Badri hero who rejected his hypocrite father's sedition*
 - [[Sawād b. Ghaziyyah]] ﵁ — *Badri warrior who embraced and kissed the Prophet's abdomen*
+- [[ʿUbādah b. al-Ṣāmit]] ﵁ — *Naqīb of al-ʿAqabah, Badri veteran, compiler of the Qurʾān, and First Judge of Palestine*
+- [[Muḥammad b. Maslamah]] ﵁ — *Badri veteran, knight of the Prophet ﷺ, and paramount auditor of the Caliphate*
+- [[al-Mundhir b. Qudāmah]] ﵁ — *Badri veteran and officer of custody over Banū Qaynuqāʿ*
+- [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
 
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
