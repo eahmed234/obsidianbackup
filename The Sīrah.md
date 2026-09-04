@@ -80,6 +80,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
 - [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
+- [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
@@ -137,6 +138,8 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Surāqah b. Mālik b. Juʿshum]] ﵁ — *Pursuer of the Hijrah who became a Companion*
 - [[Maʿbad b. Abī Maʿbad al-Khuzāʿī]] — *Khuzāʿī chieftain who turned back Quraysh at al-Rawḥāʾ*
 - [[Nuʿaym b. Masʿūd]] ﵁ — *Strategist who dissolved the confederacy at the Trench*
+- [[Bishr b. al-Barāʾ]] ﵁ — *Veteran of Badr and martyr of Khaybar*
+- [[Abū Hurayrah]] ﵁ — *Preserver of Hadith who joined the Prophet ﷺ at Khaybar*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
