@@ -19,7 +19,7 @@ spokesmen_muhajirun:
   - "[[Abū Bakr al-Ṣiddīq]]"
   - "[[ʿUmar b. al-Khaṭṭāb]]"
   - "[[Abū ʿUbaydah b. al-Jarrāḥ]]"
-elected_caliph: "[[Abū Bakr al-Ṣiddīq]] (ra) — Khalīfat Rasūlillāh"
+elected_caliph: "[[Abū Bakr al-Ṣiddīq]] ﵁ — Khalīfat Rasūlillāh"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 12, pp. 345–370)"
 ---
 
@@ -30,7 +30,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 12, pp. 345–370)"
 Hours after the demise of the Prophet ﷺ, leaders of the Anṣār assembled under the portico of **Banū Sāʿidah** to address the succession of civil leadership, proposing **[[Saʿd b. ʿUbādah]]**. Learning of this, **[[Abū Bakr al-Ṣiddīq]]**, **[[ʿUmar b. al-Khaṭṭāb]]**, and **[[Abū ʿUbaydah b. al-Jarrāḥ]]** hurried to the gathering to preserve the constitutional unity of the Ummah.
 
 ## 2. Debate & Consensus (*Ijmāʿ*)
-**[[al-Ḥubāb b. al-Mundhir]]** (ra) initially advocated a shared dual emirate: *«مِنَّا أَمِيرٌ وَمِنْكُمْ أَمِيرٌ»* (*"An emir from among us, and an emir from among you"*). 
+**[[al-Ḥubāb b. al-Mundhir]]** ﵁ initially advocated a shared dual emirate: *«مِنَّا أَمِيرٌ وَمِنْكُمْ أَمِيرٌ»* (*"An emir from among us, and an emir from among you"*). 
 
 Abū Bakr delivered a speech reminding them that the Arabs would only accept the central sovereignty of Quraysh, while paying tribute to the unmatched virtues of the Anṣār as the ministers of Islam (*al-wuzarāʾ*). Abū Bakr offered either ʿUmar or Abū ʿUbaydah. 
 

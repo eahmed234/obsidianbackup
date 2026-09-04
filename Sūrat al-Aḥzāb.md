@@ -18,7 +18,7 @@ primary_events:
   - "[[Ghazwat al-Khandaq]]"
   - "[[Ghazwat Banī Qurayẓah]]"
   - "Marriage to Zaynab bint Jaḥsh"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 380–430)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 363–423)"
 ---
 
 # Sūrat al-Aḥzāb (سورة الأحزاب)

@@ -12,7 +12,7 @@ tags:
   - 11-ah
 date_hijri: Monday, 12 Rabīʿ al-Awwal 11 AH (8 June 632 CE)
 location: "Chamber of [[ʿĀʾishah bint Abī Bakr]], [[al-Madīnah al-Munawwarah]]"
-appointed_prayer_imam: "[[Abū Bakr al-Ṣiddīq]] (ra)"
+appointed_prayer_imam: "[[Abū Bakr al-Ṣiddīq]] ﵁"
 final_words: "«بَلِ الرَّفِيقَ الْأَعْلَى مِنَ الْجَنَّةِ» (Rather, the Highest Companion in Paradise!)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 12, pp. 240–340)"
 ---
@@ -21,7 +21,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 12, pp. 240–340)"
 *The Passing of the Messenger of Allāh ﷺ to the Highest Companion*
 
 ## 1. The Illness and Final Days
-Returning from the Farewell Pilgrimage, the Prophet ﷺ fell ill with a severe fever in Ṣafar 11 AH. With the consent of his wives, he spent his remaining days in the chamber of **[[ʿĀʾishah bint Abī Bakr]]** (ra). He appointed **[[Abū Bakr al-Ṣiddīq]]** to lead the Muslims in prayer during his final seventeen prayers (*Subul al-Hudā*, 12:265).
+Returning from the Farewell Pilgrimage, the Prophet ﷺ fell ill with a severe fever in Ṣafar 11 AH. With the consent of his wives, he spent his remaining days in the chamber of **[[ʿĀʾishah bint Abī Bakr]]** ﵂. He appointed **[[Abū Bakr al-Ṣiddīq]]** to lead the Muslims in prayer during his final seventeen prayers (*Subul al-Hudā*, 12:265).
 
 His final counsels to the Ummah were:
 > «الصَّلَاةَ الصَّلَاةَ! وَمَا مَلَكَتْ أَيْمَانُكُمْ!»

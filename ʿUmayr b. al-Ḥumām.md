@@ -61,7 +61,7 @@ He cast the dates from his hand, drew his sword, and charged into the vanguard o
 ## 2. Ḥadīth Transmission & Sabab al-Wurūd
 
 The narration of ʿUmayr b. al-Ḥumām represents a classical example of **Sabab al-Wurūd** (the historical context and trigger of a Prophetic tradition):
-- **Canonical Source**: *Ṣaḥīḥ Muslim*, *Kitāb al-Imārah: Bāb Thubūt al-Jannah lil-Shahīd* (no. 1901), narrated via Anas b. Mālik (ra).
+- **Canonical Source**: *Ṣaḥīḥ Muslim*, *Kitāb al-Imārah: Bāb Thubūt al-Jannah lil-Shahīd* (no. 1901), narrated via Anas b. Mālik ﵁.
 - **Theological Precedent**: Sunni scholars deduce that giving preference to the Hereafter over the remaining seconds of earthly sustenance is the hallmark of the *Ṣiddīqīn* and *Shuhadāʾ*.
 
 ---

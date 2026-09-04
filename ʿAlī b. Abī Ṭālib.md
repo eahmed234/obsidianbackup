@@ -25,7 +25,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 280–310)"
 
 ## 1. Lineage & Early Life
 - First youth to accept Islam (at approximately ten years of age). Raised in the household of the Prophet ﷺ.
-- Married the Prophet's beloved daughter, **[[Fāṭimah al-Zahrāʾ]]** (ra), fathering **al-Ḥasan** and **al-Ḥusayn**, the masters of the youth of Paradise.
+- Married the Prophet's beloved daughter, **[[Fāṭimah al-Zahrāʾ]]** ﵂, fathering **al-Ḥasan** and **al-Ḥusayn**, the masters of the youth of Paradise.
 
 ## 2. Key Sīrah Milestones
 - Slept in the bed of the Prophet ﷺ on the night of **[[al-Hijrah ilā al-Madīnah]]** to thwart the assassins.

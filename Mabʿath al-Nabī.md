@@ -14,7 +14,7 @@ tags:
 date_hijri: Ramaḍān, 13 BH (610 CE / at age 40)
 location: "Cave Ḥirāʾ, Mount al-Nūr, [[Makkah al-Mukarramah]]"
 angels: "[[Jibrīl]] (Gabriel)"
-first_believer: "[[Khadījah bint Khuwaylid]] (ra)"
+first_believer: "[[Khadījah bint Khuwaylid]] ﵂"
 quranic_reference: "[[Sūrat al-ʿAlaq]] (96:1–5)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 210–250)"
 ---
@@ -28,7 +28,7 @@ $$\text{اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
 > *"Recite in the name of your Lord who created—Created man from a clinging clot..."* (Qurʾān 96:1–2).
 
 ## 2. Consolation of Khadījah and Waraqah b. Nawfal
-Trembling with awe, the Prophet ﷺ returned home, crying: *«زَمِّلُونِي! زَمِّلُونِي!»* (*"Cover me! Cover me!"*). His wife, **[[Khadījah bint Khuwaylid]]** (ra), consoled him with the immortal words of certainty:
+Trembling with awe, the Prophet ﷺ returned home, crying: *«زَمِّلُونِي! زَمِّلُونِي!»* (*"Cover me! Cover me!"*). His wife, **[[Khadījah bint Khuwaylid]]** ﵂, consoled him with the immortal words of certainty:
 > *"Never! By Allāh, Allāh will never disgrace you! You uphold the ties of kinship, bear the burdens of the weak, assist the destitute, honor the guest, and aid in all righteous causes!"* (*Subul al-Hudā*, 2:215; *Ṣaḥīḥ al-Bukhārī*, no. 3).
 Khadījah brought him to her cousin, the aged Christian scholar **Waraqah b. Nawfal**, who testified: *"This is the very same Nāmūs (the Archangel of Revelation) that Allāh sent down upon Moses!"*
 

@@ -13,7 +13,7 @@ tags:
 date_period: Rajab 5 BH (First Hijrah) & Late 5 BH / 6 BH (Second Hijrah)
 destination: "Kingdom of [[Aksum]] (Abyssinia)"
 sovereign: "[[al-Najāshī (Aṣḥamah)]]"
-spokesman: "[[Jaʿfar b. Abī Ṭālib]] (ra)"
+spokesman: "[[Jaʿfar b. Abī Ṭālib]] ﵁"
 notable_emigrants:
   - "[[ʿUthmān b. ʿAffān]] and Ruqayyah bint Rasūlillāh"
   - "[[ʿAbd al-Raḥmān b. ʿAwf]]"
@@ -30,7 +30,7 @@ When persecution of the early Muslims reached unendurable extremes, the Prophet 
 > «لَوْ خَرَجْتُمْ إِلَى أَرْضِ الْحَبَشَةِ، فَإِنَّ بِهَا مَلِكًا لَا يُظْلَمُ عِنْدَهُ أَحَدٌ، وَهِيَ أَرْضُ صِدْقٍ!»
 > *"If only you were to go forth to the land of Abyssinia, for therein is a king in whose realm no one is wronged, and it is a land of truthfulness!"* (*Subul al-Hudā*, 3:16).
 
-In Rajab 5 BH (615 CE), an initial vanguard of 11 men and 4 women crossed the Red Sea, including [[ʿUthmān b. ʿAffān]] and his wife Ruqayyah bint Rasūlillāh, and [[ʿAbd al-Raḥmān b. ʿAwf]]. Later, a second larger contingent of 83 men and 18 women emigrated, led by **[[Jaʿfar b. Abī Ṭālib]]** (ra).
+In Rajab 5 BH (615 CE), an initial vanguard of 11 men and 4 women crossed the Red Sea, including [[ʿUthmān b. ʿAffān]] and his wife Ruqayyah bint Rasūlillāh, and [[ʿAbd al-Raḥmān b. ʿAwf]]. Later, a second larger contingent of 83 men and 18 women emigrated, led by **[[Jaʿfar b. Abī Ṭālib]]** ﵁.
 
 ## 2. Jaʿfar b. Abī Ṭālib and the Negus (al-Najāshī)
 Quraysh dispatched **[[ʿAmr b. al-ʿĀṣ]]** and ʿAbdullāh b. Abī Rabīʿah with lavish gifts to bribe the bishops and petition King **[[al-Najāshī (Aṣḥamah)]]** for extradition. The Negus summoned the Muslims. Jaʿfar b. Abī Ṭālib delivered his immortal speech articulating the contrast between pre-Islamic Jāhiliyyah and Islamic monotheism, compassion, and virtue:

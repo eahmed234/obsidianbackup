@@ -12,7 +12,7 @@ tags:
   - trial
 date_period: Shawwāl, 10th Year of Nubūwah (3 BH / 619 CE)
 location: "al-Ṭāʾif"
-companion: "[[Zayd b. Ḥārithah]] (ra)"
+companion: "[[Zayd b. Ḥārithah]] ﵁"
 opposing_chieftains: "Sons of ʿAbd Yālīl (Thaqīf)"
 notable_figure: "ʿAddās (the Christian slave)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 420–435)"
@@ -22,7 +22,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 420–435)"
 *The Prophetic Mission to al-Ṭāʾif and the Supplication of Helplessness*
 
 ## 1. Overview
-Seeking an ally to protect the message of Islam after the death of Abū Ṭālib, the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ journeyed on foot sixty miles through rugged mountain terrain to **al-Ṭāʾif**, accompanied only by his adopted son **[[Zayd b. Ḥārithah]]** (ra).
+Seeking an ally to protect the message of Islam after the death of Abū Ṭālib, the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ journeyed on foot sixty miles through rugged mountain terrain to **al-Ṭāʾif**, accompanied only by his adopted son **[[Zayd b. Ḥārithah]]** ﵁.
 
 He presented the faith to the three brothers who governed Thaqīf: ʿAbd Yālīl, Masʿūd, and Ḥabīb. They rejected him with insolence and set their youths, slaves, and ruffians to form two lines along the path, stoning the Messenger of Allāh ﷺ until his sandals were caked with blood. Zayd b. Ḥārithah shielded him with his own body, suffering deep head wounds (*Subul al-Hudā*, 2:422).
 

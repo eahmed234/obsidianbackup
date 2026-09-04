@@ -15,7 +15,7 @@ date_hijri: Rajab 9 AH (October 630 CE)
 location: "Tabūk (northern border facing Byzantine Syria)"
 forces_muslim: 30,000 warriors (largest army mobilized in the Sīrah)
 commander: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
-deputy_in_medina: "[[ʿAlī b. Abī Ṭālib]] (ra)"
+deputy_in_medina: "[[ʿAlī b. Abī Ṭālib]] ﵁"
 pivotal_moment: "The Prophet ﷺ praying Fajr behind [[ʿAbd al-Raḥmān b. ʿAwf]]"
 quranic_reference: "[[Sūrat al-Tawbah]] (9:38–129)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 430–480)"

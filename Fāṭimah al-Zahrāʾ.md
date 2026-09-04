@@ -11,7 +11,7 @@ tags:
   - daughter_of_prophet
 birth: ~18 BH (approx. 605 CE, Makkah)
 death: 3 Jumādā al-Ākhirah 11 AH (six months after the Prophet ﷺ, aged ~29; buried in al-Baqīʿ)
-spouse: "[[ʿAlī b. Abī Ṭālib]] (ra)"
+spouse: "[[ʿAlī b. Abī Ṭālib]] ﵁"
 children:
   - al-Ḥasan
   - al-Ḥusayn

@@ -16,7 +16,7 @@ date_hijri: Shawwāl 5 AH (March 627 CE)
 location: "Northern perimeter of [[al-Madīnah al-Munawwarah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
 commanders_enemy: "[[Abū Sufyān b. Ḥarb]] (Supreme Confederate Commander)"
-tactical_architect: "[[Salmān al-Fārisī]] (ra)"
+tactical_architect: "[[Salmān al-Fārisī]] ﵁"
 forces_muslim: 3,000 defenders
 forces_enemy: 10,000 confederates (Quraysh, Ghaṭafān, Banū Asad)
 quranic_reference: "[[Sūrat al-Aḥzāb]] (33:9–27)"
@@ -30,7 +30,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 365–420)"
 Instigated by the exiled chieftains of Banū al-Naḍīr in Khaybar (led by Ḥuyayy b. Akhṭab), an unprecedented confederacy of 10,000 polytheist warriors marched upon Medina to annihilate Islam once and for all.
 
 ## 2. The Digging of the Trench (*Khandaq*)
-Facing impossible odds, **[[Salmān al-Fārisī]]** (ra) proposed a defensive siege innovation unknown to the Arabs: digging a deep defensive trench across the vulnerable, unfortified northern flatland of Medina. The Prophet ﷺ personally swung the pickaxe, breaking unyielding boulders; as sparks flew, he prophesied the future conquest of the Persian, Byzantine, and Yemeni empires (*Subul al-Hudā*, 4:375).
+Facing impossible odds, **[[Salmān al-Fārisī]]** ﵁ proposed a defensive siege innovation unknown to the Arabs: digging a deep defensive trench across the vulnerable, unfortified northern flatland of Medina. The Prophet ﷺ personally swung the pickaxe, breaking unyielding boulders; as sparks flew, he prophesied the future conquest of the Persian, Byzantine, and Yemeni empires (*Subul al-Hudā*, 4:375).
 
 ## 3. The Betrayal of Banū Qurayẓah & Divine Wind
 While freezing hunger and terror tested the believers to their limits, **[[Banū Qurayẓah]]** tore up their peace treaty and coordinated an assault from the southern rear. In response, **Nuʿaym b. Masʿūd** skillfully sowed discord between Quraysh and the Jews. 

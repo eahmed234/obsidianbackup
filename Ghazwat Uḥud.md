@@ -27,7 +27,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 191–315)"
 Seeking vengeance for their elite slain at [[Ghazwat Badr al-Kubrā]], Quraysh mobilized 3,000 warriors financed by Abū Sufyān's preserved caravan profits. They marched north and encamped below **Mount Uḥud**.
 
 ## 2. Tactical Deployment & The Archers' Hill
-The Prophet ﷺ stationed fifty elite marksmen atop Mount ʿAynayn (Mount of Archers) under **[[ʿAbdullāh b. Jubayr]]** (ra) with strict non-negotiable orders:
+The Prophet ﷺ stationed fifty elite marksmen atop Mount ʿAynayn (Mount of Archers) under **[[ʿAbdullāh b. Jubayr]]** ﵁ with strict non-negotiable orders:
 > «احْمُوا ظُهُورَنَا، فَإِنْ رَأَيْتُمُونَا نُقْتَلُ فَلَا تَنْصُرُونَا، وَإِنْ رَأَيْتُمُونَا غَنِمْنَا فَلَا تُشْرِكُونَا!»
 > *"Guard our backs! Even if you see us snatched by birds of prey, do not abandon your post until I summon you!"* (*Subul al-Hudā*, 4:205).
 
