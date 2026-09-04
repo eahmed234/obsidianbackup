@@ -198,6 +198,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Mukhayrīq]] ﵁ — *Rabbi of Medina who accepted Islam at Uḥud and endowed the Prophet's seven orchards*
 - [[Yāmīn b. ʿUmayr]] ﵁ — *Israeli Companion of Banū al-Naḍīr who preserved his estates and aided Tabūk*
 - [[Abū Saʿd b. Wahb]] ﵁ — *Companion of Banū al-Naḍīr who embraced Islam during the siege and narrated on water rights*
+- [[Khallād b. Suwayd]] ﵁ — *Badri veteran and martyr of Banū Qurayẓah who was granted the reward of two martyrs*
+- [[Abū Sinān b. Miḥṣan]] ﵁ — *Elder brother of ʿUkkāshah b. Miḥṣan, Badri veteran, and martyr of Banū Qurayẓah*
 - [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
 - [[Anas b. al-Naḍr]] ﵁ — *Hero of Uḥud who scented the fragrance of Paradise*
 - [[Ḥanẓalah b. Abī ʿĀmir]] ﵁ — *Ghasīl al-Malāʾikah (Washed by the Angels)*
