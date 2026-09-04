@@ -57,6 +57,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
+- [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Ghazwat Ḥunayn]] (8 AH) — *The Lesson against Pride in Numbers*
@@ -250,10 +251,9 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Qatādah al-Anṣārī]] ﵁ — *Fāris Rasūlillāh ﷺ, supreme cavalry champion, and slayer of ʿAbd al-Raḥmān b. ʿUyaynah*
 - [[Muḥraz b. Naḍlah]] ﵁ — *al-Akhram; Badri champion and sole martyr of Dhī Qarad who chose martyrdom over safety*
 
-
-
-
-
+### Companions & Sentry of Dhāt al-Riqāʿ
+- [[ʿAbbād b. Bishr]] ﵁ — *The luminous sentry of the defile who bore three arrows in prayer and hero of al-Yamāmah*
+- [[Abū Mūsā al-Ashʿarī]] ﵁ — *The melodious reciter of the Sunnah, jurist of Basra, and narrator of the rags of Dhāt al-Riqāʿ*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
