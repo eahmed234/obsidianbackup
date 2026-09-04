@@ -42,6 +42,26 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 18–177)"
 > [!NOTE] Scholarly Provenance & Primary Source
 > This entry is derived primarily from the encyclopedic compilation ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** (*The Paths of Guidance and Righteousness in the Life of the Best of Servants*) by the 10th-century Shāfiʿī ḥadīth master and historian **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), Volume 4, *al-Bāb al-Sābiʿ: Fī Ghazwat Badr al-Kubrā* (pp. 18–177). Al-Ṣāliḥī synthesizes over three hundred primary works, prominently synthesizing [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], [[al-Ṭabarī]], [[al-Suhaylī]] (*al-Rawḍ al-Unuf*), and [[Ibn Kathīr]] (*al-Bidāyah wan-Nihāyah*).
 
+> [!WARNING] Citation Audit (this entry)
+> Nine inline page citations in this entry pointed a few pages away from the material they support,
+> and have been corrected against the book's own chapter headings: the killing of
+> [[ʿUmayr b. al-Ḥumām]] ﵁ is at **4:45** (not 4:49); of [[Umayyah b. Khalaf]] ☠ at **4:46**
+> (not 4:51); of [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *"the killing of the Pharaoh of this Ummah"* — at
+> **4:50** (not 4:52–53); the casting of the pebbles at **4:47** (not 4:48); the *sīmā* of the angels
+> at **4:43** (not 4:40); the dragging of the Qurashī dead to the well at **4:54** (not 4:55); the
+> Companions' disagreement over the captives at **4:60** (not 4:68); and the captives' arrival at
+> Medina at **4:65** (not 4:66).
+>
+> A further five were corrected against the page topics themselves: Abū Sufyān's coastal escape and
+> Abū Jahl's refusal to turn back are at **4:29** (not 4:25); the cleansing rain at **4:30** (not
+> 4:29); the marking of the *maṣāriʿ* — where the Prophet ﷺ pointed and *"not one of them exceeded the
+> place of his indication"* — at **4:31** (not 4:30); and the straightening of the ranks with
+> [[Sawād b. Ghaziyyah]] ﵁ at **4:34** (not 4:33).
+>
+> The troop figures in the frontmatter were also corrected — see the notes there. Fourteen citation
+> corrections in all; no claim in this entry was found to be fabricated, and the substance of the
+> narrative held up throughout.
+
 ---
 
 ## 1. Nomenclature and Theological Distinction
@@ -137,7 +157,7 @@ The force numbered between **313 and 317 men**:
 ### The Coastal Escape of Abū Sufyān
 Demonstrating extreme shrewdness, Abū Sufyān avoided the standard interior desert caravansary routes. Approaching Badr, he personally rode ahead, inspecting the watering stations. Meeting **[[Majdī b. ʿAmr al-Juhanī]]**, he inquired if any travelers had passed. Majdī replied that two mounted scouts had halted by the hillock, drank water, and departed. Abū Sufyān rode to their resting spot, broke open their camel droppings, and detected date pits:
 > *"By Allāh, this is the fodder of Yathrib!"* (*ʿalaf Yathrib* — dates fed to camels only in Medina).
-He instantly pivoted west, steering his caravan along the perilous Red Sea shoreline (*al-Sāḥil*), evading the Muslim interceptors entirely (*Subul al-Hudā*, 4:25).
+He instantly pivoted west, steering his caravan along the perilous Red Sea shoreline (*al-Sāḥil*), evading the Muslim interceptors entirely (*Subul al-Hudā*, 4:29).
 
 Abū Sufyān then dispatched an urgent rider to the marching Meccan army:
 > *"Turn back, for you only mobilized to safeguard your wealth, and Allāh has delivered your caravan."*
@@ -146,7 +166,7 @@ Abū Sufyān then dispatched an urgent rider to the marching Meccan army:
 Upon receiving Abū Sufyān's letter at [[al-Juḥfah]], the sensible elements within Quraysh advocated an immediate bloodless return. Chief among them was **[[al-Akhnas b. Sharīq]]**, who successfully persuaded the entirety of his clan, [[Banū Zuhrah]], to turn back (around 300 men; not a single Zuhrī fought at Badr). Similarly, [[Banū Hāshim]] under [[Ṭālib b. Abī Ṭālib]] sought to withdraw after insulting taunts from the Makhzūm clan.
 
 However, **[[Abū Jahl (ʿAmr b. Hishām)]]** haughtily bellowed:
-> *"By Allāh, we will not return until we march down to Badr, spend three days there, slaughter livestock, feast upon meat, pour out wine, and have the songstresses play for us, so that all of Arabia hears of our expedition and fears us for the rest of time!"* (*Subul al-Hudā*, 4:25).
+> *"By Allāh, we will not return until we march down to Badr, spend three days there, slaughter livestock, feast upon meat, pour out wine, and have the songstresses play for us, so that all of Arabia hears of our expedition and fears us for the rest of time!"* (*Subul al-Hudā*, 4:29).
 
 ```mermaid
 graph TD
@@ -290,13 +310,13 @@ $$\text{إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً 
 ### 2. The Cleansing Rain (*al-Maṭar*)
 Allāh sent down rainfall upon the valley:
 - Upon Quraysh, it fell as a torrent, turning their muddy valley ground (*al-ʿUdwah al-Quṣwā*) into a slippery, impassable mire.
-- Upon the Muslims, it fell as a gentle shower that cleansed them of bodily impurities, alleviated the thirst of their pack animals, and consolidated the loose sand (*al-raml al-dahās*) into firm, solid turf beneath their footsteps (Qurʾān 8:11; *Subul al-Hudā*, 4:29).
+- Upon the Muslims, it fell as a gentle shower that cleansed them of bodily impurities, alleviated the thirst of their pack animals, and consolidated the loose sand (*al-raml al-dahās*) into firm, solid turf beneath their footsteps (Qurʾān 8:11; *Subul al-Hudā*, 4:30).
 
 ### 3. The Prophetic Stride (*Maṣāriʿ al-Qawm*)
 In the stillness of the night, the Messenger of Allāh ﷺ walked the sands of Badr with a staff in hand, placing it down at precise coordinates and foretelling:
 > «هَذَا مَصْرَعُ أَبِي جَهْلٍ غَدًا إِنْ شَاءَ اللَّهُ، هَذَا مَصْرَعُ عُتْبَةَ، هَذَا مَصْرَعُ شَيْبَةَ، هَذَا مَصْرَعُ أُمَيَّةَ بْنِ خَلَفٍ...»
 > *"This is the deathplace of Abū Jahl tomorrow, if Allāh wills; this is the deathplace of ʿUtbah; this is the deathplace of Shaybah; this is the deathplace of Umayyah b. Khalaf..."*
-ʿUmar b. al-Khaṭṭāb ﵁ swore by Allāh: *"Not a single one of them exceeded the boundary of the spot where the Messenger of Allāh ﷺ placed his hand!"* (*Ṣaḥīḥ Muslim*, no. 1779; *Subul al-Hudā*, 4:30).
+ʿUmar b. al-Khaṭṭāb ﵁ swore by Allāh: *"Not a single one of them exceeded the boundary of the spot where the Messenger of Allāh ﷺ placed his hand!"* (*Ṣaḥīḥ Muslim*, no. 1779; *Subul al-Hudā*, 4:31).
 
 ---
 
@@ -309,7 +329,7 @@ $$\text{إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَات
 
 While straightening the ranks with an unfeathered arrow shaft, the Prophet ﷺ tapped the protruding belly of **[[Sawād b. Ghaziyyah]]** ﵁, saying: *«اسْتَوِ يَا سَوَادُ»* (*"Straighten up, O Sawād!"*). Sawād cried: *"You have hurt me, O Messenger of Allāh, and Allāh sent you with truth and justice; let me have retaliation (*aqidnī*)!"*
 The Prophet ﷺ unhesitatingly uncovered his blessed abdomen and said: *«اسْتَقِدْ»* (*"Take your retaliation."*). Sawād embraced him and kissed his belly. When the Prophet ﷺ asked him why he had done so, Sawād replied:
-> *"O Messenger of Allāh, you see what we are facing. I wanted the very last moment of my life in this world to be my skin touching your skin!"* The Prophet ﷺ prayed for his welfare (*Subul al-Hudā*, 4:33).
+> *"O Messenger of Allāh, you see what we are facing. I wanted the very last moment of my life in this world to be my skin touching your skin!"* The Prophet ﷺ prayed for his welfare (*Subul al-Hudā*, 4:34).
 
 ### The Battle Cry (*al-Shiʿār*)
 The armies utilized standardized vocal recognition codes (*al-shiʿār*) to prevent friendly fire and unify hearts (*Subul al-Hudā*, 4:44):
@@ -395,7 +415,7 @@ graph LR
 ### The Sīmā (Emblems) and Weapons of the Angels
 Al-Ṣāliḥī details the physical manifestations of the angelic host (*Subul al-Hudā*, 4:39–44):
 - **Angelic Insignia**: The angels descended upon piebald horses (*khayl bulq*), donning white and yellow turbans with tails hanging between their shoulder blades, in the identical likeness of **[[al-Zubayr b. al-ʿAwwām]]**, whose personal bravery and yellow turban were honored by Allāh (*Subul al-Hudā*, 4:44).
-- **Physical Impact**: Companions like [[Sahl b. Ḥunayf]] reported: *"By Allāh, one of us would point his sword at the neck of a polytheist, and his head would tumble from his body before the blade made contact!"* (*Subul al-Hudā*, 4:40).
+- **Physical Impact**: Companions like [[Sahl b. Ḥunayf]] reported: *"By Allāh, one of us would point his sword at the neck of a polytheist, and his head would tumble from his body before the blade made contact!"* (*Subul al-Hudā*, 4:43).
 - **Burns of Light**: Those slain by the angels bore distinctive whip marks and singed wounds across their necks and fingertips, fulfilling the verse:
   $$\text{فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ}$$
   > *"So strike above the necks and strike from them every fingertip."* (Qurʾān 8:12).
@@ -412,7 +432,7 @@ $$\text{سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الد�
 The Prophet ﷺ instructed ʿAlī: *«نَاوِلْنِي كَفًّا مِنْ حَصْبَاءَ»* (*"Hand me a handful of pebbles."*). He cast the dust and gravel into the faces of the advancing Meccan army, crying:
 > «شَاهَتِ الْوُجُوهُ!»
 > *"Disfigured be their faces!"*
-A sudden supernatural wind carried the dust into the eyes, nostrils, and mouths of every single polytheist warrior, throwing their ranks into utter chaos and blindness (*Subul al-Hudā*, 4:48). Regarding this, Allāh revealed:
+A sudden supernatural wind carried the dust into the eyes, nostrils, and mouths of every single polytheist warrior, throwing their ranks into utter chaos and blindness (*Subul al-Hudā*, 4:47). Regarding this, Allāh revealed:
 $$\text{فَلَمْ تَقْتُلُوهُمْ وَلَكِنَّ اللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَىٰ}$$
 > *"And you did not kill them, but it was Allāh who killed them. And you threw not when you threw, but it was Allāh who threw..."* (Qurʾān 8:17).
 
@@ -422,25 +442,25 @@ Hearing the Prophet ﷺ declare:
 > *"Rise forth to a Paradise whose width is like the heavens and the earth!"*
 The Khazrajī warrior **[[ʿUmayr b. al-Ḥumām]]** ﵁ pulled out several dates to nourish himself before fighting. He paused, stared at the dates, and declared:
 > *"Bakhin! Bakhin! (Splendid! Splendid!) If I live long enough to eat these dates, that would be a long life indeed!"*
-He cast the dates aside, charged into the thick of the fray, and fought until he achieved martyrdom—becoming the first martyr of the Anṣār at Badr (*Subul al-Hudā*, 4:49; *Ṣaḥīḥ Muslim*, no. 1901).
+He cast the dates aside, charged into the thick of the fray, and fought until he achieved martyrdom—becoming the first martyr of the Anṣār at Badr (*Subul al-Hudā*, 4:45; *Ṣaḥīḥ Muslim*, no. 1901).
 
 ### The Slaying of Umayyah b. Khalaf
 **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ had taken his pre-Islamic acquaintance **[[Umayyah b. Khalaf]]** and his son ʿAlī into protective custody as captives. As they walked, **[[Bilāl b. Rabāḥ]]** ﵁—who had endured torturous agony pinned beneath incandescent rocks in the sands of Makkah at Umayyah's hand—spotted his former tormentor. Bilāl bellowed:
 > «رَأْسُ الْكُفْرِ أُمَيَّةُ بْنُ خَلَفٍ! لَا نَجَوْتُ إِنْ نَجَا!»
 > *"The head of disbelief, Umayyah b. Khalaf! May I not survive if he survives!"*
-Bilāl summoned the Anṣār, who surrounded them. Although ʿAbd al-Raḥmān tried to shield them with his own body, the righteous wrath of the oppressed overwhelmed the tyrant, and Umayyah and his son were slain on the spot (*Subul al-Hudā*, 4:51; *Ṣaḥīḥ al-Bukhārī*, no. 2301).
+Bilāl summoned the Anṣār, who surrounded them. Although ʿAbd al-Raḥmān tried to shield them with his own body, the righteous wrath of the oppressed overwhelmed the tyrant, and Umayyah and his son were slain on the spot (*Subul al-Hudā*, 4:46; *Ṣaḥīḥ al-Bukhārī*, no. 2301).
 
 ### The Fall of Abū Jahl (Pharaoh of the Ummah)
 Two teenage Anṣārī youths from [[Banū Salimah]], **[[Muʿādh b. ʿAmr b. al-Jamūḥ]]** and **[[Muʿawwidh b. ʿAfrāʾ]]**, approached ʿAbd al-Raḥmān b. ʿAwf in the ranks, each quietly whispering:
 > *"O uncle, show me Abū Jahl! I have heard he insults the Messenger of Allāh ﷺ; by Allāh, if I see him, my shadow shall not part from his shadow until the one of us destined to die first is slain!"*
 
-When ʿAbd al-Raḥmān pointed him out surrounded by an armored thicket of swords, the two youths darted like two falcons and struck him down, severing his leg. ʿIkrimah b. Abī Jahl struck Muʿādh’s arm, leaving it dangling by its skin; Muʿādh stepped upon his own severed arm with his foot and tore it off to continue fighting unrestricted (*Subul al-Hudā*, 4:52).
+When ʿAbd al-Raḥmān pointed him out surrounded by an armored thicket of swords, the two youths darted like two falcons and struck him down, severing his leg. ʿIkrimah b. Abī Jahl struck Muʿādh’s arm, leaving it dangling by its skin; Muʿādh stepped upon his own severed arm with his foot and tore it off to continue fighting unrestricted (*Subul al-Hudā*, 4:50).
 
 Following the rout, the Prophet ﷺ ordered a search for Abū Jahl. **[[ʿAbdullāh b. Masʿūd]]** ﵁—the small, frail shepherd whom Abū Jahl had once slapped and humiliated in Makkah—found him drawing his final breaths. Ibn Masʿūd stepped upon his neck. Abū Jahl sneered with his dying breath:
 > *"You have ascended a difficult peak, you lowly shepherd of sheep! Who is victorious today?"*
 Ibn Masʿūd replied: *"Allāh and His Messenger, O enemy of Allāh!"* Ibn Masʿūd severed his head and brought it before the Prophet ﷺ, who praised Allāh three times and proclaimed:
 > «هَذَا فِرْعَوْنُ هَذِهِ الْأُمَّةِ!»
-> *"This was the Pharaoh of this Ummah!"* (*Subul al-Hudā*, 4:53).
+> *"This was the Pharaoh of this Ummah!"* (*Subul al-Hudā*, 4:50).
 
 ---
 
@@ -467,7 +487,7 @@ The Prophet ﷺ ordered the corpses of twenty-four polytheist ringleaders cast i
 ʿUmar b. al-Khaṭṭāb ﵁ asked: *"O Messenger of Allāh, do you speak to bodies that have no spirits?"*
 The Prophet ﷺ responded:
 > «مَا أَنْتُمْ بِأَسْمَعَ لِمَا أَقُولُ مِنْهُمْ، غَيْرَ أَنَّهُمْ لَا يَسْتَطِيعُونَ أَنْ يَرُدُّوا عَلَيَّ شَيْئًا»
-> *"You do not hear what I say any better than they do, except that they are unable to send any reply back to me."* (*Subul al-Hudā*, 4:55; *Ṣaḥīḥ al-Bukhārī*, no. 3976; *Ṣaḥīḥ Muslim*, no. 2874).
+> *"You do not hear what I say any better than they do, except that they are unable to send any reply back to me."* (*Subul al-Hudā*, 4:54; *Ṣaḥīḥ al-Bukhārī*, no. 3976; *Ṣaḥīḥ Muslim*, no. 2874).
 
 ### Dispatch of Tidings to Medina
 The Prophet ﷺ dispatched two riders to deliver the joyous news to Medina:
@@ -493,13 +513,13 @@ The Prophet ﷺ convened a shūrā on the treatment of the seventy captives:
 
 The Prophet ﷺ chose the compassionate counsel of Abū Bakr. Captives were ransomed between 1,000 and 4,000 dirhams. Those literate were granted freedom if they taught ten Muslim children of Medina how to read and write. Captives who were penniless were set free without ransom (*mannan bi-ghayri fidāʾ*).
 
-Subsequently, the divine gentle admonition was revealed (*Subul al-Hudā*, 4:68):
+Subsequently, the divine gentle admonition was revealed (*Subul al-Hudā*, 4:60):
 $$\text{مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ}$$
 > *"It is not for a prophet to have captives until he has thoroughly subdued the land..."* (Qurʾān 8:67).
 
 ### Treatment of the Prisoners
 The captives later testified to the sublime ethics of the Companions. One captive, Abū ʿAzīz b. ʿUmayr (brother of Muṣʿab), recorded:
-> *"The people of Medina would give me the bread to eat while they themselves subsisted on mere dates, in compliance with the instruction of the Messenger of Allāh ﷺ to treat captives with kindness"* (*Subul al-Hudā*, 4:66).
+> *"The people of Medina would give me the bread to eat while they themselves subsisted on mere dates, in compliance with the instruction of the Messenger of Allāh ﷺ to treat captives with kindness"* (*Subul al-Hudā*, 4:65).
 
 ---
 
