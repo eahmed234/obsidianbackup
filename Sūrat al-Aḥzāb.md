@@ -24,6 +24,26 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 363–423)"
 # Sūrat al-Aḥzāb (سورة الأحزاب)
 *The Confederates — The Siege of Medina and the Social Law of Islam*
 
+## Verses of This Sūrah the Book Quotes, and Where
+
+The book marks its own Qurʾānic quotations with a bracketed reference (`[الأنفال ١١]` and the like),
+so this table is taken from the book's own tagging rather than inferred from what a page is about.
+
+| Ayah | Page | Where it falls in the book |
+| :--- | :--- | :--- |
+| **33:9** | 4:386, 4:82 | The confederates turned back |
+| **33:10** | 4:374 | *"when eyes turned aside and hearts reached the throats"* |
+| **33:12** | 4:374 | The hypocrites' words during the siege |
+| **33:13** | 4:375, 4:387 | |
+| **33:22** | 4:373 | *"when the believers saw the confederates"* |
+| **33:23** | 4:216, 4:226 | Quoted in the **Uḥud** chapter, of the martyrs |
+| **33:25** | 4:214, 4:387 | |
+
+The `primary_source` range (vol. 4, pp. 363–423) covers the Khandaq material. Note that **33:23 and
+33:25 are also quoted in the Uḥud chapter** at 4:214–226, outside that range.
+
+---
+
 ## 1. Overview
 Revealed during and immediately following the existential crisis of the Battle of the Trench (**[[Ghazwat al-Khandaq]]**) and the subsequent siege of **[[Ghazwat Banī Qurayẓah]]** in 5 AH.
 

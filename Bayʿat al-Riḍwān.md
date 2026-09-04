@@ -50,7 +50,7 @@ For the number present, the book gives al-Barāʾ's own testimony:
 The pledge is named in **[[Sūrat al-Fatḥ]]**:
 > ﴿لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ﴾
 > *"Allāh was well pleased with the believers when they pledged allegiance to you beneath the tree."*
-> (48:18)
+> (48:18; quoted by al-Ṣāliḥī at *Subul al-Hudā*, 11:448)
 
 From this verse — *raḍiya Allāhu ʿan al-muʾminīn* — the pledge takes its name, and those who gave it
 became known as **Ahl al-Riḍwān** (or *Ahl al-Shajarah*), a rank of permanent distinction.
