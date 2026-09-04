@@ -30,7 +30,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 363–396)"
 *The Battle of the Trench — The Grand Confederate Siege and the Day the Earth Shook*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived exclusively from ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Tāsiʿ ʿAshar fī Ghazwat al-Khandaq* (pp. 363–396). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], and the classical *maghāzī* authorities.
+> This master entry is derived exclusively from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Tāsiʿ ʿAshar fī Ghazwat al-Khandaq* (pp. 363–396). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], and the classical *maghāzī* authorities.
 
 ---
 

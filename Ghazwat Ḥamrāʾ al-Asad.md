@@ -28,7 +28,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 308–316)"
 *The Expedition of Ḥamrāʾ al-Asad — The Pursuit of Moral Deterrence and the Stand of the Wounded*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived exclusively from ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Rābiʿ ʿAshar fī Ghazwat Ḥamrāʾ al-Asad* (pp. 308–316). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
+> This master entry is derived exclusively from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Rābiʿ ʿAshar fī Ghazwat Ḥamrāʾ al-Asad* (pp. 308–316). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
 
 ---
 

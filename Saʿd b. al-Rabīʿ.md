@@ -33,7 +33,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 363–365; vol. 5, 
 
 ## 1. The Fraternization (*al-Muʾākhāh*) with ʿAbd al-Raḥmān b. ʿAwf
 
-Following the [[al-Hijrah]], the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ established institutional brotherhood (*al-muʾākhāh*) between the Muhājirūn and Anṣār. He paired **Saʿd b. al-Rabīʿ** with **[[ʿAbd al-Raḥmān b. ʿAwf]]** (*Subul al-Hudā*, 3:365).
+Following the [[al-Hijrah ilā al-Madīnah|al-Hijrah]], the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ established institutional brotherhood (*al-muʾākhāh*) between the Muhājirūn and Anṣār. He paired **Saʿd b. al-Rabīʿ** with **[[ʿAbd al-Raḥmān b. ʿAwf]]** (*Subul al-Hudā*, 3:365).
 
 Demonstrating the pinnacle of Quranic altruism (*al-īthār*):
 $$\text{وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ}$$

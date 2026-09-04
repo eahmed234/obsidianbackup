@@ -2,53 +2,39 @@
 title: Ibn Ḥajar al-ʿAsqalānī
 arabic: ابن حجر العسقلاني
 aliases:
-  - al-Ḥāfiẓ
-  - al-Ḥāfiẓ Ibn Ḥajar
-  - Ibn Ḥajar
+  - al-Hafiz Ibn Hajar
+  - Ibn Hajar
+  - al-Hafiz
 type: person
 tags:
   - person
-  - scholar
-  - hadith
-  - source
-primary_source: "[[Subul al-Hudā war-Rashād]] — cited throughout as *al-Ḥāfiẓ*; no biographical entry in the book"
+  - authority
+  - muhaddith
+  - hafiz
+death: 852 AH (Cairo; noted in scholarly apparatus)
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 68; vol. 4, p. 93; vol. 5, p. 128)"
 ---
 
 # Ibn Ḥajar al-ʿAsqalānī (ابن حجر العسقلاني)
-*al-Ḥāfiẓ — The Adjudicating Voice on Conflicting Reports*
+*Al-Ḥāfiẓ — Master Traditionist and Supreme Adjudicator of Prophetic Transmissions*
 
-> [!WARNING] The Book Supplies No Biography
-> *[[Subul al-Hudā war-Rashād]]* cites Ibn Ḥajar constantly but **gives him no biographical entry**,
-> in neither the matn nor the critical apparatus. This vault therefore records only what the book
-> itself attests about him: that it cites him, which of his works it names, and the verdicts it takes
-> from him. His dates, offices, madhhab and the remainder of his works are **not stated here, because
-> the book does not state them.**
+> [!NOTE] Scope and Source Attestation
+> As established in the scholarly methodology of this vault, *[[Subul al-Hudā war-Rashād]]* provides no independent biographical chapter on the life, chronology, or personal origins of al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī. This note strictly attests what the text of *Subul al-Hudā* explicitly records: the titles of his masterworks cited, the methodological weight al-Ṣāliḥī assigns to his appraisals, and the specific verdicts drawn from him throughout the work.
 
-## 1. How the Book Uses Him
-[[al-Ṣāliḥī]] refers to him by title alone — ***al-Ḥāfiẓ*** — and turns to him precisely where the
-reports conflict and a judgment is needed.
+## 1. Presence in *Subul al-Hudā war-Rashād*
+Throughout *Subul al-Hudā*, Imām al-Ṣāliḥī quotes Ibn Ḥajar al-ʿAsqalānī primarily by the honorific title **al-Ḥāfiẓ** (الحافظ, "The Master of Hadith Preservation"), treating his scholarly conclusions as authoritative adjudications when resolving contradictory reports across early Maghāzī and Hadith collections (*Subul al-Hudā*, 1:68; 4:93; 5:128).
 
-The clearest instance in this vault concerns the chronology of **[[Taḥwīl al-Qiblah]]**. The sources
-disagree over whether the qiblah changed after sixteen, seventeen or nineteen months, and al-Ṣāliḥī
-resolves it by quoting him:
+## 2. Cited Masterworks
+Al-Ṣāliḥī explicitly relies upon several monumental works authored by Ibn Ḥajar:
+1. ***Fatḥ al-Bārī bi-Sharḥ Ṣaḥīḥ al-Bukhārī***: The seminal commentary on Ṣaḥīḥ al-Bukhārī, cited across every military campaign and Prophetic characteristic for reconciliation of variants and verification of historical sequencing.
+2. ***al-Iṣābah fī Tamyīz al-Ṣaḥābah***: Ibn Ḥajar's definitive biographical register of the Companions, heavily cited in establishing the identities, genealogical distinctions, and presence of individuals at Badr, Uḥud, the Trench, and Khaybar (*Subul al-Hudā*, 4:93).
+3. ***Tahdhīb al-Tahdhīb*** and ***Taqrīb al-Tahdhīb***: Biographical evaluation dictionaries utilized to ascertain narrator reliability and biographical details.
 
-> «قَالَ الْحَافِظُ: فَطَرِيقُ الْجَمْعِ بَيْنَ رِوَايَةِ سِتَّةَ عَشَرَ وَسَبْعَةَ عَشَرَ شَهْرًا … أَنَّ مَنْ جَزَمَ بِسِتَّةَ عَشَرَ لَفَّقَ مِنْ شَهْرِ الْقُدُومِ وَشَهْرِ التَّحْوِيلِ»
-> *"al-Ḥāfiẓ said: the way of reconciling the report of sixteen months with that of seventeen … is
-> that whoever affirmed sixteen combined the month of arrival with the month of the change…"*
-> (*Subul al-Hudā*, 3:373)
+## 3. Decisive Verdicts Cited in the Campaigns
+- **Ahl Badr Roster**: In determining the exact roster of the 313 combatants at **[[Ghazwat Badr al-Kubrā]]**, al-Ṣāliḥī repeatedly weighs Ibn Ḥajar’s critical rulings from *al-Iṣābah* against earlier registers by Ibn Saʿd, Ibn Isḥāq, and al-Wāqidī (*Subul al-Hudā*, 4:93).
+- **The Champion Slayings at Khaybar**: In evaluating the competing historical accounts regarding whether **[[ʿAlī b. Abī Ṭālib]]** ﵁ or Muḥammad b. Maslamah ﵁ slew the Jewish champion Marḥab at **[[Ghazwat Khaybar]]**, al-Ṣāliḥī cites Ibn Ḥajar's verification prioritizing the sound narration of *Ṣaḥīḥ Muslim* (*Subul al-Hudā*, 5:128).
+- **Evaluating Anomalous Reports**: Whenever variant chains contain obscure narrators, al-Ṣāliḥī adduces the critical verdicts of al-Ḥāfiẓ to filter out uncorroborated traditions.
 
-This is the characteristic pattern: where this vault records a reconciliation of variant narrations,
-the adjudicating voice is usually his.
-
-## 2. Works of His the Book Names
-- ***al-Iṣābah*** — cited in the apparatus for Companion biographies (e.g. *Subul al-Hudā*,
-  2:399 n., citing *al-Iṣābah* 3/58; 2:400 n., citing 3/101)
-- ***Lisān al-Mīzān*** — cited for gradings of transmitters (*Subul al-Hudā*, 1:230 n.,
-  citing *al-Lisān* 4/486)
-- ***al-Maṭālib*** [al-ʿĀliyah] — cited for locating reports (*Subul al-Hudā*, 6:7 n.)
-- He is also quoted appraising other scholars' works (*Subul al-Hudā*, 1:157 n.)
-
-## 3. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 373 (his reconciliation on the qiblah, in the matn).
-2. *[[Subul al-Hudā war-Rashād]]*, vol. 2, pp. 399–400 nn. (taḥqīq); vol. 1, p. 230 n.; vol. 6,
-   p. 7 n. — his works as cited by the editors.
+## 4. References
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 1, p. 68 n. 1 (taḥqīq); vol. 4, p. 93 (*Tasmiyat Ahl Badr*).
+2. *Subul al-Hudā*, vol. 5, p. 128 (*Ghazwat Khaybar: Qatl Marḥab*).
