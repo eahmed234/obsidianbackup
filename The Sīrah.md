@@ -52,6 +52,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat al-Khandaq]] (5 AH) — *Battle of the Trench (The Grand Confederate Siege)*
 - [[Ghazwat Banī Qurayẓah]] (5 AH) — *Judgment of Saʿd b. Muʿādh on Wartime Treason*
 - [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
+- [[Ghazwat Dhī Qarad]] (6 AH) — *The Expedition of al-Ghābah & The Sprint of Ibn al-Akwaʿ*
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
@@ -244,6 +245,11 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### Companions of al-Ṭāʾif & The Envoys
 - [[Abū Bakrah al-Thaqafī]] ﵁ — *Freedman of the Prophet ﷺ who scaled down the ramparts of al-Ṭāʾif with a pulley rope*
 - [[Mālik b. ʿAwf al-Naṣrī]] ﵁ — *Supreme commander of Hawāzin at Ḥunayn who embraced Islam, received 100 camels, and besieged Thaqīf*
+
+### Knights & Champions of Dhī Qarad
+- [[Abū Qatādah al-Anṣārī]] ﵁ — *Fāris Rasūlillāh ﷺ, supreme cavalry champion, and slayer of ʿAbd al-Raḥmān b. ʿUyaynah*
+- [[Muḥraz b. Naḍlah]] ﵁ — *al-Akhram; Badri champion and sole martyr of Dhī Qarad who chose martyrdom over safety*
+
 
 
 
