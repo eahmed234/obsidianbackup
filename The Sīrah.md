@@ -229,6 +229,12 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Maʿqil b. Yasār]] ﵁ — *Guardian who held the tree branch during Bayʿat al-Riḍwān and builder of Nahr Maʿqil*
 - [[Budayl b. Warqāʾ al-Khuzāʿī]] ﵁ — *Chieftain of Khuzāʿah, repository of prophetic counsel, and diplomatic intermediary*
 
+### Heroes & Martyrs of Muʾtah
+- [[Thābit b. Aqram]] ﵁ — *Badri veteran of the Anṣār who seized the falling standard at Muʾtah and elevated Khālid b. al-Walīd*
+- [[al-Ḥārith b. ʿUmayr al-Azdī]] ﵁ — *The sole murdered diplomatic envoy of the Prophet ﷺ whose assassination provoked Muʾtah*
+- [[Quṭbah b. Qatādah al-ʿUdhrī]] ﵁ — *Commander of the Right Flank at Muʾtah and slayer of the Byzantine auxiliary general Mālik b. Zāfilah*
+
+
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
