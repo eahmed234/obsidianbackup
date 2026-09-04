@@ -49,7 +49,17 @@ At Badr, the Muslim army possessed only two mounted horses:
 1. **[[al-Zubayr b. al-ʿAwwām]]** ﵁ on the left wing.
 2. **al-Miqdād b. ʿAmr** ﵁ on the right wing, mounted upon his horse named *Sabḥah*.
 
-Al-Miqdād fought with relentless valor, personally capturing Meccan combatants and routing the opposing flanks (*Subul al-Hudā*, 4:24, 4:44).
+Al-Miqdād's part at Badr that the book records is his **speech in the council of war**. When the
+Prophet ﷺ consulted the people and the Muhājirūn spoke — [[Abū Bakr al-Ṣiddīq]] ﵁, then
+[[ʿUmar b. al-Khaṭṭāb]] ﵁ — al-Ṣāliḥī continues: *"then al-Miqdād b. al-Aswad rose and said: **O
+Messenger of Allāh, proceed to what Allāh has commanded you, for we are with you**"*
+(*Subul al-Hudā*, 4:26). See **[[Ghazwat Badr al-Kubrā]]**.
+
+> [!WARNING] A Claim Removed and Re-Sourced
+> An earlier version said he *"fought with relentless valor, personally capturing Meccan combatants
+> and routing the opposing flanks,"* cited to 4:24 and 4:44. Page 4:24 treats the **standards and
+> banners** and 4:44 the **battle cry**; neither supports that description, and it has been removed.
+> What the book gives him at Badr is the declaration above.
 
 ---
 
