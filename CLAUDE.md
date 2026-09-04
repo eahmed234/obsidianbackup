@@ -28,7 +28,8 @@ canonical chronological master index of events (Makkan era → early Madinan →
 plus registers for biographies, Qurʾānic nodes, and geography. **Any new note must be added to the matching
 section of this hub**, or it becomes an orphan — there is no folder structure to discover it by.
 
-Notes are typed via frontmatter `type:`, and each type has its own frontmatter shape and body skeleton:
+Notes are typed via frontmatter `type:`, and each type has its own frontmatter shape and body skeleton
+(counts below drift as notes are added; `type` is the stable part):
 
 | `type` | Count | Body pattern |
 | --- | --- | --- |
@@ -36,6 +37,7 @@ Notes are typed via frontmatter `type:`, and each type has its own frontmatter s
 | `person` | 29 | `## 1. Lineage/Before Islam`, `## 2. Key Sīrah Milestones`, death & burial |
 | `place` | 8 | Topography & significance, linked to its `primary_event` |
 | `text` | 6 | Qurʾān sūrahs: overview, then an *asbāb al-nuzūl* table (ayah / Arabic excerpt / occasion / persons) |
+| `group` | 7 | Tribes and clans: lineage, territory, role in the Sīrah, principal members |
 | `source` | 1 | [Subul al-Hudā war-Rashād.md](Subul%20al-Hudā%20war-Rashād.md) — the vault's citation backbone |
 | `index` | 1 | The hub |
 
@@ -61,7 +63,9 @@ preserve as-is: the Prophet's note is filed as `Muḥammad b. ʻAbdullah.md` (cu
 and is therefore always linked with a display alias — `[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ`.
 
 **Citations.** Every substantive claim is anchored to `*Subul al-Hudā*, <vol>:<page>` inline, with `primary_source`
-in frontmatter giving the volume and page range. Longer notes close with a numbered `## References` list in full
+in frontmatter giving the volume and page range. The bare `(vol. N, pp. X–Y)` shorthand **always means Subul
+al-Hudā** — any other work's pagination must name that work explicitly (`*al-Ṭabaqāt al-Kubrā* 3:522–525`), or it
+reads as a Subul citation and will fail validation against the volume bounds. Longer notes close with a numbered `## References` list in full
 bibliographic form (al-Ṣāliḥī, Ibn Hishām, Ibn Kathīr, al-Bukhārī, Muslim…). Never invent a volume/page number —
 if the citation isn't known, say so rather than fabricating one.
 

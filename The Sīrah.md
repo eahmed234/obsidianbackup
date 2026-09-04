@@ -125,6 +125,23 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 
 ---
 
+## 🏕️ Tribes & Clans (*al-Qabāʾil wal-Buṭūn*)
+
+### Quraysh of Makkah
+- [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
+- [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
+
+### The Anṣār of Yathrib
+- [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
+- [[al-Aws]] — *The second Anṣār tribe; allies of Qurayẓah before Islam*
+- [[Banū al-Najjār]] — *Khazrajī clan; the Prophet's ﷺ maternal kin and hosts of the Hijrah*
+- [[Banū Salimah]] — *Khazrajī clan of the western quarter*
+
+### Frontier & Outlying Tribes
+- [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
+
+---
+
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
@@ -140,6 +157,10 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ## 🕌 Classical Authorities (*al-Aʿimmah wal-Ḥuffāẓ*)
 - **[[al-Ṣāliḥī]]** — *Author of Subul al-Hudā war-Rashād (d. 942 AH)*
 - **[[Ibn Ḥajar al-ʿAsqalānī]]** — *al-Ḥāfiẓ; the adjudicating voice on conflicting reports (d. 852 AH)*
+- **[[al-Bukhārī]]** — *Ṣaḥīḥ al-Bukhārī; Kitāb al-Maghāzī (d. 256 AH)*
+- **[[Muslim]]** — *Ṣaḥīḥ Muslim; Kitāb al-Jihād wal-Siyar (d. 261 AH)*
+- **[[Ibn Saʿd]]** — *al-Ṭabaqāt al-Kubrā; the biographical register (d. 230 AH)*
+- **[[Ibn Kathīr]]** — *al-Bidāyah wan-Nihāyah & the Tafsīr (d. 774 AH)*
 
 ---
 
