@@ -20,7 +20,14 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 380–392)"
 *Abū ʿAbdillāh al-Ḥabashī — Muʾadhdhin of the Messenger of Allāh ﷺ*
 
 ## 1. Martyrdom of Patience in Makkah
-An enslaved Abyssinian tortured in the scorching sands of Makkah by Umayyah b. Khalaf, who placed heavy boulders upon his chest to force him to renounce Islam. Bilāl repeated solely: *«أَحَدٌ! أَحَدٌ!»* (*"The One! The One!"*). Ransomed and freed by **[[Abū Bakr al-Ṣiddīq]]**.
+The book gives two reports of whose he was. He *"belonged to **Banū Khalaf**, the Jumaḥīs, and when
+he was tortured for Allāh's sake over Islam, **Abū Bakr bought him** out of mercy for him and to
+rescue him from their hands"* (*Subul al-Hudā*, 2:144). In the report al-Ṣāliḥī grades as having a
+good chain, *"Bilāl belonged to a slave-girl of Banū Jumaḥ, and they used to torture him in the
+scorching sand of Makkah, **pressing his back against the burning ground** so that he might associate
+[partners with Allāh] — and he would say: **Aḥad! Aḥad!**"* — whereupon Waraqah passed by him in that
+state and swore that if they killed him he would make his grave a place of blessing
+(*Subul al-Hudā*, 2:243). See **[[Umayyah b. Khalaf]]** and **[[Abū Bakr al-Ṣiddīq]]** ﵁.
 
 ## 2. Key Sīrah Milestones
 - Appointed the first **Muʾadhdhin** of Islam in Medina (**[[Bināʾ al-Masjid al-Nabawī]]**).

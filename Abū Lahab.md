@@ -11,7 +11,7 @@ tags:
   - hashimi
   - quraysh
   - makkan_era
-death: "2 AH (Makkah), days after [[Ghazwat Badr al-Kubrā]], of al-ʿadasah"
+death: "2 AH — his *mahlak* recorded together with the arrival of the news of Badr (Subul al-Hudā 4:66)"
 relation: "Paternal uncle of the Prophet ﷺ, and his most implacable Hāshimī opponent"
 spouse: "Umm Jamīl bint Ḥarb (sister of [[Abū Sufyān b. Ḥarb]])"
 quranic_reference: "Sūrat al-Masad (111:1–5)"
@@ -41,8 +41,12 @@ and he never did.
 He did not fight at **[[Ghazwat Badr al-Kubrā]]**, but died in Makkah days afterward. Al-Ṣāliḥī
 treats the arrival of the news of Badr to the families of the slain together with the destruction of
 Abū Lahab in a single section — *dhikr wuṣūl khabar muṣāb ahl Badr ilā ahlīhim wa-mahlak Abī Lahab*
-(*Subul al-Hudā*, 4:66). He was struck with *al-ʿadasah*, a pustular affliction Quraysh feared as
-contagious, and his own family left his body untended.
+(*Subul al-Hudā*, 4:66). > [!NOTE] What the Book Does Not Say
+> An earlier version of this note said he died of *al-ʿadasah*, a pustular affliction Quraysh feared
+> as contagious, and that his family left his body untended. **Neither detail is supported here** —
+> the book uses the word *ʿadasah* only as a size comparison for the stones cast at the Elephant
+> (*Subul al-Hudā*, 1:214). Both claims have been removed; the book's own statement is simply that
+> his destruction (*mahlak*) followed the news of Badr.
 
 Al-Ṣāliḥī separately records the answered supplications of the Prophet ﷺ against his sons
 [[ʿUtbah b. Abī Lahab]] and Lahab b. Abī Lahab (*Subul al-Hudā*, 10:216, 10:220).

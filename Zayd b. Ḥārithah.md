@@ -31,12 +31,15 @@ as *"Zayd b. Ḥārithah b. Sharāḥīl al-Kalbī, **Abū Usāmah**"* (*Subul a
 **[[Banū Kalb]]**.
 
 ## 2. Enslavement and Adoption
-Seized as a boy from his mother's people of the [[Banū Kalb]] during a raid and sold in Makkah, he
-entered the household of [[Khadījah bint Khuwaylid]] ﵂, who gave him to the Prophet ﷺ. When his
-grieving father [[Ḥārithah b. Sharāḥīl]] at last traced him and came to reclaim him, Zayd chose to
-remain with the Prophet ﷺ over returning to his own family — upon which the Prophet ﷺ freed him and
-declared him his own. He was thereafter called **Zayd b. Muḥammad** until the revelation of
-[[Sūrat al-Aḥzāb]] (33:5, 33:40) restored lineage-naming.
+The book names him consistently as ***mawlā Rasūlillāh ﷺ*** — the freedman of the Messenger of
+Allāh ﷺ (*Subul al-Hudā*, 2:302) — and places him in the register of the Prophet's ﷺ freedmen
+(*Subul al-Hudā*, 11:405).
+
+> [!NOTE] What the Book Does Not Say
+> An earlier version of this note gave the account of his capture as a boy, his father coming to
+> reclaim him, his choosing to remain with the Prophet ﷺ, and his being called *Zayd b. Muḥammad*
+> until the revelation of 33:5 and 33:40. **None of that has been located in the book** and it has
+> been removed. What is attested is the *mawlā* relationship itself.
 
 ## 3. Precedence in Islam
 Among the very earliest to accept Islam — al-Ṣāliḥī groups his *islām* with that of Khadījah ﵂,
@@ -49,8 +52,14 @@ the foremost of the early believers (*Subul al-Hudā*, 2:305).
   victory at Badr to Medina — Zayd to the people of the city itself (*Subul al-Hudā*, 4:57).
 - Commanded numerous expeditions, entrusted with independent command more often than any other
   Companion.
-- Appointed **first commander** of the army at **[[Ghazwat Muʾtah]]** (8 AH), where he was martyred;
-  command passed in turn to [[Jaʿfar b. Abī Ṭālib]] ﵁ and then [[ʿAbdullāh b. Rawāḥah]] ﵁.
+- **[[Ghazwat Muʾtah]]** (8 AH): the Prophet ﷺ announced his martyrdom in his own words, as
+  [[Ibn Isḥāq]] transmits it —
+  > «أَخَذَ الرَّايَةَ زَيْدُ بْنُ حَارِثَةَ فَقَاتَلَ بِهَا حَتَّى قُتِلَ شَهِيدًا»
+  > *"Zayd b. Ḥārithah took the standard and fought with it until he was killed a martyr."*
+  > (*Subul al-Hudā*, 6:154)
+  The Prophet ﷺ then added that they had been *"raised up to me in Paradise, as the sleeper sees, upon
+  couches of gold."* Command passed to [[Jaʿfar b. Abī Ṭālib]] ﵁ and then to
+  [[ʿAbdullāh b. Rawāḥah]] ﵁.
 
 ## 5. Qurʾānic Distinction
 [[Sūrat al-Aḥzāb]] (33:37) names him directly — *«وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ
@@ -59,3 +68,4 @@ the foremost of the early believers (*Subul al-Hudā*, 2:305).
 ## 6. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, pp. 300–305 (his lineage and *islām*); vol. 11, p. 405.
 2. *[[Subul al-Hudā war-Rashād]]*, vol. 4, p. 57 (herald of Badr).
+3. *[[Subul al-Hudā war-Rashād]]*, vol. 6, p. 154 (his martyrdom at Muʾtah).

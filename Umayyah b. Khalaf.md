@@ -19,11 +19,26 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 46; glossary at vol.
 # Umayyah b. Khalaf (أمية بن خلف)
 *The Torturer of Bilāl ☠ — Slain at Badr by the Man He Had Enslaved*
 
-## 1. The Persecutor of Makkah
-A chief of Banū Jumaḥ and the owner and torturer of **[[Bilāl b. Rabāḥ]]** ﵁, whom he pinned under
-boulders in the heat of Makkah to force him to renounce Islam, and who answered only
-*«أَحَدٌ! أَحَدٌ!»* — *"The One! The One!"* Bilāl was ransomed out of his hands by
-**[[Abū Bakr al-Ṣiddīq]]** ﵁ (see *Subul al-Hudā*, 2:144).
+## 1. Banū Khalaf and the Torture of Bilāl ﵁
+He was of **Banū Jumaḥ**. The book connects **[[Bilāl b. Rabāḥ]]** ﵁ to his house, though not to him
+personally: *"for he belonged to **Banū Khalaf, the Jumaḥīs**, and when he was tortured for Allāh's
+sake over Islam, **Abū Bakr bought him** out of mercy for him and to rescue him from their hands"*
+(*Subul al-Hudā*, 2:144).
+
+A second report, which al-Ṣāliḥī grades as having a good chain (al-Zubayr b. Bakkār from ʿUrwah b.
+al-Zubayr), gives the owner differently and describes the torture:
+
+> «كَانَ بِلَالٌ لِجَارِيَةٍ مِنْ بَنِي جُمَحٍ، وَكَانُوا يُعَذِّبُونَهُ بِرَمْضَاءِ مَكَّةَ يُلْصِقُونَ ظَهْرَهُ بِالرَّمْضَاءِ لِكَيْ يُشْرِكَ فَيَقُولُ: أَحَدٌ أَحَدٌ»
+> *"Bilāl belonged to a slave-girl of Banū Jumaḥ, and they used to torture him in the scorching sand
+> of Makkah, pressing his back against the burning ground so that he might associate [partners with
+> Allāh] — and he would say: **Aḥad! Aḥad!** (The One! The One!)"* (*Subul al-Hudā*, 2:243)
+
+> [!WARNING] Two Claims Corrected
+> An earlier version of this note called Umayyah personally *"the owner and torturer of Bilāl"* and
+> said he *"pinned him under boulders."* Neither is what the book says: it attributes ownership to
+> **Banū Khalaf** as a house (2:144) and, in the better-graded report, to **a slave-girl of Banū
+> Jumaḥ** (2:243) — and the torture described is the pressing of his back to the scorching sand, not
+> boulders on the chest. Corrected.
 
 ## 2. Badr: The Reversal
 At **[[Ghazwat Badr al-Kubrā]]** he was taken under the protection of

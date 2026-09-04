@@ -22,9 +22,13 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 325–349; vol. 4, 
 *Abū al-Faḍl — Paternal Uncle of the Prophet ﷺ and Narrator of the Signs of Prophethood*
 
 ## 1. Lineage
-Son of [[ʿAbd al-Muṭṭalib]] and thus paternal uncle of the Prophet ﷺ, of the [[Banū Hāshim]]. He was
-close in age to his nephew and remained a figure of standing in Makkah, holding the office of
-provisioning the pilgrims (*siqāyah*).
+Son of [[ʿAbd al-Muṭṭalib]] and thus paternal uncle of the Prophet ﷺ, of **[[Banū Hāshim]]**.
+
+The book records that the Prophet ﷺ **gave him the *siqāyah*** — the provisioning of water to the
+pilgrims — and granted him a dispensation from spending the night at Minā on account of it:
+*al-Bāb … fī iʿṭāʾihi ﷺ lil-ʿAbbās al-siqāyah wa-rukhṣatihi lahu fī tark al-mabīt bi-Minā li-ajlihā*
+(*Subul al-Hudā*, 11:103). The *siqāyah* was among the offices [[Banū Hāshim]] had held from Hāshim
+(*Subul al-Hudā*, 1:271).
 
 ## 2. Narrator of the *Dalāʾil*
 Al-Ṣāliḥī repeatedly transmits reports of the signs preceding and surrounding the Prophet's ﷺ birth
