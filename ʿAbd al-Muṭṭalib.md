@@ -28,8 +28,9 @@ the well of Zamzam** (*al-Bāb al-Thāmin fī tajdīd ḥafr Zamzam ʿalā yad �
 which had been lost under the sands for generations (*Subul al-Hudā*, 1:187).
 
 He was chief of Makkah in the **Year of the Elephant**, and it was to him that Abrahah's incursion
-was addressed — his answer, that the Kaʿbah had a Lord who would defend it, belongs to the events
-surrounding **[[Mawlid al-Nabī]]**.
+was addressed. See **[[ʿĀm al-Fīl]]** for the full episode: his meeting with Abrahah, his prayer at the
+Kaʿbah door, and his answer that has since become proverbial — *"I am the lord of the camels, and the
+House has a Lord who will defend it."*
 
 ## 2. Arranging the Prophet's ﷺ Parentage
 It was ʿAbd al-Muṭṭalib who married his son **[[ʿAbdullāh b. ʿAbd al-Muṭṭalib]]** to

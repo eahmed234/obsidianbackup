@@ -20,6 +20,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ## 🏛️ Chronological Master Index of Events (*al-Aḥdāth wal-Maghāzī*)
 
 ### 1. The Makkan Era (العهد المكي)
+- [[ʿĀm al-Fīl]] (~53 BH / 570 CE) — *The Year of the Elephant; Abrahah's Destruction, Before His Birth*
 - [[Mawlid al-Nabī]] (~53 BH / 570 CE) — *The Year of the Elephant & Celestial Portents*
 - [[Shaqq al-Ṣadr]] (early childhood) — *The Opening of His Chest and the Removal of Shayṭān's Portion*
 - [[Riḥlat al-Shām al-Ūlā]] (~41 BH) — *Youth Journeys to Yemen and Syria; Baḥīrā's Recognition*

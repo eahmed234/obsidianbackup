@@ -65,10 +65,10 @@ claim consensus (*Subul al-Hudā*, 1:333–334). Ibn Isḥāq specifies the **tw
 passed.
 
 **Year:** Confirmed as the **Year of the Elephant** on the authority of Ibn ʿAbbās ﵄, graded ṣaḥīḥ by
-al-Ḥākim and al-Dhahabī (*Subul al-Hudā*, 1:335). Reports on the interval between Abrahah's expedition
-and the birth vary enormously — fifty-five nights (which al-Dimyāṭī judged correct), forty days, a
-month and six days, or as much as ten, thirty, or forty years (*Subul al-Hudā*, 1:336) — a spread the
-book records without resolving.
+al-Ḥākim and al-Dhahabī (*Subul al-Hudā*, 1:335) — see **[[ʿĀm al-Fīl]]** for Abrahah's expedition and
+its destruction. Reports on the interval between that expedition and the birth vary enormously —
+fifty-five nights (which al-Dimyāṭī judged correct), forty days, a month and six days, or as much as
+ten, thirty, or forty years (*Subul al-Hudā*, 1:336) — a spread the book records without resolving.
 
 **Why Rabīʿ al-Awwal and Monday:** Ibn al-Ḥājj gives four reasons this timing suited him ﷺ — among
 them that Allāh created the trees on a Monday, and that spring (*rabīʿ*) is the most temperate of
