@@ -48,6 +48,8 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ### 3. The Epoch of Major Ghazawāt (2–9 AH)
 - **[[Ghazwat Badr al-Kubrā]]** (17 Ramaḍān 2 AH) — *Yawm al-Furqān (Featured Master Entry)*
 - [[Ghazwat Banī Qaynuqāʿ]] (Shawwāl 2 AH) — *Breach of Treaty & Expulsion*
+- [[Ghazwat al-Suwayq]] (Dhū al-Ḥijjah 2 AH) — *Abū Sufyān's Hit-and-Run Raid & The Jettisoned Barley Meal*
+- [[Ghazwat Dhī Amr]] (Ṣafar 3 AH) — *Preemptive Strike in Najd & Conversion of Duʿthūr*
 - [[Ghazwat Uḥud]] (7 Shawwāl 3 AH) — *The Trial of Archers & 70 Martyrs*
 - [[Ghazwat Ḥamrāʾ al-Asad]] (8 Shawwāl 3 AH) — *The Resolute Pursuit of Deterrence*
 - [[Maʾsāt Biʾr Maʿūnah]] (4 AH) — *Massacre of the 70 Reciters & Qunūt al-Nāzilah*
@@ -259,6 +261,9 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### Companions & Sentry of Dhāt al-Riqāʿ
 - [[ʿAbbād b. Bishr]] ﵁ — *The luminous sentry of the defile who bore three arrows in prayer and hero of al-Yamāmah*
 - [[Abū Mūsā al-Ashʿarī]] ﵁ — *The melodious reciter of the Sunnah, jurist of Basra, and narrator of the rags of Dhāt al-Riqāʿ*
+
+### Companions of the Early Expeditions
+- [[Duʿthūr b. al-Ḥārith]] ﵁ — *Chieftain of Ghaṭafān who drew his sword over the Prophet at Dhū Amr, struck by Jibrīl ﵊, and embraced Islam*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
