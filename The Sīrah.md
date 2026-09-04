@@ -149,6 +149,11 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Muṣʿab b. ʿUmayr]] ﵁ — *The First Ambassador of Islam*
 - [[Bilāl b. Rabāḥ]] ﵁ — *Muʾadhdhin Rasūlillāh*
 - [[ʿAmmār b. Yāsir]] ﵁ — *The Early Martyr's Son & Slain by the Rebellious Faction*
+- [[Yāsir b. ʿĀmir]] ﵁ — *ʿAmmār's Father, Died Under Torture in Makkah*
+- [[Sumayyah bint Khayyāṭ]] ﵂ — *Umm ʿAmmār, the First Martyr of Islam*
+- [[Khabbāb b. al-Aratt]] ﵁ — *Among the First to Openly Profess Islam, Tortured on Burning Coals*
+- [[ʿĀmir b. Fuhayrah]] ﵁ — *Mawlā of Abū Bakr, Martyred at Biʾr Maʿūnah*
+- [[al-Arqam b. Abī al-Arqam]] ﵁ — *Host of the Muslims at Dār al-Arqam*
 - [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
 - [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
