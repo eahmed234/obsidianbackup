@@ -62,6 +62,49 @@ breaks the link graph. Copy names from existing notes rather than retyping them.
 preserve as-is: the Prophet's note is filed as `Muḥammad b. ʻAbdullah.md` (curly `ʻ`, undiacriticised `Abdullah`)
 and is therefore always linked with a display alias — `[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ`.
 
+## Sourcing rule (absolute)
+
+**Subul al-Hudā war-Rashād is the ONLY permitted source of content.** This is a religious text; every
+statement in every note must trace back to it and be verifiable there. This rule overrides
+helpfulness, completeness, and fluency — an incomplete note that is fully sourced is correct, and a
+rich note carrying unsourced background is defective, however accurate that background may be.
+
+**Do not add anything from general knowledge of the sīrah**, however well established: no dates,
+places, genealogies, kunyas, death years, work titles, appraisals, hadith numbers, or narrative
+detail that is not in the book. If the book does not say it, it does not go in the vault. Where a
+fact is genuinely needed and absent, say it is absent rather than supplying it.
+
+**Working method — read before writing.** A heading title or an index entry establishes only *where a
+topic is treated*, never the content of a claim. Before writing a sentence, read the page it will
+cite in `~/Documents/repos/sirah-corpus/corpus.jsonl` and write from that text. Never cite a page
+whose body you have not read.
+
+### The two tiers, and how to cite them
+
+The vault cites the Dār al-Kutub al-ʿIlmiyyah edition (Beirut, 1414/1993), which contains two
+distinct authorial voices. **Both are permitted; they must be told apart**, because they do not carry
+equal weight:
+
+| Tier | Whose words | Cite as |
+| --- | --- | --- |
+| **Matn** — al-Ṣāliḥī's own text | Imām al-Ṣāliḥī (d. 942 AH) | `*Subul al-Hudā*, 4:50` |
+| **Taḥqīq** — the editors' critical apparatus | ʿĀdil ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ (1414/1993), themselves citing al-Khulāṣah, al-Taqrīb, al-Iṣābah, al-Aʿlām | `*Subul al-Hudā*, 1:68 n. 5 (taḥqīq)` |
+
+The apparatus is where the *transmitters' biographies* live — death years, gradings, work titles. It
+is the only place in the book such material exists, so notes on the authorities depend on it
+entirely. It is never to be presented as al-Ṣāliḥī's own statement.
+
+The corpus separates the tiers mechanically: each page's `body` is matn, its `footnotes` array is
+taḥqīq.
+
+### Where the book is silent
+
+Some authorities the book cites are given no biographical entry in it — as of this audit,
+**Ibn Ḥajar al-ʿAsqalānī, Mūsā b. ʿUqbah, Ibn Kathīr and al-Ṣāliḥī himself** have none. Their notes
+must therefore record only what the book does attest — that it cites them, which of their works it
+names, and the verdicts it takes from them — and must say plainly that the book supplies no
+biography. Do not fill the gap from elsewhere.
+
 **Citations.** Every substantive claim is anchored to `*Subul al-Hudā*, <vol>:<page>` inline, with `primary_source`
 in frontmatter giving the volume and page range. The bare `(vol. N, pp. X–Y)` shorthand **always means Subul
 al-Hudā** — any other work's pagination must name that work explicitly (`*al-Ṭabaqāt al-Kubrā* 3:522–525`), or it
