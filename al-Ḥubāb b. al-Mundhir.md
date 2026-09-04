@@ -66,7 +66,20 @@ This precedent directly parallels the famous hadith in *Ṣaḥīḥ Muslim*:
 
 Al-Ḥubāb witnessed all major campaigns alongside the Prophet ﷺ:
 - **[[Ghazwat Uḥud]] (3 AH)**: When panic spread following the archers' descent, al-Ḥubāb stood resolute amongst the steadfast cadre guarding the Prophet ﷺ.
-- **[[Ghazwat Khaybar]] (7 AH)**: Al-Ḥubāb advised the Prophet ﷺ regarding the tactical vulnerability of encamping near the fort of Naṭāh due to malaria-ridden dampness and enemy missile range. The Prophet ﷺ praised his assessment and relocated the camp (*Subul al-Hudā*, 5:124).
+- **[[Ghazwat Banī Qurayẓah]] (5 AH)**: he came to the Prophet ﷺ together with
+  **[[Saʿd b. ʿUbādah]]** ﵁ and the two of them said: *"O Messenger of Allāh, **[[al-Aws]] have found
+  the killing of Banū Qurayẓah hard, because of their alliance with them**"* — to which
+  [[Saʿd b. Muʿādh]] ﵁ replied that no one of the Aws in whom there was good disliked it
+  (*Subul al-Hudā*, 5:12).
+- **The standard of al-Khazraj at Badr**: [[Ibn Saʿd]] states that *"the standard of the Muhājirūn
+  was with [[Muṣʿab b. ʿUmayr]], the standard of **al-Khazraj with al-Ḥubāb b. al-Mundhir**, and the
+  standard of al-Aws with [[Saʿd b. Muʿādh]]"* (*Subul al-Hudā*, 4:24).
+
+> [!WARNING] A Claim Removed
+> An earlier version had him advising the Prophet ﷺ at **[[Ghazwat Khaybar]]** against encamping near
+> Naṭāh on account of malarial dampness and missile range, cited to 5:124. That page treats the move
+> to the Kutaybah fortresses and does note the land was unwholesome (*arḍan wakhimah*), but **it does
+> not attribute the advice to al-Ḥubāb**, and he does not appear on it. The claim is removed.
 - **[[Saqīfat Banī Sāʿidah]] (11 AH)**: Following the demise of the Prophet ﷺ, al-Ḥubāb was the chief spokesman for the Anṣār advocating a dual leadership arrangement (*"minnā amīr wa-minkum amīr"*), before **[[Abū Bakr al-Ṣiddīq]]** and **[[ʿUmar b. al-Khaṭṭāb]]** established the consensus (*ijmāʿ*) upon the Caliphate of Abū Bakr. Al-Ḥubāb subsequently gave his pledge of allegiance (*bayʿah*) and remained loyal to the unified state.
 
 ---
