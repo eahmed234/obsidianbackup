@@ -209,6 +209,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Surāqah b. Mālik b. Juʿshum]] ﵁ — *Pursuer of the Hijrah who became a Companion*
 - [[Maʿbad b. Abī Maʿbad al-Khuzāʿī]] — *Khuzāʿī chieftain who turned back Quraysh at al-Rawḥāʾ*
 - [[Nuʿaym b. Masʿūd]] ﵁ — *Strategist who dissolved the confederacy at the Trench*
+- [[Kurz b. Jābir al-Fihrī]] ﵁ — *Commander of the punitive detachment of al-ʿUraniyyīn and cavalry martyr of the Conquest of Makkah*
+- [[Ḥubaysh b. Khālid al-Khuzāʿī]] ﵁ — *Ibn al-Ashʿar; brother of Umm Maʿbad and cavalry martyr of the Conquest of Makkah*
 - [[Bishr b. al-Barāʾ]] ﵁ — *Veteran of Badr and martyr of Khaybar*
 - [[Abū Hurayrah]] ﵁ — *Preserver of Hadith who joined the Prophet ﷺ at Khaybar*
 - [[al-Aṣbagh b. ʿAmr al-Kalbī]] ﵁ — *Paramount king of Banū Kalb at Dūmat al-Jandal who embraced Islam*
