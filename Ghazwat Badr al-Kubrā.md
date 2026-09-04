@@ -40,7 +40,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 18–177)"
 *The Great Battle of Badr — Yawm al-Furqān (The Day of the Criterion)*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This entry is derived primarily from the encyclopedic compilation ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** (*The Paths of Guidance and Righteousness in the Life of the Best of Servants*) by the 10th-century Shāfiʿī ḥadīth master and historian **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), Volume 4, *al-Bāb al-Sābiʿ: Fī Ghazwat Badr al-Kubrā* (pp. 18–177). Al-Ṣāliḥī synthesizes over three hundred primary works, prominently synthesizing [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], [[al-Ṭabarī]], [[al-Suhaylī]] (*al-Rawḍ al-Unuf*), and [[Ibn Kathīr]] (*al-Bidāyah wan-Nihāyah*).
+> This entry is derived primarily from the encyclopedic compilation ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** (*The Paths of Guidance and Righteousness in the Life of the Best of Servants*) by the 10th-century Shāfiʿī ḥadīth master and historian **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), Volume 4, *al-Bāb al-Sābiʿ: Fī Ghazwat Badr al-Kubrā* (pp. 18–177). Al-Ṣāliḥī synthesizes over three hundred primary works, prominently synthesizing [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], [[al-Ṭabarī]], [[al-Suhaylī]] (*al-Rawḍ al-Unuf*), and [[Ibn Kathīr]] (*al-Bidāyah wan-Nihāyah*).
 
 > [!WARNING] Citation Audit (this entry)
 > Nine inline page citations in this entry pointed a few pages away from the material they support,
@@ -80,7 +80,7 @@ In classical Islamic historiography, this battle bears several titles recorded b
 ## 2. Strategic Context & The Cause of Departure (*Sabab al-Khurūj*)
 
 ### The Economic Blockade of Quraysh
-Following the [[al-Hijrah|Migration]] to [[al-Madīnah al-Munawwarah]], the Muslim community faced systemic dispossession; the polytheists of [[Quraysh]] had confiscated the properties, homes, and capital left behind in [[Makkah]] by the [[al-Muhājirūn]]. In response, the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ initiated strategic interdictions against the Meccan trade lifeline to ash-Shām (Syria).
+Following the [[al-Hijrah ilā al-Madīnah|Migration]] to [[al-Madīnah al-Munawwarah]], the Muslim community faced systemic dispossession; the polytheists of [[Quraysh]] had confiscated the properties, homes, and capital left behind in [[Makkah al-Mukarramah|Makkah]] by the [[al-Muhājirūn]]. In response, the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ initiated strategic interdictions against the Meccan trade lifeline to ash-Shām (Syria).
 
 Prior reconnaissance operations had tracked this specific convoy on its outward journey to Syria, culminating in [[Ghazwat al-ʿUshayrah]] (Jumādā al-Ūlā, 2 AH), where the caravan narrowly evaded capture (*Subul al-Hudā*, 4:17). The Prophet ﷺ kept scouts alert for its return journey to Makkah.
 
@@ -562,7 +562,7 @@ Jibrīl ﵊ descended and asked the Messenger of Allāh ﷺ:
 
 ## 17. References & Classical Citations
 
-1. **[[al-Ṣāliḥī]]**, Muḥammad b. Yūsuf al-Dimashqī. *[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*. Ed. ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993, Vol. 4, pp. 18–177.
+1. **[[al-Ṣāliḥī]]**, Muḥammad b. Yūsuf al-Dimashqī. *[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*. Ed. ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993, Vol. 4, pp. 18–177.
 2. **[[Ibn Hishām]]**, ʿAbd al-Malik. *al-Sīrah al-Nabawiyyah*. Ed. Muṣṭafā al-Saqqā et al. Cairo: Muṣṭafā al-Bābī al-Ḥalabī, Vol. 1, pp. 606–648.
 3. **[[Ibn Kathīr]]**, Ismāʿīl b. ʿUmar. *al-Bidāyah wan-Nihāyah*. Beirut: Dār Iḥyāʾ al-Turāth al-ʿArabī, Vol. 3, pp. 255–312.
 4. **[[al-Bukhārī]]**, Muḥammad b. Ismāʿīl. *Ṣaḥīḥ al-Bukhārī*, *Kitāb al-Maghāzī: Bāb Ghazwat Badr* (Hadiths 3951–4065).

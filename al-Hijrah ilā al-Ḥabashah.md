@@ -11,7 +11,7 @@ tags:
   - hijrah
   - abyssinia
 date_period: Rajab 5 BH (First Hijrah) & Late 5 BH / 6 BH (Second Hijrah)
-destination: "Kingdom of [[Aksum]] (Abyssinia)"
+destination: "Kingdom of [[Abyssinia|Aksum (Abyssinia)]] (Abyssinia)"
 sovereign: "[[al-Najāshī (Aṣḥamah)]]"
 spokesman: "[[Jaʿfar b. Abī Ṭālib]] ﵁"
 notable_emigrants:

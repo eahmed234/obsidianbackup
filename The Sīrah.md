@@ -13,7 +13,7 @@ tags:
 
 Welcome to the comprehensive Seerah Wiki in English, designed from an orthodox Sunni scholarly perspective. The architecture utilizes a dense network of bidirectional hyperlinks connecting historical **events**, **biographies**, **Qurʾānic revelations** (*asbāb al-nuzūl*), and **ḥadīth transmissions**.
 
-All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kulli ḥāl*, *ʿAlī b. Abī Ṭālib*, *al-Ghazwah*) and cite primary Arabic authorities, spearheaded by the comprehensive encyclopedia ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by [[al-Ṣāliḥī|Imām Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]] (d. 942 AH).
+All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kulli ḥāl*, *ʿAlī b. Abī Ṭālib*, *al-Ghazwah*) and cite primary Arabic authorities, spearheaded by the comprehensive encyclopedia ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by [[al-Ṣāliḥī|Imām Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]] (d. 942 AH).
 
 ---
 
@@ -37,6 +37,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[al-Hijrah ilā al-Madīnah]] (1 AH / 622 CE) — *Cave Thawr to Qubāʾ & Medina*
 - [[Bināʾ al-Masjid al-Nabawī]] (1 AH) — *The Prophet's Mosque, Apartments, and Ahl al-Ṣuffah*
 - [[al-Muʾākhāh]] (1 AH) — *The Institutional Fraternization between Muhājirūn and Anṣār*
+- [[Ghazwat al-ʿUshayrah]] (Jumādā al-Ūlā 2 AH) — *The Interception at Yanbuʿ & Precursor to Badr*
 - [[Dustūr al-Madīnah]] (1 AH) — *The World's First Written Constitution*
 - [[Taḥwīl al-Qiblah]] (Shaʿbān 2 AH) — *The Shifting of the Prayer Direction to the Kaʿbah*
 
@@ -75,12 +76,16 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
 - [[Abū Ṭālib]] — *Paternal uncle, third guardian, and shield of the Makkan years*
 - [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
+- [[Umm Ayman]] ﵂ — *Lifelong nursemaid ("my mother after my mother"), mother of [[Usāmah b. Zayd]]*
+- [[ʿAbdullāh b. Judʿān]] — *Paramount host of the historic Ḥilf al-Fuḍūl league in Makkah*
 
 ### The Household & Mothers of the Believers (*Ahl al-Bayt*)
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
 - [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
+- [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
 - [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
+- [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
@@ -100,32 +105,57 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Jaʿfar b. Abī Ṭālib]] ﵁ — *Dhū al-Janāḥayn (The Flying)*
 - [[Muṣʿab b. ʿUmayr]] ﵁ — *The First Ambassador of Islam*
 - [[Bilāl b. Rabāḥ]] ﵁ — *Muʾadhdhin Rasūlillāh*
+- [[ʿAmmār b. Yāsir]] ﵁ — *The Early Martyr's Son & Slain by the Rebellious Faction*
+- [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
+- [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
 - [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
 - [[ʿAbdullāh b. Masʿūd]] ﵁ — *Custodian of the Prophet's Secrets*
+- [[ʿAbdullāh b. ʿUmar]] ﵁ — *Exemplar of Sunnah emulation and master jurist of Medina*
+- [[ʿAbdullāh b. Umm Maktūm]] ﵁ — *Blind muezzin and 13-time deputy governor of Medina*
 - [[Salmān al-Fārisī]] ﵁ — *Architect of the Trench (From the Ahl al-Bayt)*
 - [[Zayd b. Ḥārithah]] ﵁ — *Ḥibb Rasūlillāh (Only Companion Named in the Qurʾān)*
+- [[Usāmah b. Zayd]] ﵁ — *Ḥibb Rasūlillāh wa-Ibn Ḥibbihi*
+- [[Ḥāṭib b. Abī Baltaʿah]] ﵁ — *Veteran of Badr & Envoy to Alexandria*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
 - [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
 - [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
+- [[ʿAmr b. al-ʿĀṣ]] ﵁ — *Statesman & Commander of Dhāt al-Salāsil*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
+- [[al-Najāshī (Aṣḥamah)]] ﵁ — *Righteous Monarch of Abyssinia*
 
 ### Chieftains & Heroes of the Anṣār
 - [[Saʿd b. Muʿādh]] ﵁ — *Chieftain of the Aws (Whose death shook the Throne)*
+- [[Usayd b. Ḥuḍayr]] ﵁ — *Chieftain of the Aws & Reciter of Celestial Lights*
+- [[Saʿd b. ʿUbādah]] ﵁ — *Sayyid al-Khazraj; standard-bearer of the Anṣār*
+- [[al-Barāʾ b. Maʿrūr]] ﵁ — *Chieftain of Banū Salimah & First to Face the Kaʿbah*
 - [[Saʿd b. al-Rabīʿ]] ﵁ — *Naqīb of Khazraj & Altruist of the Muʾākhāh*
+- [[Asʿad b. Zurārah]] ﵁ — *Abū Umāmah, Naqīb of the Banū al-Najjār*
+- [[Jābir b. ʿAbdillāh]] ﵄ — *Devoted Scholar-Warrior & Witness of the Tree*
+- [[Zayd b. Thābit]] ﵁ — *Chief Scribe of Revelation & Compiler of the Qurʾān*
+- [[Ubayy b. Kaʿb]] ﵁ — *Sayyid al-Qurrāʾ & Scribe of Revelation*
+- [[Anas b. Mālik]] ﵁ — *Khādim Rasūlillāh for Ten Years*
+- [[Kaʿb b. Mālik]] ﵁ — *Shāʿir al-Islām & Penitent of Tabūk*
 - [[al-Ḥubāb b. al-Mundhir]] ﵁ — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
 - [[ʿAbdullāh b. Rawāḥah]] ﵁ — *Shāʿir Rasūlillāh & Third Commander at Muʾtah*
-- [[Asʿad b. Zurārah]] ﵁ — *Abū Umāmah, Naqīb of the Banū al-Najjār*
-- [[Saʿd b. ʿUbādah]] ﵁ — *Sayyid al-Khazraj; standard-bearer of the Anṣār*
 - [[Abū Ayyūb al-Anṣārī]] ﵁ — *Host of the Prophet ﷺ on his arrival in Medina*
 - [[Abū Lubābah b. ʿAbd al-Mundhir]] ﵁ — *Deputy over Medina; the binding repentance*
 - [[ʿUmayr b. al-Ḥumām]] ﵁ — *First Martyr of the Anṣār at Badr*
 - [[Muʿādh b. ʿAmr b. al-Jamūḥ]] ﵁ — *«Both of you killed him» — slayer of Abū Jahl*
 - [[Muʿawwidh b. ʿAfrāʾ]] ﵁ — *Of the sons of ʿAfrāʾ; his companion in that strike*
+- [[Muʿādh b. Jabal]] ﵁ — *Master of Halal and Haram, collector of the Qurʾān, envoy to Yemen*
+- [[Abū al-Dardāʾ]] ﵁ — *The Sage of the Ummah (Ḥakīm al-Ummah), collector of the Qurʾān*
+- [[Sahl b. Ḥunayf]] ﵁ — *Badri knight and steadfast archer shielding the Prophet at Uḥud*
+- [[Khārijah b. Zayd]] ﵁ — *Chieftain of Banū al-Ḥārith, brother-in-faith to Abū Bakr, martyr of Uḥud*
+- [[ʿUtbān b. Mālik]] ﵁ — *Badri Anṣārī, brother-in-faith to ʿUmar b. al-Khaṭṭāb*
+- [[al-Barāʾ b. ʿĀzib]] ﵁ — *Eyewitness chronicler of Ḥudaybiyah and military expeditions*
+- [[ʿAbdullāh b. ʿAbdillāh b. Ubayy]] ﵁ — *Badri hero who rejected his hypocrite father's sedition*
+- [[Sawād b. Ghaziyyah]] ﵁ — *Badri warrior who embraced and kissed the Prophet's abdomen*
 
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
 - [[al-Anṣār]] — *The Helpers of Medina; al-Aws and al-Khazraj*
 - [[Ahl Badr]] — *al-Badriyyūn; the 313 of Yawm al-Furqān*
+- [[Ahl al-Ṣuffah]] — *The Devoted Scholars of the Mosque Portico*
 
 ### Further Companions of Badr & Uḥud
 - [[ʿUbaydah b. al-Ḥārith]] ﵁ — *First champion of the duel; first Muhājir martyr*
@@ -140,6 +170,9 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Nuʿaym b. Masʿūd]] ﵁ — *Strategist who dissolved the confederacy at the Trench*
 - [[Bishr b. al-Barāʾ]] ﵁ — *Veteran of Badr and martyr of Khaybar*
 - [[Abū Hurayrah]] ﵁ — *Preserver of Hadith who joined the Prophet ﷺ at Khaybar*
+- [[al-Aṣbagh b. ʿAmr al-Kalbī]] ﵁ — *Paramount king of Banū Kalb at Dūmat al-Jandal who embraced Islam*
+- [[Tumāḍir bint al-Aṣbagh]] ﵂ — *Princess of Banū Kalb, wife of [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁*
+- [[Abū Salamah b. ʿAbd al-Raḥmān]] — *Son of ʿAbd al-Raḥmān and Tumāḍir; one of the Seven Jurists of Medina*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
@@ -149,6 +182,8 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Iblīs]] ☠ — *The Adversary; the borrowed likeness at Badr*
 - [[Abū Lahab]] ☠ — *Paternal uncle condemned by name in Sūrat al-Masad*
 - [[ʿAbdullāh b. Ubayy b. Salūl]] ☠ — *Chief of the Hypocrites in Medina*
+- [[al-Walīd b. ʿUtbah]] ☠ — *Champion of Quraysh slain by ʿAlī in the opening duel at Badr*
+- [[al-Akhnas b. Sharīq]] — *Chieftain of Banū Zuhrah who averted 300 men from fighting at Badr*
 
 ---
 
@@ -165,6 +200,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ## 🏕️ Tribes & Clans (*al-Qabāʾil wal-Buṭūn*)
 
 ### Quraysh of Makkah
+- [[Quraysh]] — *The Sovereign Custodians of the Sacred Sanctuary*
 - [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
 - [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
@@ -176,9 +212,12 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Banū Salimah]] — *Khazrajī clan of the western quarter*
 
 ### Jewish Tribes of Yathrib
+- [[Banū Qaynuqāʿ]] — *Goldsmith clan expelled after Badr*
+- [[Banū al-Naḍīr]] — *Chieftains of al-ʿĀliyah, siege and expulsion to Khaybar (Sūrat al-Ḥashr)*
 - [[Banū Qurayẓah]] — *Southern bastion; treaty breach during the Trench*
 
 ### Frontier & Outlying Tribes
+- [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
 
@@ -186,7 +225,12 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
+- [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
+- [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
+- [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
+- [[al-Juḥfah]] — *Historic Mīqāt of the north & site of the Zuhrah withdrawal*
+- [[al-Jurf]] — *Northern military encampment and staging ground of Medina*
 - [[Badr]] — *The Valley of the Wells & Yawm al-Furqān*
 - [[al-ʿArīsh]] — *The Prophetic command booth at Badr*
 - [[Wādī al-Ṣafrāʾ]] — *The return road; burial place of ʿUbaydah b. al-Ḥārith ﵁*

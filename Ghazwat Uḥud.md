@@ -37,7 +37,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 182–257)"
 *The Battle of Uḥud — The Severe Trial, The Heroic Stand, and the Martyrdom of the Elect*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived exclusively from ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Thālith ʿAshar fī Ghazwat Uḥud* (pp. 182–257). Al-Ṣāliḥī synthesizes the primary narrations of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], [[al-Bayhaqī]], and the classical *maghāzī* masters.
+> This master entry is derived exclusively from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Thālith ʿAshar fī Ghazwat Uḥud* (pp. 182–257). Al-Ṣāliḥī synthesizes the primary narrations of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], [[al-Bayhaqī]], and the classical *maghāzī* masters.
 
 ---
 

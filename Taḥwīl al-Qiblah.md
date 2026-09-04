@@ -14,7 +14,7 @@ date_hijri: Mid-Shaʿbān or Rajab 2 AH (approx. 16–17 months after Hijrah)
 locations:
   - "Masjid al-Qiblatayn ([[al-Madīnah al-Munawwarah]])"
   - "Masjid Qubāʾ"
-previous_qiblah: "al-Masjid al-Aqṣā ([[Jerusalem / al-Quds]])"
+previous_qiblah: "al-Masjid al-Aqṣā ([[Bayt al-Maqdis|Jerusalem (Bayt al-Maqdis)]])"
 new_qiblah: "al-Masjid al-Ḥarām ([[Makkah al-Mukarramah]])"
 quranic_reference: "[[Sūrat al-Baqarah]] (2:142–150)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 370–375)"
@@ -24,7 +24,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 370–375)"
 *The Shifting of the Prayer Direction from Jerusalem to the Sacred Kaʿbah*
 
 ## 1. Overview
-For approximately sixteen or seventeen months following the [[al-Hijrah]], the Muslim community faced **al-Masjid al-Aqṣā** in Jerusalem for prayer. The Prophet ﷺ yearned deeply that the Qiblah be redirected to the ancient sanctuary of his forefather Ibrāhīm ﵊—the Kaʿbah in Makkah. He would turn his face toward the skies awaiting revelation.
+For approximately sixteen or seventeen months following the [[al-Hijrah ilā al-Madīnah|al-Hijrah]], the Muslim community faced **al-Masjid al-Aqṣā** in Jerusalem for prayer. The Prophet ﷺ yearned deeply that the Qiblah be redirected to the ancient sanctuary of his forefather Ibrāhīm ﵊—the Kaʿbah in Makkah. He would turn his face toward the skies awaiting revelation.
 
 While leading the believers in prayer at the mosque of Banū Salamah ([`Masjid al-Qiblatayn`](file:///home/eahmed/Projects/obsidianbackup/Masjid%20al-Qiblatayn.md)), Allāh revealed mid-prayer:
 $$\text{قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ}$$

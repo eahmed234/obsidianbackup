@@ -13,7 +13,7 @@ tags:
 date_period: 27 Rajab (commonly held), 3 BH / 1 BH
 locations:
   - "al-Masjid al-Ḥarām ([[Makkah al-Mukarramah]])"
-  - "al-Masjid al-Aqṣā ([[Jerusalem / al-Quds]])"
+  - "al-Masjid al-Aqṣā ([[Bayt al-Maqdis|Jerusalem (Bayt al-Maqdis)]])"
   - "Sidrat al-Muntahā (The Seventh Heaven)"
 celestial_mount: "al-Burāq"
 ordained_pillar: "The Five Daily Prayers (al-Ṣalawāt al-Khams)"

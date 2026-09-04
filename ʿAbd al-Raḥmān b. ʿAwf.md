@@ -38,7 +38,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 318–322)"
 *Abū Muḥammad al-Qurashī al-Zuhrī — One of the Ten Promised Paradise*
 
 > [!NOTE] Classical Scholarly Provenance
-> This biographical entry and its event branches are anchored in the authoritative compilation ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), specifically *al-Bāb al-Khāmis ʿAshar fī Baʿḍ Faḍāʾil ʿAbd al-Raḥmān b. ʿAwf* (Vol. 11, pp. 318–322), complemented by the chronicles of his military and civil achievements across Volumes 3, 4, 5, 6, 7, and 12.
+> This biographical entry and its event branches are anchored in the authoritative compilation ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), specifically *al-Bāb al-Khāmis ʿAshar fī Baʿḍ Faḍāʾil ʿAbd al-Raḥmān b. ʿAwf* (Vol. 11, pp. 318–322), complemented by the chronicles of his military and civil achievements across Volumes 3, 4, 5, 6, 7, and 12.
 
 ---
 
@@ -70,7 +70,7 @@ graph TD
     ARA["ʿAbd al-Raḥmān b. ʿAwf ﵁"]
     
     ARA -->|"5 BH (615 CE)"| Habashah["[[al-Hijrah ilā al-Ḥabashah]]<br/>(Migration to Abyssinia)"]
-    ARA -->|"1 AH (622 CE)"| Hijrah["[[al-Hijrah]] to Medina"]
+    ARA -->|"1 AH (622 CE)"| Hijrah["[[al-Hijrah ilā al-Madīnah|al-Hijrah]] to Medina"]
     ARA -->|"1 AH"| Muakhah["[[al-Muʾākhāh]] with [[Saʿd b. al-Rabīʿ]]<br/>(Market of Banū Qaynuqāʿ)"]
     ARA -->|"2 AH"| Badr["[[Ghazwat Badr al-Kubrā]]<br/>(Umayyah & Abū Jahl)"]
     ARA -->|"3 AH"| Uhud["[[Ghazwat Uḥud]]<br/>(21 Wounds & Defending the Prophet)"]
@@ -84,7 +84,7 @@ graph TD
 ---
 
 ### Event Branch 1: The Migrations to Abyssinia (*al-Hijrah ilā al-Ḥabashah*)
-When persecution intensified in Makkah, ʿAbd al-Raḥmān joined the very first cohort of emigrants who crossed the Red Sea to the Christian kingdom of [[Aksum]] under the righteous Negus (**[[al-Najāshī (Aṣḥamah)]]**) in Rajab of the 5th year of Prophethood (5 BH / 615 CE). He later returned and completed the second migration to Abyssinia, enduring exile and poverty before making the final [[al-Hijrah|Migration to Medina]] (*Subul al-Hudā*, 3:16).
+When persecution intensified in Makkah, ʿAbd al-Raḥmān joined the very first cohort of emigrants who crossed the Red Sea to the Christian kingdom of [[Abyssinia|Aksum (Abyssinia)]] under the righteous Negus (**[[al-Najāshī (Aṣḥamah)]]**) in Rajab of the 5th year of Prophethood (5 BH / 615 CE). He later returned and completed the second migration to Abyssinia, enduring exile and poverty before making the final [[al-Hijrah ilā al-Madīnah|Migration to Medina]] (*Subul al-Hudā*, 3:16).
 
 ---
 
@@ -228,7 +228,7 @@ As his bier was carried, ʿAlī b. Abī Ṭālib ﵁ remarked:
 
 ## 7. Primary Source Citations
 
-1. **[[al-Ṣāliḥī]]**, Shams al-Dīn Muḥammad b. Yūsuf. *[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*. Ed. ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993:
+1. **[[al-Ṣāliḥī]]**, Shams al-Dīn Muḥammad b. Yūsuf. *[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*. Ed. ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993:
    - *Biography & Virtues*: Vol. 11, pp. 318–322.
    - *Midwife al-Shifāʾ*: Vol. 2, p. 6.
    - *Abyssinian Hijrah*: Vol. 3, p. 16.
