@@ -111,17 +111,16 @@ cd ~/Documents/repos/sirah-corpus && python3 audit.py
 Known false positives: Qurʾānic sūrah and āyah numbers, Hijrī years the book writes as word-compounds
 (`مات سنة إحدى وخمسين ومائة` = 151), and Gregorian years — see below.
 
-### Gregorian dates — unresolved
+### Gregorian dates — decided: exempt
 
-The book is dated in Hijrī throughout. Gregorian equivalents appear **only** in the editors'
-Muqaddimah — the Mawlid at *"20 April 571 CE"* (Muqaddimah p. 6) and some later AH/CE pairs
-(p. 37). Every other `CE` date in this vault (622, 624, 625 …) is an editorial conversion that is
-**not in the book**, carried over from the vault's original notes.
+The book is dated in Hijrī throughout; Gregorian equivalents appear only in the editors' Muqaddimah
+(the Mawlid at *"20 April 571 CE"*, p. 6, and some AH/CE pairs at p. 37).
 
-They are arithmetic rather than claims about the sīrah, so they sit awkwardly against the sourcing
-rule. **Pending a decision, they are left in place and flagged here** rather than silently kept or
-silently stripped. If they are to stay, they should be marked as conversions; if not, they come out
-of roughly twenty-five notes.
+**Decision: Hijrī→Gregorian conversion is treated as outside the scope of the sourcing rule** — it is
+checkable arithmetic, not a claim about the sīrah. Existing `CE` dates stay as they are, and new ones
+may be given. This is the single stated exemption; it does not extend to anything else. Ages, troop
+counts, casualty figures, distances and dates *within* the Hijrī calendar are content, and are
+governed by the rule in full.
 
 ### Where the book is silent
 

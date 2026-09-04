@@ -50,7 +50,14 @@ Saʿd told ʿAbd al-Raḥmān:
 
 ## 2. Participation in Ghazwat Badr al-Kubrā (2 AH)
 
-Saʿd fought in the front ranks at **[[Ghazwat Badr al-Kubrā]]** alongside his fellow Anṣār, contributing to the decisive rout of Quraysh (*Subul al-Hudā*, 4:102).
+Saʿd was present at **[[Ghazwat Badr al-Kubrā]]**: the book's alphabetical register of those who
+witnessed Badr lists *"Saʿd b. al-Rabīʿ b. ʿAmr…"* under the letter *sīn*
+(*Subul al-Hudā*, 4:102).
+
+> [!NOTE] A Claim Narrowed
+> An earlier version said he *"fought in the front ranks … contributing to the decisive rout of
+> Quraysh."* The cited page is a **register of participants** and supports his presence only. The
+> embellishment is removed.
 
 ---
 
@@ -70,7 +77,21 @@ Saʿd smiled through his agony and delivered his immortal farewell to the Ummah:
 > «عَلَى رَسُولِ اللَّهِ ﷺ السَّلَامُ، وَعَلَيْكَ السَّلَامُ. قُلْ لَهُ: يَا رَسُولَ اللَّهِ، إِنِّي أَجِدُ رِيحَ الْجَنَّةِ! وَقُلْ لِقَوْمِي الْأَنْصَارِ: لَا عُذْرَ لَكُمْ عِنْدَ اللَّهِ إِنْ خُلِصَ إِلَى رَسُولِ اللَّهِ ﷺ وَفِيكُمْ عَيْنٌ تَطْرِفُ!»
 > *"Upon the Messenger of Allāh ﷺ be peace, and upon you be peace! Tell him: 'O Messenger of Allāh, I truly smell the fragrance of Paradise!' And tell my people, the Anṣār: 'You have no excuse before Allāh on the Day of Judgment if the Messenger of Allāh ﷺ is reached by any harm while a single eye among you still blinks!'"*
 
-With those words, his soul ascended to Allāh (*Subul al-Hudā*, 5:78–80). When Ubayy relayed his words, the Messenger of Allāh ﷺ wept and prayed:
+With those words, his soul ascended to Allāh (*Subul al-Hudā*, 4:222).
+
+> [!WARNING] Two Corrections
+> This account was cited to *Subul al-Hudā* 5:78–80. That is **the wrong place** — volume 5 at those
+> pages treats the jurisprudence of the Ḥudaybiyah treaty, and Saʿd ﵁ fell at Uḥud. The account is at
+> **4:222**, in the Uḥud section.
+>
+> The messenger was also misnamed. The book has the Prophet ﷺ send **Zayd**, not Ubayy:
+> *"the Messenger of Allāh ﷺ sent me, on the day of Uḥud, to seek out Saʿd b. al-Rabīʿ, and said: if
+> you see him, convey my greeting to him and ask him, how do you find yourself?"* — *"and I found him
+> at his last breath, and **upon him were seventy wounds**, between a thrust of a spear, a strike of
+> a sword, and the shot of an arrow."* When asked whether he was among the living or the dead he
+> answered: ***"I am among the dead."*** (*Subul al-Hudā*, 4:222)
+
+When his words were relayed, the Messenger of Allāh ﷺ wept and prayed:
 > «رَحِمَهُ اللَّهُ، نَصَحَ لِلَّهِ وَلِرَسُولِهِ حَيًّا وَمَيِّتًا»
 > *"May Allāh have mercy upon him; he was sincere to Allāh and His Messenger both in life and in death!"*
 

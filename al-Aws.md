@@ -41,13 +41,25 @@ saw that their word had become united"* concerns al-Aws equally
 - **[[Abū Lubābah b. ʿAbd al-Mundhir]]** ﵁ — left over Medina during the Badr campaign
   (*Subul al-Hudā*, 4:23), and the episode of his repentance (*Subul al-Hudā*, 5:8).
 
-> [!NOTE] What the Book Does Not Say
-> An earlier version described al-Aws as *"of Yemeni Azd stock"* and asserted standing pre-Islamic
-> alliances with Banū Qurayẓah and Banū al-Naḍīr. **Neither is supported here** and both have been
-> removed. What the book does record is that Banū Qurayẓah were referred to the judgment of the Awsī
-> chief Saʿd b. Muʿādh ﵁ (*Subul al-Hudā*, 5:9); it is not stated here that this followed from a
-> prior alliance. Badr troop figures are cited in **[[Ahl Badr]]** rather than repeated here.
+## 4. The Alliance with Banū Qurayẓah
+The book **does** attest the Aws's alliance with **[[Banū Qurayẓah]]**, in the words of two Khazrajī
+chiefs. At the judgment on Qurayẓah, [[Saʿd b. ʿUbādah]] ﵁ and
+[[al-Ḥubāb b. al-Mundhir]] ﵁ came to the Prophet ﷺ and said:
 
-## 4. References
+> «يَا رَسُولَ اللهِ، إِنَّ الْأَوْسَ قَدْ كَرِهَتْ قَتْلَ بَنِي قُرَيْظَةَ لِمَكَانِ حِلْفِهِمْ»
+> *"O Messenger of Allāh, al-Aws have found the killing of Banū Qurayẓah hard, **because of their
+> alliance with them**."* (*Subul al-Hudā*, 5:12)
+
+[[Saʿd b. Muʿādh]] ﵁ — the Awsī chief who had given the judgment — answered that no one of the Aws in
+whom there was any good disliked it. See **[[Ghazwat Banī Qurayẓah]]**.
+
+> [!NOTE] A Removal Reversed, and What Remains Unsupported
+> An earlier audit pass removed the Aws–Qurayẓah alliance as unsupported. **That was wrong** — the
+> book states it at 5:12, as above, and it is restored. The alliance with **Banū al-Naḍīr** has still
+> not been located and remains out. So does the description of al-Aws as *"of Yemeni Azd stock."*
+> Badr troop figures are cited in **[[Ahl Badr]]** rather than repeated here.
+
+## 5. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 195 (the lineage); p. 199 (Aws Allāh).
 2. *[[Subul al-Hudā war-Rashād]]*, vol. 3, pp. 398–405.
+3. *[[Subul al-Hudā war-Rashād]]*, vol. 5, p. 12 (the alliance with Banū Qurayẓah).
