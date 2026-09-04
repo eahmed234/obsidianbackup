@@ -65,10 +65,15 @@ saw him from that time on (*Subul al-Hudā*, 2:134).
 ## 4. Guardianship and Death
 After [[Āminah bint Wahb]] died at al-Abwāʾ, ʿAbd al-Muṭṭalib took the orphaned Prophet ﷺ into his
 own care and showed him marked favour, seating him with the chiefs. He died when the Prophet ﷺ was
-about eight, **bequeathing his guardianship to [[Abū Ṭālib]]** — al-Ṣāliḥī treats his death, that
-bequest, and the signs attending it in one chapter (*Subul al-Hudā*, 2:135).
+about eight — the book records his own age at death with equal disagreement, ranging from
+eighty-two to a hundred and forty-four years, which al-Wāqidī judges unestablished
+(*Subul al-Hudā*, 2:135). He **bequeathed his guardianship to [[Abū Ṭālib]]**, specifically because
+Abū Ṭālib and [[ʿAbdullāh b. ʿAbd al-Muṭṭalib|ʿAbdullāh]] shared the same mother — al-Ṣāliḥī treats
+his death, that bequest, and the signs attending it in one chapter (*Subul al-Hudā*, 2:135).
 
-## 4. References
+## 5. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 1, pp. 187–200 (Zamzam).
 2. *[[Subul al-Hudā war-Rashād]]*, vol. 1, p. 325 (the marriage of ʿAbdullāh and Āminah).
-3. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 135 (his death and the bequest to Abū Ṭālib).
+3. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 131 (the rain sought through him).
+4. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 134 (the eye ailment and the monk at ʿUkāẓ).
+5. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 135 (his death and the bequest to Abū Ṭālib).
