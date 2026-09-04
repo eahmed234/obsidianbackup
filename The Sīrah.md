@@ -42,6 +42,8 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Bināʾ al-Masjid al-Nabawī]] (1 AH) — *The Prophet's Mosque, Apartments, and Ahl al-Ṣuffah*
 - [[al-Muʾākhāh]] (1 AH) — *The Institutional Fraternization between Muhājirūn and Anṣār*
 - [[Ghazwat al-Abwāʾ]] (Ṣafar 2 AH) — *The First Ghazwah in Islam & The Treaty of Waddān*
+- [[Ghazwat Buwāṭ]] (Rabīʿ al-Awwal 2 AH) — *Interception at Mount Buwāṭ of Umayyah's 2,500 Camels*
+- [[Ghazwat Safawān]] (Rabīʿ 2 AH) — *Badr al-Ūlā & Pursuit of Kurz b. Jābir al-Fihrī*
 - [[Ghazwat al-ʿUshayrah]] (Jumādā al-Ūlā 2 AH) — *The Interception at Yanbuʿ & Precursor to Badr*
 - [[Dustūr al-Madīnah]] (1 AH) — *The World's First Written Constitution*
 - [[Taḥwīl al-Qiblah]] (Shaʿbān 2 AH) — *The Shifting of the Prayer Direction to the Kaʿbah*
@@ -49,6 +51,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ### 3. The Epoch of Major Ghazawāt (2–9 AH)
 - **[[Ghazwat Badr al-Kubrā]]** (17 Ramaḍān 2 AH) — *Yawm al-Furqān (Featured Master Entry)*
 - [[Ghazwat Banī Qaynuqāʿ]] (Shawwāl 2 AH) — *Breach of Treaty & Expulsion*
+- [[Ghazwat Banī Sulaym]] (Shawwāl 2 AH) — *Expedition of Qarqarat al-Kudr & Emancipation of Yasār*
 - [[Ghazwat al-Suwayq]] (Dhū al-Ḥijjah 2 AH) — *Abū Sufyān's Hit-and-Run Raid & The Jettisoned Barley Meal*
 - [[Ghazwat Dhī Amr]] (Ṣafar 3 AH) — *Preemptive Strike in Najd & Conversion of Duʿthūr*
 - [[Ghazwat Uḥud]] (7 Shawwāl 3 AH) — *The Trial of Archers & 70 Martyrs*
@@ -56,6 +59,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Maʾsāt Biʾr Maʿūnah]] (4 AH) — *Massacre of the 70 Reciters & Qunūt al-Nāzilah*
 - [[Ghazwat Banī al-Naḍīr]] (4 AH) — *Siege & Expulsion (Sūrat al-Ḥashr)*
 - [[Ghazwat Badr al-Mawʿid]] (4 AH) — *The Rendezvous of Honor & Fulfillment of Sūrat Āl ʿImrān*
+- [[Ghazwat Dūmat al-Jandal]] (Rabīʿ 5 AH) — *The Preemptive March of 1,000 Warriors to the Syrian Border*
 - [[Ghazwat al-Khandaq]] (5 AH) — *Battle of the Trench (The Grand Confederate Siege)*
 - [[Ghazwat Banī Qurayẓah]] (5 AH) — *Judgment of Saʿd b. Muʿādh on Wartime Treason*
 - [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
