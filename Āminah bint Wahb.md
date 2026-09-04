@@ -11,7 +11,7 @@ tags:
   - zuhri
   - pre_prophethood
   - makkan_era
-death: "~46 BH (al-Abwāʾ, between Makkah and Medina)"
+death: "At al-Abwāʾ, between Makkah and Medina; the book reports the Prophet's ﷺ age variously as four, five, six, seven, nine, or twelve (Subul al-Hudā 2:120)"
 spouse: "[[ʿAbdullāh b. ʿAbd al-Muṭṭalib]]"
 tribe: "[[Banū Zuhrah]] of Quraysh"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 120–130)"
@@ -27,18 +27,36 @@ produce [[Saʿd b. Abī Waqqāṣ]] ﵁ and [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁.
 pregnant, leaving the Prophet ﷺ an orphan before birth (see [[Mawlid al-Nabī]]).
 
 ## 2. Death at al-Abwāʾ
-When the Prophet ﷺ was approximately six years old, she took him to visit his maternal relatives in
-Medina. On the return journey she fell ill and died at **al-Abwāʾ**. Guardianship then passed to
-**[[Umm Ayman]]** (Barakah), who had accompanied them, and thereafter to his grandfather
-[[ʿAbd al-Muṭṭalib]] (*Subul al-Hudā*, 2:120).
+Al-Ṣāliḥī devotes the opening *bāb* of this section to her death and to Umm Ayman's care of him —
+*al-Bāb al-Awwal fī wafāt ummihi Āminah bint Wahb wa-ḥaḍānat Umm Ayman lahu* — and does **not** settle
+on a single age for the Prophet ﷺ at her death:
 
-Al-Ṣāliḥī devotes the opening *bāb* of this section to her death and to Umm Ayman's care of him
-(*al-Bāb al-Awwal fī wafāt ummihi Āminah bint Wahb wa-ḥaḍānat Umm Ayman lahu*).
+> *"His mother died when he was **four years old** — and that is what he put first in al-Ishārah. And
+> it is said six. And it is said seven. And it is said nine. And it is said five. And it is said
+> twelve years, a month and ten days. **At al-Abwāʾ.**"* (*Subul al-Hudā*, 2:120)
 
-## 3. Significance
+An alternative burial at Shiʿb Abī Dabb near al-Ḥajūn is reported and rejected — *"the one who said
+it erred"*; [[Ibn Saʿd]] states: *"that is a mistake, and her grave is not in Makkah; her grave is at
+al-Abwāʾ."*
+
+[[Ibn Isḥāq]]'s report gives the age as six: *"when the Messenger of Allāh ﷺ reached six years, his
+mother Āminah died **at al-Abwāʾ, between Makkah and Medina**."*
+
+## 3. The Journey That Occasioned It
+Ibn Saʿd records why they were travelling: *"his mother had brought him to his maternal relatives of
+**[[Banū al-Najjār|Banū ʿAdī b. al-Najjār]]**, to have them see him, and she died while returning
+with him to Makkah."*
+
+And from [[ʿAbdullāh b. ʿAbbās]] ﵄ and others: *"when he reached six years she went out with him to
+his maternal relatives of Banū ʿAdī b. al-Najjār to visit them with him, and **[[Umm Ayman]]** ﵂ was
+with them nursing him; they were upon two camels, and she lodged with him at Dār al-Nābighah and
+stayed among them a month"* (*Subul al-Hudā*, 2:120).
+
+## 4. Significance
 Her death completed the sequence of bereavements — father before birth, mother at six, grandfather
 at eight — that framed the Prophet's ﷺ upbringing and is echoed in the Qurʾānic address
 *«أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ»* (93:6).
 
-## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, pp. 120–130.
+## 5. References
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 120 (her death, the competing ages, and the journey to
+   Banū ʿAdī b. al-Najjār).

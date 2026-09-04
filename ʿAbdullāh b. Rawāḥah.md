@@ -31,8 +31,13 @@ An Anṣārī of the **[[al-Khazraj]]**, among the twelve *nuqabāʾ* (deputies)
   two heralds of the victory — Ibn Rawāḥah to the outlying quarters of Medina (*Subul al-Hudā*, 4:57).
 - Commanded the expedition against **Usayr (or Yusayr) b. Razām** of [[Khaybar]]
   (*Subul al-Hudā*, 6:111).
-- Third and final commander at **[[Ghazwat Muʾtah]]** (8 AH). Taking the standard after the
-  martyrdom of [[Zayd b. Ḥārithah]] ﵁ and [[Jaʿfar b. Abī Ṭālib]] ﵁, he advanced and was martyred.
+- Third and final commander at **[[Ghazwat Muʾtah]]** (8 AH). [[Ibn Isḥāq]] preserves the moment the
+  Prophet ﷺ announced the losses: after naming [[Zayd b. Ḥārithah]] ﵁ he **fell silent**, *"until the
+  faces of the Anṣār changed and they supposed that something they would dislike had befallen
+  ʿAbdullāh b. Rawāḥah"* — then he said:
+  > «ثُمَّ أَخَذَهَا عَبْدُ اللهِ بْنُ رَوَاحَةَ فَقَاتَلَ بِهَا حَتَّى قُتِلَ شَهِيدًا»
+  > *"Then ʿAbdullāh b. Rawāḥah took it and fought with it until he was killed a martyr."*
+  > (*Subul al-Hudā*, 6:154)
 
 ## 3. The Poet of the Prophet
 One of the three poets who defended the Prophet ﷺ in verse. Al-Ṣāliḥī preserves and glosses his
@@ -42,3 +47,4 @@ the most quoted in the Sīrah.
 ## 4. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, p. 57 (herald of Badr); vol. 4, p. 300 (his *qaṣīdah*).
 2. *[[Subul al-Hudā war-Rashād]]*, vol. 6, pp. 111–120 (his *sariyyah*).
+3. *[[Subul al-Hudā war-Rashād]]*, vol. 6, p. 154 (his martyrdom at Muʾtah).

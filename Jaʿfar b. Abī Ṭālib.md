@@ -26,3 +26,17 @@ Older brother of ʿAlī b. Abī Ṭālib and lookalike of the Prophet ﷺ (*«أ
 ## 2. Return & Martyrdom
 - Returned from Abyssinia during **[[Ghazwat Khaybar]]** (7 AH) to the immense joy of the Prophet ﷺ.
 - Martyred as second commander at **[[Ghazwat Muʾtah]]** (8 AH) after both hands were severed holding the banner of Islam. Allāh gifted him two wings of ruby and emerald to fly across Paradise (*Subul al-Hudā*, 5:230).
+
+## Dhū al-Janāḥayn, in the Book's Own Words
+Al-Ṣāliḥī records that Allāh *"gave him in exchange **two wings**, with which he flies in Paradise
+wherever he wishes"*; and [[al-Bukhārī]] and al-Nasāʾī transmit from ʿĀmir al-Shaʿbī that
+**[[ʿAbdullāh b. ʿUmar]]** ﵄, whenever he greeted ʿAbdullāh b. Jaʿfar, would say:
+
+> «السَّلَامُ عَلَيْكَ يَا ابْنَ ذِي الْجَنَاحَيْنِ»
+> *"Peace be upon you, O son of the one with two wings."* (*Subul al-Hudā*, 6:154)
+
+His martyrdom at **[[Ghazwat Muʾtah]]** is recorded in the same section, between those of
+[[Zayd b. Ḥārithah]] ﵁ and [[ʿAbdullāh b. Rawāḥah]] ﵁.
+
+### Reference
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 6, p. 154.

@@ -12,8 +12,8 @@ tags:
   - 6-ah
   - covenant
 date_hijri: Dhū al-Qaʿdah 6 AH (628 CE)
-location: "[[al-Ḥudaybiyah]], beneath the acacia (*samurah*)"
-participants: "~1,400–1,500 Companions"
+location: "[[al-Ḥudaybiyah]], beneath the tree (Qurʾān 48:18)"
+participants: "Fourteen hundred, per al-Barāʾ (Subul al-Hudā 5:41)"
 provocation: "Rumor that [[ʿUthmān b. ʿAffān]] ﵁, the envoy to Quraysh, had been killed"
 quranic_reference: "[[Sūrat al-Fatḥ]] (48:18)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 48–60)"
@@ -28,11 +28,23 @@ While the Muslims were halted at **[[al-Ḥudaybiyah]]**, the Prophet ﷺ sent
 spread through the camp that he had been killed.
 
 ## 2. The Pledge
-The Prophet ﷺ seated himself beneath an acacia tree (*samurah*) and took from each of the roughly
-fourteen to fifteen hundred present a binding pledge — not to flee, and by some reports to fight to
-the death. Al-Ṣāliḥī devotes a dedicated section to the pledge and to the merit of those who gave it
-(*ذكر مبايعته ﷺ بيعة الرضوان وفضل من بايع*) (*Subul al-Hudā*, 5:48). The report of ʿUthmān's ﵁
-killing proved false, and he returned safely.
+Al-Ṣāliḥī devotes a dedicated section to the pledge and to the merit of those who gave it —
+*dhikr mubāyaʿatihi ﷺ bayʿat al-Riḍwān wa-faḍl man bāyaʿa* (*Subul al-Hudā*, 5:48). That section
+records that a party of Muslims had entered Makkah **under ʿUthmān's protection** (*fī amān ʿUthmān*)
+and were seized, and that Quraysh then sent Suhayl b. ʿAmr, Ḥuwayṭib b. ʿAbd al-ʿUzzā and Mikraz b.
+Ḥafṣ to negotiate.
+
+For the number present, the book gives al-Barāʾ's own testimony:
+
+> «كُنَّا مَعَ رَسُولِ اللهِ ﷺ بِالْحُدَيْبِيَةِ أَرْبَعَ عَشْرَةَ مِائَةً»
+> *"We were with the Messenger of Allāh ﷺ at al-Ḥudaybiyah — **fourteen hundred**."*
+> (*Subul al-Hudā*, 5:41)
+
+> [!NOTE] What the Book Does Not Say
+> An earlier version described the tree as an acacia (*samurah*) and the pledge as one *"not to flee,
+> and by some reports to fight to the death,"* with a figure of *"fourteen to fifteen hundred."* The
+> species of the tree and that wording of the pledge **have not been located** and are removed; the
+> Qurʾān's own phrase is simply *"beneath the tree."* The count is now the one al-Barāʾ gives.
 
 ## 3. Qurʾānic Attestation
 The pledge is named in **[[Sūrat al-Fatḥ]]**:
@@ -47,4 +59,5 @@ became known as **Ahl al-Riḍwān** (or *Ahl al-Shajarah*), a rank of permanent
 The pledge immediately preceded and strengthened the negotiation of **[[Ṣulḥ al-Ḥudaybiyah]]**.
 
 ## 5. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 5, pp. 48–60; glossary at vol. 5, p. 89.
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 5, p. 41 (al-Barāʾ on the number); pp. 48–60 (the pledge and
+   the merit of those who gave it); glossary at p. 89.
