@@ -1,44 +1,35 @@
 ---
 title: Ibn Kathīr
-arabic: إسماعيل بن عمر بن كثير
+arabic: ابن كثير
 aliases:
-  - Ismāʿīl b. ʿUmar b. Kathīr
-  - al-Ḥāfiẓ Ibn Kathīr
   - al-Bidāyah wan-Nihāyah
-  - Tafsīr Ibn Kathīr
+  - Ibn Kathīr
 type: person
 tags:
   - person
   - scholar
   - historian
-  - hadith
-  - shafii
   - source
-birth: ~701 AH / 1301 CE (Buṣrā, Syria)
-death: 774 AH / 1373 CE (Damascus)
-madhhab: Shāfiʿī
-major_works: "*al-Bidāyah wan-Nihāyah*, *Tafsīr al-Qurʾān al-ʿAẓīm*"
-primary_source: "Cited in [[Subul al-Hudā war-Rashād]] among al-Ṣāliḥī's named authorities"
+primary_source: "[[Subul al-Hudā war-Rashād]] — cited as a source; no biographical entry in the book"
 ---
 
-# Ibn Kathīr (إسماعيل بن عمر بن كثير)
-*al-Ḥāfiẓ Ismāʿīl b. ʿUmar b. Kathīr — Historian and Exegete of Damascus*
+# Ibn Kathīr (ابن كثير)
+*Author of al-Bidāyah wan-Nihāyah*
 
-## 1. Identity
-**Ismāʿīl b. ʿUmar b. Kathīr al-Dimashqī** (d. 774 AH), Shāfiʿī historian, exegete and ḥadīth
-scholar of Damascus, and a student of Ibn Taymiyyah and al-Dhahabī. He precedes
-[[al-Ṣāliḥī]] by roughly a century and a half and is one of his named sources.
+> [!WARNING] The Book Supplies No Biography
+> *[[Subul al-Hudā war-Rashād]]* cites Ibn Kathīr as a source but **gives him no biographical entry**
+> in either the matn or the apparatus. His dates, city, madhhab and teachers are therefore **not
+> stated here.** Only what the book attests is recorded.
 
-## 2. Relevance to the Sīrah
-Two of his works bear directly on this vault:
-- ***al-Bidāyah wan-Nihāyah***, whose Sīrah portion is a principal narrative authority — cited in
-  **[[Ghazwat Badr al-Kubrā]]** (vol. 3, pp. 255–312).
-- ***Tafsīr al-Qurʾān al-ʿAẓīm***, the standard reference for *asbāb al-nuzūl*, underlying the
-  scriptural nodes — cited in **[[Sūrat al-Anfāl]]** (vol. 4, pp. 3–95).
+## 1. What the Book Attests
+The editors cite him repeatedly for locating a report, always by the work
+***al-Bidāyah wan-Nihāyah*** — for example alongside Ibn ʿAdī, Abū Nuʿaym and al-Thaʿālibī:
+*"and Ibn Kathīr in al-Bidāyah wan-Nihāyah 4/307"* (*Subul al-Hudā*, 1:68 n. 4, taḥqīq), and again
+*"Ibn Kathīr in al-Bidāyah wan-Nihāyah 2/321"* (*Subul al-Hudā*, 1:77 n. 4, taḥqīq).
 
-His method of reading the Sīrah through authenticated ḥadīth, rather than through the earlier
-*sīrah-maghāzī* compilations alone, is the approach al-Ṣāliḥī inherits and extends.
+He is named among al-Ṣāliḥī's synthesized authorities in the provenance note of
+**[[Ghazwat Badr al-Kubrā]]**, where *al-Bidāyah wan-Nihāyah* is cited at Vol. 3, pp. 255–312, and
+his *Tafsīr* is cited in **[[Sūrat al-Anfāl]]**.
 
-## 3. References
-1. **Ibn Kathīr**. *al-Bidāyah wan-Nihāyah*.
-2. **Ibn Kathīr**. *Tafsīr al-Qurʾān al-ʿAẓīm*.
+## 2. References
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 1, p. 68 n. 4 and p. 77 n. 4 (taḥqīq).

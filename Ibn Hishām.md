@@ -1,6 +1,6 @@
 ---
 title: Ibn Hishām
-arabic: عبد الملك بن هشام
+arabic: عبد الملك بن هشام بن أيوب
 aliases:
   - ʿAbd al-Malik b. Hishām
   - Sīrat Ibn Hishām
@@ -12,33 +12,45 @@ tags:
   - historian
   - sirah
   - source
-death: "218 AH / 833 CE (Fusṭāṭ, Egypt)"
-major_work: "*al-Sīrah al-Nabawiyyah* — his recension of [[Ibn Isḥāq]]"
-primary_source: "Cited in [[Subul al-Hudā war-Rashād]]; his *Sīrah* is referenced in this vault's reference lists"
+kunya: "Abū Muḥammad; Jamāl al-Dīn"
+nisbah: "al-Ḥimyarī al-Maʿāfirī"
+birth: "Born and raised in al-Baṣrah"
+death: "Died in Egypt"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 145 n. 1, taḥqīq)"
 ---
 
-# Ibn Hishām (عبد الملك بن هشام)
-*ʿAbd al-Malik b. Hishām — Editor and Transmitter of the Sīrah of Ibn Isḥāq*
+# Ibn Hishām (عبد الملك بن هشام بن أيوب)
+*ʿAbd al-Malik b. Hishām — Narrator of the Sīrah from Ibn Isḥāq*
+
+> [!NOTE] Sourcing
+> The identification below is from the critical apparatus of *[[Subul al-Hudā war-Rashād]]* at
+> **1:145 n. 1 (taḥqīq)**.
 
 ## 1. Identity
-**ʿAbd al-Malik b. Hishām** (d. 218 AH, Egypt), who received [[Ibn Isḥāq]]'s Sīrah through the
-transmission of al-Bakkāʾī and reworked it into the text known ever since as
-***Sīrat Ibn Hishām***. His is the form in which Ibn Isḥāq's work actually survived.
+**ʿAbd al-Malik b. Hishām b. Ayyūb al-Ḥimyarī al-Maʿāfirī, Abū Muḥammad, Jamāl al-Dīn** — described
+as a **historian** (*muʾarrikh*), *"learned in genealogies, in the language, and in the reports of the
+Arabs."*
 
-## 2. His Editorial Method
-Ibn Hishām states his own principles of omission, and they matter for reading the Sīrah critically —
-he set aside material he judged irrelevant to the Prophet ﷺ, reports he considered unreliable, poetry
-he could not authenticate, and matter he thought objectionable.
+He was **born and raised in al-Baṣrah**, and **died in Egypt**.
 
-The consequence is twofold: the received text is more disciplined than Ibn Isḥāq's original, and it
-is also *less complete*. Some of what he dropped survives only through
-[[al-Ṭabarī]], which is why al-Ṣāliḥī consults both.
+## 2. His Works
+The apparatus names:
+- ***al-Sīrah al-Nabawiyyah***, known as *Sīrat Ibn Hishām* — **which he narrated from
+  [[Ibn Isḥāq]]** (*rawāhu ʿan Ibn Isḥāq*).
+- ***al-Qaṣāʾid al-Ḥimyariyyah***, on the reports of Yemen and its kings in the Jāhiliyyah.
+- ***al-Tījān fī Mulūk Ḥimyar***, which he narrated from Asad b. Mūsā, from Ibn Sinān.
 
 ## 3. Use in This Vault
-His *al-Sīrah al-Nabawiyyah* appears in the reference lists of the fuller entries — see
-**[[Ghazwat Badr al-Kubrā]]** (*al-Sīrah al-Nabawiyyah*, ed. Muṣṭafā al-Saqqā et al., Vol. 1,
-pp. 606–648) and **[[Sariyyat Dūmat al-Jandal]]**.
+His *Sīrah* appears in the reference lists of the fuller entries — **[[Ghazwat Badr al-Kubrā]]** and
+**[[Sariyyat Dūmat al-Jandal]]**. He is also cited in the matn on pre-Islamic Makkan authority:
+*"Ibn Hishām said: he prevailed over Makkah and the whole affair of Quraysh, and Quḍāʿah aided him"*
+(*Subul al-Hudā*, 1:125).
+
+> [!NOTE] What the Book Does Not Say
+> The apparatus gives no death year, and says nothing about his editorial method or about what he
+> omitted from Ibn Isḥāq's original. Those matters are left unstated here rather than supplied from
+> elsewhere.
 
 ## 4. References
-1. **Ibn Hishām**. *al-Sīrah al-Nabawiyyah*. Ed. Muṣṭafā al-Saqqā, Ibrāhīm al-Abyārī and
-   ʿAbd al-Ḥafīẓ Shalabī. Cairo: Muṣṭafā al-Bābī al-Ḥalabī.
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 1, p. 145 n. 1 (taḥqīq).
+2. *[[Subul al-Hudā war-Rashād]]*, vol. 1, p. 125 (cited in the matn).
