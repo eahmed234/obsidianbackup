@@ -62,39 +62,49 @@ breaks the link graph. Copy names from existing notes rather than retyping them.
 preserve as-is: the Prophet's note is filed as `Muḥammad b. ʻAbdullah.md` (curly `ʻ`, undiacriticised `Abdullah`)
 and is therefore always linked with a display alias — `[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ`.
 
-## Sourcing rule (absolute)
+## Sourcing rules (absolute)
 
-**Subul al-Hudā war-Rashād is the ONLY permitted source of content.** This is a religious text; every
-statement in every note must trace back to it and be verifiable there. This rule overrides
-helpfulness, completeness, and fluency — an incomplete note that is fully sourced is correct, and a
-rich note carrying unsourced background is defective, however accurate that background may be.
+The vault relies exclusively upon **two canonical primary sources**:
+1. **Subul al-Hudā war-Rashād** by Imām Muḥammad b. Yūsuf al-Ṣāliḥī (d. 942 AH) — the primary narrative, geographical, and campaign backbone (Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993, 12 vols).
+2. **al-Iṣābah fī Tamyīz al-Ṣaḥābah** by al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī (d. 852 AH) — the premier biographical encyclopedia for the Ṣaḥābah (Dār al-Kutub al-ʿIlmiyyah, Beirut, 1415/1995, 8 vols, ed. ʿĀdil ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ).
 
-**Do not add anything from general knowledge of the sīrah**, however well established: no dates,
-places, genealogies, kunyas, death years, work titles, appraisals, hadith numbers, or narrative
-detail that is not in the book. If the book does not say it, it does not go in the vault. Where a
-fact is genuinely needed and absent, say it is absent rather than supplying it.
+This is a religious text; every statement in every note must trace back to one of these two sources and be verifiable there. This rule overrides helpfulness, completeness, and fluency — an incomplete note that is fully sourced is correct, and a rich note carrying unsourced background is defective, however accurate that background may be.
+
+**Biographical Enrichment Protocol for Ṣaḥābah**:
+Whenever a Ṣaḥābī's note is created or updated, consult their entry in both *Subul al-Hudā* and *al-Iṣābah* (`sirah-corpus/isabah.jsonl`). Flesh out their profile comprehensively, with particular emphasis on:
+- Detailed genealogical chains tracing ancestors back to common tribal progenitors (linking them to other Companions and to the Prophet ﷺ).
+- Maternal lineage, tribal and clan affiliations (*al-qabāʾil wal-buṭūn*), confederacies (*ḥilf*), and clientship (*walāʾ*).
+- Kinship networks, marriages, fosterage (*riḍāʿah*), and progeny.
+- Sequence of conversion, early trials in Makkah, participation in the migrations, and roles across all military campaigns.
+- Precise death dates, ages, locations, and burial sites.
+
+**Do not add anything from general knowledge of the sīrah**, however well established. If neither book mentions a detail, it does not enter the vault. Where a fact is needed but absent from both, state its absence explicitly.
 
 **Working method — read before writing.** A heading title or an index entry establishes only *where a
-topic is treated*, never the content of a claim. Before writing a sentence, read the page it will
-cite in `~/Documents/repos/sirah-corpus/corpus.jsonl` and write from that text. Never cite a page
-whose body you have not read.
+topic is treated*, never the content of a claim. Before writing a claim, read the cited page in
+`~/Documents/repos/sirah-corpus/corpus.jsonl` (for Subul al-Hudā) or
+`~/Documents/repos/sirah-corpus/isabah.jsonl` (for al-Iṣābah) and write directly from the source text.
+Never cite a page whose text you have not inspected.
 
 ### The two tiers, and how to cite them
 
-The vault cites the Dār al-Kutub al-ʿIlmiyyah edition (Beirut, 1414/1993), which contains two
+The vault cites the Dār al-Kutub al-ʿIlmiyyah editions of both sources, each of which contains two
 distinct authorial voices. **Both are permitted; they must be told apart**, because they do not carry
 equal weight:
 
-| Tier | Whose words | Cite as |
+| Source & Tier | Whose words | Cite as |
 | --- | --- | --- |
-| **Matn** — al-Ṣāliḥī's own text | Imām al-Ṣāliḥī (d. 942 AH) | `*Subul al-Hudā*, 4:50` |
-| **Taḥqīq** — the editors' critical apparatus | ʿĀdil ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ (1414/1993), themselves citing al-Khulāṣah, al-Taqrīb, al-Iṣābah, al-Aʿlām | `*Subul al-Hudā*, 1:68 n. 5 (taḥqīq)` |
+| **Subul al-Hudā: Matn** | Imām al-Ṣāliḥī (d. 942 AH) | `*Subul al-Hudā*, 4:50` |
+| **Subul al-Hudā: Taḥqīq** | Editors (1414/1993), citing al-Khulāṣah, al-Taqrīb, al-Iṣābah, al-Aʿlām | `*Subul al-Hudā*, 1:68 n. 5 (taḥqīq)` |
+| **al-Iṣābah: Matn** | al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī (d. 852 AH) | `*al-Iṣābah*, 4:145` or `*al-Iṣābah*, no. 4835 (4:145)` |
+| **al-Iṣābah: Taḥqīq** | Editors (1415/1995), apparatus | `*al-Iṣābah*, 4:145 n. 1 (taḥqīq)` |
 
 The apparatus is where the *transmitters' biographies* live — death years, gradings, work titles. It
-is the only place in the book such material exists, so notes on the authorities depend on it
-entirely. It is never to be presented as al-Ṣāliḥī's own statement.
+is the only place in Subul al-Hudā such material exists, so notes on al-Ṣāliḥī's own authorities
+depend on it entirely. It is never to be presented as al-Ṣāliḥī's own statement, nor an al-Iṣābah
+apparatus note as Ibn Ḥajar's own statement.
 
-The corpus separates the tiers mechanically: each page's `body` is matn, its `footnotes` array is
+Each corpus separates its tiers mechanically: every page's `body` is matn, its `footnotes` array is
 taḥqīq.
 
 ### Auditing what is already written
@@ -140,18 +150,22 @@ confederation of Banū Kalb" was removed from `Banū Kalb` and still stood in
 
 ### Where the book is silent
 
-Some authorities the book cites are given no biographical entry in it — as of this audit,
-**Ibn Ḥajar al-ʿAsqalānī, Mūsā b. ʿUqbah, Ibn Kathīr and al-Ṣāliḥī himself** have none. Their notes
-must therefore record only what the book does attest — that it cites them, which of their works it
-names, and the verdicts it takes from them — and must say plainly that the book supplies no
-biography. Do not fill the gap from elsewhere.
+Some authorities *Subul al-Hudā* cites are given no biographical entry in it — as of this audit,
+**Mūsā b. ʿUqbah, Ibn Kathīr and al-Ṣāliḥī himself** have none there. (Ibn Ḥajar al-ʿAsqalānī is the
+exception: he is now a primary source in his own right via *al-Iṣābah*, so his own note draws on that
+corpus rather than being limited to what Subul al-Hudā's apparatus says about him.) For anyone
+genuinely absent from both canonical sources, the note must record only what is attested — that a
+source cites them, which of their works it names, and the verdicts it takes from them — and must say
+plainly that neither book supplies a biography. Do not fill the gap from elsewhere.
 
-**Citations.** Every substantive claim is anchored to `*Subul al-Hudā*, <vol>:<page>` inline, with `primary_source`
-in frontmatter giving the volume and page range. The bare `(vol. N, pp. X–Y)` shorthand **always means Subul
-al-Hudā** — any other work's pagination must name that work explicitly (`*al-Ṭabaqāt al-Kubrā* 3:522–525`), or it
-reads as a Subul citation and will fail validation against the volume bounds. Longer notes close with a numbered `## References` list in full
-bibliographic form (al-Ṣāliḥī, Ibn Hishām, Ibn Kathīr, al-Bukhārī, Muslim…). Never invent a volume/page number —
-if the citation isn't known, say so rather than fabricating one.
+**Citations.** Every substantive claim is anchored to `*Subul al-Hudā*, <vol>:<page>` or `*al-Iṣābah*,
+<vol>:<page>` inline, with `primary_source` in frontmatter giving the source, volume and page range.
+The bare `(vol. N, pp. X–Y)` shorthand **always means Subul al-Hudā** — any other work's pagination,
+al-Iṣābah included, must name that work explicitly (`*al-Iṣābah*, 4:145` or
+`*al-Ṭabaqāt al-Kubrā* 3:522–525`), or it reads as a Subul citation and will fail validation against
+the volume bounds. Longer notes close with a numbered `## References` list in full bibliographic form
+(al-Ṣāliḥī, Ibn Ḥajar, Ibn Hishām, Ibn Kathīr, al-Bukhārī, Muslim…). Never invent a volume/page number
+— if the citation isn't known, say so rather than fabricating one.
 
 **Body style.** `# Title (Arabic script)` followed by an italic epithet line; numbered `##` sections; Arabic
 primary-text quotations in `«…»` guillemets inside blockquotes with an English rendering beneath; `> [!NOTE]`

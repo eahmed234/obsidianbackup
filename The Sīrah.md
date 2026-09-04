@@ -71,6 +71,29 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ### The Central Figure
 - **[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ** — *The Messenger of Allāh, Seal of the Prophets*
 
+### The Sacred Lineage (*al-Nasab al-Sharīf*) — Ancestors to ʿAdnān
+The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each ancestor with his own note; see
+**[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]]** §1 for the full table with citations.
+- [[Hāshim b. ʿAbd Manāf]] — *ʿAmr al-ʿAlā; crumbled bread for a starving Makkah*
+- [[ʿAbd Manāf b. Quṣayy]] — *Qamar al-Baṭḥāʾ, "the Moon of the Valley"*
+- [[Quṣayy b. Kilāb]] — *Mujammiʿ; united Quraysh and seized custody of the Kaʿbah*
+- [[Kilāb b. Murrah]] — *Ḥakīm b. Murrah; the Prophet's ﷺ ancestor twice over*
+- [[Murrah b. Kaʿb]] — *Common ancestor of the Prophet ﷺ, Abū Bakr ﵁, and Ṭalḥah ﵁*
+- [[Kaʿb b. Luʾayy]] — *Foretold "a noble prophet," 560 years before the mission*
+- [[Luʾayy b. Ghālib]] — *Wise from childhood*
+- [[Ghālib b. Fihr]] — *Father of Luʾayy and of a second Tamīm*
+- [[Fihr b. Mālik]] — *"Whoever descends beyond Fihr is not of Quraysh"*
+- [[Mālik b. al-Naḍr]] — *Father of the single line that continues through Fihr*
+- [[al-Naḍr b. Kinānah]] — *His true name was Qays; named for the radiance of his face*
+- [[Kinānah b. Khuzaymah]] — *Foretold a Prophet named Aḥmad would arise from Makkah*
+- [[Khuzaymah b. Mudrikah]]
+- [[Mudrikah b. Ilyās]] — *"The one who caught the rabbit"*
+- [[Ilyās b. Muḍar]] — *«لَا تَسُبُّوا إِلْيَاسَ فَإِنَّهُ كَانَ مُؤْمِنًا»*
+- [[Muḍar b. Nizār]] — *Muḍar al-Ḥamrāʾ; died upon the religion of Ibrāhīm ﵊*
+- [[Nizār b. Maʿadd]] — *Named, on one account, for the light of prophethood at his birth*
+- [[Maʿadd b. ʿAdnān]] — *Survivor of Bukht Naṣr; named by the Prophet ﷺ in his own voice*
+- [[ʿAdnān]] — *The boundary of the agreed lineage; a descendant of Ismāʿīl ﵊*
+
 ### Forebears, Guardians & the Mawlid
 - [[ʿAbd al-Muṭṭalib]] — *Grandfather & second guardian; rediscoverer of Zamzam*
 - [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
