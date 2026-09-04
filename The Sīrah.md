@@ -41,6 +41,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[al-Hijrah ilā al-Madīnah]] (1 AH / 622 CE) — *Cave Thawr to Qubāʾ & Medina*
 - [[Bināʾ al-Masjid al-Nabawī]] (1 AH) — *The Prophet's Mosque, Apartments, and Ahl al-Ṣuffah*
 - [[al-Muʾākhāh]] (1 AH) — *The Institutional Fraternization between Muhājirūn and Anṣār*
+- [[Ghazwat al-Abwāʾ]] (Ṣafar 2 AH) — *The First Ghazwah in Islam & The Treaty of Waddān*
 - [[Ghazwat al-ʿUshayrah]] (Jumādā al-Ūlā 2 AH) — *The Interception at Yanbuʿ & Precursor to Badr*
 - [[Dustūr al-Madīnah]] (1 AH) — *The World's First Written Constitution*
 - [[Taḥwīl al-Qiblah]] (Shaʿbān 2 AH) — *The Shifting of the Prayer Direction to the Kaʿbah*
@@ -54,6 +55,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Ḥamrāʾ al-Asad]] (8 Shawwāl 3 AH) — *The Resolute Pursuit of Deterrence*
 - [[Maʾsāt Biʾr Maʿūnah]] (4 AH) — *Massacre of the 70 Reciters & Qunūt al-Nāzilah*
 - [[Ghazwat Banī al-Naḍīr]] (4 AH) — *Siege & Expulsion (Sūrat al-Ḥashr)*
+- [[Ghazwat Badr al-Mawʿid]] (4 AH) — *The Rendezvous of Honor & Fulfillment of Sūrat Āl ʿImrān*
 - [[Ghazwat al-Khandaq]] (5 AH) — *Battle of the Trench (The Grand Confederate Siege)*
 - [[Ghazwat Banī Qurayẓah]] (5 AH) — *Judgment of Saʿd b. Muʿādh on Wartime Treason*
 - [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
