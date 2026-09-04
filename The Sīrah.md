@@ -22,7 +22,10 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ### 1. The Makkan Era (العهد المكي)
 - [[Mawlid al-Nabī]] (~53 BH / 570 CE) — *The Year of the Elephant & Celestial Portents*
 - [[Shaqq al-Ṣadr]] (early childhood) — *The Opening of His Chest and the Removal of Shayṭān's Portion*
+- [[Riḥlat al-Shām al-Ūlā]] (~41 BH) — *Youth Journeys to Yemen and Syria; Baḥīrā's Recognition*
+- [[Ḥarb al-Fijār]] (~35 BH) — *The Sacrilegious War; He Shot Arrows With His Uncles*
 - [[Ḥilf al-Fuḍūl]] (~20 BH / 590 CE) — *The League of the Virtuous*
+- [[Riḥlat al-Shām al-Thāniyah]] (~15 BH) — *Khadījah's Caravan; the Journey That Led to Marriage*
 - [[Tajdīd al-Kaʿbah]] (~15 BH / 605 CE) — *Reconstruction & Arbiter of the Black Stone*
 - [[Mabʿath al-Nabī]] (13 BH / 610 CE) — *Dawn of Revelation in Cave Ḥirāʾ*
 - [[al-Daʿwah al-Sirriyyah wal-Jahriyyah]] (13–10 BH) — *Dār al-Arqam & Mount al-Ṣafā*
