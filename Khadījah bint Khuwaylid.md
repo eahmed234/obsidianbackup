@@ -25,5 +25,5 @@ The preeminent wife of the Messenger of Allāh [[Muḥammad b. ʻAbdullah|Muḥa
 - The absolute first human being to believe in his mission at **[[Mabʿath al-Nabī]]**.
 - Provided unwavering emotional, spiritual, and financial shelter for twenty-five years. The Prophet ﷺ married no other woman during her lifetime.
 - Endured the starvation of **[[al-Ḥiṣār fī Shiʿb Abī Ṭālib]]**.
-- Jibrīl (as) descended to convey the Salām of Allāh Almighty to her and glad tidings of a palace of hollow pearl (*qaṣab*) in Paradise wherein is neither toil nor clamor (*Ṣaḥīḥ al-Bukhārī*, no. 3820).
+- Jibrīl ﵊ descended to convey the Salām of Allāh Almighty to her and glad tidings of a palace of hollow pearl (*qaṣab*) in Paradise wherein is neither toil nor clamor (*Ṣaḥīḥ al-Bukhārī*, no. 3820).
 - Her death marked the tragic inception of **[[ʿĀm al-Ḥuzn]]**.

@@ -13,8 +13,8 @@ tags:
 date_period: Dhū al-Ḥijjah, 12th Year of Nubūwah (621 CE)
 location: "al-ʿAqabah near Minā"
 participants: "12 men from Yathrib (10 Khazraj, 2 Aws)"
-leader: "[[Asʿad b. Zurārah]] (ra)"
-delegate_dispatched: "[[Muṣʿab b. ʿUmayr]] (ra)"
+leader: "[[Asʿad b. Zurārah]] ﵁"
+delegate_dispatched: "[[Muṣʿab b. ʿUmayr]] ﵁"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 180–195)"
 ---
 
@@ -28,4 +28,4 @@ Because it contained no clause regarding military defense, it is historically st
 > *"We pledge to Allāh that we will associate nothing with Him, will not steal, will not commit adultery, will not kill our children, will not utter slander, and will not disobey the Messenger of Allāh in that which is good"* (*Subul al-Hudā*, 3:182).
 
 ## 2. The Mission of Muṣʿab b. ʿUmayr
-The Prophet ﷺ dispatched the noble youth **[[Muṣʿab b. ʿUmayr]]** (ra) to Yathrib as the first resident teacher and ambassador of Islam. Stationed with Asʿad b. Zurārah, Muṣʿab’s gentle wisdom converted the preeminent chieftains of the city, including **[[Saʿd b. Muʿādh]]** and **[[Usayd b. Ḥuḍayr]]**, transforming Yathrib into a city ready to welcome the Prophet ﷺ.
+The Prophet ﷺ dispatched the noble youth **[[Muṣʿab b. ʿUmayr]]** ﵁ to Yathrib as the first resident teacher and ambassador of Islam. Stationed with Asʿad b. Zurārah, Muṣʿab’s gentle wisdom converted the preeminent chieftains of the city, including **[[Saʿd b. Muʿādh]]** and **[[Usayd b. Ḥuḍayr]]**, transforming Yathrib into a city ready to welcome the Prophet ﷺ.

@@ -19,8 +19,8 @@ date_gregorian: 13 March 624 CE
 location: "[[Badr]]"
 commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
-  - "[[Ḥamzah b. ʿAbd al-Muṭṭalib]] (ra)"
-  - "[[ʿAlī b. Abī Ṭālib]] (ra)"
+  - "[[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁"
+  - "[[ʿAlī b. Abī Ṭālib]] ﵁"
 commanders_enemy:
   - "[[Abū Jahl (ʿAmr b. Hishām)]] ☠"
   - "[[ʿUtbah b. Rabīʿah]] ☠"
@@ -112,23 +112,23 @@ $$\text{وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَع
 The Messenger of Allāh ﷺ marched out of Medina on either the **8th or 12th of Ramaḍān, 2 AH** (*Subul al-Hudā*, 4:23).
 
 ### Administrative Appointments in Medina
-- **Over the Prayers**: The blind Companion **[[ʿAbdullāh b. Umm Maktūm]]** (ra).
-- **Over the Affairs of Medina**: Dispatched initially, then at [[al-Rawḥāʾ]], the Prophet ﷺ designated **[[Abū Lubābah b. ʿAbd al-Mundhir]]** (ra) to govern the civil affairs of the oasis city (*Subul al-Hudā*, 4:23).
+- **Over the Prayers**: The blind Companion **[[ʿAbdullāh b. Umm Maktūm]]** ﵁.
+- **Over the Affairs of Medina**: Dispatched initially, then at [[al-Rawḥāʾ]], the Prophet ﷺ designated **[[Abū Lubābah b. ʿAbd al-Mundhir]]** ﵁ to govern the civil affairs of the oasis city (*Subul al-Hudā*, 4:23).
 
 ### The Composition & Ranks
 The force numbered between **313 and 317 men**:
 - **Muhājirūn**: 82 to 86 men.
 - **Anṣār**: 231 men (61 from the [[al-Aws]] and 170 from the [[al-Khazraj]]).
 - **Mounts & Equippage**:
-  - Only **two horses**: one belonging to **[[al-Miqdād b. ʿAmr]]** (named *Sabḥah*) and one belonging to **[[al-Zubayr b. al-ʿAwwām]]** (ra).
+  - Only **two horses**: one belonging to **[[al-Miqdād b. ʿAmr]]** (named *Sabḥah*) and one belonging to **[[al-Zubayr b. al-ʿAwwām]]** ﵁.
   - Approximately **70 camels**, ridden in rotation (*ʿuqbah*). The Prophet ﷺ, **[[ʿAlī b. Abī Ṭālib]]**, and **[[Marthad b. Abī Marthad al-Ghanawī]]** shared a single camel. When his two companions implored the Prophet ﷺ to ride while they walked, he answered with his consummate humility and fortitude:
     > «مَا أَنْتُمَا بِأَقْوَى مِنِّي عَلَى الْمَشْيِ، وَلَا أَنَا بِأَغْنَى عَنِ الْأَجْرِ مِنْكُمَا»
     > *"Neither of you is stronger than me in walking, nor am I in any less need of divine reward than you two."* (*Subul al-Hudā*, 4:24; narrated by Imām Aḥmad).
 
 ### Standards & Banners (*al-Alwiyah war-Rāyāt*)
-- **The Great White Banner (*al-Liwāʾ al-Aʿẓam*)**: Entrusted to the noble youth **[[Muṣʿab b. ʿUmayr]]** al-Qurashī al-ʿAbdarī (ra).
-- **The Banner of the Muhājirūn (*Rāyat al-Muhājirīn*)**: Entrusted to **[[ʿAlī b. Abī Ṭālib]]** (ra), known as *al-ʿUqāb* (The Black Eagle).
-- **The Banner of the Anṣār (*Rāyat al-Anṣār*)**: Entrusted to the chief of the Aws, **[[Saʿd b. Muʿādh]]** (ra) (*Subul al-Hudā*, 4:24).
+- **The Great White Banner (*al-Liwāʾ al-Aʿẓam*)**: Entrusted to the noble youth **[[Muṣʿab b. ʿUmayr]]** al-Qurashī al-ʿAbdarī ﵁.
+- **The Banner of the Muhājirūn (*Rāyat al-Muhājirīn*)**: Entrusted to **[[ʿAlī b. Abī Ṭālib]]** ﵁, known as *al-ʿUqāb* (The Black Eagle).
+- **The Banner of the Anṣār (*Rāyat al-Anṣār*)**: Entrusted to the chief of the Aws, **[[Saʿd b. Muʿādh]]** ﵁ (*Subul al-Hudā*, 4:24).
 
 ---
 
@@ -203,7 +203,7 @@ sequenceDiagram
 ### The Voices of the Muhājirūn
 **[[Abū Bakr al-Ṣiddīq]]** spoke, and spoke excellently. Then **[[ʿUmar b. al-Khaṭṭāb]]** spoke, and spoke excellently.
 
-Then arose **[[al-Miqdād b. ʿAmr]]** (ra), who uttered the immortal declaration contrasting the Ummah of Muḥammad ﷺ with the followers of Mūsā (as):
+Then arose **[[al-Miqdād b. ʿAmr]]** ﵁, who uttered the immortal declaration contrasting the Ummah of Muḥammad ﷺ with the followers of Mūsā ﵊:
 > «يَا رَسُولَ اللَّهِ، امْضِ لِمَا أَرَاكَ اللَّهُ فَنَحْنُ مَعَكَ، وَاللَّهِ لَا نَقُولُ لَكَ كَمَا قَالَتْ بَنُو إِسْرَائِيلَ لِمُوسَى: ﴿فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلَا إِنَّا هَاهُنَا قَاعِدُونَ﴾ وَلَكِنِ: اذْهَبْ أَنْتَ وَرَبُّكَ فَقَاتِلَا إِنَّا مَعَكُمَا مُقَاتِلُونَ! وَالَّذِي بَعَثَكَ بِالْحَقِّ، لَوْ سِرْتَ بِنَا إِلَى بَرْكِ الْغِمَادِ لَجَالَدْنَا مَعَكَ مَنْ دُونَهُ حَتَّى تَبْلُغَهُ!»
 > *"O Messenger of Allāh! Proceed to whatever Allāh has commanded you, for we are with you. By Allāh, we shall never say to you as the Children of Israel said to Moses: 'Go, you and your Lord, and fight; we are sitting right here!' Rather, we say: 'Go, you and your Lord, and fight; we are fighting alongside you!' By the One Who sent you with the truth, if you marched us even to the furthest shores of Bark al-Ghimād, we would battle alongside you until you attained it!"* (*Subul al-Hudā*, 4:26; *Ṣaḥīḥ al-Bukhārī*, no. 3952).
 
@@ -212,7 +212,7 @@ The face of the Prophet ﷺ beamed with joy. Yet he repeated a third time:
 > *"Advise me, O people!"*
 
 ### The Covenant of the Anṣār: Saʿd b. Muʿādh
-The leader of the Anṣār, **[[Saʿd b. Muʿādh]]** (ra), realized the Prophet ﷺ was addressing them directly. He rose and proclaimed (*Subul al-Hudā*, 4:26):
+The leader of the Anṣār, **[[Saʿd b. Muʿādh]]** ﵁, realized the Prophet ﷺ was addressing them directly. He rose and proclaimed (*Subul al-Hudā*, 4:26):
 > *"Perhaps you fear, O Messenger of Allāh, that the Anṣār believe their duty to assist you is restricted only within their homes?*
 > 
 > *Indeed, I speak on behalf of the Anṣār and answer for them! Proceed wherever you desire, tie the bonds of whomever you wish, sever the bonds of whomever you wish, take from our wealth what you wish, and give us what you wish—and what you take from us is more beloved to us than what you leave behind.*
@@ -253,7 +253,7 @@ $$\text{إِذْ أَنتُم بِالْعُدْوَةِ الدُّنْيَا و
 > *"[Remember] when you were on the nearer slope (*al-ʿudwah al-dunyā*), and they were on the farther slope (*al-ʿudwah al-quṣwā*), and the caravan was lower than you [along the sea]..."* (Qurʾān 8:42).
 
 ### The Tactical Intervention of al-Ḥubāb b. al-Mundhir
-When the Muslim vanguard initially encamped at the nearest water well of Badr, **[[al-Ḥubāb b. al-Mundhir]]** (ra)—an Anṣārī veteran of desert combat dubbed *Dhū al-Raʾy* (The Man of Expert Counsel)—approached the Prophet ﷺ with profound prophetic etiquette:
+When the Muslim vanguard initially encamped at the nearest water well of Badr, **[[al-Ḥubāb b. al-Mundhir]]** ﵁—an Anṣārī veteran of desert combat dubbed *Dhū al-Raʾy* (The Man of Expert Counsel)—approached the Prophet ﷺ with profound prophetic etiquette:
 > «يَا رَسُولَ اللَّهِ: أَرَأَيْتَ هَذَا الْمَنْزِلَ، أَمَنْزِلاً أَنْزَلَكَهُ اللَّهُ لَيْسَ لَنَا أَنْ نَتَقَدَّمَهُ وَلَا نَتَأَخَّرَ عَنْهُ، أَمْ هُوَ الرَّأْيُ وَالْحَرْبُ وَالْمَكِيدَةُ؟»
 > *"O Messenger of Allāh: Have you viewed this encampment as a station that Allāh has revealed to you, such that we may neither advance beyond it nor retreat from it? Or is it a matter of tactical opinion, warfare, and military strategy?"*
 The Prophet ﷺ replied:
@@ -285,7 +285,7 @@ On the eve of **Friday, the 17th of Ramaḍān**, three miracles transformed the
 While Quraysh spent a sleepless night consumed by anxiety, suspicion, and internal discord, Allāh cast an overwhelming, tranquil drowsiness (*nuʿās*) over the Muslim camp. Men slept peacefully on the edge of the battlefield, resting their bodies and pacifying their spirits:
 $$\text{إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ}$$
 > *"[Remember] when He covered you with a slumber as a security from Him..."* (Qurʾān 8:11).
-ʿAlī b. Abī Ṭālib (ra) related: *"There was not a single horseman among us that night except al-Miqdād, and I saw all of us sleeping, except the Messenger of Allāh ﷺ beneath a tree, praying and weeping until morning arrived"* (*Subul al-Hudā*, 4:29; Imām Aḥmad).
+ʿAlī b. Abī Ṭālib ﵁ related: *"There was not a single horseman among us that night except al-Miqdād, and I saw all of us sleeping, except the Messenger of Allāh ﷺ beneath a tree, praying and weeping until morning arrived"* (*Subul al-Hudā*, 4:29; Imām Aḥmad).
 
 ### 2. The Cleansing Rain (*al-Maṭar*)
 Allāh sent down rainfall upon the valley:
@@ -296,7 +296,7 @@ Allāh sent down rainfall upon the valley:
 In the stillness of the night, the Messenger of Allāh ﷺ walked the sands of Badr with a staff in hand, placing it down at precise coordinates and foretelling:
 > «هَذَا مَصْرَعُ أَبِي جَهْلٍ غَدًا إِنْ شَاءَ اللَّهُ، هَذَا مَصْرَعُ عُتْبَةَ، هَذَا مَصْرَعُ شَيْبَةَ، هَذَا مَصْرَعُ أُمَيَّةَ بْنِ خَلَفٍ...»
 > *"This is the deathplace of Abū Jahl tomorrow, if Allāh wills; this is the deathplace of ʿUtbah; this is the deathplace of Shaybah; this is the deathplace of Umayyah b. Khalaf..."*
-ʿUmar b. al-Khaṭṭāb (ra) swore by Allāh: *"Not a single one of them exceeded the boundary of the spot where the Messenger of Allāh ﷺ placed his hand!"* (*Ṣaḥīḥ Muslim*, no. 1779; *Subul al-Hudā*, 4:30).
+ʿUmar b. al-Khaṭṭāb ﵁ swore by Allāh: *"Not a single one of them exceeded the boundary of the spot where the Messenger of Allāh ﷺ placed his hand!"* (*Ṣaḥīḥ Muslim*, no. 1779; *Subul al-Hudā*, 4:30).
 
 ---
 
@@ -307,7 +307,7 @@ At dawn on Friday, the Prophet ﷺ marshaled the Muslim forces into military lin
 $$\text{إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُم بُنْيَانٌ مَّرْصُوصٌ}$$
 > *"Indeed, Allāh loves those who fight in His cause in a row as though they are a single structure joined firmly."* (Qurʾān 61:4).
 
-While straightening the ranks with an unfeathered arrow shaft, the Prophet ﷺ tapped the protruding belly of **[[Sawād b. Ghaziyyah]]** (ra), saying: *«اسْتَوِ يَا سَوَادُ»* (*"Straighten up, O Sawād!"*). Sawād cried: *"You have hurt me, O Messenger of Allāh, and Allāh sent you with truth and justice; let me have retaliation (*aqidnī*)!"*
+While straightening the ranks with an unfeathered arrow shaft, the Prophet ﷺ tapped the protruding belly of **[[Sawād b. Ghaziyyah]]** ﵁, saying: *«اسْتَوِ يَا سَوَادُ»* (*"Straighten up, O Sawād!"*). Sawād cried: *"You have hurt me, O Messenger of Allāh, and Allāh sent you with truth and justice; let me have retaliation (*aqidnī*)!"*
 The Prophet ﷺ unhesitatingly uncovered his blessed abdomen and said: *«اسْتَقِدْ»* (*"Take your retaliation."*). Sawād embraced him and kissed his belly. When the Prophet ﷺ asked him why he had done so, Sawād replied:
 > *"O Messenger of Allāh, you see what we are facing. I wanted the very last moment of my life in this world to be my skin touching your skin!"* The Prophet ﷺ prayed for his welfare (*Subul al-Hudā*, 4:33).
 
@@ -328,14 +328,14 @@ The armies utilized standardized vocal recognition codes (*al-shiʿār*) to prev
 ==============================================================================
     QURAYSH ARISTOCRACY                          HASHIMITE CHAMPIONS
     -------------------                          -------------------
-    ʿUtbah b. Rabīʿah          <== Dueling ==>   ʿUbaydah b. al-Ḥārith (ra)
-    Shaybah b. Rabīʿah         <== Dueling ==>   Ḥamzah b. ʿAbd al-Muṭṭalib (ra)
-    al-Walīd b. ʿUtbah         <== Dueling ==>   ʿAlī b. Abī Ṭālib (ra)
+    ʿUtbah b. Rabīʿah          <== Dueling ==>   ʿUbaydah b. al-Ḥārith ﵁
+    Shaybah b. Rabīʿah         <== Dueling ==>   Ḥamzah b. ʿAbd al-Muṭṭalib ﵁
+    al-Walīd b. ʿUtbah         <== Dueling ==>   ʿAlī b. Abī Ṭālib ﵁
 ==============================================================================
 ```
 
 ### The Initial Provocation
-Before the general engagement, **al-Aswad b. ʿAbd al-Asad al-Makhzūmī**, an arrogant polytheist, swore to drink from the Muslim cistern or die in the attempt. **[[Ḥamzah b. ʿAbd al-Muṭṭalib]]** (ra) intercepted him, severing his leg with a single stroke. As al-Aswad crawled toward the reservoir to fulfill his oath, Ḥamzah struck him down (*Subul al-Hudā*, 4:35).
+Before the general engagement, **al-Aswad b. ʿAbd al-Asad al-Makhzūmī**, an arrogant polytheist, swore to drink from the Muslim cistern or die in the attempt. **[[Ḥamzah b. ʿAbd al-Muṭṭalib]]** ﵁ intercepted him, severing his leg with a single stroke. As al-Aswad crawled toward the reservoir to fulfill his oath, Ḥamzah struck him down (*Subul al-Hudā*, 4:35).
 
 ### The Duel of the Six
 Three aristocratic champions of Quraysh strode between the lines:
@@ -361,7 +361,7 @@ When placed before the Prophet ﷺ, ʿUbaydah placed his cheek upon the Prophet�
 The Prophet ﷺ affirmed: *«أَشْهَدُ أَنَّكَ شَهِيدٌ»* (*"I bear witness that you are indeed a martyr!"*) (*Subul al-Hudā*, 4:36). ʿUbaydah succumbed to his wounds days later at [[Wādī al-Ṣafrāʾ]].
 
 ### Sabab al-Nuzūl: Surah al-Ḥajj (22:19)
-Imām al-Bukhārī records from [[Abū Dharr al-Ghifārī]] and [[ʿAlī b. Abī Ṭālib]] (ra):
+Imām al-Bukhārī records from [[Abū Dharr al-Ghifārī]] and [[ʿAlī b. Abī Ṭālib]] ﵁:
 $$\text{۞ هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ}$$
 > *"These are two adversaries who have disputed regarding their Lord. But those who disbelieved will have garments of fire cut out for them..."* (Qurʾān 22:19).
 ʿAlī swore: *"I shall be the very first man to kneel upon his knees before the Most Merciful on the Day of Resurrection for the lawsuit (al-khuṣūmah)!"* (*Ṣaḥīḥ al-Bukhārī*, no. 3965; *Subul al-Hudā*, 4:36).
@@ -370,7 +370,7 @@ $$\text{۞ هَٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي ر�
 
 ## 11. The Supplication in the ʿArīsh and Angelic Descent
 
-With the opening duels lost, the polytheist multitude surged forward in massed columns. The Messenger of Allāh ﷺ re-entered the ʿArīsh with his sole companion, **[[Abū Bakr al-Ṣiddīq]]** (ra). Facing the Qiblah, raising his hands so high that the white of his underarms showed and his cloak (*ridāʾ*) slipped from his shoulders, he supplicated with volcanic intensity:
+With the opening duels lost, the polytheist multitude surged forward in massed columns. The Messenger of Allāh ﷺ re-entered the ʿArīsh with his sole companion, **[[Abū Bakr al-Ṣiddīq]]** ﵁. Facing the Qiblah, raising his hands so high that the white of his underarms showed and his cloak (*ridāʾ*) slipped from his shoulders, he supplicated with volcanic intensity:
 > «اللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي! اللَّهُمَّ آتِ مَا وَعَدْتَنِي! اللَّهُمَّ إِنْ تَهْلِكْ هَذِهِ الْعِصَابَةُ مِنْ أَهْلِ الْإِسْلَامِ لَا تُعْبَدْ فِي الْأَرْضِ!»
 > *"O Allāh! Fulfill for me what You promised me! O Allāh! Grant me what You promised me! O Allāh! If this small band (*al-ʿiṣābah*) of Muslims is destroyed today, You will never be worshipped upon this earth!"* (*Subul al-Hudā*, 4:36; *Ṣaḥīḥ Muslim*, no. 1763).
 
@@ -384,9 +384,9 @@ The Prophet ﷺ dozed momentarily, then lifted his head with radiant gladness:
 ```mermaid
 graph LR
     subgraph Angelic Host
-        J["Jibrīl (as)"] --> H["1,000 to 5,000 Angels"]
-        M["Mīkāʾīl (as)"] --> H
-        I["Isrāfīl (as)"] --> H
+        J["Jibrīl ﵊"] --> H["1,000 to 5,000 Angels"]
+        M["Mīkāʾīl ﵊"] --> H
+        I["Isrāfīl ﵊"] --> H
     end
     H -->|Marked with Yellow Turbans| B["Battlefront at Badr"]
     B -->|Terror Cast into Hearts| Q["Quraysh Polytheists"]
@@ -420,12 +420,12 @@ $$\text{فَلَمْ تَقْتُلُوهُمْ وَلَكِنَّ اللَّه�
 Hearing the Prophet ﷺ declare:
 > «قُومُوا إِلَى جَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ!»
 > *"Rise forth to a Paradise whose width is like the heavens and the earth!"*
-The Khazrajī warrior **[[ʿUmayr b. al-Ḥumām]]** (ra) pulled out several dates to nourish himself before fighting. He paused, stared at the dates, and declared:
+The Khazrajī warrior **[[ʿUmayr b. al-Ḥumām]]** ﵁ pulled out several dates to nourish himself before fighting. He paused, stared at the dates, and declared:
 > *"Bakhin! Bakhin! (Splendid! Splendid!) If I live long enough to eat these dates, that would be a long life indeed!"*
 He cast the dates aside, charged into the thick of the fray, and fought until he achieved martyrdom—becoming the first martyr of the Anṣār at Badr (*Subul al-Hudā*, 4:49; *Ṣaḥīḥ Muslim*, no. 1901).
 
 ### The Slaying of Umayyah b. Khalaf
-**[[ʿAbd al-Raḥmān b. ʿAwf]]** (ra) had taken his pre-Islamic acquaintance **[[Umayyah b. Khalaf]]** and his son ʿAlī into protective custody as captives. As they walked, **[[Bilāl b. Rabāḥ]]** (ra)—who had endured torturous agony pinned beneath incandescent rocks in the sands of Makkah at Umayyah's hand—spotted his former tormentor. Bilāl bellowed:
+**[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ had taken his pre-Islamic acquaintance **[[Umayyah b. Khalaf]]** and his son ʿAlī into protective custody as captives. As they walked, **[[Bilāl b. Rabāḥ]]** ﵁—who had endured torturous agony pinned beneath incandescent rocks in the sands of Makkah at Umayyah's hand—spotted his former tormentor. Bilāl bellowed:
 > «رَأْسُ الْكُفْرِ أُمَيَّةُ بْنُ خَلَفٍ! لَا نَجَوْتُ إِنْ نَجَا!»
 > *"The head of disbelief, Umayyah b. Khalaf! May I not survive if he survives!"*
 Bilāl summoned the Anṣār, who surrounded them. Although ʿAbd al-Raḥmān tried to shield them with his own body, the righteous wrath of the oppressed overwhelmed the tyrant, and Umayyah and his son were slain on the spot (*Subul al-Hudā*, 4:51; *Ṣaḥīḥ al-Bukhārī*, no. 2301).
@@ -436,7 +436,7 @@ Two teenage Anṣārī youths from [[Banū Salimah]], **[[Muʿādh b. ʿAmr b. a
 
 When ʿAbd al-Raḥmān pointed him out surrounded by an armored thicket of swords, the two youths darted like two falcons and struck him down, severing his leg. ʿIkrimah b. Abī Jahl struck Muʿādh’s arm, leaving it dangling by its skin; Muʿādh stepped upon his own severed arm with his foot and tore it off to continue fighting unrestricted (*Subul al-Hudā*, 4:52).
 
-Following the rout, the Prophet ﷺ ordered a search for Abū Jahl. **[[ʿAbdullāh b. Masʿūd]]** (ra)—the small, frail shepherd whom Abū Jahl had once slapped and humiliated in Makkah—found him drawing his final breaths. Ibn Masʿūd stepped upon his neck. Abū Jahl sneered with his dying breath:
+Following the rout, the Prophet ﷺ ordered a search for Abū Jahl. **[[ʿAbdullāh b. Masʿūd]]** ﵁—the small, frail shepherd whom Abū Jahl had once slapped and humiliated in Makkah—found him drawing his final breaths. Ibn Masʿūd stepped upon his neck. Abū Jahl sneered with his dying breath:
 > *"You have ascended a difficult peak, you lowly shepherd of sheep! Who is victorious today?"*
 Ibn Masʿūd replied: *"Allāh and His Messenger, O enemy of Allāh!"* Ibn Masʿūd severed his head and brought it before the Prophet ﷺ, who praised Allāh three times and proclaimed:
 > «هَذَا فِرْعَوْنُ هَذِهِ الْأُمَّةِ!»
@@ -464,7 +464,7 @@ The Prophet ﷺ ordered the corpses of twenty-four polytheist ringleaders cast i
 > «يَا أَبَا جَهْلِ بْنَ هِشَامٍ، يَا عُتْبَةَ بْنَ رَبِيعَةَ، يَا شَيْبَةَ بْنَ رَبِيعَةَ، يَا أُمَيَّةَ بْنَ خَلَفٍ! هَلْ وَجَدْتُمْ مَا وَعَدَ رَبُّكُمْ حَقًّا؟ فَإِنِّي قَدْ وَجَدْتُ مَا وَعَدَنِي رَبِّي حَقًّا!»
 > *"O Abū Jahl b. Hishām! O ʿUtbah b. Rabīʿah! O Shaybah b. Rabīʿah! O Umayyah b. Khalaf! Have you found what your Lord promised you to be true? For I have indeed found what my Lord promised me to be true!"*
 
-ʿUmar b. al-Khaṭṭāb (ra) asked: *"O Messenger of Allāh, do you speak to bodies that have no spirits?"*
+ʿUmar b. al-Khaṭṭāb ﵁ asked: *"O Messenger of Allāh, do you speak to bodies that have no spirits?"*
 The Prophet ﷺ responded:
 > «مَا أَنْتُمْ بِأَسْمَعَ لِمَا أَقُولُ مِنْهُمْ، غَيْرَ أَنَّهُمْ لَا يَسْتَطِيعُونَ أَنْ يَرُدُّوا عَلَيَّ شَيْئًا»
 > *"You do not hear what I say any better than they do, except that they are unable to send any reply back to me."* (*Subul al-Hudā*, 4:55; *Ṣaḥīḥ al-Bukhārī*, no. 3976; *Ṣaḥīḥ Muslim*, no. 2874).
@@ -474,7 +474,7 @@ The Prophet ﷺ dispatched two riders to deliver the joyous news to Medina:
 - **[[ʿAbdullāh b. Rawāḥah]]** to the Upper Quarter of Medina (*al-ʿĀliyah*).
 - **[[Zayd b. Ḥārithah]]** to the Lower Quarter (*al-Sāfilah*).
 
-They entered the city as the Muslims were smoothing the soil over the grave of the Prophet's daughter, **[[Ruqayyah bint Rasūlillāh]]**, wife of **[[ʿUthmān b. ʿAffān]]** (ra). (ʿUthmān had stayed behind under the direct command of the Prophet ﷺ to nurse her, yet was credited by the Prophet ﷺ with a full participant's share of spoils and spiritual reward among the Badriyyūn).
+They entered the city as the Muslims were smoothing the soil over the grave of the Prophet's daughter, **[[Ruqayyah bint Rasūlillāh]]**, wife of **[[ʿUthmān b. ʿAffān]]** ﵁. (ʿUthmān had stayed behind under the direct command of the Prophet ﷺ to nurse her, yet was credited by the Prophet ﷺ with a full participant's share of spoils and spiritual reward among the Badriyyūn).
 
 ---
 
@@ -513,7 +513,7 @@ In the famous hadith of [[Ḥāṭib b. Abī Baltaʿah]] recorded in the two *�
 > *"What do you know? Perhaps Allāh looked down upon the people of Badr and declared: 'Do whatever you wish, for I have already forgiven you!'"* (*Ṣaḥīḥ al-Bukhārī*, no. 3007; *Ṣaḥīḥ Muslim*, no. 2494; *Subul al-Hudā*, 4:100).
 
 ### The Angelic Preeminence
-Jibrīl (as) descended and asked the Messenger of Allāh ﷺ:
+Jibrīl ﵊ descended and asked the Messenger of Allāh ﷺ:
 > *"How do you rank the people of Badr among yourselves?"*
 > The Prophet ﷺ said: *«مِنْ أَفْضَلِ الْمُسْلِمِينَ»* (*"Among the foremost of Muslims."*)
 > Jibrīl replied:
@@ -526,15 +526,15 @@ Jibrīl (as) descended and asked the Messenger of Allāh ﷺ:
 | Figure | Affiliation | Crucial Role at Badr | Subsequent Event |
 | :--- | :--- | :--- | :--- |
 | **[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ** | Commander-in-Chief | Supplication in the ʿArīsh, casting pebbles | All Seerah |
-| **[[ʿAlī b. Abī Ṭālib]] (ra)** | Muhājirūn / Hāshimī | Slays al-Walīd in duel; carries standard (*al-ʿUqāb*) | [[Ghazwat Uḥud]] |
-| **[[Ḥamzah b. ʿAbd al-Muṭṭalib]] (ra)** | Muhājirūn / Hāshimī | Slays Shaybah in duel; kills al-Aswad | [[Ghazwat Uḥud]] (martyred) |
-| **[[ʿUbaydah b. al-Ḥārith]] (ra)** | Muhājirūn / Muṭṭalibī | First champion duel; leg severed; martyr | [[Wādī al-Ṣafrāʾ]] (tomb) |
-| **[[Saʿd b. Muʿādh]] (ra)** | Anṣār / Aws | Shūrā covenant speech; guards ʿArīsh | [[Ghazwat al-Khandaq]] |
-| **[[al-Ḥubāb b. al-Mundhir]] (ra)** | Anṣār / Khazraj | Tactical water counsel (*raʾy wa-ḥarb*) | [[Saqīfat Banī Sāʿidah]] |
-| **[[al-Miqdād b. ʿAmr]] (ra)** | Muhājirūn | Sole horseman; *"We fight on your right and left"* | [[Ghazwat Khaybar]] |
-| **[[ʿUmayr b. al-Ḥumām]] (ra)** | Anṣār / Khazraj | Casts away dates; first Anṣār martyr | Martyred at Badr |
-| **[[Bilāl b. Rabāḥ]] (ra)** | Muhājirūn | Executes tyrant Umayyah b. Khalaf | [[Fatḥ Makkah]] |
-| **[[ʿAbdullāh b. Masʿūd]] (ra)** | Muhājirūn | Dispatches Abū Jahl (*Firʿawn hādhihi al-Ummah*) | Kūfah Scholarship |
+| **[[ʿAlī b. Abī Ṭālib]] ﵁** | Muhājirūn / Hāshimī | Slays al-Walīd in duel; carries standard (*al-ʿUqāb*) | [[Ghazwat Uḥud]] |
+| **[[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁** | Muhājirūn / Hāshimī | Slays Shaybah in duel; kills al-Aswad | [[Ghazwat Uḥud]] (martyred) |
+| **[[ʿUbaydah b. al-Ḥārith]] ﵁** | Muhājirūn / Muṭṭalibī | First champion duel; leg severed; martyr | [[Wādī al-Ṣafrāʾ]] (tomb) |
+| **[[Saʿd b. Muʿādh]] ﵁** | Anṣār / Aws | Shūrā covenant speech; guards ʿArīsh | [[Ghazwat al-Khandaq]] |
+| **[[al-Ḥubāb b. al-Mundhir]] ﵁** | Anṣār / Khazraj | Tactical water counsel (*raʾy wa-ḥarb*) | [[Saqīfat Banī Sāʿidah]] |
+| **[[al-Miqdād b. ʿAmr]] ﵁** | Muhājirūn | Sole horseman; *"We fight on your right and left"* | [[Ghazwat Khaybar]] |
+| **[[ʿUmayr b. al-Ḥumām]] ﵁** | Anṣār / Khazraj | Casts away dates; first Anṣār martyr | Martyred at Badr |
+| **[[Bilāl b. Rabāḥ]] ﵁** | Muhājirūn | Executes tyrant Umayyah b. Khalaf | [[Fatḥ Makkah]] |
+| **[[ʿAbdullāh b. Masʿūd]] ﵁** | Muhājirūn | Dispatches Abū Jahl (*Firʿawn hādhihi al-Ummah*) | Kūfah Scholarship |
 | **[[Abū Jahl (ʿAmr b. Hishām)]]** | Quraysh / Makhzūm | Arch-enemy commander; instigates battle | Slain at Badr |
 | **[[Abū Sufyān b. Ḥarb]]** | Quraysh / Umayyah | Leads caravan along coastal route to safety | [[Ghazwat Uḥud]] |
 

@@ -54,7 +54,7 @@ Prior to Islam, his name was *ʿAbd ʿAmr* (or in some transmissions, *ʿAbd al-
 > «بَلْ أَنْتَ عَبْدُ الرَّحْمَنِ»
 > *"Rather, you are ʿAbd al-Raḥmān (The Servant of the Most Merciful)."*
 
-He accepted Islam at the very inception of the Daʿwah through the invitation of **[[Abū Bakr al-Ṣiddīq]]** (ra), making him:
+He accepted Islam at the very inception of the Daʿwah through the invitation of **[[Abū Bakr al-Ṣiddīq]]** ﵁, making him:
 - One of the **Eight Foremost Pioneers** (*al-Thamāniyah al-Sābiqūn ilā al-Islām*).
 - One of the **Ten Promised Paradise** (*al-ʿAsharah al-Mubashsharūn bil-Jannah*).
 - One of the **Six Members of the Consultative Council** (*Aṣḥāb al-Shūrā*) appointed by ʿUmar b. al-Khaṭṭāb (*Subul al-Hudā*, 11:318).
@@ -67,7 +67,7 @@ The life of ʿAbd al-Raḥmān b. ʿAwf serves as an architectural spine interse
 
 ```mermaid
 graph TD
-    ARA["ʿAbd al-Raḥmān b. ʿAwf (ra)"]
+    ARA["ʿAbd al-Raḥmān b. ʿAwf ﵁"]
     
     ARA -->|"5 BH (615 CE)"| Habashah["[[al-Hijrah ilā al-Ḥabashah]]<br/>(Migration to Abyssinia)"]
     ARA -->|"1 AH (622 CE)"| Hijrah["[[al-Hijrah]] to Medina"]
@@ -89,7 +89,7 @@ When persecution intensified in Makkah, ʿAbd al-Raḥmān joined the very first
 ---
 
 ### Event Branch 2: The Fraternization (*al-Muʾākhāh*) and the Market of Medina
-Upon arriving in Medina destitute after Quraysh had confiscated his assets in Makkah, the Messenger of Allāh ﷺ paired him in the bond of brotherhood (*al-muʾākhāh*) with one of the most affluent chieftains of the Khazraj, **[[Saʿd b. al-Rabīʿ]]** (ra) (*Subul al-Hudā*, 3:365).
+Upon arriving in Medina destitute after Quraysh had confiscated his assets in Makkah, the Messenger of Allāh ﷺ paired him in the bond of brotherhood (*al-muʾākhāh*) with one of the most affluent chieftains of the Khazraj, **[[Saʿd b. al-Rabīʿ]]** ﵁ (*Subul al-Hudā*, 3:365).
 
 Saʿd displayed extraordinary generosity:
 > *"O brother! I am the wealthiest of the Anṣār in property. Look upon my wealth and take half of it. I have two wives; look upon whichever pleases you, and I shall divorce her so that you may marry her once her waiting period concludes!"*
@@ -108,7 +108,7 @@ He went to the **[[Sūq Banū Qaynuqāʿ|Market of Banū Qaynuqāʿ]]**, traded 
 In **[[Ghazwat Badr al-Kubrā]]**, ʿAbd al-Raḥmān was a central actor in two of the most critical episodes recorded by al-Ṣāliḥī (*Subul al-Hudā*, 4:51–53):
 
 1. **The Encounter with Umayyah b. Khalaf**:
-   In pre-Islamic times, ʿAbd al-Raḥmān had a commercial pact with **[[Umayyah b. Khalaf]]**. At Badr, ʿAbd al-Raḥmān captured Umayyah and his son ʿAlī to protect them as prisoners of war. When **[[Bilāl b. Rabāḥ]]** (ra)—who had been tortured by Umayyah in Makkah—spotted them, he alerted the Anṣār. Despite ʿAbd al-Raḥmān throwing himself over Umayyah to shield him, the crowd struck them down, wounding ʿAbd al-Raḥmān's foot in the melee (*Ṣaḥīḥ al-Bukhārī*, no. 2301).
+   In pre-Islamic times, ʿAbd al-Raḥmān had a commercial pact with **[[Umayyah b. Khalaf]]**. At Badr, ʿAbd al-Raḥmān captured Umayyah and his son ʿAlī to protect them as prisoners of war. When **[[Bilāl b. Rabāḥ]]** ﵁—who had been tortured by Umayyah in Makkah—spotted them, he alerted the Anṣār. Despite ʿAbd al-Raḥmān throwing himself over Umayyah to shield him, the crowd struck them down, wounding ʿAbd al-Raḥmān's foot in the melee (*Ṣaḥīḥ al-Bukhārī*, no. 2301).
    
 2. **The Felling of Abū Jahl**:
    During the pitched clash, two youthful Anṣārī brothers, **[[Muʿādh b. ʿAmr b. al-Jamūḥ]]** and **[[Muʿawwidh b. ʿAfrāʾ]]**, flanked ʿAbd al-Raḥmān in the line and whispered: *"O uncle! Point out Abū Jahl to us!"* When ʿAbd al-Raḥmān pointed out the Meccan commander surrounded by armor, the two youths launched themselves like hawks and brought the tyrant to his knees (*Subul al-Hudā*, 4:52).
@@ -212,7 +212,7 @@ Al-Ṣāliḥī notes that ʿAbd al-Raḥmān b. ʿAwf narrated **65 ahadith** f
 ==============================================================================
 ```
 
-Upon receiving her share of his bequest, the Mother of the Believers **[[ʿĀʾishah bint Abī Bakr]]** (ra) wept and said:
+Upon receiving her share of his bequest, the Mother of the Believers **[[ʿĀʾishah bint Abī Bakr]]** ﵂ wept and said:
 > *"May Allāh give ʿAbd al-Raḥmān b. ʿAwf to drink from the Salsabīl of Paradise! For I heard the Messenger of Allāh ﷺ declare: 'None shall show compassion to you after me except the truly righteous!'"* (*Subul al-Hudā*, 11:319).
 
 ---
@@ -221,7 +221,7 @@ Upon receiving her share of his bequest, the Mother of the Believers **[[ʿĀʾi
 
 ʿAbd al-Raḥmān passed away in Medina in **31 or 32 AH** during the Caliphate of ʿUthmān b. ʿAffān at the age of seventy-five. His funeral prayer was led by **[[ʿUthmān b. ʿAffān]]** (or according to other reports, **[[Saʿd b. Abī Waqqāṣ]]**), and he was buried in the cemetery of **[[Jannat al-Baqīʿ]]**. 
 
-As his bier was carried, ʿAlī b. Abī Ṭālib (ra) remarked:
+As his bier was carried, ʿAlī b. Abī Ṭālib ﵁ remarked:
 > *"Go forth, O Ibn ʿAwf! For you have attained the untainted sweetness of this world and outstripped its bitterness!"* (*Subul al-Hudā*, 11:321).
 
 ---

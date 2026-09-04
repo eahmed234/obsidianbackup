@@ -12,8 +12,8 @@ tags:
 date_hijri: Muḥarram 7 AH (May 628 CE)
 location: "Oasis of [[Khaybar]], 95 miles north of Medina"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
-conqueror_of_citadels: "[[ʿAlī b. Abī Ṭālib]] (ra)"
-notable_matrimony: "Marriage to [[Ṣafiyyah bint Ḥuyayy]] (ra)"
+conqueror_of_citadels: "[[ʿAlī b. Abī Ṭālib]] ﵁"
+notable_matrimony: "Marriage to [[Ṣafiyyah bint Ḥuyayy]] ﵂"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 116–195)"
 ---
 

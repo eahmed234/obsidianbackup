@@ -39,6 +39,6 @@ The birth of the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ occurred in
 - **Subsequent Event**: Passing of his mother at al-Abwāʾ (at age 6) and of ʿAbd al-Muṭṭalib (at age 8), placing him in the guardianship of his uncle [[Abū Ṭālib]].
 
 ## 4. Expansion Blueprint (*Subul al-Hudā*)
-- Detailed genealogy tracing back to ʿAdnān and Ismāʿīl (as) (*Vol. 1*).
+- Detailed genealogy tracing back to ʿAdnān and Ismāʿīl ﵊ (*Vol. 1*).
 - Miracles accompanying the birth: the quaking of the palace of Khosrow and quenching of the sacred fire of Persia (*Vol. 2*).
 - Classical Sunni legal discussions regarding the commemoration and sending blessings upon the Prophet ﷺ.

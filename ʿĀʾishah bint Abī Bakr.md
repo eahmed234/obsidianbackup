@@ -22,7 +22,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 166–200)"
 *Umm al-Muʾminīn — The Beloved of the Messenger of Allāh ﷺ, The Jurist of the Ummah*
 
 ## 1. Overview
-The daughter of **[[Abū Bakr al-Ṣiddīq]]** (ra) and the most knowledgeable woman in Islamic history. She narrated 2,210 ahadith, preserving the intimate household sunnah, worship rituals, medical knowledge, and jurisprudence of the Prophet ﷺ.
+The daughter of **[[Abū Bakr al-Ṣiddīq]]** ﵁ and the most knowledgeable woman in Islamic history. She narrated 2,210 ahadith, preserving the intimate household sunnah, worship rituals, medical knowledge, and jurisprudence of the Prophet ﷺ.
 
 ## 2. Key Sīrah Milestones
 - Her exoneration from slander (*Ḥadīth al-Ifk*) through ten verses revealed from above seven heavens in [[Sūrat al-Nūr]] (24:11–26) following **[[Ghazwat al-Muraysīʿ]]**.

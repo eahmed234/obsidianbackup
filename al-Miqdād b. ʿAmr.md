@@ -39,15 +39,15 @@ At the council of war (*al-Shūrā*) held prior to [[Ghazwat Badr al-Kubrā]], w
 > «يَا رَسُولَ اللَّهِ، امْضِ لِمَا أَرَاكَ اللَّهُ فَنَحْنُ مَعَكَ، وَاللَّهِ لَا نَقُولُ لَكَ كَمَا قَالَتْ بَنُو إِسْرَائِيلَ لِمُوسَى: ﴿فَاذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلَا إِنَّا هَاهُنَا قَاعِدُونَ﴾ وَلَكِنِ: اذْهَبْ أَنْتَ وَرَبُّكَ فَقَاتِلَا إِنَّا مَعَكُمَا مُقَاتِلُونَ! عَنْ يَمِينِكَ وَشِمَالِكَ، وَبَيْنَ يَدَيْكَ وَخَلْفِكَ، وَالَّذِي بَعَثَكَ بِالْحَقِّ، لَوْ سِرْتَ بِنَا إِلَى بَرْكِ الْغِمَادِ لَجَالَدْنَا مَعَكَ مَنْ دُونَهُ حَتَّى تَبْلُغَهُ!»
 > *"O Messenger of Allāh! Proceed to whatever Allāh has shown you, for we are with you. By Allāh, we shall never say to you as the Children of Israel said to Moses: 'Go, you and your Lord, and fight; we are sitting right here!' [al-Māʾidah: 24]. Rather, we say: 'Go, you and your Lord, and fight; we are fighting alongside you!' on your right and on your left, before you and behind you! By the One Who sent you with the truth, if you marched us even to the furthest shores of Bark al-Ghimād, we would battle alongside you until you attained it!"* (*[[Subul al-Hudā war-Rashād]]*, 4:26; *Ṣaḥīḥ al-Bukhārī*, no. 3952).
 
-ʿAbdullāh b. Masʿūd (ra) remarked: *"I witnessed from al-Miqdād a stand that I would cherish more than anything else in this world had it been mine!"* (*Ṣaḥīḥ al-Bukhārī*, no. 3952).
+ʿAbdullāh b. Masʿūd ﵁ remarked: *"I witnessed from al-Miqdād a stand that I would cherish more than anything else in this world had it been mine!"* (*Ṣaḥīḥ al-Bukhārī*, no. 3952).
 
 ---
 
 ## 2. The Knight of Badr (*Fāris Yawm Badr*)
 
 At Badr, the Muslim army possessed only two mounted horses:
-1. **[[al-Zubayr b. al-ʿAwwām]]** (ra) on the left wing.
-2. **al-Miqdād b. ʿAmr** (ra) on the right wing, mounted upon his horse named *Sabḥah*.
+1. **[[al-Zubayr b. al-ʿAwwām]]** ﵁ on the left wing.
+2. **al-Miqdād b. ʿAmr** ﵁ on the right wing, mounted upon his horse named *Sabḥah*.
 
 Al-Miqdād fought with relentless valor, personally capturing Meccan combatants and routing the opposing flanks (*Subul al-Hudā*, 4:24, 4:44).
 

@@ -13,7 +13,7 @@ tags:
 date_hijri: Shaʿbān 6 AH
 date_gregorian: December 627 CE
 location: "[[Dūmat al-Jandal]]"
-commander_muslim: "[[ʿAbd al-Raḥmān b. ʿAwf]] (ra)"
+commander_muslim: "[[ʿAbd al-Raḥmān b. ʿAwf]] ﵁"
 target_tribe: "[[Banū Kalb]] (Christian Arab confederation)"
 forces_muslim: 700 men
 result: Decisive diplomatic and religious victory; King al-Aṣbagh b. ʿAmr embraces Islam; tribal alliance sealed via marriage
@@ -32,7 +32,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, pp. 94–95; vol. 8, p.
 
 [[Dūmat al-Jandal]]—a strategic oasis located at the crossroads between the Arabian Peninsula, Syria, and Iraq—was ruled by the powerful Christian Arab tribe of **[[Banū Kalb]]**. In Shaʿbān 6 AH, the Messenger of Allāh [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ mobilized a force of 700 men to secure northern frontier alliances and invite the tribal confederation to Islam.
 
-The Prophet ﷺ selected **[[ʿAbd al-Raḥmān b. ʿAwf]]** (ra) as the supreme commander.
+The Prophet ﷺ selected **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ as the supreme commander.
 
 ---
 

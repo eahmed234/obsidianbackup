@@ -6,6 +6,7 @@ aliases:
   - The Paths of Guidance and Righteousness
   - Sīrat al-Ṣāliḥī
   - Sīrat al-Shāmī
+  - Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād
 type: source
 tags:
   - source

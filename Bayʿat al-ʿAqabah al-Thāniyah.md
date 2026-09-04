@@ -39,4 +39,4 @@ The Prophet ﷺ replied with a single word:
 > *«الْجَنَّةُ»* (*"Paradise!"*).
 
 ## 3. The Appointment of the Twelve Leaders (*al-Nuqabāʾ*)
-The Prophet ﷺ appointed twelve tribal leaders (*nuqabāʾ*) over the Anṣār, including **[[Saʿd b. al-Rabīʿ]]**, **[[al-Ḥubāb b. al-Mundhir]]'s relatives**, and **[[Saʿd b. ʿUbādah]]**, mirroring the twelve disciples of ʿĪsā (as) and the chieftains of Banū Isrāʾīl. This pact legally triggered the historic **[[al-Hijrah ilā al-Madīnah]]**.
+The Prophet ﷺ appointed twelve tribal leaders (*nuqabāʾ*) over the Anṣār, including **[[Saʿd b. al-Rabīʿ]]**, **[[al-Ḥubāb b. al-Mundhir]]'s relatives**, and **[[Saʿd b. ʿUbādah]]**, mirroring the twelve disciples of ʿĪsā ﵊ and the chieftains of Banū Isrāʾīl. This pact legally triggered the historic **[[al-Hijrah ilā al-Madīnah]]**.

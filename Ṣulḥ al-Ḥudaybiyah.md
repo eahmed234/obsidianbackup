@@ -14,9 +14,9 @@ tags:
 date_hijri: Dhū al-Qaʿdah 6 AH (March 628 CE)
 location: "[[al-Ḥudaybiyah]], on the perimeter of the Sacred Sanctuary"
 participants: "1,400 to 1,500 Companions clad in Iḥrām"
-emissary: "[[ʿUthmān b. ʿAffān]] (ra)"
+emissary: "[[ʿUthmān b. ʿAffān]] ﵁"
 meccan_negotiator: "Suhayl b. ʿAmr"
-scribe: "[[ʿAlī b. Abī Ṭālib]] (ra)"
+scribe: "[[ʿAlī b. Abī Ṭālib]] ﵁"
 quranic_reference: "[[Sūrat al-Fatḥ]] (48:1–29)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 36–115)"
 ---

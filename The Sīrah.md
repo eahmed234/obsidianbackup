@@ -51,6 +51,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Banī Qurayẓah]] (5 AH) — *Judgment of Saʿd b. Muʿādh on Wartime Treason*
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
+- [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
@@ -70,38 +71,43 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - **[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ** — *The Messenger of Allāh, Seal of the Prophets*
 
 ### The Household & Mothers of the Believers (*Ahl al-Bayt*)
-- [[Khadījah bint Khuwaylid]] (ra) — *Umm al-Muʾminīn (First to Believe)*
-- [[ʿĀʾishah bint Abī Bakr]] (ra) — *Umm al-Muʾminīn (The Jurist of the Ummah)*
-- [[Fāṭimah al-Zahrāʾ]] (ra) — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
+- [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
+- [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
+- [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
-- [[Abū Bakr al-Ṣiddīq]] (ra) — *First Caliph & Sole Companion in the Cave*
-- [[ʿUmar b. al-Khaṭṭāb]] (ra) — *Second Caliph & al-Fārūq*
-- [[ʿUthmān b. ʿAffān]] (ra) — *Third Caliph & Dhū al-Nūrayn*
-- [[ʿAlī b. Abī Ṭālib]] (ra) — *Fourth Caliph & Lion of Allāh*
-- **[[ʿAbd al-Raḥmān b. ʿAwf]]** (ra) — *Tājir al-Raḥmān (Featured Master Profile)*
-- [[Ṭalḥah b. ʿUbaydillāh]] (ra) — *The Living Martyr & Shield of Uḥud*
-- [[al-Zubayr b. al-ʿAwwām]] (ra) — *Ḥawārī Rasūlillāh (The Disciple)*
-- [[Saʿd b. Abī Waqqāṣ]] (ra) — *The Archer of Islam & Conqueror of Persia*
-- [[Saʿīd b. Zayd]] (ra) — *Veteran of the Early Daʿwah*
-- [[Abū ʿUbaydah b. al-Jarrāḥ]] (ra) — *Amīn hādhihi al-Ummah (The Trustworthy)*
+- [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
+- [[ʿUmar b. al-Khaṭṭāb]] ﵁ — *Second Caliph & al-Fārūq*
+- [[ʿUthmān b. ʿAffān]] ﵁ — *Third Caliph & Dhū al-Nūrayn*
+- [[ʿAlī b. Abī Ṭālib]] ﵁ — *Fourth Caliph & Lion of Allāh*
+- **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ — *Tājir al-Raḥmān (Featured Master Profile)*
+- [[Ṭalḥah b. ʿUbaydillāh]] ﵁ — *The Living Martyr & Shield of Uḥud*
+- [[al-Zubayr b. al-ʿAwwām]] ﵁ — *Ḥawārī Rasūlillāh (The Disciple)*
+- [[Saʿd b. Abī Waqqāṣ]] ﵁ — *The Archer of Islam & Conqueror of Persia*
+- [[Saʿīd b. Zayd]] ﵁ — *Veteran of the Early Daʿwah*
+- [[Abū ʿUbaydah b. al-Jarrāḥ]] ﵁ — *Amīn hādhihi al-Ummah (The Trustworthy)*
 
 ### Foremost Muhājirūn Pioneers & Martyrs
-- [[Ḥamzah b. ʿAbd al-Muṭṭalib]] (ra) — *Sayyid al-Shuhadāʾ*
-- [[Jaʿfar b. Abī Ṭālib]] (ra) — *Dhū al-Janāḥayn (The Flying)*
-- [[Muṣʿab b. ʿUmayr]] (ra) — *The First Ambassador of Islam*
-- [[Bilāl b. Rabāḥ]] (ra) — *Muʾadhdhin Rasūlillāh*
-- [[al-Miqdād b. ʿAmr]] (ra) — *Knight of the Prophet at Badr*
-- [[ʿAbdullāh b. Masʿūd]] (ra) — *Custodian of the Prophet's Secrets*
-- [[Salmān al-Fārisī]] (ra) — *Architect of the Trench (From the Ahl al-Bayt)*
-- [[Khālid b. al-Walīd]] (ra) — *Sayfullāh al-Maslūl (The Drawn Sword)*
-- [[Abū Sufyān b. Ḥarb]] (ra) — *Chieftain of Quraysh (Later Convert)*
+- [[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁ — *Sayyid al-Shuhadāʾ*
+- [[Jaʿfar b. Abī Ṭālib]] ﵁ — *Dhū al-Janāḥayn (The Flying)*
+- [[Muṣʿab b. ʿUmayr]] ﵁ — *The First Ambassador of Islam*
+- [[Bilāl b. Rabāḥ]] ﵁ — *Muʾadhdhin Rasūlillāh*
+- [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
+- [[ʿAbdullāh b. Masʿūd]] ﵁ — *Custodian of the Prophet's Secrets*
+- [[Salmān al-Fārisī]] ﵁ — *Architect of the Trench (From the Ahl al-Bayt)*
+- [[Zayd b. Ḥārithah]] ﵁ — *Ḥibb Rasūlillāh (Only Companion Named in the Qurʾān)*
+- [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
+- [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
+- [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
 
 ### Chieftains & Heroes of the Anṣār
-- [[Saʿd b. Muʿādh]] (ra) — *Chieftain of the Aws (Whose death shook the Throne)*
-- [[Saʿd b. al-Rabīʿ]] (ra) — *Naqīb of Khazraj & Altruist of the Muʾākhāh*
-- [[al-Ḥubāb b. al-Mundhir]] (ra) — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
-- [[ʿUmayr b. al-Ḥumām]] (ra) — *First Martyr of the Anṣār at Badr*
+- [[Saʿd b. Muʿādh]] ﵁ — *Chieftain of the Aws (Whose death shook the Throne)*
+- [[Saʿd b. al-Rabīʿ]] ﵁ — *Naqīb of Khazraj & Altruist of the Muʾākhāh*
+- [[al-Ḥubāb b. al-Mundhir]] ﵁ — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
+- [[ʿAbdullāh b. Rawāḥah]] ﵁ — *Shāʿir Rasūlillāh & Third Commander at Muʾtah*
+- [[Asʿad b. Zurārah]] ﵁ — *Abū Umāmah, Naqīb of the Banū al-Najjār*
+- [[ʿUmayr b. al-Ḥumām]] ﵁ — *First Martyr of the Anṣār at Badr*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
@@ -128,6 +134,12 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
 - [[Tabūk]] — *The Northern Border Facing Byzantium*
+
+---
+
+## 🕌 Classical Authorities (*al-Aʿimmah wal-Ḥuffāẓ*)
+- **[[al-Ṣāliḥī]]** — *Author of Subul al-Hudā war-Rashād (d. 942 AH)*
+- **[[Ibn Ḥajar al-ʿAsqalānī]]** — *al-Ḥāfiẓ; the adjudicating voice on conflicting reports (d. 852 AH)*
 
 ---
 
