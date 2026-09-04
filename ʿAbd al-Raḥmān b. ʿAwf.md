@@ -124,12 +124,12 @@ When the Muslim line collapsed following the archers' premature desertion of the
 ---
 
 ### Event Branch 5: Commander of the Expedition to Dūmat al-Jandal (Shaʿbān 6 AH)
-In Shaʿbān 6 AH, the Prophet ﷺ appointed ʿAbd al-Raḥmān b. ʿAwf as supreme commander of an expedition of 700 men dispatched to **[[Sariyyat Dūmat al-Jandal]]** against [[Banū Kalb]] at [[Dūmat al-Jandal]] (*Subul al-Hudā*, 6:93).
+In Shaʿbān 6 AH, the Prophet ﷺ appointed ʿAbd al-Raḥmān b. ʿAwf as supreme commander of an expedition of 700 men dispatched to **[[Sariyyat Dūmat al-Jandal]]** against [[Banū Kalb]] at [[Dūmat al-Jandal]] (*Subul al-Hudā*, 6:93–95).
 
 #### The Prophetic Coronation (*al-Taʿmīm*)
 Before departure, the Prophet ﷺ summoned ʿAbd al-Raḥmān to the mosque, had him sit directly before him, unwound his travel turban, and with his own blessed hands rewound a black cloth turban (*ʿimāmah sawdāʾ* min karābīs) upon his head, releasing a tail (*ʿadhabah*) between his shoulder blades measuring four fingers to a span. The Prophet ﷺ declared:
 > «هَكَذَا فَاعْتَمَّ يَا ابْنَ عَوْفٍ، فَإِنَّهُ أَعْرَفُ وَأَحْسَنُ»
-> *"Thus should you wind the turban, O Ibn ʿAwf, for it is more dignified and handsomer!"* (*Subul al-Hudā*, 6:93; 8:324).
+> *"Thus should you wind the turban, O Ibn ʿAwf, for it is more dignified and handsomer!"* (*Subul al-Hudā*, 6:93–95; 8:324).
 
 #### Rules of Just Warfare
 Handing him the white standard, the Prophet ﷺ issued the classical Islamic charter of engagement:
@@ -137,7 +137,7 @@ Handing him the white standard, the Prophet ﷺ issued the classical Islamic cha
 > *"March in the name of Allāh, in the cause of Allāh. Fight those who disbelieve in Allāh. Do not embezzle spoils (*lā taghullū*), do not break treaties (*lā taghdirū*), do not mutilate the dead (*lā tumaththilū*), and do not slay a child (*lā taqtulū walīdan*)... And if they accept Islam, marry the daughter of their king!"*
 
 #### Diplomatic Victory and Marriage
-ʿAbd al-Raḥmān besieged Dūmat al-Jandal and invited them to Islam for three days. On the third day, their king and chief, **[[al-Aṣbagh b. ʿAmr al-Kalbī]]**, embraced Islam along with large sections of his tribe, while others agreed to the *jizyah*. ʿAbd al-Raḥmān married al-Aṣbagh’s daughter, **[[Tumāḍir bint al-Aṣbagh]]**, who traveled with him to Medina and gave birth to the legendary jurist **[[Abū Salamah b. ʿAbd al-Raḥmān]]** (*Subul al-Hudā*, 6:93).
+ʿAbd al-Raḥmān besieged Dūmat al-Jandal and invited them to Islam for three days. On the third day, their king and chief, **[[al-Aṣbagh b. ʿAmr al-Kalbī]]**, embraced Islam along with large sections of his tribe, while others agreed to the *jizyah*. ʿAbd al-Raḥmān married al-Aṣbagh’s daughter, **[[Tumāḍir bint al-Aṣbagh]]**, who traveled with him to Medina and gave birth to the legendary jurist **[[Abū Salamah b. ʿAbd al-Raḥmān]]** (*Subul al-Hudā*, 6:93–95).
 
 ---
 
@@ -255,10 +255,17 @@ at **5:449**; and his pairing with [[Saʿd b. al-Rabīʿ]] ﵁ in the *muʾākh�
   [[Muʿawwidh b. ʿAfrāʾ]]'s ﵁ hand, and 4:52 the killing of Abū Dhāt al-Karsh. His own narrations are
   at **4:46–47** (Umayyah b. Khalaf, whom he knew in Makkah and tried to hold as a captive) and
   **4:50** (standing in the ranks between the two young Anṣārīs and pointing out Abū Jahl).
-- **[[Sariyyat Dūmat al-Jandal]]** was cited to 6:94–95. That page is a lexical *tanbīh* on measures
-  and zakāt. The expedition has its own chapter at **6:93**: *"the twenty-seventh chapter, on the
-  expedition of ʿAbd al-Raḥmān b. ʿAwf ﵄ to Dūmat al-Jandal in Shaʿbān."* Note that the book gives
+- **[[Sariyyat Dūmat al-Jandal]]** now reads **6:93–95**. The chapter opens at the foot of **6:93**
+  — *"the twenty-seventh chapter, on the expedition of ʿAbd al-Raḥmān b. ʿAwf ﵄ to Dūmat al-Jandal in
+  Shaʿbān"* — the narrative runs on **6:94**, and the glossary of its terms is **6:95**. The book gives
   him the **dual** honorific ﵄ in that heading.
+
+> [!WARNING] A Correction to My Own Earlier Correction
+> An earlier pass changed this citation from 6:94–95 to 6:93 on the grounds that 6:94 was *"a lexical
+> tanbīh on measures and zakāt."* **That was wrong.** The lexical material occupies only the head of
+> 6:94; the expedition narrative — the Prophet ﷺ ordering the night march to Dūmat al-Jandal, the
+> seven hundred men encamped at al-Jurf, and the winding of the black turban — is on the **same
+> page**, below it. Reading the top of a page is not reading the page.
 - **[[Banū Kalb]]** were described as a *"Christian Arab confederation."* The book names them among
   the tribes that took up **idols** — Wadd, at Dūmat al-Jandal (*Subul al-Hudā*, 2:178). Removed.
 

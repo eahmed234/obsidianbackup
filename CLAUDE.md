@@ -122,6 +122,22 @@ may be given. This is the single stated exemption; it does not extend to anythin
 counts, casualty figures, distances and dates *within* the Hijrī calendar are content, and are
 governed by the rule in full.
 
+### Two failure modes the audit has actually hit
+
+**A citation can be close but wrong, and nothing mechanical will catch it.** `4:49` for a martyrdom
+that is at `4:45` passes every check — volume exists, page exists, resolves inside the volume bounds.
+The Badr audit found fourteen of these in one entry. Only reading the page catches it.
+
+**Reading the top of a page is not reading the page.** A page often carries the tail of the previous
+section's glossary before its own narrative begins. `6:94` opens with a lexical *tanbīh* on weights
+and zakāt and then, below it, carries the whole Dūmat al-Jandal expedition. Judging that page by its
+first lines produced a wrong "correction" that had to be reverted. Read to the end of the page before
+concluding a claim is unsupported.
+
+Corollary: **a corrected claim can survive elsewhere in the graph.** The "Christian Arab
+confederation of Banū Kalb" was removed from `Banū Kalb` and still stood in
+`ʿAbd al-Raḥmān b. ʿAwf`. After fixing a claim, grep the vault for it.
+
 ### Where the book is silent
 
 Some authorities the book cites are given no biographical entry in it — as of this audit,
