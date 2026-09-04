@@ -105,13 +105,13 @@ He went to the **[[Sūq Banū Qaynuqāʿ|Market of Banū Qaynuqāʿ]]**, traded 
 ---
 
 ### Event Branch 3: The Battle of Badr (*Ghazwat Badr al-Kubrā*) (2 AH)
-In **[[Ghazwat Badr al-Kubrā]]**, ʿAbd al-Raḥmān was a central actor in two of the most critical episodes recorded by al-Ṣāliḥī (*Subul al-Hudā*, 4:51–53):
+In **[[Ghazwat Badr al-Kubrā]]**, ʿAbd al-Raḥmān was a central actor in two of the most critical episodes recorded by al-Ṣāliḥī (*Subul al-Hudā*, 4:46–50):
 
 1. **The Encounter with Umayyah b. Khalaf**:
    In pre-Islamic times, ʿAbd al-Raḥmān had a commercial pact with **[[Umayyah b. Khalaf]]**. At Badr, ʿAbd al-Raḥmān captured Umayyah and his son ʿAlī to protect them as prisoners of war. When **[[Bilāl b. Rabāḥ]]** ﵁—who had been tortured by Umayyah in Makkah—spotted them, he alerted the Anṣār. Despite ʿAbd al-Raḥmān throwing himself over Umayyah to shield him, the crowd struck them down, wounding ʿAbd al-Raḥmān's foot in the melee (*Ṣaḥīḥ al-Bukhārī*, no. 2301).
    
 2. **The Felling of Abū Jahl**:
-   During the pitched clash, two youthful Anṣārī brothers, **[[Muʿādh b. ʿAmr b. al-Jamūḥ]]** and **[[Muʿawwidh b. ʿAfrāʾ]]**, flanked ʿAbd al-Raḥmān in the line and whispered: *"O uncle! Point out Abū Jahl to us!"* When ʿAbd al-Raḥmān pointed out the Meccan commander surrounded by armor, the two youths launched themselves like hawks and brought the tyrant to his knees (*Subul al-Hudā*, 4:52).
+   During the pitched clash, two youthful Anṣārī brothers, **[[Muʿādh b. ʿAmr b. al-Jamūḥ]]** and **[[Muʿawwidh b. ʿAfrāʾ]]**, flanked ʿAbd al-Raḥmān in the line and whispered: *"O uncle! Point out Abū Jahl to us!"* When ʿAbd al-Raḥmān pointed out the Meccan commander surrounded by armor, the two youths launched themselves like hawks and brought the tyrant to his knees (*Subul al-Hudā*, 4:50).
 
 ---
 
@@ -124,12 +124,12 @@ When the Muslim line collapsed following the archers' premature desertion of the
 ---
 
 ### Event Branch 5: Commander of the Expedition to Dūmat al-Jandal (Shaʿbān 6 AH)
-In Shaʿbān 6 AH, the Prophet ﷺ appointed ʿAbd al-Raḥmān b. ʿAwf as supreme commander of an expedition of 700 men dispatched to **[[Sariyyat Dūmat al-Jandal]]** to subdue the Christian Arab confederation of [[Banū Kalb]] (*Subul al-Hudā*, 6:94–95).
+In Shaʿbān 6 AH, the Prophet ﷺ appointed ʿAbd al-Raḥmān b. ʿAwf as supreme commander of an expedition of 700 men dispatched to **[[Sariyyat Dūmat al-Jandal]]** against [[Banū Kalb]] at [[Dūmat al-Jandal]] (*Subul al-Hudā*, 6:93).
 
 #### The Prophetic Coronation (*al-Taʿmīm*)
 Before departure, the Prophet ﷺ summoned ʿAbd al-Raḥmān to the mosque, had him sit directly before him, unwound his travel turban, and with his own blessed hands rewound a black cloth turban (*ʿimāmah sawdāʾ* min karābīs) upon his head, releasing a tail (*ʿadhabah*) between his shoulder blades measuring four fingers to a span. The Prophet ﷺ declared:
 > «هَكَذَا فَاعْتَمَّ يَا ابْنَ عَوْفٍ، فَإِنَّهُ أَعْرَفُ وَأَحْسَنُ»
-> *"Thus should you wind the turban, O Ibn ʿAwf, for it is more dignified and handsomer!"* (*Subul al-Hudā*, 6:94; 8:324).
+> *"Thus should you wind the turban, O Ibn ʿAwf, for it is more dignified and handsomer!"* (*Subul al-Hudā*, 6:93; 8:324).
 
 #### Rules of Just Warfare
 Handing him the white standard, the Prophet ﷺ issued the classical Islamic charter of engagement:
@@ -137,7 +137,7 @@ Handing him the white standard, the Prophet ﷺ issued the classical Islamic cha
 > *"March in the name of Allāh, in the cause of Allāh. Fight those who disbelieve in Allāh. Do not embezzle spoils (*lā taghullū*), do not break treaties (*lā taghdirū*), do not mutilate the dead (*lā tumaththilū*), and do not slay a child (*lā taqtulū walīdan*)... And if they accept Islam, marry the daughter of their king!"*
 
 #### Diplomatic Victory and Marriage
-ʿAbd al-Raḥmān besieged Dūmat al-Jandal and invited them to Islam for three days. On the third day, their king and chief, **[[al-Aṣbagh b. ʿAmr al-Kalbī]]**, embraced Islam along with large sections of his tribe, while others agreed to the *jizyah*. ʿAbd al-Raḥmān married al-Aṣbagh’s daughter, **[[Tumāḍir bint al-Aṣbagh]]**, who traveled with him to Medina and gave birth to the legendary jurist **[[Abū Salamah b. ʿAbd al-Raḥmān]]** (*Subul al-Hudā*, 6:94).
+ʿAbd al-Raḥmān besieged Dūmat al-Jandal and invited them to Islam for three days. On the third day, their king and chief, **[[al-Aṣbagh b. ʿAmr al-Kalbī]]**, embraced Islam along with large sections of his tribe, while others agreed to the *jizyah*. ʿAbd al-Raḥmān married al-Aṣbagh’s daughter, **[[Tumāḍir bint al-Aṣbagh]]**, who traveled with him to Medina and gave birth to the legendary jurist **[[Abū Salamah b. ʿAbd al-Raḥmān]]** (*Subul al-Hudā*, 6:93).
 
 ---
 
@@ -169,8 +169,8 @@ Realizing that partisan deadlock could fracture the Ummah, ʿAbd al-Raḥmān vo
 
 | Ayah (Verse) | Text Excerpt | Sabab al-Nuzūl (Occasion of Revelation) | Classical Reference |
 | :--- | :--- | :--- | :--- |
-| **Qurʾān 4:43** | ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ...﴾ | Before the prohibition of alcohol, ʿAbd al-Raḥmān hosted a meal where wine was served. At Maghrib, the Imām misrecited Surah al-Kāfirūn (*"we worship what you worship"*), prompting the divine prohibition against approaching prayer while intoxicated. | *Jāmiʿ al-Tirmidhī* (no. 3026); *Subul al-Hudā*, 10:19 |
-| **Qurʾān 9:79** | ﴿الَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ مِنَ الْمُؤْمِنِينَ فِي الصَّدَقَاتِ...﴾ | When ʿAbd al-Raḥmān donated half his wealth for Tabūk, the hypocrites mocked him: *"He only gave out of ostentation (*riyāʾ*)!"* Allāh revealed this verse defending the sincere donors. | *Ṣaḥīḥ al-Bukhārī* (no. 4668); *Subul al-Hudā*, 5:440 |
+| **Qurʾān 4:43** | ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ...﴾ | Before the prohibition of alcohol, ʿAbd al-Raḥmān hosted a meal where wine was served. At Maghrib, the Imām misrecited Surah al-Kāfirūn (*"we worship what you worship"*), prompting the divine prohibition against approaching prayer while intoxicated. | *Jāmiʿ al-Tirmidhī* (no. 3026); *Subul al-Hudā*, — see the audit note below |
+| **Qurʾān 9:79** | ﴿الَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ مِنَ الْمُؤْمِنِينَ فِي الصَّدَقَاتِ...﴾ | When ʿAbd al-Raḥmān donated half his wealth for Tabūk, the hypocrites mocked him: *"He only gave out of ostentation (*riyāʾ*)!"* Allāh revealed this verse defending the sincere donors. | *Ṣaḥīḥ al-Bukhārī* (no. 4668); *Subul al-Hudā*, — see the audit note below |
 | **Qurʾān 2:261** | ﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ...﴾ | Revealed praising the boundless multiplication of rewards for those who spend their wealth seeking the pleasure of Allāh, exemplified by ʿAbd al-Raḥmān. | *Tafsīr Ibn Kathīr*, 1:691 |
 
 ---
@@ -240,3 +240,37 @@ As his bier was carried, ʿAlī b. Abī Ṭālib ﵁ remarked:
 2. **[[Ibn Saʿd]]**. *al-Ṭabaqāt al-Kubrā*. Beirut: Dār Ṣādir, Vol. 3, pp. 124–136.
 3. **[[Ibn Ḥajar al-ʿAsqalānī]]**. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*. Biography no. 5138.
 4. **[[al-Dhahabī]]**. *Siyar Aʿlām al-Nubalāʾ*. Ed. Shuʿayb al-Arnāʾūṭ. Beirut: Muʾassasat al-Risālah, Vol. 1, pp. 68–92.
+
+---
+
+## Citation Audit of This Entry
+
+Checked page by page against the book. **Verified as correct:** his chapter of virtues and his lineage
+at **11:318**; his bequests at **11:319**; the section on his death at **11:321**; the Prophet ﷺ
+following him in the dawn prayer — *dhikr iqtidāʾihi ﷺ bi-ʿAbd al-Raḥmān b. ʿAwf fī ṣalāt al-ṣubḥ* —
+at **5:449**; and his pairing with [[Saʿd b. al-Rabīʿ]] ﵁ in the *muʾākhāh* at **3:365**.
+
+**Corrected:**
+- His two Badr episodes were cited to 4:51–53 and 4:52. Page 4:51 treats Abū Jahl severing
+  [[Muʿawwidh b. ʿAfrāʾ]]'s ﵁ hand, and 4:52 the killing of Abū Dhāt al-Karsh. His own narrations are
+  at **4:46–47** (Umayyah b. Khalaf, whom he knew in Makkah and tried to hold as a captive) and
+  **4:50** (standing in the ranks between the two young Anṣārīs and pointing out Abū Jahl).
+- **[[Sariyyat Dūmat al-Jandal]]** was cited to 6:94–95. That page is a lexical *tanbīh* on measures
+  and zakāt. The expedition has its own chapter at **6:93**: *"the twenty-seventh chapter, on the
+  expedition of ʿAbd al-Raḥmān b. ʿAwf ﵄ to Dūmat al-Jandal in Shaʿbān."* Note that the book gives
+  him the **dual** honorific ﵄ in that heading.
+- **[[Banū Kalb]]** were described as a *"Christian Arab confederation."* The book names them among
+  the tribes that took up **idols** — Wadd, at Dūmat al-Jandal (*Subul al-Hudā*, 2:178). Removed.
+
+> [!WARNING] Two Asbāb al-Nuzūl Rows Not Supported
+> - The row attributing **al-Tawbah 9:79** — the verse defending sincere donors against the charge of
+>   ostentation — to his donation was cited to 5:440. That page carries Abū Mūsā's ḥadīth on mounts.
+>   More decisively, **9:79 is not bracket-quoted anywhere in the book**, so no page in *Subul
+>   al-Hudā* can support the attribution.
+> - The row attributing **al-Nisāʾ 4:43**, on approaching prayer while intoxicated, to an incident
+>   involving him was cited to 10:19, which treats the healing of the mute. The verse *is*
+>   bracket-quoted at **11:181** and **12:130**, but neither has been shown to carry this attribution.
+>
+> Both rows are left in place with their non-Subul citations (al-Bukhārī, al-Tirmidhī) intact, but
+> their Subul references are withdrawn pending verification. They should not be read as sourced to
+> al-Ṣāliḥī.
