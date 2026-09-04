@@ -129,12 +129,18 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 ### Further Companions of Badr & Uḥud
 - [[ʿUbaydah b. al-Ḥārith]] ﵁ — *First champion of the duel; first Muhājir martyr*
 - [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
+- [[Anas b. al-Naḍr]] ﵁ — *Hero of Uḥud who scented the fragrance of Paradise*
+- [[Ḥanẓalah b. Abī ʿĀmir]] ﵁ — *Ghasīl al-Malāʾikah (Washed by the Angels)*
+- [[ʿAmr b. al-Jamūḥ]] ﵁ — *Chieftain of Banū Salimah who trod Paradise with his lame foot*
+- [[ʿAbdullāh b. ʿAmr b. Ḥarām]] ﵁ — *Naqīb of al-ʿAqabah and first martyr of Uḥud*
+- [[Waḥshī b. Ḥarb]] ﵁ — *Slayer of Ḥamzah who later converted and slew Musaylimah*
 - [[Surāqah b. Mālik b. Juʿshum]] ﵁ — *Pursuer of the Hijrah who became a Companion*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
 - [[ʿUtbah b. Rabīʿah]] ☠ — *Qurashī chief who counselled against Badr and died in it*
 - [[Umayyah b. Khalaf]] ☠ — *Torturer of Bilāl ﵁, slain at Badr*
+- [[Ubayy b. Khalaf]] ☠ — *Sole adversary slain directly by the hand of the Prophet ﷺ*
 - [[Iblīs]] ☠ — *The Adversary; the borrowed likeness at Badr*
 - [[Abū Lahab]] ☠ — *Paternal uncle condemned by name in Sūrat al-Masad*
 - [[ʿAbdullāh b. Ubayy b. Salūl]] ☠ — *Chief of the Hypocrites in Medina*
@@ -176,6 +182,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[al-ʿArīsh]] — *The Prophetic command booth at Badr*
 - [[Wādī al-Ṣafrāʾ]] — *The return road; burial place of ʿUbaydah b. al-Ḥārith ﵁*
 - [[Jabal Uḥud]] — *The Mountain of Love and Martyrdom*
+- [[Jabal al-Rumāh]] — *Mount ʿAynayn; the Archers' Hill at Uḥud*
 - [[al-Ḥudaybiyah]] — *The Boundary Plain of the Sacred Covenant*
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
