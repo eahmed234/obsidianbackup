@@ -39,8 +39,37 @@ Of the **[[Banū Hāshim]]** of Quraysh, the most honoured house of [[Makkah al-
 [[Banū Zuhrah]]. Born in the **Year of the Elephant** — see **[[Mawlid al-Nabī]]** for the
 circumstances and the portents recorded around it.
 
-Orphaned progressively: his father before birth, his mother at approximately six (at al-Abwāʾ), and
-his grandfather [[ʿAbd al-Muṭṭalib]] at eight, after which his uncle [[Abū Ṭālib]] took him in.
+Orphaned progressively: his father before birth, his mother at a young age (the book gives several
+competing ages — see [[Āminah bint Wahb]]) at al-Abwāʾ, and his grandfather [[ʿAbd al-Muṭṭalib]] at
+eight, after which his uncle [[Abū Ṭālib]] took him in.
+
+### The Full Agreed Lineage (*al-Nasab al-Ṣaḥīḥ al-Muttafaq ʿAlayh*)
+Al-Ṣāliḥī gives the Prophet's ﷺ lineage to ʿAdnān as *"correct and agreed upon"*, stating explicitly
+that everything above ʿAdnān is disputed (*Subul al-Hudā*, 1:239). Each name below has its own note,
+covering what the book records of that ancestor individually:
+
+1. **[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ**
+2. **[[ʿAbdullāh b. ʿAbd al-Muṭṭalib]]** — his father, *Ibn al-Dhabīḥayn*
+3. **[[ʿAbd al-Muṭṭalib]]** — Shaybah b. Hāshim, rediscoverer of Zamzam
+4. **[[Hāshim b. ʿAbd Manāf]]** — ʿAmr al-ʿAlā, who crumbled bread for a starving Makkah
+5. **[[ʿAbd Manāf b. Quṣayy]]** — Qamar al-Baṭḥāʾ
+6. **[[Quṣayy b. Kilāb]]** — *Mujammiʿ*, who united Quraysh and seized the Kaʿbah
+7. **[[Kilāb b. Murrah]]** — Ḥakīm b. Murrah, ancestor of the Prophet ﷺ through both his sons
+8. **[[Murrah b. Kaʿb]]** — common ancestor of the Prophet ﷺ, Abū Bakr ﵁, and Ṭalḥah ﵁
+9. **[[Kaʿb b. Luʾayy]]** — foretold "a noble prophet" by name, 560 years before the mission
+10. **[[Luʾayy b. Ghālib]]**
+11. **[[Ghālib b. Fihr]]**
+12. **[[Fihr b. Mālik]]** — "whoever descends beyond Fihr is not of Quraysh"
+13. **[[Mālik b. al-Naḍr]]**
+14. **[[al-Naḍr b. Kinānah]]** — his true name was Qays
+15. **[[Kinānah b. Khuzaymah]]** — foretold a Prophet named Aḥmad would arise from Makkah
+16. **[[Khuzaymah b. Mudrikah]]**
+17. **[[Mudrikah b. Ilyās]]** — "the one who caught the rabbit"
+18. **[[Ilyās b. Muḍar]]** — «لَا تَسُبُّوا إِلْيَاسَ فَإِنَّهُ كَانَ مُؤْمِنًا»
+19. **[[Muḍar b. Nizār]]** — Muḍar al-Ḥamrāʾ, «كَانَ عَلَىٰ مِلَّةِ إِبْرَاهِيمَ»
+20. **[[Nizār b. Maʿadd]]** — named, on one account, for the light of prophethood seen at his birth
+21. **[[Maʿadd b. ʿAdnān]]** — survivor of Bukht Naṣr, named by the Prophet ﷺ in his own voice
+22. **[[ʿAdnān]]** — the boundary of the agreed lineage; a descendant of Ismāʿīl ﵊
 
 ## 2. Before Prophethood (*qabl al-baʿthah*)
 - **[[Ḥilf al-Fuḍūl]]** (~20 BH) — his participation in the League of the Virtuous.
