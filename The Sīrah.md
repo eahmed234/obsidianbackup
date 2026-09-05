@@ -153,6 +153,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Sumayyah bint Khayyāṭ]] ﵂ — *Umm ʿAmmār, the First Martyr of Islam*
 - [[Khabbāb b. al-Aratt]] ﵁ — *Among the First to Openly Profess Islam, Tortured on Burning Coals*
 - [[ʿĀmir b. Fuhayrah]] ﵁ — *Mawlā of Abū Bakr, Martyred at Biʾr Maʿūnah*
+- [[ʿUthmān b. Maẓʿūn]] ﵁ — *Thirteenth Convert, First Muhājir to Die in Madīnah*
+- [[ʿAbdullāh b. Jaḥsh]] ﵁ — *al-Mujaddaʿ fī Allāh, First Commander in Islam, Martyred at Uḥud*
 - [[al-Arqam b. Abī al-Arqam]] ﵁ — *Host of the Muslims at Dār al-Arqam*
 - [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
@@ -302,6 +304,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. Ubayy b. Salūl]] ☠ — *Chief of the Hypocrites in Medina*
 - [[al-Walīd b. ʿUtbah]] ☠ — *Champion of Quraysh slain by ʿAlī in the opening duel at Badr*
 - [[al-Akhnas b. Sharīq]] — *Chieftain of Banū Zuhrah who averted 300 men from fighting at Badr*
+- [[al-Muṭʿim b. ʿAdī]] — *Annulled the boycott document and granted the Prophet ﷺ protection after Riḥlat al-Ṭāʾif, yet died before Badr still a polytheist*
 
 ---
 
