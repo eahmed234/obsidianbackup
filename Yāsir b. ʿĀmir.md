@@ -48,8 +48,7 @@ Al-Ṣāliḥī places Yāsir directly among *"the weak believers"* Quraysh set 
 > Your appointed meeting is Paradise.'**"* (*al-Iṣābah*, 6:500, no. 9230)
 
 ## 4. His Death
-Al-Iṣābah records the family's fates together, in an addition via Ibn ʿAbbās ﵄: *"[[Abū Jahl (ʿAmr
-b. Hishām)|Abū Jahl]] stabbed Sumayyah in her groin, and she died; **Yāsir died under the torture
+Al-Iṣābah records the family's fates together, in an addition via Ibn ʿAbbās ﵄: *"[[Abū Jahl (ʿAmr b. Hishām)|Abū Jahl]] stabbed Sumayyah in her groin, and she died; **Yāsir died under the torture
 itself**; and ʿAbdullāh was thrown down and fell"* (*al-Iṣābah*, 6:500, no. 9230).
 
 ## 5. References

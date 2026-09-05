@@ -118,7 +118,7 @@ During the encampment at Tabūk, the devout penitent **[[ʿAbdullāh Dhū al-Bij
 
 ## 9. The Ambush at the Mountain Pass (*Laylat al-ʿAqabah*)
 On the return journey to Medina, twelve to fifteen hypocrites plotted to assassinate the Prophet ﷺ by spooking his camel along a sheer mountain cliff (*al-ʿAqabah*) (*Subul al-Hudā*, 5:466–467).
-- The Prophet ﷺ ordered the army to take the valley route while he rode across the pass guided by **[[Ammār b. Yāsir|ʿAmmār b. Yāsir]]** ﵁ leading the bridle and **[[Ḥudhayfah b. al-Yamān]]** ﵁ driving from behind (*Subul al-Hudā*, 5:466).
+- The Prophet ﷺ ordered the army to take the valley route while he rode across the pass guided by **[[ʿAmmār b. Yāsir]]** ﵁ leading the bridle and **[[Ḥudhayfah b. al-Yamān]]** ﵁ driving from behind (*Subul al-Hudā*, 5:466).
 - The masked conspirators charged from behind. Divine lightning illuminated their masked faces; Ḥudhayfah attacked them with his curved staff, striking their mounts until they fled in terror into the army (*Subul al-Hudā*, 5:466).
 - The Prophet ﷺ disclosed to Ḥudhayfah the exact names of all fifteen hypocrites, granting Ḥudhayfah the lifelong title of **Keeper of the Prophet's Secret (*Ṣāḥib Sirr Rasūlillāh*)** (*Subul al-Hudā*, 5:467).
 

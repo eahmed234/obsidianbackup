@@ -54,8 +54,7 @@ Abū Ghubshān's!"* (*Subul al-Hudā*, 1:274).
 ## 4. The Battle for Makkah
 When Quṣayy took the key of the House, **Khuzāʿah** objected and resolved on war against him and
 Quraysh, intending to expel them from Makkah entirely. Quṣayy summoned his half-brother
-**Rizāḥ b. Rabīʿah**, who came with his own brothers. Gathering **Quraysh, [[Kinānah b. Khuzaymah|
-Kinānah]], and [[Maʿadd b. ʿAdnān|Quḍāʿah]]** at al-ʿAqabah, he fought and defeated
+**Rizāḥ b. Rabīʿah**, who came with his own brothers. Gathering **Quraysh, [[Kinānah b. Khuzaymah|Kinānah]], and [[Maʿadd b. ʿAdnān|Quḍāʿah]]** at al-ʿAqabah, he fought and defeated
 **Banū Ṣūfah**, who had controlled the pilgrims' departure from ʿArafah. Khuzāʿah and Banū Bakr then
 withdrew, seeing that Quṣayy would bar them from the Kaʿbah just as he had barred Banū Ṣūfah — but war
 followed regardless, until both sides agreed to arbitration by **Yaʿmar b. ʿAwf b. Kaʿb**

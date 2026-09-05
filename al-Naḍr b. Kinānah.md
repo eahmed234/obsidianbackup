@@ -30,8 +30,7 @@ b. Muḍar**. He had three sons: **[[Mālik b. al-Naḍr|Mālik]]**, Yakhlud (hi
 al-Ṣalt (*Subul al-Hudā*, 1:284).
 
 ## 3. A Genealogical Complexity the Book Addresses Directly
-Al-Suhaylī is cited for a further report: after al-Naḍr's father died, **[[Kinānah b. Khuzaymah|
-Kinānah]] himself married Barrah**, al-Naḍr's mother, and she bore him a son also named **al-Naḍr b.
+Al-Suhaylī is cited for a further report: after al-Naḍr's father died, **[[Kinānah b. Khuzaymah|Kinānah]] himself married Barrah**, al-Naḍr's mother, and she bore him a son also named **al-Naḍr b.
 Kinānah**. Al-Ṣāliḥī, transmitting al-Suhaylī, addresses the apparent irregularity directly rather than
 passing over it:
 

@@ -19,7 +19,7 @@ commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
   - "Vanguard: [[Abū Bakr al-Ṣiddīq]] ﵁"
 commanders_enemy: "Chieftains of Banū Liḥyān (Banū Hudhayl)"
-deputy_in_medina: "[[Abdullāh b. Umm Maktūm|ʿAbdullāh b. Umm Maktūm]] ﵁ (or Numaylah b. ʿAbdillāh al-Laythī)"
+deputy_in_medina: "[[ʿAbdullāh b. Umm Maktūm]] ﵁ (or Numaylah b. ʿAbdillāh al-Laythī)"
 strength_muslim: "200 footmen and 20 cavalry (*Subul al-Hudā*, 5:30)"
 strength_enemy: "Tribal force of Banū Liḥyān (fled to mountain summits)"
 casualties_muslim: 0
@@ -39,7 +39,7 @@ For two years following the incident, geopolitical exigencies—including the Co
 ## 2. Feigned Route & Swift March
 To catch the vigilant desert tribe off guard (*li-yuṣība min al-qawmi ghirrah*), the Prophet ﷺ employed operational deception (*tawriyah*). He openly proclaimed that his target was Syria to the north, marching his men out of Medina and establishing camp at **al-Jurf** (*Subul al-Hudā*, 5:30). 
 
-He mobilized a light, highly mobile strike force of two hundred (200) seasoned warriors accompanied by twenty (20) warhorses (*Subul al-Hudā*, 5:30). He appointed **[[Abdullāh b. Umm Maktūm|ʿAbdullāh b. Umm Maktūm]]** ﵁ (or Numaylah b. ʿAbdillāh al-Laythī) as deputy governor over Medina (*Subul al-Hudā*, 5:30).
+He mobilized a light, highly mobile strike force of two hundred (200) seasoned warriors accompanied by twenty (20) warhorses (*Subul al-Hudā*, 5:30). He appointed **[[ʿAbdullāh b. Umm Maktūm]]** ﵁ (or Numaylah b. ʿAbdillāh al-Laythī) as deputy governor over Medina (*Subul al-Hudā*, 5:30).
 
 Once in motion, the Prophet ﷺ abruptly turned westward and southward, navigating complex desert tracks across Mount Ghurāb, Muḥayṣ, and al-Batrāʾ, swinging left through the ravine of Yayan, and traversing Ṣukhayrāt al-Thumām before joining the coastal pilgrim route at **al-Sayyālah** (*Subul al-Hudā*, 5:30). The force accelerated at full march until they reached **Baṭn Ghurān**—a desolate valley five miles north of **ʿUsfān** where the blood of the martyrs of al-Rajīʿ had been spilled (*Subul al-Hudā*, 5:30).
 

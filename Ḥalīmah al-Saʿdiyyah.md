@@ -25,8 +25,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 375–393)"
 ## 1. Her People, and Ten Who Nursed Him
 Al-Ṣāliḥī opens the chapter on his ﷺ wet-nurses by naming **ten women** said to have nursed him:
 first his own mother **[[Āminah bint Wahb]]** for seven days; then **Thuwaybah**, freedwoman of
-**[[Abū Lahab]]**, on the milk of her own son Masrūḥ (she had also nursed **[[Ḥamzah b. ʿAbd
-al-Muṭṭalib|Ḥamzah]]** ﵁ before him and **Abū Salamah b. ʿAbd al-Asad** after him); and then Ḥalīmah,
+**[[Abū Lahab]]**, on the milk of her own son Masrūḥ (she had also nursed **[[Ḥamzah b. ʿAbd al-Muṭṭalib|Ḥamzah]]** ﵁ before him and **Abū Salamah b. ʿAbd al-Asad** after him); and then Ḥalīmah,
 of **Banū Saʿd b. Bakr** (*Subul al-Hudā*, 1:375).
 
 ## 2. Arrival in Poverty
@@ -40,8 +39,7 @@ severe drought. She describes it herself:
 > enough in my own breasts."* (*Subul al-Hudā*, 1:386)
 
 Each nurse in the party was given an orphaned child — most were reluctant, expecting no reward from a
-fatherless boy's family, and only Ḥalīmah remained without one, so she took **[[Muḥammad b. ʻAbdullah|
-Muḥammad]] ﷺ**, saying she could not bear to return empty-handed while her companions all had infants.
+fatherless boy's family, and only Ḥalīmah remained without one, so she took **[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ**, saying she could not bear to return empty-handed while her companions all had infants.
 As she carried him back to her mount, her husband, **al-Ḥārith b. ʿAbd al-ʿUzzā**, said: *"Take note,
 O Ḥalīmah — I think you have taken a blessed soul."*
 

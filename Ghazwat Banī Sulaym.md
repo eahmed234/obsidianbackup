@@ -18,7 +18,7 @@ commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
 commanders_enemy: "Chieftains of Banū Sulaym and [[Ghaṭafān]] (fled into the wilderness)"
 standard_bearer: "[[ʿAlī b. Abī Ṭālib]] ﵁ (White standard)"
-deputy_in_medina: "Sibāʿ b. ʿUrfuṭah al-Ghifārī ﵁ (or [[Abdullāh b. Umm Maktūm|ʿAbdullāh b. Umm Maktūm]] ﵁)"
+deputy_in_medina: "Sibāʿ b. ʿUrfuṭah al-Ghifārī ﵁ (or [[ʿAbdullāh b. Umm Maktūm]] ﵁)"
 strength_muslim: "200 Muslim warriors (*Subul al-Hudā*, 4:172)"
 strength_enemy: "Predatory tribal assembly of Banū Sulaym and Ghaṭafān"
 casualties_muslim: 0
@@ -39,7 +39,7 @@ A formidable host composed of **Banū Sulaym** (Banū Sulaym b. Manṣūr) and t
 Refusing to allow the hostile coalition to consolidate near the borders of the oasis, the Prophet ﷺ seized the offensive initiative, ordering an immediate pre-emptive expedition (*Subul al-Hudā*, 4:172).
 
 ## 2. Mobilization & The Pincer Advance to al-Kudr
-The Prophet ﷺ appointed **Sibāʿ b. ʿUrfuṭah al-Ghifārī** ﵁ (or **[[Abdullāh b. Umm Maktūm|ʿAbdullāh b. Umm Maktūm]]** ﵁) as deputy governor over Medina during his absence (*Subul al-Hudā*, 4:172). 
+The Prophet ﷺ appointed **Sibāʿ b. ʿUrfuṭah al-Ghifārī** ﵁ (or **[[ʿAbdullāh b. Umm Maktūm]]** ﵁) as deputy governor over Medina during his absence (*Subul al-Hudā*, 4:172).
 
 An army of **two hundred warriors** mobilized, and the Prophet ﷺ committed the supreme white battle standard into the hands of **[[ʿAlī b. Abī Ṭālib]]** ﵁ (*Subul al-Hudā*, 4:172).
 
