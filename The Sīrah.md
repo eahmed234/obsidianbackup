@@ -333,6 +333,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ---
 
 ## 📜 Key Scriptural Nodes (*al-Qurʾān wa-Asbāb al-Nuzūl*)
+- **[[Sūrat al-Baqarah]]** — *The Legislative Keystone of Medina, Taḥwīl al-Qiblah, and Discourse with the Rabbinate*
 - **[[Sūrat al-Anfāl]]** — *Comprehensive Divine Commentary on Badr (Sūrat Badr)*
 - **[[Sūrat Āl ʿImrān]]** — *The Sixty Verses of Commentary on Uḥud and Badr*
 - **[[Sūrat al-Aḥzāb]]** — *The Terror of the Trench, Hypocrites, and Banū Qurayẓah*
@@ -349,6 +350,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
 - [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
+- [[Banū ʿAdī]] — *The clan of diplomatic mediation, custodians of the Ḥaṭīm, and kin of al-Fārūq*
 
 ### The Anṣār of Yathrib
 - [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
