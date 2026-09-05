@@ -143,12 +143,19 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### The Household & Mothers of the Believers (*Ahl al-Bayt*)
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
+- [[Sawdah bint Zamʿah]] ﵂ — *Umm al-Muʾminīn (First Wed After Khadījah & Lady of Generous Devotion)*
 - [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
+- [[Ḥafṣah bint ʿUmar]] ﵂ — *Umm al-Muʾminīn (Custodian of the Master Qurʾānic Codex)*
+- [[Zaynab bint Jaḥsh]] ﵂ — *Umm al-Muʾminīn (Wed by Divine Decree & Lady of the Long Hand in Charity)*
 - [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
-- [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
+- [[Umm Ḥabībah]] ﵂ — *Umm al-Muʾminīn (Ramlah bint Abī Sufyān, Royal Wedding of Abyssinia)*
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
+- [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
+- [[Maymūnah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Blessed, Last Wed by the Prophet ﷺ at Saraf)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[al-Ḥasan b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah, Fifth Caliph & Peacemaker of the Ummah*
+- [[al-Ḥusayn b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah & Sayyid al-Shuhadāʾ*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
 - [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
