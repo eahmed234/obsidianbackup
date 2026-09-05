@@ -57,6 +57,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Dhī Amr]] (Ṣafar 3 AH) — *Preemptive Strike in Najd & Conversion of Duʿthūr*
 - [[Ghazwat Uḥud]] (7 Shawwāl 3 AH) — *The Trial of Archers & 70 Martyrs*
 - [[Ghazwat Ḥamrāʾ al-Asad]] (8 Shawwāl 3 AH) — *The Resolute Pursuit of Deterrence*
+- [[Sariyyat al-Rajīʿ]] (Ṣafar 4 AH) — *The Betrayal of the Reciters, Ḥamiyy al-Dabr, and Martyrdom of Khubayb at al-Tanʿīm*
 - [[Maʾsāt Biʾr Maʿūnah]] (4 AH) — *Massacre of the 70 Reciters & Qunūt al-Nāzilah*
 - [[Ghazwat Banī al-Naḍīr]] (4 AH) — *Siege & Expulsion (Sūrat al-Ḥashr)*
 - [[Ghazwat Badr al-Mawʿid]] (4 AH) — *The Rendezvous of Honor & Fulfillment of Sūrat Āl ʿImrān*
@@ -183,6 +184,10 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
 - [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
+- [[Abū Marthad al-Ghanawī]] ﵁ — *Bearer of the first banner in Islam, confederate of Ḥamzah, and veteran of Badr*
+- [[Marthad b. Abī Marthad]] ﵁ — *Badri veteran, horseman of al-Saball, hero of captive rescue, and commander martyr at al-Rajīʿ*
+- [[ʿUtbah b. Ghazwān]] ﵁ — *Seventh convert in Islam, hero of the defection at Rābigh, founder and governor of Basra*
+- [[Wāqid b. ʿAbdillāh]] ﵁ — *Al-Tamīmī al-Yarbūʿī; first combatant to slay an enemy in Islam at Nakhlah, Badri veteran*
 - [[ʿAbdullāh b. Masʿūd]] ﵁ — *Custodian of the Prophet's Secrets*
 - [[ʿAbdullāh b. ʿUmar]] ﵁ — *Exemplar of Sunnah emulation and master jurist of Medina*
 - [[ʿAbdullāh b. Umm Maktūm]] ﵁ — *Blind muezzin and 13-time deputy governor of Medina*

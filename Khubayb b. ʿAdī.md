@@ -17,7 +17,7 @@ tags:
 death: 4 AH (al-Tanʿīm, Makkah)
 burial: "al-Tanʿīm (miraculously swallowed by the earth — Balīʿ al-Arḍ)"
 lineage: "Khubayb b. ʿAdī b. Mālik al-Anṣārī al-Awsī (Banū ʿAmr b. ʿAwf)"
-primary_source: "[[al-Iṣābah]] (vol. 2, pp. 225–227, entry 2227); [[Subul al-Hudā war-Rashād]] (vol. 5, p. 30)"
+primary_source: "[[al-Iṣābah]] (vol. 2, pp. 225–227, entry 2227); [[Subul al-Hudā war-Rashād]] (vol. 5, p. 30; vol. 6, pp. 39–48)"
 ---
 
 # Khubayb b. ʿAdī (خبيب بن عدي الأوسي) ﵁
@@ -29,7 +29,7 @@ He is Khubayb b. ʿAdī b. Mālik b. ʿĀmir b. Majdaʿah b. Jaḥjabā b. ʿAwf
 He embraced Islam early in Medina among the Anṣār of Banū ʿAmr b. ʿAwf. He marched alongside the Prophet ﷺ in **[[Ghazwat Badr al-Kubrā]]** (2 AH), fighting heroically as a Badri veteran (*al-Iṣābah*, 2:225). During the battle, he slew al-Ḥārith b. ʿĀmir b. Nawfal b. ʿAbd Manāf, a senior aristocrat of Quraysh (*al-Iṣābah*, 2:225–226).
 
 ## 2. The Tragedy of al-Rajīʿ & Captivity (4 AH)
-In 4 AH, the Prophet ﷺ dispatched a reconnaissance detachment of Companions commanded by **[[ʿĀṣim b. Thābit]]** ﵁ (*Ṣaḥīḥ al-Bukhārī*; *al-Iṣābah*, 2:225). At the watering place of **al-Rajīʿ**, the bedouin tribe of Banū Liḥyān betrayed the party with approximately one hundred archers (*al-Iṣābah*, 2:225; *Subul al-Hudā*, 5:30). While ʿĀṣim and several companions refused safe conduct and achieved martyrdom on site, Khubayb b. ʿAdī and Zayd b. al-Dathinah were captured bound and taken to Makkah to be sold to Quraysh (*al-Iṣābah*, 2:225).
+In Ṣafar 4 AH, on **[[Sariyyat al-Rajīʿ]]**, the Prophet ﷺ dispatched a mission commanded by **[[ʿĀṣim b. Thābit]]** ﵁ and **[[Marthad b. Abī Marthad]]** ﵁ (*Ṣaḥīḥ al-Bukhārī*; *al-Iṣābah*, 2:225; *Subul al-Hudā*, 6:39–48). At the watering place of **al-Rajīʿ**, the bedouin tribe of Banū Liḥyān betrayed the party with approximately one hundred archers (*al-Iṣābah*, 2:225; *Subul al-Hudā*, 5:30). While ʿĀṣim and several companions refused safe conduct and achieved martyrdom on site, Khubayb b. ʿAdī and Zayd b. al-Dathinah were captured bound and taken to Makkah to be sold to Quraysh (*al-Iṣābah*, 2:225).
 
 Khubayb was purchased by the family of al-Ḥārith b. ʿĀmir (or by Ḥujayr b. Abī Ihāb on behalf of ʿUqbah b. al-Ḥārith) in order to execute him in blood revenge for their father slain at Badr (*al-Iṣābah*, 2:225–226).
 

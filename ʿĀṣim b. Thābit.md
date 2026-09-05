@@ -20,7 +20,7 @@ father: Thābit b. Abī al-Aqlaḥ
 mother: al-Shumūs bint Abī ʿĀmir
 maternal_uncle: Ḥanẓalah b. Abī ʿĀmir
 role: "Protector of the Covenant, Badri archer, hero of Uḥud, Commander of al-Rajīʿ expedition"
-primary_source: "*al-Iṣābah* (vol. 3, pp. 460–461, entry 4365); [[Subul al-Hudā war-Rashād]] (vol. 4, pp. 194, 197–198, 229)"
+primary_source: "*al-Iṣābah* (vol. 3, pp. 460–461, entry 4365); [[Subul al-Hudā war-Rashād]] (vol. 4, pp. 194, 197–198, 229; vol. 6, pp. 39–48)"
 ---
 
 # ʿĀṣim b. Thābit (عاصم بن ثابت) ﵁
@@ -42,7 +42,7 @@ primary_source: "*al-Iṣābah* (vol. 3, pp. 460–461, entry 4365); [[Subul al-
 - Their distraught mother, Sulāfah bint Saʿd b. Shuhayd, swore a solemn pagan vow that if she ever obtained the head of ʿĀṣim b. Thābit, she would drink wine out of his skull, offering a reward of one hundred camels to anyone who brought her his skull (*al-Iṣābah*, 3:461; *Subul al-Hudā*, 4:194).
 
 ## 4. The Expedition of al-Rajīʿ & Martyrdom (4 AH)
-- In Ṣafar 4 AH, the Prophet ﷺ appointed ʿĀṣim b. Thābit as the commander of an expedition (*Sarīyah*) of six (or ten) Companions dispatched to instruct the tribes of ʿAḍal and al-Qārah (*Ṣaḥīḥ al-Bukhārī*; *al-Iṣābah*, 3:461).
+- In Ṣafar 4 AH, on **[[Sariyyat al-Rajīʿ]]**, the Prophet ﷺ appointed ʿĀṣim b. Thābit as commander alongside **[[Marthad b. Abī Marthad]]** ﵁ of the detachment of Companions dispatched to instruct the tribes of ʿAḍal and al-Qārah (*Ṣaḥīḥ al-Bukhārī*; *al-Iṣābah*, 3:461).
 - At the watering place of **al-Rajīʿ**, Banū Liḥyān betrayed the party, surrounding them with roughly one hundred archers. They offered safe conduct, but ʿĀṣim refused, uttering: *«As for me, by Allāh, I will never descend into the covenant and protection of a polytheist!»* (*al-Iṣābah*, 3:461).
 - ʿĀṣim had made a covenant with Allāh in his life never to touch a polytheist and never to allow a polytheist to touch him. He fought fiercely alongside his companions until he fell a martyr (*al-Iṣābah*, 3:461).
 - **Ḥamiyy al-Dabr (The Swarm of Hornets)**: Knowing Sulāfah's bounty, Banū Liḥyān sought to sever ʿĀṣim's head to sell it to Quraysh. However, Allāh dispatched a thick cloud of hornets or bees (*al-dabr*) like a protective canopy over his body, driving the pagans back every time they drew near. That night, a sudden torrential flash flood (*sayl*) swept through the desert ravine, carrying his body away to an undiscovered grave, thus fulfilling his vow that no pagan would ever touch his flesh (*Ṣaḥīḥ al-Bukhārī*; *al-Iṣābah*, 3:461).
