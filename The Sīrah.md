@@ -230,6 +230,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
+- [[Bashīr b. Saʿd]] ﵁ — *Badri veteran, expeditionary commander, first Anṣārī to pledge at Saqīfah, and martyr of ʿAyn al-Tamr*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
 
 ### The Companies of the Community
@@ -286,6 +287,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿUthmān b. Ṭalḥah]] ﵁ — *Hereditary custodian of the Kaʿbah key entrusted with the eternal trust by the Prophet ﷺ fulfilling Qurʾān 4:58*
 - [[ʿAmr b. Sālim al-Khuzāʿī]] ﵁ — *Chieftain of Banū Kaʿb, reciter of the stirring plea of al-Watīr, and standard-bearer of Khuzāʿah*
 - [[Abū Quḥāfah]] ﵁ — *Venerable father of Abū Bakr al-Ṣiddīq who embraced Islam on the Day of Conquest and first whose hair was dyed in Islam*
+- [[Ḥakīm b. Ḥizām]] ﵁ — *Aristocrat born inside the Kaʿbah, philanthropist of Dār al-Nadwah, and nephew of Khadījah ﵂*
 - [[Suhayl b. ʿAmr]] ﵁ — *Khaṭīb Quraysh, negotiator of al-Ḥudaybiyah, eloquent orator who stabilized Makkah upon the Prophet's death, and martyr of ʿAmwās*
 - [[ʿIkrimah b. Abī Jahl]] ﵁ — *The repentant cavalier welcomed as 'al-Rākib al-Muhājir' who led the historic 400-strong death pledge at Yarmūk*
 - [[Qays b. Saʿd b. ʿUbādah]] ﵁ — *Prophetic security commander, knight of the Anṣār, and standard-bearer of Fatḥ Makkah*
