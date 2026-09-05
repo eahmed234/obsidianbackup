@@ -87,7 +87,9 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[ʿĀm al-Wufūd]] (9–10 AH) — *The Year of Delegations & Fulfillment of Sūrat al-Naṣr*
   - [[Wafd Thaqīf]] (9 AH) — *Submission of al-Ṭāʾif & Demolition of al-Lāt*
   - [[Wafd Banī Tamīm]] (9 AH) — *The Oratorical Contest & Sūrat al-Ḥujurāt*
+  - [[Wafd Tujīb]] (9 AH) — *The Exemplary Delegation of Surplus Zakāt & The Pious Youth of Banū Abdhā*
   - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
+  - [[Wafd Kindah]] (10 AH) — *The 80 Silk-Clad Cavaliers under al-Ashʿath b. Qays & Descent of Quraysh from al-Naḍr*
 - [[Sariyyat ʿAlī b. Abī Ṭālib ilā al-Yaman]] (Ramaḍān 10 AH) — *Conversion of Madhḥij and Hamdān in a Single Day*
 
 ### 4. The Culmination & Departure (10–11 AH)
