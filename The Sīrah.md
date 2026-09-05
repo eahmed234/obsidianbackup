@@ -338,6 +338,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - **[[Sūrat al-Aḥzāb]]** — *The Terror of the Trench, Hypocrites, and Banū Qurayẓah*
 - **[[Sūrat al-Fatḥ]]** — *The Manifest Victory of Ḥudaybiyah & Bayʿat al-Riḍwān*
 - **[[Sūrat al-Ḥashr]]** — *The Siege and Expulsion of Banū al-Naḍīr (Sūrat al-Naḍīr)*
+- **[[Sūrat al-Māʾidah]]** — *Sūrat al-ʿUqūd, Rulings of Purification and Dietary Laws, and Perfection of the Religion at ʿArafāt*
 - **[[Sūrat al-Tawbah]]** — *Jaysh al-ʿUsrah, Dissecting the Hypocrites, and Final Treaties*
 
 ---
@@ -349,6 +350,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
 - [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
+- [[Banū Jumaḥ]] — *Clan of ʿUthmān b. Maẓʿūn, Ṣafwān b. Umayyah, and Umayyah b. Khalaf*
 
 ### The Anṣār of Yathrib
 - [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
