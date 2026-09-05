@@ -11,7 +11,7 @@ tags:
   - resolve
   - deterrence
   - 3-ah
-date_hijri: 8 Shawwāl 3 AH (24 March 625 CE)
+date_hijri: 8 Shawwāl 3 AH (March 625 CE)
 location: "[[Ḥamrāʾ al-Asad]], 8 miles south of [[al-Madīnah al-Munawwarah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
 commanders_enemy: "[[Abū Sufyān b. Ḥarb]] & Ṣafwān b. Umayyah (before Islam)"
@@ -21,14 +21,14 @@ casualties_muslim: "2 scouts martyred: Salīṭ and Nuʿmān, sons of Sufyān b.
 casualties_enemy: "2 captured and executed: Abū ʿAzzah al-Jumaḥī and Muʿāwiyah b. al-Mughīrah b. Abī al-ʿĀṣ (Subul al-Hudā 4:311–312)"
 quranic_references:
   - "[[Sūrat Āl ʿImrān]] (3:172–175)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 308–316)"
+primary_source: "*Subul al-Hudā*, 4:308–316"
 ---
 
 # Ghazwat Ḥamrāʾ al-Asad (غزوة حمراء الأسد)
 *The Expedition of Ḥamrāʾ al-Asad — The Pursuit of Moral Deterrence and the Stand of the Wounded*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived exclusively from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Rābiʿ ʿAshar fī Ghazwat Ḥamrāʾ al-Asad* (pp. 308–316). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
+> This master entry is derived exclusively from *Subul al-Hudā*, Volume 4, *al-Bāb al-Rābiʿ ʿAshar fī Ghazwat Ḥamrāʾ al-Asad* (pp. 308–316). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
 
 ---
 

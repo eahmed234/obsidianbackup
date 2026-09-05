@@ -22,14 +22,14 @@ deputy_medina: "[[ʿAbdullāh b. Umm Maktūm]] ﵁ (Subul al-Hudā 4:322)"
 provocation: "Attempted assassination of the Prophet ﷺ with a millstone by ʿAmr b. Jaḥḥāsh (Subul al-Hudā 4:318)"
 outcome: "Bloodless capitulation, total expulsion to Khaybar and Syria, surrender of fortresses, acquisition of 50 coats of mail, 50 helmets, and 340 swords (Subul al-Hudā 4:324)"
 quranic_reference: "[[Sūrat al-Ḥashr]] (59:1–24)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 317–336)"
+primary_source: "*Subul al-Hudā*, 4:317–336"
 ---
 
 # Ghazwat Banī al-Naḍīr (غزوة بني النضير)
 *The Siege and Exile of Banū al-Naḍīr — Sūrat al-Ḥashr and the Allocation of the First Pure Fayʾ*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived strictly from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Khāmis ʿAshar fī Ghazwat Banī al-Naḍīr* (pp. 317–336). Al-Ṣāliḥī synthesizes the accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Balādhurī]], [[al-Bukhārī]], and [[Muslim]].
+> This master entry is derived strictly from *Subul al-Hudā*, Volume 4, *al-Bāb al-Khāmis ʿAshar fī Ghazwat Banī al-Naḍīr* (pp. 317–336). Al-Ṣāliḥī synthesizes the accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Balādhurī]], [[al-Bukhārī]], and [[Muslim]].
 
 ---
 

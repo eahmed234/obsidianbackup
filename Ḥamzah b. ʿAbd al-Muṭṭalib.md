@@ -79,7 +79,7 @@ At **[[Ghazwat Badr al-Kubrā]]**, Ḥamzah stood out visibly on the field of co
 ## 4. Martyrdom at Uḥud (3 AH)
 
 ### The Battle and the Fatal Javelin
-At **[[Ghazwat Uḥud]]** on Saturday, 15 Shawwāl 3 AH, Ḥamzah wielded two swords before the Messenger of Allāh ﷺ like an untamed camel (*jamal awraq*), cutting down more than thirty polytheists (*Subul al-Hudā*, 4:216; 11:91; *al-Iṣābah*, 2:106). Among them was the standard-bearer of Quraysh, Arṭāh b. Shuraḥbīl, and Sabāʿ b. ʿAbd al-ʿUzzā (known as Ibn Umm Anmār).
+At **[[Ghazwat Uḥud]]** on Saturday, the fifteenth of Shawwāl in the year 3 AH, Ḥamzah wielded two swords before the Messenger of Allāh ﷺ like an untamed camel (*jamal awraq*), cutting down more than thirty polytheists (*Subul al-Hudā*, 4:216; 11:91; *al-Iṣābah*, 2:106). Among them was the standard-bearer of Quraysh, Arṭāh b. Shuraḥbīl, and Sabāʿ b. ʿAbd al-ʿUzzā (known as Ibn Umm Anmār).
 
 As Ḥamzah struck down Sabāʿ, **[[Waḥshī b. Ḥarb]]**—an Abyssinian slave skilled in casting the javelin, who had been promised manumission by his master Jubayr b. Muṭʿim to avenge Jubayr's uncle Ṭuʿaymah b. ʿAdī, and urged on by Hind bint ʿUtbah—lay concealed behind a rock (*Subul al-Hudā*, 4:216–218; *al-Iṣābah*, 2:106). When Ḥamzah stumbled slightly in the sandy torrent bed, Waḥshī balanced his javelin and hurled it with pinpoint precision into Ḥamzah's lower abdomen, piercing through to his groin. Ḥamzah attempted to lunge toward his assailant but collapsed and attained martyrdom (*Subul al-Hudā*, 4:217; *al-Iṣābah*, 2:106). He was under sixty years of age (*al-Iṣābah*, 2:106).
 

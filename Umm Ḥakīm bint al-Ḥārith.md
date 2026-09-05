@@ -10,26 +10,25 @@ tags:
   - warrior
   - fath_makkah
   - yarmuk
-  - 8-ah
 aliases:
   - Umm Ḥakīm al-Makhzūmiyyah
   - Umm Hakim bint al-Harith
   - Heroine of Marj al-Ṣuffar
-birth: c. 15 BH
-death: After 15 AH
+birth: Makkah
+death: After the year 15 AH (Medina)
 clan: Banū Makhzūm
 tribe: Quraysh
 spouses: "[[ʿIkrimah b. Abī Jahl]] ﵁, [[Khālid b. Saʿīd]] b. al-ʿĀṣ ﵁, [[ʿUmar b. al-Khaṭṭāb]] ﵁"
 father: "[[al-Ḥārith b. Hishām]] ﵁"
 role: Emissary of Pardon at Fatḥ Makkah & Heroine of Marj al-Ṣuffar
-primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (8:379–380, no. 11984); [[Subul al-Hudā war-Rashād]] (vol. 5, pp. 252–253, 294–295)"
+primary_source: "*al-Iṣābah*, 8:379–380 (entry 11984); *Subul al-Hudā*, 5:252–253, 294–295"
 ---
 
 # Umm Ḥakīm bint al-Ḥārith (أم حكيم بنت الحارث المخزومية)
 *The Chivalric Matron of Banū Makhzūm, Emissary of Clemency, and the Heroine of Marj al-Ṣuffar*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 8, pp. 379–380 (entry no. 11984), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, pp. 252–253, 294–295.
+> Sourced directly from *al-Iṣābah*, 8:379–380 (entry 11984), and *Subul al-Hudā*, 5:252–253, 294–295.
 
 ---
 
@@ -43,7 +42,7 @@ Umm Ḥakīm belonged to the aristocratic house of **Banū Makhzūm** of Quraysh
 ---
 
 ## 2. Conversion & The Mission to Rescue ʿIkrimah (8 AH)
-On the Day of the Supreme Conquest (**[[Fatḥ Makkah]]**, 20 Ramaḍān 8 AH), Umm Ḥakīm embraced Islam and pledged allegiance to the Messenger of Allāh ﷺ upon Mount al-Ṣafā (*al-Iṣābah*, 8:379).
+On the Day of the Supreme Conquest (**[[Fatḥ Makkah]]**, the twentieth of Ramaḍān in the year eight AH), Umm Ḥakīm embraced Islam and pledged allegiance to the Messenger of Allāh ﷺ upon Mount al-Ṣafā (*al-Iṣābah*, 8:379).
 
 ### Securing the Prophetic Amān
 When she learned that her husband ʿIkrimah had fled toward Yemen to escape execution, she approached the Messenger of Allāh ﷺ and pleaded:

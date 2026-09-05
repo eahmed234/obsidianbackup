@@ -14,7 +14,7 @@ tags:
   - ashara_mubashsharah
   - badri
   - umayyah
-birth: ~47 BH (576 CE, Makkah)
+birth: "6 years after the Year of the Elephant (576 CE, Makkah)"
 death: 18 Dhū al-Ḥijjah 35 AH (656 CE, martyred in Medina, aged 82; buried in al-Baqīʿ)
 reign: 23 AH – 35 AH (Third Rightly-Guided Caliph)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 382; vol. 4, p. 24; vol. 5, pp. 44–47, 435–436; vol. 11, pp. 33–36, 277–287); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, pp. 377–380, no. 5464)"
@@ -35,7 +35,7 @@ His lineage merges directly with the Messenger of Allāh ﷺ at their fourth-gen
 - Through this maternal descent, ʿUthmān's mother Arwā was the direct first cousin of the Messenger of Allāh ﷺ, making ʿUthmān his first cousin once removed, and weaving an exceptionally tight bond of shared Hāshimite and Umayyad blood.
 
 ### Birth & Physical Appearance
-ʿUthmān was born six years after the Year of the Elephant on the soundest transmission (~47 BH / 576 CE) (*al-Iṣābah*, 4:377). 
+ʿUthmān was born six years after the Year of the Elephant on the soundest transmission (576 CE) (*al-Iṣābah*, 4:377). 
 
 He was distinguished by an exceptionally noble and striking appearance:
 - **Build**: Medium stature (*rabʿah*), neither overly tall nor short, possessing broad shoulders (*baʿīd mā bayn al-mankibayn*) and well-formed limbs (*al-Iṣābah*, 4:377).

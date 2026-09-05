@@ -89,7 +89,7 @@ Dispatched alongside **[[ʿAlī b. Abī Ṭālib]]** to intercept the clandestin
 ---
 
 ## 4. Caliphal Shūrā, Martyrdom & Burial
-Appointed by Caliph ʿUmar as one of the six electors of the Caliphal Shūrā in 23 AH, al-Zubayr was revered as one of the greatest statesmen and military commanders of the early Caliphate (*al-Iṣābah*, 2:457).
+Appointed by Caliph ʿUmar as one of the six electors of the Caliphal Shūrā in the year twenty-three AH, al-Zubayr was revered as one of the greatest statesmen and military commanders of the early Caliphate (*al-Iṣābah*, 2:457).
 
 During the turmoil of the Battle of the Camel in Jumādā al-Ūlā 36 AH, **[[ʿAlī b. Abī Ṭālib]]** ﵁ called al-Zubayr between the battle lines and reminded him of the Prophet's words: *"You shall surely fight ʿAlī while you are in the wrong."* Remembering the prophecy, al-Zubayr immediately sheath his sword, turned his mount, and departed the field of conflict (*al-Iṣābah*, 2:460). 
 

@@ -15,8 +15,8 @@ tags:
   - hunayn
   - fath_makkah
 kunya: Abū al-Faḍl
-death_hijri: 32 AH
-birth_approx: ~53 BH (two years before the Prophet ﷺ)
+death: the year thirty-two AH (buried in al-Baqīʿ)
+birth: two or three years before the Year of the Elephant (Makkah)
 burial: "[[al-Baqīʿ]]"
 clan: Banū Hāshim
 father: "[[ʿAbd al-Muṭṭalib]]"
@@ -61,8 +61,8 @@ Al-Ṣāliḥī relies heavily on al-ʿAbbās’s direct testimony for events su
   > «هَذَا الْعَبَّاسُ أَجْوَدُ قُرَيْشٍ كَفّاً وَأَوْصَلُهَا»
   > *"This al-ʿAbbās is the most generous of Quraysh in hand and the most maintaining of kinship bonds."* (*al-Iṣābah*, 3:512).
 
-## 6. Death & Burial (32 AH)
-He passed away in Medina in Rajab (or Ramaḍān) of 32 AH during the caliphate of **[[ʿUthmān b. ʿAffān]]** ﵁ and was buried in **[[al-Baqīʿ]]** (*al-Iṣābah*, 3:512). His descendants through his son **[[ʿAbdullāh b. ʿAbbās]]** would later establish the ʿAbbāsid Caliphate.
+## 6. Death & Burial
+He passed away in Medina in Rajab (or Ramaḍān) of the year thirty-two AH during the caliphate of **[[ʿUthmān b. ʿAffān]]** ﵁ and was buried in **[[al-Baqīʿ]]** (*al-Iṣābah*, 3:512). His descendants through his son **[[ʿAbdullāh b. ʿAbbās]]** would later establish the ʿAbbāsid Caliphate.
 
 ## 7. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 1, pp. 271, 325, 347, 349; vol. 3, p. 203; vol. 4, pp. 55, 70; vol. 5, pp. 208, 330–335; vol. 11, p. 103.

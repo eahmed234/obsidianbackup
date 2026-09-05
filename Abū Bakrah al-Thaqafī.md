@@ -8,7 +8,6 @@ tags:
   - thaqif
   - mawla
   - taif
-  - 51-ah
 aliases:
   - Abū Bakrah
   - Nufayʿ b. al-Ḥārith
@@ -19,7 +18,7 @@ tribe: Thaqīf (or Mawlā Rasūlillāh)
 mother: Sumayyah
 death: 51 AH (671 CE) (or 52 AH)
 death_place: Basra (Iraq)
-primary_source: "*al-Iṣābah*, 6:369–370 (no. 8816); 7:39 (no. 9638); *Subul al-Hudā*, 5:384"
+primary_source: "*al-Iṣābah*, 6:369–370 (no. 8816); 7:39 (no. 9638); *Subul al-Hudā*, 5:384; 11:409"
 ---
 
 # Abū Bakrah al-Thaqafī (أبو بكرة نفيع بن الحارث الثقفي)
@@ -55,7 +54,7 @@ When civil strife (*al-Fitnah*) erupted during the later years of the early Cali
 He was a prolific narrator of Prophetic ḥadīth, preserved in *Ṣaḥīḥ al-Bukhārī*, *Ṣaḥīḥ Muslim*, and all major collections, transmitted through his sons ʿUbaydullāh, ʿAbd al-Raḥmān, and Muslim, as well as masters such as al-Ḥasan al-Baṣrī, Ibn Sīrīn, and Abū ʿUthmān al-Nahdī (*al-Iṣābah*, 6:369).
 
 ## 4. Death & Burial
-Abū Bakrah lived in Basra until his passing in **51 AH** (671 CE) (or 52 AH) (*al-Iṣābah*, 6:369). The senior companion **[[Abū Barzah al-Aslamī]]** ﵁ led the funeral prayer over him, and he was buried in Basra (*al-Iṣābah*, 6:369).
+Abū Bakrah lived in Basra until his passing in the year fifty-one AH (671 CE) (or fifty-two AH) (*Subul al-Hudā*, 11:409; *al-Iṣābah*, 6:369). The senior companion **[[Abū Barzah al-Aslamī]]** ﵁ led the funeral prayer over him, and he was buried in Basra (*al-Iṣābah*, 6:369).
 
 ## 5. References
 1. Ibn Ḥajar al-ʿAsqalānī, *al-Iṣābah fī Tamyīz al-Ṣaḥābah*, vol. 6, pp. 369–370 (biography no. 8816); vol. 7, p. 39 (biography no. 9638).

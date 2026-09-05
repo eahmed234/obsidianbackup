@@ -10,7 +10,6 @@ tags:
   - tulaqa
   - fath_makkah
   - hunayn
-  - 8-ah
 aliases:
   - Ṣafwān b. Umayyah al-Jumaḥī
   - Safwan ibn Umayyah
@@ -28,7 +27,7 @@ primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (3:349–350, no. 
 *The Chieftain of Banū Jumaḥ, Custodian of the Sacred Divination, and Noble Benefactor of Ḥunayn*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 3, pp. 349–350 (entry no. 4093), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, pp. 226, 253–254, 292–294, 313.
+> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's *al-Iṣābah*, 3:349–350 (entry 4093), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's *Subul al-Hudā*, 5:226, 253–254, 292–294, 313.
 
 ---
 
@@ -96,7 +95,7 @@ In *Ṣaḥīḥ Muslim*, Ṣafwān recounted his transformation:
 ## 5. Later Life & Passing
 Ṣafwān b. Umayyah briefly resided in Medina with **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]** ﵁, before the Prophet ﷺ permitted him to return to Makkah (*al-Iṣābah*, 3:350). He remained in Makkah as one of its most respected elders and philanthropists.
 
-- **Passing**: Ṣafwān passed away in Makkah around the time of the martyrdom of ʿUthmān or the early caliphate of Muʿāwiyah (in **41 or 42 AH**) (*al-Iṣābah*, 3:350).
+- **Passing**: Ṣafwān passed away in Makkah around the time of the martyrdom of ʿUthmān or the early caliphate of Muʿāwiyah (in the year forty-one or forty-two AH) (*al-Iṣābah*, 3:350).
 
 ---
 

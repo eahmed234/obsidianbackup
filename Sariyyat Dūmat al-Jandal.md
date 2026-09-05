@@ -15,22 +15,22 @@ date_gregorian: December 627 CE
 location: "[[Dūmat al-Jandal]]"
 commander_muslim: "[[ʿAbd al-Raḥmān b. ʿAwf]] ﵁"
 target_tribe: "[[Banū Kalb]] (Christian Arab confederation)"
-forces_muslim: 700 men
+forces_muslim: seven hundred men
 result: Decisive diplomatic and religious victory; King al-Aṣbagh b. ʿAmr embraces Islam; tribal alliance sealed via marriage
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, pp. 93–95)"
+primary_source: "*Subul al-Hudā*, 6:93–95"
 ---
 
 # Sariyyat Dūmat al-Jandal (سرية عبد الرحمن بن عوف إلى دومة الجندل)
 *The Expedition of ʿAbd al-Raḥmān b. ʿAwf to the Kingdom of Banū Kalb*
 
 > [!NOTE] Scholarly Context & Source
-> Documented in ***[[Subul al-Hudā war-Rashād]]*** by **[[al-Ṣāliḥī]]** (Vol. 6, pp. 94–95; Vol. 8, p. 324), citing [[Ibn Isḥāq]], [[Ibn Saʿd]], and [[al-Wāqidī]]. This expedition illustrates the classical Islamic protocol for delegating military command, the spiritual ceremony of crowning (*al-taʿmīm*), rules of just warfare, and diplomatic peacebuilding through marriage.
+> Documented in *Subul al-Hudā*, 6:94–95, citing [[Ibn Isḥāq]], [[Ibn Saʿd]], and [[al-Wāqidī]]. This expedition illustrates the classical Islamic protocol for delegating military command, the spiritual ceremony of crowning (*al-taʿmīm*), rules of just warfare, and diplomatic peacebuilding through marriage.
 
 ---
 
 ## 1. Strategic Objectives
 
-[[Dūmat al-Jandal]]—a strategic oasis located at the crossroads between the Arabian Peninsula, Syria, and Iraq—was ruled by the powerful Christian Arab tribe of **[[Banū Kalb]]**. In Shaʿbān 6 AH, the Messenger of Allāh [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ mobilized a force of 700 men to secure northern frontier alliances and invite the tribal confederation to Islam.
+[[Dūmat al-Jandal]]—a strategic oasis located at the crossroads between the Arabian Peninsula, Syria, and Iraq—was ruled by the powerful Christian Arab tribe of **[[Banū Kalb]]**. In Shaʿbān 6 AH, the Messenger of Allāh [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ mobilized a force of seven hundred men to secure northern frontier alliances and invite the tribal confederation to Islam.
 
 The Prophet ﷺ selected **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ as the supreme commander.
 

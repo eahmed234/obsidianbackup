@@ -22,14 +22,14 @@ casualties_muslim: "A handful of martyrs, foremost being Ayman b. ʿUbayd (son o
 casualties_enemy: "70 polytheist champions slain (including Durayd b. al-Ṣimmah); rout and total capture of their camp (Subul al-Hudā 5:331–333)"
 spoils: "6,000 captives, 24,000 camels, 40,000 sheep/goats, and 4,000 uqiyyah of silver (Subul al-Hudā 5:338)"
 quranic_reference: "[[Sūrat al-Tawbah]] (9:25–26)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 310–381)"
+primary_source: "*Subul al-Hudā*, 5:310–381"
 ---
 
 # Ghazwat Ḥunayn (غزوة حنين)
 *The Battle of the Valley of Ḥunayn — The Spiritual Purge of Pride, the Lone Charge on the White Mule, and the Divine Descent of Tranquility*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived strictly from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 5, *al-Bāb al-Thāmin wal-ʿIshrūn fī Ghazwat Ḥunayn* (pp. 310–381). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
+> This master entry is derived strictly from *Subul al-Hudā*, Volume 5, *al-Bāb al-Thāmin wal-ʿIshrūn fī Ghazwat Ḥunayn* (pp. 310–381). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
 
 ---
 

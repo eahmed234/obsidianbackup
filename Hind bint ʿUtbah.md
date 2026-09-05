@@ -9,25 +9,24 @@ tags:
   - quraysh
   - abd_shams
   - fath_makkah
-  - 8-ah
 aliases:
   - Hind bint ʿUtbah al-Qurashiyyah
   - Mother of Muʿāwiyah
   - Hind bint Utbah
-birth: c. 35 BH
-death: 14 AH (or caliphate of ʿUthmān)
+birth: Makkah
+death: the year fourteen AH (or caliphate of ʿUthmān)
 clan: Banū ʿAbd Shams
 tribe: Quraysh
 spouse: "[[Abū Sufyān b. Ḥarb]] ﵁"
 children: "[[Muʿāwiyah b. Abī Sufyān]] ﵁, ʿUtbah b. Abī Sufyān, Juwayriyah"
-primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (8:346–347, no. 11860); [[Subul al-Hudā war-Rashād]] (vol. 5, pp. 247, 254–255, 297–298)"
+primary_source: "*al-Iṣābah*, 8:346–347 (entry 11860); *Subul al-Hudā*, 5:247, 254–255, 297–298"
 ---
 
 # Hind bint ʿUtbah (هند بنت عتبة العبشمية)
 *The Aristocratic Matron of Banū ʿAbd Shams, Mother of Muʿāwiyah, and the Repentant Voice of the Women's Pledge*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 8, pp. 346–347 (entry no. 11860), cross-referenced with Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, pp. 247, 254–255, 297–298.
+> Sourced directly from *al-Iṣābah*, 8:346–347 (entry 11860), cross-referenced with *Subul al-Hudā*, 5:247, 254–255, 297–298.
 
 ---
 

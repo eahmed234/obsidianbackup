@@ -10,7 +10,6 @@ tags:
   - commander
   - standard_bearer
   - fath_makkah
-  - 8-ah
 aliases:
   - Qays b. Saʿd
   - Qays b. Saʿd al-Anṣārī
@@ -29,7 +28,7 @@ primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (5:359–361, no. 
 *The Chivalric Knight of the Anṣār, Prophetic Chief of Security, Standard-Bearer of Makkah, and Master Strategist*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 5, pp. 359–361 (entry no. 7192), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, p. 221.
+> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's *al-Iṣābah*, 5:359–361 (entry 7192), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's *Subul al-Hudā*, 5:221.
 
 ---
 
@@ -80,7 +79,7 @@ He inherited the proverbial hospitality of his father. He would supplicate: *«O
 ## 5. Later Career & Passing
 - **Governor of Egypt**: Qays participated in the conquest of Egypt, planned a estate in al-Fusṭāṭ, and was later appointed Governor of Egypt by the Commander of the Faithful **[[ʿAlī b. Abī Ṭālib]]** ﵁, where he governed with exceptional wisdom (*al-Iṣābah*, 5:360–361).
 - **Loyalty to the Ahl al-Bayt**: He marched with ʿAlī to the Battle of Ṣiffīn, commanding the vanguard. Following ʿAlī's martyrdom, he commanded forty thousand warriors under **[[al-Ḥasan b. ʿAlī]]** ﵄, until al-Ḥasan concluded the peace pact to unify the Ummah (*al-Iṣābah*, 5:361).
-- **Passing**: Qays returned to Medina, where he spent his final years in devotion and generosity. He passed away in Medina toward the end of the caliphate of Muʿāwiyah (c. **59–60 AH**) (*al-Iṣābah*, 5:361).
+- **Passing**: Qays returned to Medina, where he spent his final years in devotion and generosity. He passed away in Medina toward the end of the caliphate of Muʿāwiyah (*al-Iṣābah*, 5:361).
 
 ---
 

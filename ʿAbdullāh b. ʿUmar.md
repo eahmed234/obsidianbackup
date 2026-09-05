@@ -11,7 +11,6 @@ tags:
   - muhajir
   - jurist
   - adawiyyun
-  - 73-ah
 birth: "3 after Prophetic mission (3 BH / ~613 CE, Makkah)"
 death: 73 AH (Makkah, aged 84; buried at Dhū Ṭuwā)
 kunya: Abū ʿAbd al-Raḥmān

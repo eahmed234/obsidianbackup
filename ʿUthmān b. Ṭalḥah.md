@@ -9,7 +9,6 @@ tags:
   - quraysh
   - abd_al_dar
   - custodian
-  - 8-ah
 aliases:
   - ʿUthmān b. Ṭalḥah al-ʿAbdarī
   - Uthman ibn Talhah
@@ -26,7 +25,7 @@ primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (4:373, no. 5456);
 *The Hereditary Custodian of the Ancient House, Guardian of the Sacred Key, and Bearer of the Divine Trust*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 4, p. 373 (entry no. 5456), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, pp. 236–238, 244.
+> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's *al-Iṣābah*, 4:373 (entry 5456), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's *Subul al-Hudā*, 5:236–238, 244.
 
 ---
 
@@ -60,7 +59,7 @@ En route, he met **[[Khālid b. al-Walīd]]** ﵁ and **[[ʿAmr b. al-ʿĀṣ]]*
 ---
 
 ## 4. The Conquest of Makkah & Return of the Eternal Trust
-On Friday, 20 Ramaḍān 8 AH (**[[Fatḥ Makkah]]**), the Messenger of Allāh ﷺ entered the Sacred Sanctuary and summoned ʿUthmān b. Ṭalḥah to deliver the key of the Kaʿbah (*Subul al-Hudā*, 5:236).
+On Friday, the twentieth of Ramaḍān in the year 8 AH (**[[Fatḥ Makkah]]**), the Messenger of Allāh ﷺ entered the Sacred Sanctuary and summoned ʿUthmān b. Ṭalḥah to deliver the key of the Kaʿbah (*Subul al-Hudā*, 5:236).
 
 - **Opening the Kaʿbah**: ʿUthmān retrieved the key from his family. The Prophet ﷺ entered the Kaʿbah accompanied exclusively by **[[Bilāl b. Rabāḥ]]** ﵁, **[[Usāmah b. Zayd]]** ﵁, and **ʿUthmān b. Ṭalḥah** ﵁, closing the door behind them while they prayed and cleansed the interior of images and idols (*Ṣaḥīḥ al-Bukhārī*; *al-Iṣābah*, 4:373; *Subul al-Hudā*, 5:238).
 - **The Plea for Key Custody**: While the Prophet ﷺ was inside, **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]** ﵁ (or **[[ʿAlī b. Abī Ṭālib]]** ﵁) requested that the custody of the key (*al-ḥijābah*) be combined with the provision of water to pilgrims (*al-siqāyah*) under the administration of Banū Hāshim (*Subul al-Hudā*, 5:244).
@@ -76,7 +75,7 @@ The Prophet ﷺ then summoned ʿUthmān b. Ṭalḥah and his cousin Shaybah b. 
 
 ## 5. Later Life & Passing
 Following the conquest and the Farewell Pilgrimage, ʿUthmān b. Ṭalḥah settled in Medina (*sakana al-Madīnah*), where he resided in honor until his death (*al-Iṣābah*, 4:373).
-- **Passing**: He passed away in Medina in the year **42 AH** during the early caliphate of Muʿāwiyah b. Abī Sufyān, as affirmed by al-Wāqidī and Ibn al-Barqī (*al-Iṣābah*, 4:373).
+- **Passing**: He passed away in Medina in the year forty-two AH during the early caliphate of Muʿāwiyah b. Abī Sufyān, as affirmed by al-Wāqidī and Ibn al-Barqī (*al-Iṣābah*, 4:373).
 - **Scholarly Rejection of Ajnādayn Claim**: Ibn Ḥajar cites al-ʿAskarī in dismissing the alternate report that ʿUthmān was martyred at the Battle of Ajnādayn as demonstrably baseless (*bāṭil*) (*al-Iṣābah*, 4:373).
 
 ---

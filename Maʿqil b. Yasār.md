@@ -8,7 +8,6 @@ tags:
   - muzaynah
   - hudaybiyah
   - ahl_al_shajarah
-  - 60-ah
 aliases:
   - Maʿqil b. Yasār al-Muzanī
   - Ma'qil ibn Yasar
@@ -52,8 +51,8 @@ Under the direct instructions of ʿUmar, Maʿqil supervised the excavation of an
 > «مَا كَانَ هَاهُنَا—يَعْنِي بِالْبَصْرَةِ—أَحَدٌ مِنْ أَصْحَابِ النَّبِيِّ ﷺ أَهْنَأَ مِنْ مَعْقِلِ بْنِ يَسَارٍ»
 > *"There was none among the Companions of the Prophet ﷺ here in Basra whose life was more wholesome and beloved than Maʿqil b. Yasār."* (*al-Iṣābah*, 6:146).
 
-## 4. Death & Bold Admonition
-Maʿqil lived into the latter years of the reign of Muʿāwiyah b. Abī Sufyān (or the early rule of Yazīd), passing away between **60 and 65 AH** (680 CE) at an age between sixty and seventy (*al-Iṣābah*, 6:146–147).
+## 4. Demise & Final Admonition
+Maʿqil lived into the latter years of the reign of Muʿāwiyah b. Abī Sufyān (or the early rule of Yazīd), passing away at an age between sixty and seventy (*al-Iṣābah*, 6:146–147).
 
 During his final illness on his deathbed in Basra, the Umayyad governor ʿUbaydullāh b. Ziyād visited him to pay his respects. Maʿqil utilized his dying breath to confront the ruler with a severe prophetic warning:
 > «سَمِعْتُ رَسُولَ اللهِ ﷺ يَقُولُ: مَا مِنْ رَاعٍ يَسْتَرْعِيهِ اللهُ رَعِيَّةً، يَمُوتُ يَوْمَ يَمُوتُ وَهُوَ غَاشٌّ لِرَعِيَّتِهِ، إِلَّا حَرَّمَ اللهُ عَلَيْهِ الْجَنَّةَ»

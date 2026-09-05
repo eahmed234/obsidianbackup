@@ -13,9 +13,8 @@ tags:
   - badri
   - knight
 kunya: Abū ʿAbd al-Raḥmān (also Abū ʿAbdillāh, Abū Saʿīd)
-birth_approx: ~35 BH (Medina, 22 years before the Prophetic mission)
-death_hijri: 46 AH (Ṣafar)
-age_at_death: 77
+birth: 22 years before the Prophetic mission
+death: Ṣafar 46 AH (aged 77)
 burial: "[[al-Madīnah al-Munawwarah]]"
 clan: Banū Ḥārithah (al-Aws; ally of Banū ʿAbd al-Ashhal)
 father: Maslamah b. Salamah
@@ -35,7 +34,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 45, 180, 273; vol. 
 
 ## 1. Lineage, Pre-Islamic Name & Early Conversion
 - **Ancestry**: Muḥammad b. Maslamah b. Salamah b. Khālid b. ʿAdī b. Majdaʿah b. Ḥārithah b. al-Khazraj b. ʿAmr b. Mālik al-Awsī al-Ḥārithī (*al-Iṣābah*, 6:28). Kunyah: **Abū ʿAbd al-Raḥmān** (also reported as Abū ʿAbdillāh and Abū Saʿīd). Confederated as an ally (*ḥalīf*) with Banū ʿAbd al-Ashhal.
-- **Pre-Islamic Distinction**: Born approximately twenty-two years prior to the Prophetic mission (~35 BH), he was one of the exceedingly rare Arabs of the Jāhiliyyah bestowed the name **Muḥammad** before the advent of revelation (*al-Iṣābah*, 6:28).
+- **Pre-Islamic Distinction**: Born approximately twenty-two years prior to the Prophetic mission according to al-Wāqidī, he was one of the exceedingly rare Arabs of the Jāhiliyyah bestowed the name **Muḥammad** before the advent of revelation (*al-Iṣābah*, 6:28).
 - **Early Conversion & Muʾākhāh**: He accepted Islam in Medina at the hands of the first ambassador, **[[Muṣʿab b. ʿUmayr]]** ﵁, before the conversion of Saʿd b. Muʿādh (*al-Iṣābah*, 6:28). Following the Hijrah, the Prophet ﷺ paired him in the bond of brotherhood (**[[al-Muʾākhāh]]**) with the Trustworthy of the Ummah, **[[Abū ʿUbaydah b. al-Jarrāḥ]]** ﵁ (*al-Iṣābah*, 6:28).
 
 ## 2. Key Sīrah Milestones & Military Expeditions

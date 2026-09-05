@@ -144,7 +144,7 @@ In his later years during the Caliphate of **[[ʿUthmān b. ʿAffān]]** ﵁, Ib
 > «إِنَّ لَهُ عَلَيَّ حَقَّ الطَّاعَةِ، وَلَا أُحِبُّ أَنْ أَكُونَ أَوَّلَ مَنْ فَتَحَ بَابَ الْفِتَنِ!»
 > *"Verily, he holds over me the right of obedience, and I would never wish to be the first to open the gate of tribulations!"* (*al-Iṣābah*, 4:201).
 
-He passed away in Medina in **32 AH** at over sixty years of age (*al-Iṣābah*, 4:201; *Subul al-Hudā*, 11:330). As night fell, he was carried to **[[Jannat al-Baqīʿ]]**, where Caliph ʿUthmān b. ʿAffān ﵁—or according to other reports, ʿAmmār b. Yāsir—led his funeral prayer and laid him to rest (*Subul al-Hudā*, 11:330).
+He passed away in Medina in the year thirty-two AH at over sixty years of age (*al-Iṣābah*, 4:201; *Subul al-Hudā*, 11:330). As night fell, he was carried to **[[Jannat al-Baqīʿ]]**, where Caliph ʿUthmān b. ʿAffān ﵁—or according to other reports, ʿAmmār b. Yāsir—led his funeral prayer and laid him to rest (*Subul al-Hudā*, 11:330).
 
 ---
 

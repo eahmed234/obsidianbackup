@@ -24,14 +24,14 @@ casualties_muslim: "2 cavalrymen martyred: Kurz b. Jābir al-Fihrī and Ḥubays
 casualties_enemy: "24–28 slain in the skirmish at Khandamah (Subul al-Hudā 5:227); select criminals executed pursuant to royal ban (5:223–225)"
 outcome: "Supreme bloodless triumph; complete destruction of 360 idols; universal pardon for the citizenry of Makkah (al-Ṭulaqāʾ)"
 quranic_reference: "[[Sūrat al-Fatḥ]] (48:1–3); [[Sūrat al-Naṣr]] (110:1–3); [[Sūrat al-Isrāʾ]] (17:81)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 200–298)"
+primary_source: "*Subul al-Hudā*, 5:200–298"
 ---
 
 # Fatḥ Makkah (فتح مكة المكرمة)
 *The Supreme Conquest of Makkah — The Triumph of Pure Monotheism, the Cleansing of the Ancient House, and Universal Royal Clemency*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived strictly from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 5, *al-Bāb al-Sābiʿ wal-ʿIshrūn fī Ghazwat al-Fatḥ al-Aʿẓam* (pp. 200–298). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Balādhurī]], [[al-Bukhārī]], and [[Muslim]].
+> This master entry is derived strictly from *Subul al-Hudā*, Volume 5, *al-Bāb al-Sābiʿ wal-ʿIshrūn fī Ghazwat al-Fatḥ al-Aʿẓam* (pp. 200–298). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Balādhurī]], [[al-Bukhārī]], and [[Muslim]].
 
 ---
 

@@ -73,14 +73,33 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
-- [[Ghazwat Ḥunayn]] (8 AH) — *The Lesson against Pride in Numbers*
+- [[Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā]] (Ramaḍān 8 AH) — *Obliteration of the Supreme Idol of Quraysh & Kinānah*
+- [[Sariyyat ʿAmr b. al-ʿĀṣ ilā Suwāʿ]] (Ramaḍān 8 AH) — *Demolition of the Ancient Idol of Hudhayl*
+- [[Sariyyat Saʿd b. Zayd al-Ashhalī ilā Manāt]] (Ramaḍān 8 AH) — *Demolition of the Ancient Coastal Sanctuary of Aws & Khazraj*
+- [[Sariyyat Khālid b. al-Walīd ilā Banī Jadhimah]] (Shawwāl 8 AH) — *Yawm al-Ghumayṣāʾ & Restitution by ʿAlī b. Abī Ṭālib*
+- [[Ghazwat Ḥunayn]] (Shawwāl 8 AH) — *The Lesson against Pride in Numbers*
+- [[Sariyyat Abī ʿĀmir al-Ashʿarī ilā Awṭās]] (Shawwāl 8 AH) — *Rout of the Hawāzin Rearguard & Prophetic Prayer for the Ashʿarīs*
 - [[Ghazwat al-Ṭāʾif]] (Shawwāl 8 AH) — *The Siege of the Citadel, Ballistas, and Covenant of the Anṣār*
+- [[Qismat Ghanāʾim Ḥunayn bi-al-Jiʿrānah]] (Dhū al-Qaʿdah 8 AH) — *Division of Spoils, Address to the Anṣār, and Sacred Night Umrah*
 - [[Ghazwat Tabūk]] (Rajab 9 AH) — *Jaysh al-ʿUsrah & The Confrontation on the Byzantine Frontier*
+- [[Hadam Masjid al-Ḍirār]] (Dhū al-Qaʿdah 9 AH) — *Eradication of the Outpost of Hypocrisy at Qubāʾ*
+- [[Ḥajjat Abī Bakr al-Ṣiddīq]] (Dhū al-Ḥijjah 9 AH) — *Purification of the Sanctuary & Proclamation of Sūrat Barāʾah by ʿAlī*
+- [[ʿĀm al-Wufūd]] (9–10 AH) — *The Year of Delegations & Fulfillment of Sūrat al-Naṣr*
+  - [[Wafd Thaqīf]] (9 AH) — *Submission of al-Ṭāʾif & Demolition of al-Lāt*
+  - [[Wafd Banī Tamīm]] (9 AH) — *The Oratorical Contest & Sūrat al-Ḥujurāt*
+  - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
+- [[Sariyyat ʿAlī b. Abī Ṭālib ilā al-Yaman]] (Ramaḍān 10 AH) — *Conversion of Madhḥij and Hamdān in a Single Day*
 
 ### 4. The Culmination & Departure (10–11 AH)
 - [[Ḥajjat al-Wadāʿ]] (Dhū al-Ḥijjah 10 AH) — *The Farewell Pilgrimage & Universal Charter*
+- [[Sariyyat Usāmah b. Zayd]] (Ṣafar–Rabīʿ 11 AH) — *The Final Deployment of the Prophet ﷺ and First Victory of the Caliphate*
 - [[Wafāt al-Nabī]] (12 Rabīʿ al-Awwal 11 AH) — *Passing to the Highest Companion (al-Rafīq al-Aʿlā)*
 - [[Saqīfat Banī Sāʿidah]] (11 AH) — *The Council and Consensus upon the First Caliph*
+
+### 5. The Era of the Rightly Guided Caliphs (*al-Khulafāʾ al-Rāshidūn*, 11–40 AH)
+- [[Khilāfat Abī Bakr al-Ṣiddīq]] (11–13 AH) — *Consolidation of the Realm, Suppression of Apostasy, and First Scribing of the Codex*
+  - [[Ḥurūb al-Riddah]] (11–12 AH) — *The Wars of Apostasy & Epic of the Garden of Death*
+  - [[Jamʿ al-Qurʾān]] (12 & 25 AH) — *The Historical Compilation & ʿUthmānic Standardization of the Holy Qurʾān*
 
 ---
 

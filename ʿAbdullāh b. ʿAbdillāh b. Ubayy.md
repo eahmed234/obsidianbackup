@@ -13,30 +13,39 @@ tags:
   - badri
   - martyr
 lineage: "Anṣārī of [[al-Khazraj]], Banū ʿAwf b. al-Khazraj"
-role: "Pious Badri warrior who exemplified absolute loyalty to Allāh and His Messenger over blood ties"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 45, 350; vol. 5, p. 192; vol. 11, p. 333); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, p. 133, entry 4802)"
+role: "Pious Badri warrior, scribe of the Prophet ﷺ, and steadfast exemplar of faith over kin"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 109, 350, 357; vol. 11, p. 386; vol. 12, p. 73); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, pp. 133–134, entry 4802)"
 ---
 
-# ʿAbdullāh b. ʿAbdillāh b. Ubayy (عبد الله بن عبد الله بن أبي)
-*The Paragon of Pure Monotheism — The Badri Knight Who Stood against Hypocrisy*
+# ʿAbdullāh b. ʿAbdillāh b. Ubayy (عبد الله بن عبد الله بن أبي) ﵁
+*The Sincere Believer of al-Khazraj — Scribe of Revelation and Hero of al-Yamāmah*
 
-## 1. Lineage & Embracing of Islam
-ʿAbdullāh b. ʿAbdillāh b. Ubayy b. Mālik b. al-Ḥārith b. Mālik b. Sālim b. Ghanam b. ʿAwf b. al-Khazraj al-Anṣārī al-Khazrajī was the sincere Muslim son of **[[ʿAbdullāh b. Ubayy b. Salūl]]**, the chieftain of hypocrites (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 4:350). Ibn Ḥajar clarifies that Salūl was a woman of the Khuzāʿah tribe (*al-Iṣābah*, 4:133). 
+## 1. Lineage, Name & Scribe of Revelation
+- **Genealogy**: ʿAbdullāh b. ʿAbdillāh b. Ubayy b. Mālik b. al-Ḥārith b. Mālik b. Sālim b. Ghanm b. ʿAwf b. al-Khazraj al-Anṣārī al-Khazrajī (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 11:386).
+- **Paternal Contrast & Mother's Clan**: He was the righteous son of **[[ʿAbdullāh b. Ubayy b. Salūl]]**, the head of the hypocrites in Medina. Ibn Ḥajar records that Salūl was a woman of the tribe of Khuzāʿah (*al-Iṣābah*, 4:133).
+- **Name Change**: His original pre-Islamic name was **al-Ḥubāb**, after which his father held the agnomen Abū al-Ḥubāb. The Prophet ﷺ changed his name to **ʿAbdullāh** (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 4:350).
+- **Scribe of the Prophet ﷺ**: Ibn ʿAbd al-Barr and al-Ṣāliḥī explicitly count him among the distinguished Companions who served as scribes (*kuttāb*) for the Messenger of Allāh ﷺ (*Subul al-Hudā*, 11:386; *al-Iṣābah*, 4:134).
 
-His original name was **al-Ḥubāb**, by which his father took his agnomen Abū al-Ḥubāb (*al-Iṣābah*, 4:133). The Prophet ﷺ changed his name to **ʿAbdullāh**, as al-Ḥubāb was associated with a demonic appellation (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 4:350). In absolute contrast to his deceitful father, ʿAbdullāh was celebrated across Medina for unyielding faith, pristine monotheism, and filial dignity (*Subul al-Hudā*, 4:350).
+## 2. Military Campaigns & Sīrah Milestones
+- **[[Ghazwat Badr al-Kubrā]] (2 AH)**: Included in the canonical rolls of the Badriyyūn from the Anṣār, as affirmed by Ibn Shihāb al-Zuhrī, ʿUrwah b. al-Zubayr, and recorded by al-Ṣāliḥī among the veterans of Badr (*Subul al-Hudā*, 4:109; *al-Iṣābah*, 4:133).
+- **[[Ghazwat Uḥud]] (3 AH) & Subsequent Battles**: Participated at Uḥud and witnessed all major campaigns (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 11:386). 
+- **Hadith of the Front Tooth**: Al-Baghawī and Ibn Ḥajar record that his front tooth (*thaniyyah*) was knocked out, whereupon the Prophet ﷺ instructed him regarding it (*al-Iṣābah*, 4:134).
+- **Stance at [[Ghazwat Banī al-Muṣṭaliq]] (5 AH)**:
+  - Following the campaign at al-Muraysīʿ, when his father uttered the seditious remark: *«لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ»* ("If we return to Medina, the more honorable will surely expel therefrom the more base!"), ʿAbdullāh immediately came before the Prophet ﷺ (*Subul al-Hudā*, 4:350).
+  - Hearing that ʿUmar b. al-Khaṭṭāb had proposed executing the hypocrite chieftain, ʿAbdullāh declared:
+    > «يَا رَسُولَ اللَّهِ، إِنْ كُنْتَ تُرِيدُ أَنْ تَقْتُلَ أَبِي فِيمَا بَلَغَكَ عَنْهُ فَمُرْنِي بِهِ، فَوَاللَّهِ لَأَحْمِلَنَّ إِلَيْكَ رَأْسَهُ قَبْلَ أَنْ تَقُومَ مِنْ مَجْلِسِكَ هَذَا، وَاللَّهِ لَقَدْ عَلِمَتِ الْخَزْرَجُ مَا كَانَ فِيهَا رَجُلٌ أَبَرَّ بِوَالِدَيْهِ مِنِّي ... وَإِنِّي لَأَخْشَى يَا رَسُولَ اللَّهِ أَنْ تَأْمُرَ بِهِ غَيْرِي فَيَقْتُلَهُ، فَلَا تَدَعُنِي نَفْسِي أَنْظُرُ إِلَى قَاتِلِ أَبِي يَمْشِي فِي النَّاسِ، فَأَقْتُلَهُ فَأَدْخُلَ النَّارَ. وَعَفْوُكَ أَفْضَلُ، وَمَنُّكَ أَعْظَمُ»
+    > *"O Messenger of Allāh! If you intend to execute my father for what has reached you of him, command me to do so, and by Allāh I will bring you his head before you rise from this council of yours! By Allāh, al-Khazraj well know that there has never been a man among them more dutiful to his parents than I ... but I fear, O Messenger of Allāh, that you might command someone else who will slay him, and my soul would not permit me to see my father's killer walking among the people, so that I might strike him down and enter the Fire. Yet your pardon is superior and your benevolence is greater!"* (*Subul al-Hudā*, 4:350).
+  - The Prophet ﷺ comforted him and commanded kindness towards his father:
+    > «يَا عَبْدَ اللَّهِ مَا أَرَدْتُ قَتْلَهُ وَلَا أَمَرْتُ بِهِ، وَلَنُحْسِنَنَّ لَهُ صُحْبَتَهُ مَا كَانَ بَيْنَ أَظْهُرِنَا»
+    > *"O ʿAbdullāh! I have not intended his execution nor ordered it, and we will surely treat him with good companionship as long as he remains in our midst."* (*Subul al-Hudā*, 4:350; *al-Iṣābah*, 4:133).
+  - Al-Ṣāliḥī highlights ʿAbdullāh's petition as a supreme sign of Prophetic guidance, showing how pristine faith eradicated pre-Islamic tribal zealotry (*ḥamiyyah*) from the hearts of the Anṣār (*Subul al-Hudā*, 4:357).
+- **Filial Shrouding at his Father's Death (9 AH)**:
+  - When the hypocrite chieftain died in Dhū al-Qaʿdah 9 AH, ʿAbdullāh approached the Prophet ﷺ and requested his tunic (*qamīṣ*) to shroud his father's body, and asked him to perform the funeral prayer over him, which the Prophet ﷺ granted out of magnanimity before the subsequent divine prohibition (*Subul al-Hudā*, 12:73; *al-Iṣābah*, 4:133).
 
-## 2. Key Sīrah Milestones
-- **[[Ghazwat Badr al-Kubrā]] (2 AH)**: Fought in the frontline ranks of the Anṣār as recorded by Ibn Shihāb al-Zuhrī, ʿUrwah b. al-Zubayr, and the majority of chroniclers (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 4:45).
-- **Ghazwat Banī al-Muṣṭaliq (5 AH)**: Following the battle, when his father made the seditious declaration: *"If we return to Medina, the more honorable will surely expel therefrom the more base!"*, ʿAbdullāh drew his sword, intercepted his father at the threshold of Medina, and forbade him entry until he confessed that the Prophet ﷺ was the honorable and he was the base (*Subul al-Hudā*, 4:350). He then petitioned the Prophet ﷺ:
-  > *"O Messenger of Allāh! If you intend to execute my father for his treason, command me to do so and I shall bring you his head, lest another Muslim slay him and my soul be tempted by tribal blood!"* (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 4:350).
-  The Prophet ﷺ gently restrained him, saying:
-  > «بَلْ نَتَرَفَّقُ بِهِ، وَنُحْسِنُ صُحْبَتَهُ مَا بَقِيَ مَعَنَا»
-  > *"Nay, rather we shall be gentle with him and treat him with good companionship as long as he remains among us."* (*Subul al-Hudā*, 4:350; *al-Iṣābah*, 4:133).
-- **Filial Piety at his Father's Demise (9 AH)**: When his father passed away, ʿAbdullāh came to the Prophet ﷺ requesting his inner tunic (*qamīṣ*) to shroud his father's body and petitioned him to lead the funeral prayer (*al-Iṣābah*, 4:133; *Subul al-Hudā*, 5:192).
-
-## 3. Martyrdom at al-Yamāmah (12 AH)
-ʿAbdullāh participated in all the major campaigns of the Prophet ﷺ. During the caliphate of **[[Abū Bakr al-Ṣiddīq]]** ﵁, he marched in the expedition against the apostates and attained martyrdom at the Battle of al-Yamāmah (12 AH) (*Subul al-Hudā*, 11:333).
+## 3. Martyrdom at the Battle of al-Yamāmah (12 AH)
+- ʿAbdullāh stood firm during the Caliphate of **[[Abū Bakr al-Ṣiddīq]]** ﵁ in the Wars of Apostasy (*Qitāl al-Riddah*).
+- He fought valiantly against the forces of the false prophet Musaylimah and attained martyrdom on the battlefield of **[[al-Yamāmah]]** in 12 AH (*Subul al-Hudā*, 11:386; *al-Iṣābah*, 4:134).
 
 ## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 45, 350; vol. 5, p. 192; vol. 11, p. 333.
-2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, p. 133, entry 4802.
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 109, 350, 357; vol. 11, p. 386; vol. 12, p. 73.
+2. Ibn Ḥajar al-ʿAsqalānī, *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, pp. 133–134 (entry 4802).

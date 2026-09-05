@@ -38,7 +38,7 @@ Following the passing of the Prophet ﷺ, al-Barāʾ participated in the early I
 - He commanded the Muslim forces that conquered Rayy in the year 24 AH according to Abū ʿAmr al-Shaybānī (*al-Iṣābah*, 1:412).
 - During the caliphate of **[[ʿAlī b. Abī Ṭālib]]** ﵁, al-Barāʾ stood firmly alongside ʿAlī at the Camel, Ṣiffīn, and the campaign against the Khawārij (*al-Iṣābah*, 1:412).
 
-He later settled in Kūfah, where he built a residence. He transmitted a substantial corpus of hadiths directly from the Prophet ﷺ, as well as from his father, **[[Abū Bakr al-Ṣiddīq]]** ﵁, and **[[ʿUmar b. al-Khaṭṭāb]]** ﵁ (*al-Iṣābah*, 1:412). Among those who narrated from him were Abū Juḥayfah, ʿAbdullāh b. Yazīd al-Khaṭmī, and Abū Isḥāq al-Sabīʿī (*al-Iṣābah*, 1:412). He passed away in Kūfah during the governorship of Muṣʿab b. al-Zubayr, dated by Ibn Ḥibbān to the year 72 AH (*Subul al-Hudā*, 11:333; *al-Iṣābah*, 1:412).
+He later settled in Kūfah, where he built a residence. He transmitted a substantial corpus of hadiths directly from the Prophet ﷺ, as well as from his father, **[[Abū Bakr al-Ṣiddīq]]** ﵁, and **[[ʿUmar b. al-Khaṭṭāb]]** ﵁ (*al-Iṣābah*, 1:412). Among those who narrated from him were Abū Juḥayfah, ʿAbdullāh b. Yazīd al-Khaṭmī, and Abū Isḥāq al-Sabīʿī (*al-Iṣābah*, 1:412). He passed away in Kūfah during the governorship of Muṣʿab b. al-Zubayr, dated by Ibn Ḥibbān to the year seventy-two AH (*Subul al-Hudā*, 11:333; *al-Iṣābah*, 1:412).
 
 ## 4. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, p. 185; vol. 5, pp. 40–44; vol. 11, p. 333.

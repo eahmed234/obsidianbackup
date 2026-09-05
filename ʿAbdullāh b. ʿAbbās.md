@@ -17,8 +17,7 @@ tags:
   - mufassir
 kunya: Abū al-ʿAbbās
 birth_approx: ~3 BH (Shiʿb Abī Ṭālib, Makkah)
-death_hijri: 68 AH
-age_at_death: 71
+death: 68 AH (aged 71)
 burial: "al-Ṭāʾif"
 clan: Banū Hāshim
 father: "[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]"

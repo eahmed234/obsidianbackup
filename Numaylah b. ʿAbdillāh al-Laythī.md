@@ -9,25 +9,23 @@ tags:
   - deputy_medina
   - hudaybiyah
   - fath_makkah
-  - 6-ah
-  - 8-ah
 aliases:
   - Numaylah b. ʿAbdillāh
   - Numaylah al-Laythī
   - Numaylah al-Kalbī
-birth: c. 25 BH
-death: After 8 AH
+birth: Kinānah
+death: After the year 8 AH
 clan: Banū Layth b. Bakr
 tribe: Kinānah
 offices: Deputy Governor of Medina (6 AH)
-primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (6:373–374, no. 8831); [[Subul al-Hudā war-Rashād]] (vol. 5, pp. 33, 224–225)"
+primary_source: "*al-Iṣābah*, 6:373–374 (entry 8831); *Subul al-Hudā*, 5:33, 224–225"
 ---
 
 # Numaylah b. ʿAbdillāh al-Laythī (نميلة بن عبد الله الليثي)
 *Deputy of Medina during al-Ḥudaybiyah, Governor of Khaybar, and Enforcer of Justice at the Conquest of Makkah*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 6, pp. 373–374 (entry no. 8831), cross-referenced with Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, p. 33 and pp. 224–225.
+> Sourced directly from *al-Iṣābah*, 6:373–374 (entry 8831), cross-referenced with *Subul al-Hudā*, 5:33, 224–225.
 
 ---
 

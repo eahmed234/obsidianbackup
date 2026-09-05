@@ -34,14 +34,14 @@ quranic_references:
   - "[[Sūrat Āl ʿImrān]] (3:12–13)"
   - "[[Sūrat al-Anfāl]] (8:58)"
   - "[[Sūrat al-Māʾidah]] (5:51–56)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 179–181)"
+primary_source: "*Subul al-Hudā*, 4:179–181"
 ---
 
 # Ghazwat Banī Qaynuqāʿ (غزوة بني قينقاع)
 *The Siege of Banū Qaynuqāʿ — The First Breach of the Madinan Covenant, The Intercession of the Hypocrite, and the Expulsion to Syria*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived directly from ***[[Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 4, *al-Bāb al-Thānī ʿAshar fī Ghazwat Banī Qaynuqāʿ* (pp. 179–181), cross-referenced with biographical entries in ***al-Iṣābah fī Tamyīz al-Ṣaḥābah*** by al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī.
+> This master entry is derived directly from *Subul al-Hudā*, Volume 4, *al-Bāb al-Thānī ʿAshar fī Ghazwat Banī Qaynuqāʿ* (pp. 179–181), cross-referenced with biographical entries in *al-Iṣābah* by al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī.
 
 ---
 

@@ -109,7 +109,7 @@ Appointed deputy over Medina during **[[Ghazwat Tabūk]]**, ʿAlī was dismayed 
 Acclaimed Fourth Caliph in Medina following the martyrdom of **[[ʿUthmān b. ʿAffān]]** ﵁ in Dhū al-Ḥijjah 35 AH, ʿAlī governed through five turbulent years of internal civil trial, ruling successively from Kūfah (*al-Iṣābah*, 4:468).
 
 ### Assassination and Martyrdom
-On Friday morning, 17 or 19 Ramaḍān 40 AH, as ʿAlī entered the Grand Mosque of Kūfah calling the people to the dawn prayer (*al-ṣalāh, al-ṣalāh!*), the Khārijite fanatic ʿAbd al-Raḥmān b. Muljam al-Murādī struck him across the forehead with a poisoned sword, the blade penetrating to his brain (*al-Iṣābah*, 4:468; *Subul al-Hudā*, 11:306). 
+On Friday morning, the seventeenth or nineteenth of Ramaḍān in the year 40 AH, as ʿAlī entered the Grand Mosque of Kūfah calling the people to the dawn prayer (*al-ṣalāh, al-ṣalāh!*), the Khārijite fanatic ʿAbd al-Raḥmān b. Muljam al-Murādī struck him across the forehead with a poisoned sword, the blade penetrating to his brain (*al-Iṣābah*, 4:468; *Subul al-Hudā*, 11:306). 
 
 ʿAlī cried out: *"I have triumphed, by the Lord of the Kaʿbah!"* (*fuztu wa-rabbi al-kaʿbah!*) (*Subul al-Hudā*, 11:306). In his final testament, he commanded al-Ḥasan, al-Ḥusayn, and his household to maintain fear of Allāh, mend communal ties, protect the orphan and the neighbor, remain steadfast in the Qurʾān, and treat his assassin with strict legal equity without torture (*Subul al-Hudā*, 11:306).
 

@@ -17,20 +17,20 @@ location: "Fortified settlements of Banū Qurayẓah, southeast of [[al-Madīnah
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
 commanders_enemy: "Kaʿb b. Asad & Ḥuyayy b. Akhṭab"
 forces_muslim: "3,000 infantry, 36 cavalry (Subul al-Hudā 5:15)"
-forces_enemy: "600 to 750 combatants barricaded inside strongholds (Subul al-Hudā 5:11)"
+forces_enemy: "400 to 700 combatants barricaded inside strongholds (Subul al-Hudā 5:20)"
 duration: "25 nights (Subul al-Hudā 5:5)"
 deputy_medina: "[[ʿAbdullāh b. Umm Maktūm]] ﵁ (Subul al-Hudā 5:5)"
 casualties_muslim: "2 dead: Khallād b. Suwayd (martyred by a millstone) and Abū Sinān b. Miḥṣan (died during the siege) (Subul al-Hudā 5:14–15)"
 casualties_enemy: "Combatants executed pursuant to the arbitration of Saʿd b. Muʿādh; women and children taken as captives (Subul al-Hudā 5:11–13)"
 quranic_reference: "[[Sūrat al-Aḥzāb]] (33:26–27)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 3–29)"
+primary_source: "*Subul al-Hudā*, 5:3–29"
 ---
 
 # Ghazwat Banī Qurayẓah (غزوة بني قريظة)
 *The Siege and Trial of Banū Qurayẓah — Divine Justice, the Verdict of Saʿd b. Muʿādh, and the Liberation of Medina*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived strictly from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 5, *al-Bāb al-ʿIshrūn fī Ghazwat Banī Qurayẓah* (pp. 3–29). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Balādhurī]], [[al-Bukhārī]], and [[Muslim]].
+> This master entry is derived strictly from *Subul al-Hudā*, Volume 5, *al-Bāb al-ʿIshrūn fī Ghazwat Banī Qurayẓah* (pp. 3–29). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Balādhurī]], [[al-Bukhārī]], and [[Muslim]].
 
 ---
 
@@ -113,7 +113,7 @@ In the morning, Banū Qurayẓah laid down their arms and surrendered to the jud
 
 ## 8. Execution of the Sentence & Fate of Antagonists
 The captives were brought into Medina and detained in the quarters of Banū al-Najjār (*Subul al-Hudā*, 5:11).
-- Trenches were excavated in the marketplace of Medina. The combatants—between 600 and 750 men—were brought out in small groups and executed (*Subul al-Hudā*, 5:11).
+- Trenches were excavated in the marketplace of Medina. The combatants—estimated between 400, 600, or 700 (and up to 800 to 900) men (*Subul al-Hudā*, 5:20)—were brought out in small groups and executed (*Subul al-Hudā*, 5:11–13, 20).
 - **Kaʿb b. Asad**: As he was led to the trench, he was asked: *"What do you think is being done with you?"* He said: *"Do you not understand? The caller never pauses, and whoever goes forth does not return; by Allāh, it is death!"* (*Subul al-Hudā*, 5:11).
 - **Ḥuyayy b. Akhṭab**: Captured in the fortresses, having bound himself to share Qurayẓah's fate after inciting them at the Trench. When brought before the Prophet ﷺ with his hands bound behind his neck, wearing a fine rose-colored robe torn to prevent looting, he sneered: *"By Allāh, I do not blame myself for opposing you, but whoever forsakes Allāh will be forsaken!"* Turning to the people, he said: *"O people! There is no harm in Allāh's decree; it is a destiny and slaughter ordained upon the Children of Israel!"* He sat by the trench, and ʿAlī b. Abī Ṭālib struck off his head (*Subul al-Hudā*, 5:12).
 - **The Woman Nubātah**: Only a single woman was executed: Nubātah, who had cast the millstone that martyred **[[Khallād b. Suwayd]]** ﵁ (*Subul al-Hudā*, 5:14).

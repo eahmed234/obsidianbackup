@@ -9,7 +9,6 @@ tags:
   - muhajir
   - banu_asad
   - ridwan
-  - 6-ah
 aliases:
   - Sinān b. Abī Sinān
   - Sinan ibn Abi Sinan
@@ -28,7 +27,7 @@ primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (3:156–157, no. 
 *The Badri Veteran, Nephew of ʿUkkāshah, and the First to Swear Allegiance Beneath the Tree*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 3, pp. 156–157 (entry no. 3513), cross-referenced with Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, p. 48.
+> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's *al-Iṣābah*, 3:156–157 (entry 3513), cross-referenced with Imām Muḥammad b. Yūsuf al-Ṣāliḥī's *Subul al-Hudā*, 5:48.
 
 ---
 
@@ -68,7 +67,7 @@ Sayf b. ʿUmar records in *Kitāb al-Futūḥ* that Sinān b. Abī Sinān was **
 
 ## 4. Passing
 Sinān lived out his life in Medina with honor and piety.
-- **Death**: He passed away in Medina in the year **32 AH** during the caliphate of **[[ʿUthmān b. ʿAffān]]** ﵁ (*al-Iṣābah*, 3:157).
+- **Death**: He passed away in Medina in the year thirty-two AH during the caliphate of **[[ʿUthmān b. ʿAffān]]** ﵁ (*al-Iṣābah*, 3:157).
 
 ---
 

@@ -9,24 +9,23 @@ tags:
   - poet
   - standard_bearer
   - fath_makkah
-  - 8-ah
 aliases:
   - ʿAmr b. Sālim
   - Rājiz Banī Kaʿb
   - Amr ibn Salim al-Khuza'i
-birth: c. 30 BH
-death: After 8 AH
+birth: Hijaz
+death: After the year 8 AH
 clan: Banū Kaʿb b. ʿAmr (Mulayḥ)
 tribe: Banū Khuzāʿah
 role: Emissary of Khuzāʿah & Standard-Bearer at Fatḥ Makkah
-primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (4:521–522, no. 5851; 5:223–224, no. 6858); [[Subul al-Hudā war-Rashād]] (vol. 5, pp. 202–203)"
+primary_source: "*al-Iṣābah*, 4:521–522 (entry 5851); *al-Iṣābah*, 5:223–224 (entry 6858); *Subul al-Hudā*, 5:202–203"
 ---
 
 # ʿAmr b. Sālim al-Khuzāʿī (عمرو بن سالم الخزاعي)
 *The Chieftain of Banū Kaʿb, Rājiz of Khuzāʿah, and Catalyst of the Supreme Conquest*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 4, pp. 521–522 (entry no. 5851) and vol. 5, pp. 223–224 (entry no. 6858), cross-referenced with Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, pp. 202–203.
+> Sourced directly from *al-Iṣābah*, 4:521–522 (entry 5851); *al-Iṣābah*, 5:223–224 (entry 6858); and *Subul al-Hudā*, 5:202–203.
 
 ---
 

@@ -13,9 +13,8 @@ tags:
   - commander
   - makhzum
   - conqueror
-  - 21-ah
 birth: "~30 BH (592 CE, Makkah)"
-death: 21 AH (642 CE, Homs, Syria, aged 55; buried in Homs)
+death: the year twenty-one AH (642 CE, Homs, Syria, aged 55; buried in Homs)
 kunya: Abū Sulaymān
 lineage: "Banū Makhzūm (Quraysh); Khālid b. al-Walīd b. al-Mughīrah al-Makhzūmī"
 notable_status: "Sayfullāh al-Maslūl (The Drawn Sword of Allāh); undefeated battlefield genius; conqueror of Syria and Iraq"
@@ -69,7 +68,7 @@ Under Caliph **[[Abū Bakr al-Ṣiddīq]]** ﵁, Khālid was appointed commander
 
 At the city of al-Ḥīrah (or al-Ḥarrah), when challenged with a vial of deadly poison, Khālid invoked the Name of Allāh and drank it down in its entirety before his troops; by divine grace, it caused him no harm whatsoever (*al-Iṣābah*, 2:218).
 
-Khālid passed away on his bed in the city of Homs (Syria) in 21 AH at the age of fifty-five (*al-Iṣābah*, 2:219). Near his death, he proclaimed:
+Khālid passed away on his bed in the city of Homs (Syria) in the year twenty-one AH at the age of fifty-five (*al-Iṣābah*, 2:219). Near his death, he proclaimed:
 > «مَا كَانَ فِي الْأَرْضِ مِنْ لَيْلَةٍ أَحَبَّ إِلَيَّ مِنْ لَيْلَةٍ شَدِيدَةِ الْجَلِيدِ فِي سَرِيَّةٍ مِنَ الْمُهَاجِرِينَ أُصَبِّحُ بِهِمُ الْعَدُوَّ، فَعَلَيْكُمْ بِالْجِهَادِ!»
 > *"There was no night on earth more beloved to me than a bitterly freezing, icy night in a raiding party of the Muhājirūn with whom I assault the enemy at dawn! So hold fast to Jihād!"* (*al-Iṣābah*, 2:218).
 

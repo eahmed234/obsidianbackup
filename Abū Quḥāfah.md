@@ -8,24 +8,23 @@ tags:
   - taym
   - fath_makkah
   - quraysh
-  - 8-ah
 aliases:
   - ʿUthmān b. ʿĀmir al-Taymī
   - Abu Quhafa
   - Father of Abu Bakr
-birth: c. 83 BH
-death: 14 AH (Makkah)
+birth: Makkah
+death: the year fourteen AH (Makkah, aged 97)
 clan: Banū Taym b. Murrah
 tribe: Quraysh
 children: "[[Abū Bakr al-Ṣiddīq]] ﵁, Muʿtaq, Muʿaytiq, Quraybah, Umm Farwah"
-primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (4:374–375, no. 5458; 7:274, no. 10414); [[Subul al-Hudā war-Rashād]] (vol. 5, pp. 232–234)"
+primary_source: "*al-Iṣābah*, 4:374–375 (entry 5458); *al-Iṣābah*, 7:274 (entry 10414); *Subul al-Hudā*, 5:232–234"
 ---
 
 # Abū Quḥāfah (أبو قحافة عثمان بن عامر التيمي)
 *The Patriarch of Banū Taym, Father of the First Caliph, and Inheritor of the Ṣiddīq*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 4, pp. 374–375 (entry no. 5458) and vol. 7, p. 274 (entry no. 10414), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, pp. 232–234.
+> Sourced directly from *al-Iṣābah*, 4:374–375 (entry 5458); *al-Iṣābah*, 7:274 (entry 10414); and *Subul al-Hudā*, 5:232–234.
 
 ---
 
@@ -84,7 +83,7 @@ When his son Abū Bakr ﵁ was elected Caliph following the Prophet's passing (1
 
 When Abū Bakr passed away in Jumādā al-Ākhirah 13 AH, Abū Quḥāfah was still alive in Makkah. Under the Islamic law of succession, he inherited his prescribed Quranic share (one-sixth) of Abū Bakr's estate, which he promptly returned to Abū Bakr's orphaned children (*al-Iṣābah*, 4:375).
 
-- **Passing**: Abū Quḥāfah passed away in Makkah in **14 AH** during the caliphate of **[[ʿUmar b. al-Khaṭṭāb]]** ﵁, at the venerable age of **ninety-seven (97) years** (*al-Iṣābah*, 4:375).
+- **Passing**: Abū Quḥāfah passed away in Makkah in the year fourteen AH during the caliphate of **[[ʿUmar b. al-Khaṭṭāb]]** ﵁, at the venerable age of ninety-seven years (*al-Iṣābah*, 4:375).
 
 ---
 

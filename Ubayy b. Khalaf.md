@@ -10,8 +10,7 @@ tags:
   - quraish
   - jumahi
   - uhud
-  - 3-ah
-death: 7 Shawwāl 3 AH (at Sarif, returning from [[Ghazwat Uḥud]])
+death: 7 Shawwāl in the year three AH (at Sarif, returning from [[Ghazwat Uḥud]])
 tribe: "[[Quraysh]] (Banū Jumaḥ)"
 brother: "[[Umayyah b. Khalaf]] ☠"
 fate: "Sole person slain directly by the hand of the Prophet ﷺ"

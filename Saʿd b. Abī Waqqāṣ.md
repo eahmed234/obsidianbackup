@@ -91,7 +91,7 @@ Henceforth, Saʿd never missed a target, and every prayer he uttered against opp
 ---
 
 ## 4. Conquest of Iraq, Retirement & Demise
-Under Caliph ʿUmar, Saʿd was appointed supreme commander over the armies of Iraq in 15 AH. He orchestrated the decisive defeat of the Sasanian Persian Empire at **al-Qādisiyyah**, captured the Persian capital **Ctesiphon (*al-Madāʾin*)**, and founded the metropolitan garrison of **Kūfah** (*al-Iṣābah*, 3:62–63). Caliph ʿUmar appointed him as one of the six electors of the Shūrā council in 23 AH (*al-Iṣābah*, 3:62).
+Under Caliph ʿUmar, Saʿd was appointed supreme commander over the armies of Iraq in 15 AH. He orchestrated the decisive defeat of the Sasanian Persian Empire at **al-Qādisiyyah**, captured the Persian capital **Ctesiphon (*al-Madāʾin*)**, and founded the metropolitan garrison of **Kūfah** (*al-Iṣābah*, 3:62–63). Caliph ʿUmar appointed him as one of the six electors of the Shūrā council in the year twenty-three AH (*al-Iṣābah*, 3:62).
 
 During the civil conflicts following the death of ʿUthmān, Saʿd strictly retired from politics to his rural estate at al-ʿAqīq outside Medina (*al-Iṣābah*, 3:63). When his nephew Hāshim b. ʿUtbah urged him to claim the Caliphate with one hundred thousand swords, Saʿd replied: *"From those hundred thousand swords, I desire only one sword that if I strike a believer it cuts nothing, but if I strike a disbeliever it cuts through!"* (*al-Iṣābah*, 3:63).
 

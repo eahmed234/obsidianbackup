@@ -10,25 +10,24 @@ tags:
   - quraysh
   - tulaqa
   - fath_makkah
-  - 8-ah
 aliases:
   - ʿAbdullāh b. al-Zibaʿrā al-Sahmī
   - Ibn al-Zibaʿrā
   - Shāʿir Quraysh
   - Abū Saʿd
-birth: c. 35 BH
-death: After 8 AH
+birth: Makkah
+death: After the year 8 AH
 clan: Banū Sahm
 tribe: Quraysh
 role: Poet of Quraysh & Eulogist of the Prophet ﷺ
-primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (4:76–77, no. 4697); [[Subul al-Hudā war-Rashād]] (vol. 5, pp. 250–251, 295–296)"
+primary_source: "*al-Iṣābah*, 4:76–77 (entry 4697); *Subul al-Hudā*, 5:250–251, 295–296"
 ---
 
 # ʿAbdullāh b. al-Zibaʿrā (عبد الله بن الزبعرى السهمي)
 *The Chief Poet of Quraysh, The Penitent Laureate, and The Panegyrist of the Messenger of Allāh ﷺ*
 
 > [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī's ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]***, vol. 4, pp. 76–77 (entry no. 4697), and Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 5, pp. 250–251, 295–296.
+> Sourced directly from *al-Iṣābah*, 4:76–77 (entry 4697), and *Subul al-Hudā*, 5:250–251, 295–296.
 
 ---
 
@@ -43,7 +42,7 @@ primary_source: "[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (4:76–77, no. 46
 ---
 
 ## 2. Flight to Najrān at Fatḥ Makkah (8 AH)
-On 20 Ramaḍān 8 AH (**[[Fatḥ Makkah]]**), when the Messenger of Allāh ﷺ entered Makkah victorious, ʿAbdullāh b. al-Zibaʿrā—fearing retribution for his years of poetic warfare—fled the city alongside Hubayrah b. Abī Wahb al-Makhzūmī, taking refuge in **Najrān** (*al-Iṣābah*, 4:76; *Subul al-Hudā*, 5:250).
+On the twentieth of Ramaḍān in the year eight AH (**[[Fatḥ Makkah]]**), when the Messenger of Allāh ﷺ entered Makkah victorious, ʿAbdullāh b. al-Zibaʿrā—fearing retribution for his years of poetic warfare—fled the city alongside Hubayrah b. Abī Wahb al-Makhzūmī, taking refuge in **Najrān** (*al-Iṣābah*, 4:76; *Subul al-Hudā*, 5:250).
 
 While in exile in Najrān, verses reached him composed by **[[Ḥassān b. Thābit]]** ﵁ satirizing his flight:
 > «لَا تَعْدَمَنْ رَجُلًا أَحَلَّكَ بُغْضُهُ ... نَجْرَانَ فِي عَيْشٍ أَجَدَّ لَئِيمِ»

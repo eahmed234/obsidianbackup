@@ -26,14 +26,14 @@ pivotal_moment: "The Prophet ﷺ praying Fajr behind [[ʿAbd al-Raḥmān b. ʿA
 casualties_muslim: "None in combat; natural deaths include ʿAbdullāh Dhū al-Bijādayn al-Muzanī (Subul al-Hudā 5:459)"
 outcome: "Bloodless strategic triumph; dissolution of Byzantine offensive; treaties concluded with Ayla, Jarbā, and Adhruḥ; exposure of hypocrites; demolition of Masjid al-Ḍirār"
 quranic_reference: "[[Sūrat al-Tawbah]] (9:38–129)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 5, pp. 433–490)"
+primary_source: "*Subul al-Hudā*, 5:433–490"
 ---
 
 # Ghazwat Tabūk (غزوة تبوك)
 *The Expedition of Tabūk — Jaysh al-ʿUsrah, the Supreme Test of Faith, and the Divine Exposing of Sincerity*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived strictly from ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH), Volume 5, *al-Bāb al-Thalāthūn fī Ghazwat Tabūk* (pp. 433–490). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
+> This master entry is derived strictly from *Subul al-Hudā*, Volume 5, *al-Bāb al-Thalāthūn fī Ghazwat Tabūk* (pp. 433–490). Al-Ṣāliḥī synthesizes the primary accounts of [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], and [[Muslim]].
 
 ---
 
@@ -103,7 +103,7 @@ The Prophet ﷺ encamped at Tabūk for **twenty days** (*Subul al-Hudā*, 5:462)
 - **The Treaties of Peace & Jizyah**: Frontier princes submitted voluntarily:
   1. **Yūḥannah b. Ruʾbah**, Christian ruler of **Aylah** (modern-day Aqaba), rode to Tabūk, presenting the Prophet ﷺ with a white mule and agreeing to pay annual Jizyah (three hundred dinars) (*Subul al-Hudā*, 5:460).
   2. The Christian communities of **Jarbā** and **Adhruḥ** in southern Jordan concluded formal protection treaties (*Subul al-Hudā*, 5:460).
-  3. **Khālid b. al-Walīd** was dispatched with 420 cavalry to **Dūmat al-Jandal**, where he captured its prince Ukaydir b. ʿAbd al-Malik al-Kindī and brought him before the Prophet ﷺ, establishing Islamic suzerainty over northern Arabia (*Subul al-Hudā*, 5:460; 6:94).
+  3. **Khālid b. al-Walīd** was dispatched with 420 cavalry to **Dūmat al-Jandal**, where he captured its prince Ukaydir b. ʿAbd al-Malik al-Kindī and brought him before the Prophet ﷺ, establishing Islamic suzerainty over northern Arabia (*Subul al-Hudā*, 5:460; 6:220).
 
 ---
 

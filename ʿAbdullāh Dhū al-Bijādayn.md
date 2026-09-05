@@ -14,7 +14,7 @@ tags:
   - tabuk
   - awwah
   - martyr
-death_hijri: 9 AH
+death: 9 AH
 burial: "Tabūk"
 clan: Muzaynah
 father: ʿAbd Nuhm b. ʿAfīf
@@ -36,8 +36,8 @@ primary_source: "*al-Iṣābah* (vol. 4, pp. 139–140, entry 4822); [[Subul al-
   > *"Rather, you are ʿAbdullāh Dhū al-Bijādayn (the Possessor of the Two Coarse Sheets)! Stay close to my door!"* (*al-Iṣābah*, 4:139; *Subul al-Hudā*, 5:459).
 - **Al-Awwāh (The Fervent Penitent)**: He attached himself to the Mosque Portico (**[[Ahl al-Ṣuffah]]**), raising his voice fervently in recitation of the Qurʾān and weeping in prayer. When ʿUmar questioned whether his voice bordered on display, the Prophet ﷺ corrected him: *«Leave him, O ʿUmar! For indeed, he is one of the fervent penitents (*al-awwāhūn*)!»* (*al-Iṣābah*, 4:139).
 
-## 2. Ghazwat Tabūk & The Longing for Martyrdom (9 AH)
-- In Rajab 9 AH, ʿAbdullāh marched in **[[Ghazwat Tabūk]]** (*Jaysh al-ʿUsrah*).
+## 2. Ghazwat Tabūk & The Longing for Martyrdom
+- In Rajab in the year nine AH, ʿAbdullāh marched in **[[Ghazwat Tabūk]]** (*Jaysh al-ʿUsrah*).
 - Prior to reaching Tabūk, he approached the Prophet ﷺ and requested: *«O Messenger of Allāh, supplicate to Allāh that He grant me martyrdom!»* The Prophet ﷺ took a piece of acacia wood, tied it to ʿAbdullāh's arm, and supplicated:
   > «اللَّهُمَّ إِنِّي أُحَرِّمُ دَمَهُ عَلَى الْكُفَّارِ!»
   > *"O Allāh, I forbid his blood unto the disbelievers!"* (*Subul al-Hudā*, 5:459).

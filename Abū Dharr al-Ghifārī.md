@@ -12,7 +12,6 @@ tags:
   - early_convert
   - ascetic
   - ghifar
-  - 32-ah
 birth: "~40 BH (Tihāmah, of Banū Ghifār)"
 death: 32 AH (al-Rabadhah, in solitary simplicity; buried by [[ʿAbdullāh b. Masʿūd]] ﵁)
 kunya: Abū Dharr
@@ -54,7 +53,7 @@ Classical authorities record his encounter with the Prophet ﷺ in two complemen
 ## 4. Asceticism & Demise at al-Rabadhah
 Abū Dharr held passionately to the Prophet's injunction: *«Indeed, the closest of you to me in station on the Day of Resurrection is the one who departs from this world in the identical state in which I left him»* (*al-Iṣābah*, 7:108; Musnad Aḥmad). 
 
-In his final years, he retired from public life to live in austere, ascetic simplicity at al-Rabadhah, an outpost in the desert east of Medina (*al-Iṣābah*, 7:109; *Subul al-Hudā*, 5:453). He passed away there in 31 AH (or 32 AH, according to the majority of authorities) (*al-Iṣābah*, 7:109). At the moment of his death, his wife wept because she had no cloth sufficient to shroud him. Abū Dharr comforted her with the Prophet's prophecy that a group of righteous believers would come across him. Within moments, a caravan arriving from Iraq arrived, bearing **[[ʿAbdullāh b. Masʿūd]]** ﵁ and a group of companions. Ibn Masʿūd wept over his departed brother, shrouded him, led the funeral prayer, and buried him in the desert sands, before returning to Medina where he died shortly thereafter (*al-Iṣābah*, 7:109; *Subul al-Hudā*, 5:453).
+In his final years, he retired from public life to live in austere, ascetic simplicity at al-Rabadhah, an outpost in the desert east of Medina (*al-Iṣābah*, 7:109; *Subul al-Hudā*, 5:453). He passed away there in the year thirty-one AH (or thirty-two AH, according to the majority of authorities) (*al-Iṣābah*, 7:109). At the moment of his death, his wife wept because she had no cloth sufficient to shroud him. Abū Dharr comforted her with the Prophet's prophecy that a group of righteous believers would come across him. Within moments, a caravan arriving from Iraq arrived, bearing **[[ʿAbdullāh b. Masʿūd]]** ﵁ and a group of companions. Ibn Masʿūd wept over his departed brother, shrouded him, led the funeral prayer, and buried him in the desert sands, before returning to Medina where he died shortly thereafter (*al-Iṣābah*, 7:109; *Subul al-Hudā*, 5:453).
 
 ## 5. References
 1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 7, pp. 106–109, no. 9875 (*Tarjamatu Abī Dharr al-Ghifārī*).
