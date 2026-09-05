@@ -335,6 +335,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ## 📜 Key Scriptural Nodes (*al-Qurʾān wa-Asbāb al-Nuzūl*)
 - **[[Sūrat al-Anfāl]]** — *Comprehensive Divine Commentary on Badr (Sūrat Badr)*
 - **[[Sūrat Āl ʿImrān]]** — *The Sixty Verses of Commentary on Uḥud and Badr*
+- **[[Sūrat al-Nisāʾ]]** — *The Madanī Codification of Justice, Covenants, and Military Law*
 - **[[Sūrat al-Aḥzāb]]** — *The Terror of the Trench, Hypocrites, and Banū Qurayẓah*
 - **[[Sūrat al-Fatḥ]]** — *The Manifest Victory of Ḥudaybiyah & Bayʿat al-Riḍwān*
 - **[[Sūrat al-Ḥashr]]** — *The Siege and Expulsion of Banū al-Naḍīr (Sūrat al-Naḍīr)*
@@ -363,6 +364,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ### Frontier & Outlying Tribes
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
+- [[Banū Asad]] — *The northern confederates of Najd (Qaṭan, Khandaq, al-Ghamr, and 9 AH delegation)*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
 
