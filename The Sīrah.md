@@ -149,6 +149,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[al-Ḥasan b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah, Fifth Caliph & Peacemaker of the Ummah*
+- [[al-Ḥusayn b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah & Sayyid al-Shuhadāʾ*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
 - [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
