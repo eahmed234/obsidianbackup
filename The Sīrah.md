@@ -191,6 +191,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Usāmah b. Zayd]] ﵁ — *Ḥibb Rasūlillāh wa-Ibn Ḥibbihi*
 - [[Ḥāṭib b. Abī Baltaʿah]] ﵁ — *Veteran of Badr & Envoy to Alexandria*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
+- [[al-Faḍl b. al-ʿAbbās]] ﵁ — *Radīf Rasūlillāh ﷺ, eldest cousin of the Prophet, steadfast defender at Ḥunayn, and washer of the noble body*
 - [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
 - [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
 - [[ʿAmr b. al-ʿĀṣ]] ﵁ — *Statesman & Commander of Dhāt al-Salāsil*
@@ -304,6 +305,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Jahjāh b. Saʿīd al-Ghifārī]] ﵁ — *Veteran of the Tree whose dispute at the well of al-Muraysīʿ led to the repudiation of Jāhiliyyah calls*
 
 ### Companions of al-Ṭāʾif & The Envoys
+- [[ʿUthmān b. Abī al-ʿĀṣ]] ﵁ — *Youngest delegate of Thaqīf, governor of al-Ṭāʾif, and steadfast anchor who prevented Thaqīf from apostatizing*
 - [[Abū Bakrah al-Thaqafī]] ﵁ — *Freedman of the Prophet ﷺ who scaled down the ramparts of al-Ṭāʾif with a pulley rope*
 - [[Mālik b. ʿAwf al-Naṣrī]] ﵁ — *Supreme commander of Hawāzin at Ḥunayn who embraced Islam, received 100 camels, and besieged Thaqīf*
 
