@@ -100,6 +100,17 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Khilāfat Abī Bakr al-Ṣiddīq]] (11–13 AH) — *Consolidation of the Realm, Suppression of Apostasy, and First Scribing of the Codex*
   - [[Ḥurūb al-Riddah]] (11–12 AH) — *The Wars of Apostasy & Epic of the Garden of Death*
   - [[Jamʿ al-Qurʾān]] (12 & 25 AH) — *The Historical Compilation & ʿUthmānic Standardization of the Holy Qurʾān*
+- [[Khilāfat ʿUmar b. al-Khaṭṭāb]] (13–23 AH) — *The Era of al-Fārūq, Civic Institutions, and the Imperial Openings*
+  - [[Ghazwat al-Yarmūk]] (15 AH) — *The Decisive Shattering of the Byzantine Roman Legions*
+  - [[Ghazwat al-Qādisiyyah]] (15 AH) — *The Slaying of Rostam & Fall of Sasanian Mesopotamia*
+  - [[Fatḥ Bayt al-Maqdis]] (16 AH) — *The Peaceful Opening of Jerusalem & al-ʿUhdah al-ʿUmariyyah*
+- [[Khilāfat ʿUthmān b. ʿAffān]] (24–35 AH) — *The Era of Dhū al-Nūrayn, Standardization of the Muṣḥaf, and Transcontinental Naval Expansion*
+- [[Khilāfat ʿAlī b. Abī Ṭālib]] (35–40 AH) — *The Era of Asad Allāh, The Caliphate of Justice, and Martyrdom in Kūfah*
+  - [[Waqʿat al-Jamal]] (36 AH) — *The Misunderstood Confrontation Outside Baṣrah & Noble Reconciliation*
+  - [[Waqʿat Ṣiffīn]] (37 AH) — *The Standoff on the Euphrates, Martyrdom of ʿAmmār, and the Arbitration*
+  - [[Waqʿat al-Nahrawān]] (38 AH) — *Suppression of the Extremist Khawārij & Portent of Dhū al-Thudayyah*
+- [[ʿĀm al-Jamāʿah]] (41 AH) — *The Year of Unity & Historic Reconciliation of al-Ḥasan b. ʿAlī at Maskin*
+- [[Waqʿat Karbalāʾ]] (61 AH) — *The Tragedy upon the Euphrates & Martyrdom of Sayyid al-Shuhadāʾ al-Ḥusayn b. ʿAlī*
 
 ---
 
@@ -149,6 +160,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[al-Ḥasan b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah, Fifth Caliph & Peacemaker of the Ummah*
+- [[al-Ḥusayn b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah & Sayyid al-Shuhadāʾ*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
 - [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
