@@ -85,6 +85,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Hadam Masjid al-Ḍirār]] (Dhū al-Qaʿdah 9 AH) — *Eradication of the Outpost of Hypocrisy at Qubāʾ*
 - [[Ḥajjat Abī Bakr al-Ṣiddīq]] (Dhū al-Ḥijjah 9 AH) — *Purification of the Sanctuary & Proclamation of Sūrat Barāʾah by ʿAlī*
 - [[ʿĀm al-Wufūd]] (9–10 AH) — *The Year of Delegations & Fulfillment of Sūrat al-Naṣr*
+  - [[Wafd al-Ashʿariyyīn]] (7/9 AH) — *The People of the Ship, Arrival at Khaybar, and «Al-Īmānu Yamān»*
   - [[Wafd Thaqīf]] (9 AH) — *Submission of al-Ṭāʾif & Demolition of al-Lāt*
   - [[Wafd Banī Tamīm]] (9 AH) — *The Oratorical Contest & Sūrat al-Ḥujurāt*
   - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
