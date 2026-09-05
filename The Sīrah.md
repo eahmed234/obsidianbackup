@@ -303,7 +303,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Zayd b. Arqam]] ﵁ — *The faithful youth whose truthful hearing of the hypocrites was vindicated by Sūrat al-Munāfiqūn*
 - [[Jahjāh b. Saʿīd al-Ghifārī]] ﵁ — *Veteran of the Tree whose dispute at the well of al-Muraysīʿ led to the repudiation of Jāhiliyyah calls*
 
-### Companions of al-Ṭāʾif & The Envoys
+### Companions of al-Ṭāʾif & Awṭās
+- [[Abū ʿĀmir al-Ashʿarī]] ﵁ — *Supreme commander of Awṭās, paternal uncle of Abū Mūsā, and recipient of the special prophetic supplication*
 - [[Abū Bakrah al-Thaqafī]] ﵁ — *Freedman of the Prophet ﷺ who scaled down the ramparts of al-Ṭāʾif with a pulley rope*
 - [[Mālik b. ʿAwf al-Naṣrī]] ﵁ — *Supreme commander of Hawāzin at Ḥunayn who embraced Islam, received 100 camels, and besieged Thaqīf*
 
@@ -349,6 +350,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
 - [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
+- [[Banū Taym]] — *Clan of Abū Bakr al-Ṣiddīq, Ṭalḥah, and host clan of Ḥilf al-Fuḍūl*
 
 ### The Anṣār of Yathrib
 - [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
