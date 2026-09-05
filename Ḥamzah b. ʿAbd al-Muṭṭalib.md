@@ -66,7 +66,7 @@ When men of Banū Makhzūm rose to defend Abū Jahl, Abū Jahl held them back, a
 ## 3. Key Sīrah Milestones & Military Exploits
 
 ### 1. The First Standard in Islam (Sayf al-Baḥr, 1 AH)
-In Ramaḍān of 1 AH, the Messenger of Allāh ﷺ dispatched Ḥamzah at the head of thirty Muhājirūn to the coastal region of Juhaynah (Sayf al-Baḥr) to intercept a caravan of Quraysh led by Abū Jahl with three hundred riders (*Subul al-Hudā*, 4:7). The Prophet ﷺ personally tied for him the **first white military banner in Islamic history** (*awwal liwāʾ ʿuqida fī al-Islām* per al-Madāʾinī) (*Subul al-Hudā*, 4:7; *al-Iṣābah*, 2:106). A clash was averted through the diplomatic mediation of Majdī b. ʿAmr al-Juhanī.
+In Ramaḍān of the year one AH, the Messenger of Allāh ﷺ dispatched Ḥamzah at the head of thirty Muhājirūn on **[[Sariyyat Ḥamzah b. ʿAbd al-Muṭṭalib ilā Sayf al-Baḥr]]** to the coastal region of Juhaynah (Sayf al-Baḥr) to intercept a caravan of Quraysh led by Abū Jahl with three hundred riders (*Subul al-Hudā*, 4:7; 6:11). The Prophet ﷺ personally tied for him the **first white military banner in Islamic history** (*awwal liwāʾ ʿuqida fī al-Islām*), which was carried by his confederate **[[Abū Marthad al-Ghanawī]]** ﵁ (*Subul al-Hudā*, 6:11; *al-Iṣābah*, 2:106; 7:305). A clash was averted through the diplomatic mediation of Majdī b. ʿAmr al-Juhanī.
 
 ### 2. The Hero of Badr (2 AH)
 At **[[Ghazwat Badr al-Kubrā]]**, Ḥamzah stood out visibly on the field of combat (*Subul al-Hudā*, 4:40, 68; *al-Iṣābah*, 2:106):
