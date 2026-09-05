@@ -23,7 +23,13 @@ if [ -f "../quartz.config.yaml" ]; then
   cp ../quartz.config.yaml quartz.config.yaml
 fi
 
-# 4. Build static site
+# 4. Patch Quartz for clean ASCII transliteration slugs (prevents infinite redirect loops on CDN)
+if [ -f "../patch-quartz.mjs" ]; then
+  echo "Applying ASCII slug patch to Quartz..."
+  node ../patch-quartz.mjs
+fi
+
+# 5. Build static site
 echo "Building static site..."
 npm run quartz -- build -d .. -o ../public
 

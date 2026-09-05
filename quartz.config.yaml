@@ -18,6 +18,7 @@ configuration:
     - GEMINI.md
     - README.md
     - build.sh
+    - patch-quartz.mjs
     - netlify.toml
     - package.json
     - package-lock.json
