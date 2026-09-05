@@ -68,8 +68,8 @@ Saʿd was among the first men on earth to embrace Islam, accepting the faith at 
 > «لَقَدْ مَكَثْتُ سَبْعَةَ أَيَّامٍ وَإِنِّي لَثُلُثُ الْإِسْلَامِ»
 > *"I spent seven days when I constituted a third of all Islam!"* (*al-Iṣābah*, 3:62).
 
-### The First Arrow Shot in Islam
-During the early reconnaissance expedition of Sariyyat Rābigh under the command of ʿUbaydah b. al-Ḥārith, the patrol encountered a detachment of polytheist cavalry. Saʿd loosed an arrow that drove back their cavalry, securing the historic distinction of being the first human being to shoot an arrow in the cause of Allāh (*awwal man ramā bi-sahmin fī sabīlillāh*) (*al-Iṣābah*, 3:62, 64; *Subul al-Hudā*, 4:10; 11:315).
+### The First Arrow Shot in Islam & Sariyyat al-Kharrār
+During the early reconnaissance expedition of **[[Sariyyat ʿUbaydah b. al-Ḥārith ilā Baṭn Rābigh]]**, the patrol encountered a detachment of polytheist cavalry. Saʿd loosed an arrow that drove back their cavalry, securing the historic distinction of being the first human being to shoot an arrow in the cause of Allāh (*awwal man ramā bi-sahmin fī sabīlillāh*) (*al-Iṣābah*, 3:62, 64; *Subul al-Hudā*, 4:10; 6:13; 11:315). Shortly thereafter, in Dhū al-Qaʿdah 1 AH, the Prophet ﷺ appointed Saʿd to his first independent military command leading twenty Muhājirūn on foot on **[[Sariyyat Saʿd b. Abī Waqqāṣ ilā al-Kharrār]]** (*Subul al-Hudā*, 6:15).
 
 ### Guardian of the Prophet in Medina
 Upon the Prophet's arrival in Medina, sleepless from danger, the Messenger of Allāh ﷺ said: *"Would that a righteous man from my companions guard me tonight!"* Suddenly the clanking of armor sounded. The Prophet ﷺ asked: *"Who is that?"* Saʿd answered: *"It is Saʿd, O Messenger of Allāh; I came to stand guard over you."* The Prophet ﷺ made duʿāʾ for him and slept peacefully (*al-Iṣābah*, 3:63).

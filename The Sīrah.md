@@ -43,6 +43,8 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Bināʾ al-Masjid al-Nabawī]] (1 AH) — *The Prophet's Mosque, Apartments, and Ahl al-Ṣuffah*
 - [[al-Muʾākhāh]] (1 AH) — *The Institutional Fraternization between Muhājirūn and Anṣār*
 - [[Sariyyat Ḥamzah b. ʿAbd al-Muṭṭalib ilā Sayf al-Baḥr]] (Ramaḍān 1 AH) — *The First Military Banner in Islam & Interception at al-ʿĪṣ*
+- [[Sariyyat ʿUbaydah b. al-Ḥārith ilā Baṭn Rābigh]] (Shawwāl 1 AH) — *The First Arrow Shot in Islam & Defection of al-Miqdād*
+- [[Sariyyat Saʿd b. Abī Waqqāṣ ilā al-Kharrār]] (Dhū al-Qaʿdah 1 AH) — *The Disciplined Foot Reconnaissance to al-Juḥfah*
 - [[Ghazwat al-Abwāʾ]] (Ṣafar 2 AH) — *The First Ghazwah in Islam & The Treaty of Waddān*
 - [[Ghazwat Buwāṭ]] (Rabīʿ al-Awwal 2 AH) — *Interception at Mount Buwāṭ of Umayyah's 2,500 Camels*
 - [[Ghazwat Safawān]] (Rabīʿ 2 AH) — *Badr al-Ūlā & Pursuit of Kurz b. Jābir al-Fihrī*
