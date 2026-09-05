@@ -167,18 +167,13 @@ for (const graphFile of graphFiles) {
   //    - Idle: labels are 100% hidden (clean, uncluttered graph)
   //    - Hovered node: label is 100% visible, scaled up, and elevated to top
   //    - Neighbor nodes: labels become visible (0.9 alpha) so you see connections!
-  const oldQe = "function qe(){for(var i=1/qu,l=i*1.1,F=0;F<L.length;F++){var A=L[F];_u===A.simulationData.id?(A.label.alpha=1,A.label.scale.set(l)):A.label.scale.set(i)}}";
   const newQe = "function qe(){for(var i=1/qu,l=i*1.2,F=0;F<L.length;F++){var A=L[F];if(_u===A.simulationData.id){A.label.alpha=1;A.label.scale.set(l);vu.addChild(A.label)}else if(_u!==null&&A.active){A.label.alpha=0.9;A.label.scale.set(i);vu.addChild(A.label)}else{A.label.scale.set(i);A.label.alpha=0}}}";
-  if (text.includes(oldQe)) {
-    text = text.replace(oldQe, newQe);
-  }
+  text = text.replace(/function qe\(\)\{[\s\S]*?\}\}\}/g, newQe);
 
   // E. Zoom label updates: maintain dynamic hover visibility while zooming
-  const oldUt = "for(var v=0;v<vu.children.length;v++){var j=vu.children[v];A.indexOf(j)===-1&&(j.alpha=F)}";
   const newUt = "for(var v=0;v<vu.children.length;v++){var j=vu.children[v];if(A.indexOf(j)===-1){j.alpha=0}}";
-  if (text.includes(oldUt)) {
-    text = text.replace(oldUt, newUt);
-  }
+  text = text.replace(/for\(var v=0;v<vu\.children\.length;v\+\+\)\{var j=vu\.children\[v\];A\.indexOf\(j\)===-1&&\(j\.alpha=F\)\}/g, newUt);
+  text = text.replace(/for\(var v=0;v<vu\.children\.length;v\+\+\)\{var j=vu\.children\[v\];if\(A\.indexOf\(j\)===-1\)\{j\.alpha=_u===null\?[\s\S]*?:0\)\}\}/g, newUt);
 
   // F. Smooth elastic physics (damping 0.35)
   const oldSim = "var au=a.forceSimulation(nu)";
