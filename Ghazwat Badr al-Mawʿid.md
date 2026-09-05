@@ -58,7 +58,7 @@ Rejoicing at their conviction, the Messenger of Allāh ﷺ declared with resolut
 His absolute faith dispelled the psychological intimidation cast by the adversary, and the entire Muslim community rallied behind him (*Subul al-Hudā*, 4:337).
 
 ## 3. The Prophetic Mobilization & March
-The Messenger of Allāh ﷺ mobilized a force of one thousand five hundred (1,500) Muslim warriors (*Subul al-Hudā*, 4:337). The force included ten cavalry warhorses: mounted by the Prophet ﷺ, **[[Abū Bakr al-Ṣiddīq]]**, **[[ʿUmar b. al-Khaṭṭāb]]**, **[[Abū Qatādah al-Anṣārī]]**, **[[Saʿīd b. Zayd]]**, **[[al-Miqdād b. Amr|al-Miqdād b. ʿAmr]]**, **[[al-Ḥubāb b. al-Mundhir]]**, **[[al-Zubayr b. al-ʿAwwām]]**, and **[[ʿAbbād b. Bishr]]** ﵃ (*Subul al-Hudā*, 4:337).
+The Messenger of Allāh ﷺ mobilized a force of one thousand five hundred (1,500) Muslim warriors (*Subul al-Hudā*, 4:337). The force included ten cavalry warhorses: mounted by the Prophet ﷺ, **[[Abū Bakr al-Ṣiddīq]]**, **[[ʿUmar b. al-Khaṭṭāb]]**, **[[Abū Qatādah al-Anṣārī]]**, **[[Saʿīd b. Zayd]]**, **[[al-Miqdād b. ʿAmr|al-Miqdād b. ʿAmr]]**, **[[al-Ḥubāb b. al-Mundhir]]**, **[[al-Zubayr b. al-ʿAwwām]]**, and **[[ʿAbbād b. Bishr]]** ﵃ (*Subul al-Hudā*, 4:337).
 
 The Prophet ﷺ handed the supreme white standard to **[[ʿAlī b. Abī Ṭālib]]** ﵁ (*Subul al-Hudā*, 4:338). He appointed **[[ʿAbdullāh b. Rawāḥah]]** ﵁ (or **[[ʿAbdullāh b. ʿAbdillāh b. Ubayy]]** ﵁) as deputy governor over Medina (*Subul al-Hudā*, 4:337).
 

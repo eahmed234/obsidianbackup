@@ -56,7 +56,7 @@ As they raised him upon the wooden beam, he composed and chanted his immortal li
 Whenever the polytheists tried to forcibly face his crucified body away from the Qiblah, it miraculously turned back to face the Kaʿbah until they abandoned their attempts in exasperation (*al-Iṣābah*, 2:227).
 
 ## 5. Balīʿ al-Arḍ (The Earth Swallowing His Body)
-To recover the martyr's body from the crucifix, the Prophet ﷺ dispatched **[[al-Zubayr b. al-ʿAwwām]]** ﵁ and **[[al-Miqdād b. Amr|al-Miqdād b. ʿAmr]]** ﵁ (or ʿAmr b. Umayyah al-Ḍamrī) to Makkah (*al-Iṣābah*, 2:226). 
+To recover the martyr's body from the crucifix, the Prophet ﷺ dispatched **[[al-Zubayr b. al-ʿAwwām]]** ﵁ and **[[al-Miqdād b. ʿAmr|al-Miqdād b. ʿAmr]]** ﵁ (or ʿAmr b. Umayyah al-Ḍamrī) to Makkah (*al-Iṣābah*, 2:226). 
 
 They reached al-Tanʿīm at night, lowered Khubayb's body—which remained completely fresh and unchanged—and mounted him upon a horse (*al-Iṣābah*, 2:226). When polytheist pursuers caught up with them, al-Zubayr cast the body down; instantly, the ground opened and swallowed Khubayb's body whole without leaving a trace, shielding him from desecration (*al-Iṣābah*, 2:226). From that day, he was celebrated among the Companions as **Balīʿ al-Arḍ** (The One Swallowed by the Earth) (*al-Iṣābah*, 2:226).
 
