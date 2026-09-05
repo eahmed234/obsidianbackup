@@ -66,6 +66,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
 - [[Ghazwat Dhī Qarad]] (6 AH) — *The Expedition of al-Ghābah & The Sprint of Ibn al-Akwaʿ*
 - [[Ghazwat Banī Liḥyān]] (6 AH) — *The Punitive March to ʿUsfān & Deterrence of Quraysh*
+- [[Sariyyat al-Ghamr]] (Rabīʿ al-Awwal 6 AH) — *Commanded by [[ʿUkkāshah b. Miḥṣan]] against Banū Asad*
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
@@ -250,6 +251,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Saʿd b. Wahb]] ﵁ — *Companion of Banū al-Naḍīr who embraced Islam during the siege and narrated on water rights*
 - [[Khallād b. Suwayd]] ﵁ — *Badri veteran and martyr of Banū Qurayẓah who was granted the reward of two martyrs*
 - [[Abū Sinān b. Miḥṣan]] ﵁ — *Elder brother of ʿUkkāshah b. Miḥṣan, Badri veteran, and martyr of Banū Qurayẓah*
+- [[ʿUkkāshah b. Miḥṣan]] ﵁ — *Foremost Badri champion granted Paradise without reckoning, wielder of al-ʿAwn, commander of al-Ghamr, and martyr of Buzākhah*
 - [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
 - [[Anas b. al-Naḍr]] ﵁ — *Hero of Uḥud who scented the fragrance of Paradise*
 - [[Ḥanẓalah b. Abī ʿĀmir]] ﵁ — *Ghasīl al-Malāʾikah (Washed by the Angels)*
