@@ -51,6 +51,8 @@ console.log(`Patched ${patchedCount} files with ASCII slugifyPath.`);
 const aliasFile = `${prefix}node_modules/@quartz-community/alias-redirects/dist/index.js`;
 if (fs.existsSync(aliasFile)) {
   let text = fs.readFileSync(aliasFile, "utf8");
+  if (!text.includes("function slugifyAlias")) {
+  let text = fs.readFileSync(aliasFile, "utf8");
 
   const oldEndsWith = `function endsWith(s2, suffix) {
   return s2 === suffix || s2.endsWith("/" + suffix);
@@ -109,6 +111,7 @@ function* processAliases(ctx, file, emittedPaths) {
   text = text.replace(/function\* processAliases\(ctx, file, emittedPaths\) \{[\s\S]*?\n\}/, newProcess);
   fs.writeFileSync(aliasFile, text);
   console.log("Patched alias-redirects successfully.");
+  }
 } else {
   console.warn(`AliasRedirects file not found: ${aliasFile}`);
 }
@@ -129,21 +132,21 @@ if (fs.existsSync(themeFile)) {
 }
 
 
-// 4. Enhance interactive graph view: hitArea for immediate hover, clear crisp labels with stroke, smooth physics
+// 4. Match Obsidian dynamic graph behavior (interactive hover-revealed labels, direct pointerover, crisp text)
 const graphFile = `${prefix}node_modules/@quartz-community/graph/dist/index.js`;
 if (fs.existsSync(graphFile)) {
   let text = fs.readFileSync(graphFile, "utf8");
 
-  // A. Expand hitArea to generous radius so hovering is immediate, accurate, and responsive
+  // A. Generous hitArea on bubbles so hover is immediate and accurate
   const oldCircle = "var U=new o.Graphics;U.circle(0,0,Tu),U.fill({color:De?He:le}),De&&U.stroke({width:2,color:ue}),U.eventMode=\"static\",U.cursor=\"pointer\",U.label=ie,";
-  const newCircle = "var U=new o.Graphics;U.circle(0,0,Tu),U.fill({color:De?He:le}),De&&U.stroke({width:2,color:ue}),U.hitArea=new o.Circle(0,0,Math.max(Tu+8,14)),U.eventMode=\"static\",U.cursor=\"pointer\",U.label=ie,";
+  const newCircle = "var U=new o.Graphics;U.circle(0,0,Tu),U.fill({color:De?He:le}),De&&U.stroke({width:2,color:ue}),U.hitArea=new o.Circle(0,0,Math.max(Tu+10,16)),U.eventMode=\"static\",U.cursor=\"pointer\",U.label=ie,";
   if (text.includes(oldCircle)) {
     text = text.replace(oldCircle, newCircle);
   }
 
-  // B. Clean, legible text styling with contrast outline and proper padding
+  // B. Obsidian typography: clean font with contrast outline stroke, crisp resolution
   const oldText = "style:{fontSize:We*15,fill:ze,fontFamily:Ne},resolution:window.devicePixelRatio*4";
-  const newText = "style:{fontSize:Math.max(We*16,11),fill:ze,fontFamily:Ne,stroke:{color:He,width:3},padding:4},resolution:window.devicePixelRatio*4";
+  const newText = "style:{fontSize:Math.max(We*16,12),fill:ze,fontFamily:Ne,stroke:{color:He,width:3},padding:4},resolution:window.devicePixelRatio*4";
   if (text.includes(oldText)) {
     text = text.replace(oldText, newText);
   }
@@ -155,14 +158,24 @@ if (fs.existsSync(graphFile)) {
     text = text.replace(oldPointer, newPointer);
   }
 
-  // D. Smooth label scaling on hover and bring active label to top
+  // D. Dynamic label visibility matching Obsidian:
+  //    - Idle: labels are hidden (or faint at high zoom)
+  //    - Hovered node: label is 100% visible, scaled up, and elevated to top
+  //    - Neighbor nodes: labels become visible (0.85 alpha) so you see connections!
   const oldQe = "function qe(){for(var i=1/qu,l=i*1.1,F=0;F<L.length;F++){var A=L[F];_u===A.simulationData.id?(A.label.alpha=1,A.label.scale.set(l)):A.label.scale.set(i)}}";
-  const newQe = "function qe(){for(var i=1/qu,l=i*1.15,F=0;F<L.length;F++){var A=L[F];if(_u===A.simulationData.id){A.label.alpha=1;A.label.scale.set(l);vu.addChild(A.label)}else{A.label.scale.set(i);A.label.alpha=P.k>1.4?1:0}}}";
+  const newQe = "function qe(){for(var i=1/qu,l=i*1.2,F=0;F<L.length;F++){var A=L[F];if(_u===A.simulationData.id){A.label.alpha=1;A.label.scale.set(l);vu.addChild(A.label)}else if(_u!==null&&A.active){A.label.alpha=0.85;A.label.scale.set(i);vu.addChild(A.label)}else{A.label.scale.set(i);A.label.alpha=P.k>2.2?Math.min(1,(P.k-2.2)*0.8):0}}}";
   if (text.includes(oldQe)) {
     text = text.replace(oldQe, newQe);
   }
 
-  // E. Smooth physics damping (velocityDecay 0.3 for gentle, stable settling)
+  // E. Zoom label updates: maintain dynamic hover visibility while zooming
+  const oldUt = "for(var v=0;v<vu.children.length;v++){var j=vu.children[v];A.indexOf(j)===-1&&(j.alpha=F)}";
+  const newUt = "for(var v=0;v<vu.children.length;v++){var j=vu.children[v];if(A.indexOf(j)===-1){j.alpha=_u===null?(P.k>2.2?Math.min(1,(P.k-2.2)*0.8):0):0}}";
+  if (text.includes(oldUt)) {
+    text = text.replace(oldUt, newUt);
+  }
+
+  // F. Smooth elastic physics (damping 0.35)
   const oldSim = "var au=a.forceSimulation(nu)";
   const newSim = "var au=a.forceSimulation(nu).velocityDecay(0.35)";
   if (text.includes(oldSim) && !text.includes(newSim)) {
@@ -170,7 +183,7 @@ if (fs.existsSync(graphFile)) {
   }
 
   fs.writeFileSync(graphFile, text);
-  console.log("Patched graph component for smooth physics and responsive hovering.");
+  console.log("Patched graph component for dynamic Obsidian-style labels and smooth physics.");
 }
 
 console.log("Quartz node_modules patched successfully for clean ASCII slugs!");
