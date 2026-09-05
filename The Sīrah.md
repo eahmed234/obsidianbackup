@@ -180,6 +180,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Umm ʿUnays]] ﵂ — *Slave of Banū Zuhrah, Tortured by al-Aswad b. ʿAbd Yaghūth*
 - [[al-Nahdiyyah]] ﵂ — *Freed by Abū Bakr Alongside Her Daughter*
 - [[al-Arqam b. Abī al-Arqam]] ﵁ — *Host of the Muslims at Dār al-Arqam*
+- [[Sālim Mawlā Abī Ḥudhayfah]] ﵁ — *Master reciter of the Qurʾān, imam of the early Muhājirūn at Qubāʾ, and standard-bearer of al-Yamāmah*
 - [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
 - [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
@@ -387,6 +388,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
 - [[Tabūk]] — *The Northern Border Facing Byzantium*
+- [[al-Lāt]] — *The pagan idol sanctuary of Thaqīf at al-Ṭāʾif demolished by al-Mughīrah b. Shuʿbah and Abū Sufyān*
 
 ---
 
