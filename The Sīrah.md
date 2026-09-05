@@ -49,6 +49,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Buwāṭ]] (Rabīʿ al-Awwal 2 AH) — *Interception at Mount Buwāṭ of Umayyah's 2,500 Camels*
 - [[Ghazwat Safawān]] (Rabīʿ 2 AH) — *Badr al-Ūlā & Pursuit of Kurz b. Jābir al-Fihrī*
 - [[Ghazwat al-ʿUshayrah]] (Jumādā al-Ūlā 2 AH) — *The Interception at Yanbuʿ & Precursor to Badr*
+- [[Sariyyat ʿAbdillāh b. Jaḥsh ilā Baṭn Nakhlah]] (Rajab 2 AH) — *The Sealed Dispatch, First Khumus, and Exoneration in Sūrat al-Baqarah*
 - [[Dustūr al-Madīnah]] (1 AH) — *The World's First Written Constitution*
 - [[Taḥwīl al-Qiblah]] (Shaʿbān 2 AH) — *The Shifting of the Prayer Direction to the Kaʿbah*
 
@@ -187,6 +188,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
 - [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
 - [[Abū Marthad al-Ghanawī]] ﵁ — *Bearer of the first banner in Islam, confederate of Ḥamzah, and veteran of Badr*
+- [[ʿUtbah b. Ghazwān]] ﵁ — *Seventh convert in Islam, hero of the defection at Rābigh, founder and governor of Basra*
+- [[Wāqid b. ʿAbdillāh]] ﵁ — *Al-Tamīmī al-Yarbūʿī; first combatant to slay an enemy in Islam at Nakhlah, Badri veteran*
 - [[ʿAbdullāh b. Masʿūd]] ﵁ — *Custodian of the Prophet's Secrets*
 - [[ʿAbdullāh b. ʿUmar]] ﵁ — *Exemplar of Sunnah emulation and master jurist of Medina*
 - [[ʿAbdullāh b. Umm Maktūm]] ﵁ — *Blind muezzin and 13-time deputy governor of Medina*

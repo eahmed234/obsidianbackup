@@ -61,7 +61,7 @@ Al-Miqdād was among the foremost pioneers who accepted Islam at the very dawn o
 > «أَوَّلُ مَنْ أَظْهَرَ إِسْلَامَهُ سَبْعَةٌ...»
 > *"The first to manifest their Islam openly in Makkah were seven..."* and he numbered al-Miqdād among them (*al-Iṣābah*, 6:160).
 
-He endured severe persecution at the hands of Quraysh, took part in the migration to Abyssinia (**[[al-Hijrah ilā al-Ḥabashah]]**), and later made the migration to Medina (**[[al-Hijrah ilā al-Madīnah]]**) (*al-Iṣābah*, 6:160).
+He endured severe persecution at the hands of Quraysh, took part in the migration to Abyssinia (**[[al-Hijrah ilā al-Ḥabashah]]**), and later made the migration to Medina (**[[al-Hijrah ilā al-Madīnah]]**) following his dramatic crossing of the battle lines alongside **[[ʿUtbah b. Ghazwān]]** at **[[Sariyyat ʿUbaydah b. al-Ḥārith ilā Baṭn Rābigh]]** (*al-Iṣābah*, 4:364; 6:160; *Subul al-Hudā*, 6:13). In Rajab 2 AH, Ibn Saʿd recorded his participation in **[[Sariyyat ʿAbdillāh b. Jaḥsh ilā Baṭn Nakhlah]]**, where al-Miqdād personally captured the prisoner al-Ḥakam b. Kaysān, who later accepted Islam (*Subul al-Hudā*, 6:17; *al-Iṣābah*, 2:95).
 
 ### Beloved of Allāh and His Messenger
 In a famous prophetic tradition, the Messenger of Allāh ﷺ declared:

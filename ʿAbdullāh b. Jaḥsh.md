@@ -17,7 +17,7 @@ nasab: "ʿAbdullāh b. Jaḥsh b. Riʾāb b. Yaʿmar b. Ṣabirah b. Murrah b. K
 death: "Martyred at [[Ghazwat Uḥud]], aged just over forty; buried in one grave with [[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁"
 epithet: "al-Mujaddaʿ fī Allāh (mutilated for Allāh's sake)"
 brotherhood_pairing: "ʿĀṣim b. Thābit ﵁"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 310); [[al-Iṣābah]] (vol. 4, pp. 31–33, no. 4601)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 310; vol. 6, pp. 16–20); [[al-Iṣābah]] (vol. 4, pp. 31–33, no. 4601)"
 ---
 
 # ʿAbdullāh b. Jaḥsh (عبد الله بن جحش الأسدي)
@@ -32,13 +32,15 @@ b. Yaʿmar b. Ṣabirah b. Murrah b. Kabīr b. Ghanm b. Dūdān**, of **Banū As
 ## 2. Early Islam and the First Hijrah
 Ibn Isḥāq records that he **emigrated to Abyssinia** and later **witnessed Badr** (*al-Iṣābah*, 4:31).
 
-## 3. First Commander in Islam
+## 3. First Commander in Islam & The Expedition of Nakhlah
 A tradition via Saʿd b. Abī Waqqāṣ ﵁ records the Prophet's ﷺ own words on dispatching an expedition:
 *"I shall send over you a man most patient among you in hunger and thirst"* — and he sent **ʿAbdullāh
 b. Jaḥsh**, *"so he was the first commander in Islam."* Zirr b. Ḥubaysh likewise transmits: *"The first
 banner tied in Islam was for ʿAbdullāh b. Jaḥsh."* Ibn Isḥāq, via ʿUrwah, and al-Ṭabarānī, via Jundab
 b. ʿAbdullāh al-Bajalī, both preserve the fuller story of the Prophet ﷺ sending him **to Nakhlah** at
-the head of this expedition (*al-Iṣābah*, 4:31–32).
+the head of this expedition (*al-Iṣābah*, 4:31–32; *Subul al-Hudā*, 6:16–20).
+
+On **[[Sariyyat ʿAbdillāh b. Jaḥsh ilā Baṭn Nakhlah]]** (Rajab 2 AH), ʿAbdullāh carried a sealed letter opened after two days of marching, giving his companions the free choice of proceeding or returning. He led the patrol to intercept a Quraysh caravan at Baṭn Nakhlah, took the first two captives in Islam, and exercised personal ijtihād to isolate the first one-fifth (*khumus*) in Islam for the Prophet ﷺ before any divine legislation on booty had been revealed (*Subul al-Hudā*, 6:18). When Quraysh protested the fighting during the sacred month, divine revelation in Sūrat al-Baqarah (2:217–218) fully exonerated ʿAbdullāh and his men. He was hailed as *Amīr al-Muʾminīn* on this expedition (*Subul al-Hudā*, 6:19).
 
 ## 4. Brotherhood and Counsel
 The Prophet ﷺ paired him in brotherhood (*muʾākhāh*) with **ʿĀṣim b. Thābit** ﵁ (*al-Iṣābah*, 4:31).
@@ -72,8 +74,5 @@ He was killed at Uḥud by **Abū al-Ḥakam b. al-Akhnas b. Sharīq**, and was 
 (*al-Iṣābah*, 4:33).
 
 ## 8. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 310 (his place and full nasab among the earliest
-   converts).
-2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, pp. 31–33, no. 4601 (his early Islam, the Nakhlah
-   command, brotherhood pairing, the supplication before Uḥud, the palm-branch sword, and his
-   martyrdom).
+1. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 310 (his place and full nasab among the earliest converts); vol. 6, pp. 16–20 (*Sariyyat ʿAbdillāh b. Jaḥsh ilā Baṭn Nakhlah*).
+2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, pp. 31–33, no. 4601 (his early Islam, the Nakhlah command, brotherhood pairing, the supplication before Uḥud, the palm-branch sword, and his martyrdom).
