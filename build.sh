@@ -17,10 +17,14 @@ if [ ! -d "node_modules" ]; then
   npm install
 fi
 
-# 3. Copy custom configuration
+# 3. Copy custom configuration & styles
 if [ -f "../quartz.config.yaml" ]; then
   echo "Applying custom quartz.config.yaml..."
   cp ../quartz.config.yaml quartz.config.yaml
+fi
+if [ -f "../custom.scss" ]; then
+  echo "Applying custom styles (Noto Naskh Arabic & Noto Serif)..."
+  cp ../custom.scss quartz/styles/custom.scss
 fi
 
 # 4. Patch Quartz for clean ASCII transliteration slugs (prevents infinite redirect loops on CDN)

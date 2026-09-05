@@ -1,0 +1,27 @@
+@use "./variables.scss" as *;
+
+:root {
+  --bodyFont: "Noto Serif", "Noto Naskh Arabic", Georgia, Cambria, serif;
+  --headerFont: "Noto Serif", "Noto Naskh Arabic", Georgia, Cambria, serif;
+  --titleFont: "Noto Serif", "Noto Naskh Arabic", Georgia, Cambria, serif;
+  --arabicFont: "Noto Naskh Arabic", "Amiri", "Traditional Arabic", serif;
+}
+
+/* Ensure Arabic text and characters use Noto Naskh Arabic */
+[dir="rtl"],
+:lang(ar),
+.arabic,
+*[class*="arabic"] {
+  font-family: var(--arabicFont) !important;
+}
+
+/* Unicode range fallback for Arabic characters across all elements */
+body, p, h1, h2, h3, h4, h5, h6, span, a, li, blockquote, td, th {
+  font-family: "Noto Serif", "Noto Naskh Arabic", Georgia, serif;
+}
+
+/* Enhanced styling for Arabic quotations and guillemets */
+blockquote {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}

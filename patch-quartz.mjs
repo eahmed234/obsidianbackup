@@ -113,4 +113,19 @@ function* processAliases(ctx, file, emittedPaths) {
   console.warn(`AliasRedirects file not found: ${aliasFile}`);
 }
 
+
+// 3. Ensure Noto Naskh Arabic is fetched alongside Noto Serif
+const themeFile = `${prefix}quartz/util/theme.ts`;
+if (fs.existsSync(themeFile)) {
+  let text = fs.readFileSync(themeFile, "utf8");
+  if (!text.includes("Noto+Naskh+Arabic")) {
+    text = text.replace(
+      "return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`",
+      "return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&family=Noto+Naskh+Arabic:wght@400;600;700&display=swap`"
+    );
+    fs.writeFileSync(themeFile, text);
+    console.log("Patched googleFontHref in theme.ts to include Noto Naskh Arabic.");
+  }
+}
+
 console.log("Quartz node_modules patched successfully for clean ASCII slugs!");

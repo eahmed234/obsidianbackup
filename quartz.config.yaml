@@ -19,6 +19,7 @@ configuration:
     - README.md
     - build.sh
     - patch-quartz.mjs
+    - custom.scss
     - netlify.toml
     - package.json
     - package-lock.json
@@ -27,30 +28,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Amiri
-      body: Source Sans Pro
+      header: Noto Serif
+      body: Noto Serif
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#fcfbf9"
-        lightgray: "#e8e5de"
-        gray: "#b8b4a9"
-        darkgray: "#403d39"
-        dark: "#1e1d1b"
-        secondary: "#1f5f5b"
-        tertiary: "#8a704c"
-        highlight: rgba(31, 95, 91, 0.12)
-        textHighlight: "#fff23688"
+        light: "#fafafa"
+        lightgray: "#e4e4e4"
+        gray: "#ababab"
+        darkgray: "#222222"
+        dark: "#1a1a1a"
+        secondary: "#7852ee"
+        tertiary: "#906cf2"
+        highlight: "rgba(120, 82, 238, 0.12)"
+        textHighlight: "#a882ff33"
       darkMode:
-        light: "#161819"
-        lightgray: "#292c2d"
-        gray: "#626769"
-        darkgray: "#d1d5d6"
-        dark: "#f0f2f2"
-        secondary: "#5ea8a2"
-        tertiary: "#c4a77d"
-        highlight: rgba(94, 168, 162, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1c1c1c"
+        lightgray: "#282828"
+        gray: "#666666"
+        darkgray: "#dadada"
+        dark: "#f5f5f5"
+        secondary: "#a882ff"
+        tertiary: "#c4a7ff"
+        highlight: "rgba(168, 130, 255, 0.15)"
+        textHighlight: "#a882ff33"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
