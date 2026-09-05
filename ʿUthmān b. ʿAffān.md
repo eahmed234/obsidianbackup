@@ -98,7 +98,7 @@ The Prophet ﷺ turned the gold pieces in his hands with boundless joy, proclaim
 ---
 
 ## 4. Caliphate, Martyrdom & Legacy
-Chosen as the Third Caliph by the consultative Shūrā led by **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ in Muḥarram 24 AH (or late Dhū al-Ḥijjah 23 AH) (*al-Iṣābah*, 4:379), ʿUthmān governed for nearly twelve years:
+Chosen as the Third Caliph by the consultative Shūrā led by **[[ʿAbd al-Raḥmān b. ʿAwf]]** ﵁ in Muḥarram 24 AH (or late Dhū al-Ḥijjah 23 AH) (see master entry **[[Khilāfat ʿUthmān b. ʿAffān]]**) (*al-Iṣābah*, 4:379), ʿUthmān governed for nearly twelve years:
 - **Territorial Expansion**: Expanded the Islamic state across North Africa, Cyprus, Armenia, and Khurasan.
 - **The Canonical Qurʾānic Codex**: Recognizing regional dialectical divergences among reciters in border garrisons, ʿUthmān commissioned **[[Zayd b. Thābit]]** ﵁, ʿAbdullāh b. al-Zubayr, Saʿīd b. al-ʿĀṣ, and ʿAbd al-Raḥmān b. al-Ḥārith b. Hishām to transcribe the authoritative master codices (*al-Maṣāḥif al-ʿUthmāniyyah*) in the dialect of Quraysh, uniting the Ummah on a single orthographic standard (*Subul al-Hudā*, 2:27 n. 1; 11:282).
 - **Expansion of al-Masjid al-Nabawī**: Financed the substantial physical expansion and architectural embellishment of the Prophet's Mosque in Medina using carved stone and teak wood.

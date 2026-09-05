@@ -106,7 +106,7 @@ Appointed deputy over Medina during **[[Ghazwat Tabūk]]**, ʿAlī was dismayed 
 ---
 
 ## 4. Caliphate, Martyrdom & Legacy
-Acclaimed Fourth Caliph in Medina following the martyrdom of **[[ʿUthmān b. ʿAffān]]** ﵁ in Dhū al-Ḥijjah 35 AH, ʿAlī governed through five turbulent years of internal civil trial, ruling successively from Kūfah (*al-Iṣābah*, 4:468).
+Acclaimed Fourth Caliph in Medina following the martyrdom of **[[ʿUthmān b. ʿAffān]]** ﵁ in Dhū al-Ḥijjah 35 AH (see master entry **[[Khilāfat ʿAlī b. Abī Ṭālib]]**), ʿAlī governed through five turbulent years of internal civil trial, ruling successively from Kūfah (*al-Iṣābah*, 4:468). His administration saw the pivotal engagements of **[[Waqʿat al-Jamal]]** (36 AH), **[[Waqʿat Ṣiffīn]]** (37 AH), and **[[Waqʿat al-Nahrawān]]** (38 AH).
 
 ### Assassination and Martyrdom
 On Friday morning, the seventeenth or nineteenth of Ramaḍān in the year 40 AH, as ʿAlī entered the Grand Mosque of Kūfah calling the people to the dawn prayer (*al-ṣalāh, al-ṣalāh!*), the Khārijite fanatic ʿAbd al-Raḥmān b. Muljam al-Murādī struck him across the forehead with a poisoned sword, the blade penetrating to his brain (*al-Iṣābah*, 4:468; *Subul al-Hudā*, 11:306). 
