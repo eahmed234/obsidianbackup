@@ -2,7 +2,7 @@
 configuration:
   pageTitle: nabiwiki (السيرة)
   pageTitleSuffix: " | nabiwiki"
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics: null
   locale: en-US

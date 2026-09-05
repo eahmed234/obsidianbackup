@@ -28,9 +28,20 @@ echo "Building static site..."
 npm run quartz -- build -d .. -o ../public
 
 # 5. Ensure root index.html is populated from the canonical hub (The Sīrah)
-if [ -f "../public/the-sīrah.html" ]; then
-  echo "Linking the-sīrah.html as root index.html..."
-  cp -f "../public/the-sīrah.html" "../public/index.html"
-fi
+echo "Ensuring root index.html..."
+python3 -c '
+import os, shutil
+
+found = False
+for f in os.listdir("../public"):
+    if f.startswith("the-s") and f.endswith("rah.html"):
+        shutil.copyfile(os.path.join("../public", f), "../public/index.html")
+        print(f"Mapped {f} -> ../public/index.html")
+        found = True
+        break
+
+if not found:
+    print("Warning: could not find the-sirah.html among:", os.listdir("../public"))
+'
 
 echo "=== Build Completed Successfully! Output in public/ ==="
