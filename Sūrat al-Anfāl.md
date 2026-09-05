@@ -55,19 +55,6 @@ The following table delineates the specific verses revealed concerning the event
 | **8:70** | ﴿يَا أَيُّهَا النَّبِيُّ قُل لِّمَن فِي أَيْدِيكُم مِّنَ الْأَسْرَىٰ إِن يَعْلَمِ اللَّهُ فِي قُلُوبِكُمْ خَيْرًا...﴾ | Comfort and guarantee of restitution given to [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] and other captives who claimed internal faith (*Subul al-Hudā*, 4:18). | [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] |
 
 
-> [!WARNING] Citation Audit of This Table
-> The book **tags its own Qurʾānic quotations** with a bracketed reference — `[الأنفال ١١]` — which
-> makes the verse-to-page map decidable rather than inferred. Checked against those tags, **six of the
-> ten rows above pointed at the wrong page** and have been corrected: 8:5–6 to **4:27** (was 4:26),
-> 8:9–10 to **4:38** (was 4:36–37), 8:11 to **4:30** (was 4:29; also quoted at 4:45), 8:12 to
-> **4:38** (was 4:40), 8:67–68 to **4:61** (was 4:68), and 8:70 to **4:18** (was 4:70).
->
-> Verified as already correct: 8:1 at 4:58, 8:17 at 4:47–48, 8:48 at 4:22.
->
-> **8:41 is a special case.** The *khumus* verse is not bracket-quoted anywhere in volume 4. What
-> 4:58 carries is the *occasion* — the Companions' dispute over the *fayʾ* — and the phrase
-> *yawm al-Furqān* appears at 4:18. The row is retained on that basis, and the distinction is stated
-> here rather than left implicit.
 
 ## 2b. Further Anfāl Verses the Book Quotes in the Badr Chapter
 

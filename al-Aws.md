@@ -53,11 +53,6 @@ chiefs. At the judgment on Qurayẓah, [[Saʿd b. ʿUbādah]] ﵁ and
 [[Saʿd b. Muʿādh]] ﵁ — the Awsī chief who had given the judgment — answered that no one of the Aws in
 whom there was any good disliked it. See **[[Ghazwat Banī Qurayẓah]]**.
 
-> [!NOTE] A Removal Reversed, and What Remains Unsupported
-> An earlier audit pass removed the Aws–Qurayẓah alliance as unsupported. **That was wrong** — the
-> book states it at 5:12, as above, and it is restored. The alliance with **Banū al-Naḍīr** has still
-> not been located and remains out. So does the description of al-Aws as *"of Yemeni Azd stock."*
-> Badr troop figures are cited in **[[Ahl Badr]]** rather than repeated here.
 
 ## 5. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 195 (the lineage); p. 199 (Aws Allāh).

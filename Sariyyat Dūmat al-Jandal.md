@@ -87,31 +87,3 @@ Following the Prophet's instruction, ʿAbd al-Raḥmān dispatched a courier, **
 1. **[[al-Ṣāliḥī]]**. *[[Subul al-Hudā war-Rashād]]*. Vol. 6, pp. 94–95; Vol. 8, p. 324.
 2. **[[Ibn Saʿd]]**. *al-Ṭabaqāt al-Kubrā*. Vol. 2, pp. 89–90.
 3. **[[Ibn Hishām]]**. *al-Sīrah al-Nabawiyyah*. Vol. 2, p. 632.
-
----
-
-## Citation Audit of This Entry
-
-**Verified against the book.** The chapter opens at the foot of **6:93**: *al-Bāb al-Sābiʿ wal-ʿIshrūn
-fī sariyyat ʿAbd al-Raḥmān b. ʿAwf ﵄ ilā Dūmat al-Jandal fī Shaʿbān.* The narrative is on **6:94** and
-the glossary of its terms on **6:95**.
-
-Confirmed on 6:94:
-- *"The Messenger of Allāh ﷺ had commanded him to **march by night to Dūmat al-Jandal**. And his men
-  were encamped at **[[al-Jurf]]**, and **they were seven hundred**."* — the force of 700 and the
-  staging camp both stand.
-- The turban: ʿAbd al-Raḥmān ﵁ said *"I would like, O Messenger of Allāh, that my last meeting with
-  you be while I am wearing my travelling clothes"* — so the Prophet ﷺ seated him before himself,
-  shook out his turban by hand, and wound upon him a turban of black *karābīs*, letting some four
-  fingers' length of it hang between his shoulders.
-
-Confirmed on 6:95, in the glossary: **al-Jurf** — *"three miles from Medina"*; **al-karābīs** — the
-coarse cloth, a Persian loanword; **al-Aṣbagh** and **[[Tumāḍir bint al-Aṣbagh|Tumāḍir]]**, both
-vocalized; and the terms of the marching orders — *ghalla min al-maghnam* (to embezzle), *al-ghadr*
-(to break faith), *al-walīd* (the child).
-
-> [!WARNING] One Citation Removed
-> The turban episode was cited to *Subul al-Hudā* **6:94 and 8:324**. Page 8:324 treats the **ʿĪd
-> prayer** — going out to the *jabbānah*, and the Prophet ﷺ returning by a different road than he
-> came. It has nothing to do with this expedition, and the reference is removed. The turban is at
-> 6:94, as also cited.

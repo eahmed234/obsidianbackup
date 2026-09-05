@@ -178,8 +178,8 @@ Realizing that partisan deadlock could fracture the Ummah, ʿAbd al-Raḥmān vo
 
 | Ayah (Verse) | Text Excerpt | Sabab al-Nuzūl (Occasion of Revelation) | Classical Reference |
 | :--- | :--- | :--- | :--- |
-| **Qurʾān 4:43** | ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ...﴾ | Before the prohibition of alcohol, ʿAbd al-Raḥmān hosted a meal where wine was served. At Maghrib, the Imām misrecited Surah al-Kāfirūn (*"we worship what you worship"*), prompting the divine prohibition against approaching prayer while intoxicated. | *Jāmiʿ al-Tirmidhī* (no. 3026); *Subul al-Hudā*, — see the audit note below |
-| **Qurʾān 9:79** | ﴿الَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ مِنَ الْمُؤْمِنِينَ فِي الصَّدَقَاتِ...﴾ | When ʿAbd al-Raḥmān donated half his wealth for Tabūk, the hypocrites mocked him: *"He only gave out of ostentation (*riyāʾ*)!"* Allāh revealed this verse defending the sincere donors. | *Ṣaḥīḥ al-Bukhārī* (no. 4668); *Subul al-Hudā*, — see the audit note below |
+| **Qurʾān 4:43** | ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ...﴾ | Before the prohibition of alcohol, ʿAbd al-Raḥmān hosted a meal where wine was served. At Maghrib, the Imām misrecited Surah al-Kāfirūn (*"we worship what you worship"*), prompting the divine prohibition against approaching prayer while intoxicated. | *Jāmiʿ al-Tirmidhī* (no. 3026) |
+| **Qurʾān 9:79** | ﴿الَّذِينَ يَلْمِزُونَ الْمُطَّوِّعِينَ مِنَ الْمُؤْمِنِينَ فِي الصَّدَقَاتِ...﴾ | When ʿAbd al-Raḥmān donated half his wealth for Tabūk, the hypocrites mocked him: *"He only gave out of ostentation (*riyāʾ*)!"* Allāh revealed this verse defending the sincere donors. | *Ṣaḥīḥ al-Bukhārī* (no. 4668) |
 | **Qurʾān 2:261** | ﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ...﴾ | Revealed praising the boundless multiplication of rewards for those who spend their wealth seeking the pleasure of Allāh, exemplified by ʿAbd al-Raḥmān. | *Tafsīr Ibn Kathīr*, 1:691 |
 
 ---
@@ -251,42 +251,3 @@ As his bier was carried, ʿAlī b. Abī Ṭālib ﵁ remarked:
 4. **[[al-Dhahabī]]**. *Siyar Aʿlām al-Nubalāʾ*. Ed. Shuʿayb al-Arnāʾūṭ. Beirut: Muʾassasat al-Risālah, Vol. 1, pp. 68–92.
 
 ---
-
-## Citation Audit of This Entry
-
-Checked page by page against the book. **Verified as correct:** his chapter of virtues and his lineage
-at **11:318**; his bequests at **11:319**; the section on his death at **11:321**; the Prophet ﷺ
-following him in the dawn prayer — *dhikr iqtidāʾihi ﷺ bi-ʿAbd al-Raḥmān b. ʿAwf fī ṣalāt al-ṣubḥ* —
-at **5:449**; and his pairing with [[Saʿd b. al-Rabīʿ]] ﵁ in the *muʾākhāh* at **3:365**.
-
-**Corrected:**
-- His two Badr episodes were cited to 4:51–53 and 4:52. Page 4:51 treats Abū Jahl severing
-  [[Muʿawwidh b. ʿAfrāʾ]]'s ﵁ hand, and 4:52 the killing of Abū Dhāt al-Karsh. His own narrations are
-  at **4:46–47** (Umayyah b. Khalaf, whom he knew in Makkah and tried to hold as a captive) and
-  **4:50** (standing in the ranks between the two young Anṣārīs and pointing out Abū Jahl).
-- **[[Sariyyat Dūmat al-Jandal]]** now reads **6:93–95**. The chapter opens at the foot of **6:93**
-  — *"the twenty-seventh chapter, on the expedition of ʿAbd al-Raḥmān b. ʿAwf ﵄ to Dūmat al-Jandal in
-  Shaʿbān"* — the narrative runs on **6:94**, and the glossary of its terms is **6:95**. The book gives
-  him the **dual** honorific ﵄ in that heading.
-
-> [!WARNING] A Correction to My Own Earlier Correction
-> An earlier pass changed this citation from 6:94–95 to 6:93 on the grounds that 6:94 was *"a lexical
-> tanbīh on measures and zakāt."* **That was wrong.** The lexical material occupies only the head of
-> 6:94; the expedition narrative — the Prophet ﷺ ordering the night march to Dūmat al-Jandal, the
-> seven hundred men encamped at al-Jurf, and the winding of the black turban — is on the **same
-> page**, below it. Reading the top of a page is not reading the page.
-- **[[Banū Kalb]]** were described as a *"Christian Arab confederation."* The book names them among
-  the tribes that took up **idols** — Wadd, at Dūmat al-Jandal (*Subul al-Hudā*, 2:178). Removed.
-
-> [!WARNING] Two Asbāb al-Nuzūl Rows Not Supported
-> - The row attributing **al-Tawbah 9:79** — the verse defending sincere donors against the charge of
->   ostentation — to his donation was cited to 5:440. That page carries Abū Mūsā's ḥadīth on mounts.
->   More decisively, **9:79 is not bracket-quoted anywhere in the book**, so no page in *Subul
->   al-Hudā* can support the attribution.
-> - The row attributing **al-Nisāʾ 4:43**, on approaching prayer while intoxicated, to an incident
->   involving him was cited to 10:19, which treats the healing of the mute. The verse *is*
->   bracket-quoted at **11:181** and **12:130**, but neither has been shown to carry this attribution.
->
-> Both rows are left in place with their non-Subul citations (al-Bukhārī, al-Tirmidhī) intact, but
-> their Subul references are withdrawn pending verification. They should not be read as sourced to
-> al-Ṣāliḥī.

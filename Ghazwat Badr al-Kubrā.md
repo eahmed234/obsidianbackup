@@ -42,25 +42,6 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 18–177)"
 > [!NOTE] Scholarly Provenance & Primary Source
 > This entry is derived primarily from the encyclopedic compilation ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** (*The Paths of Guidance and Righteousness in the Life of the Best of Servants*) by the 10th-century Shāfiʿī ḥadīth master and historian **[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]]** (d. 942 AH / 1536 CE), Volume 4, *al-Bāb al-Sābiʿ: Fī Ghazwat Badr al-Kubrā* (pp. 18–177). Al-Ṣāliḥī synthesizes over three hundred primary works, prominently synthesizing [[Ibn Isḥāq]], [[Mūsā b. ʿUqbah]], [[al-Wāqidī]], [[Ibn Saʿd]], [[al-Bukhārī]], [[Muslim]], [[al-Ṭabarī]], [[al-Suhaylī]] (*al-Rawḍ al-Unuf*), and [[Ibn Kathīr]] (*al-Bidāyah wan-Nihāyah*).
 
-> [!WARNING] Citation Audit (this entry)
-> Nine inline page citations in this entry pointed a few pages away from the material they support,
-> and have been corrected against the book's own chapter headings: the killing of
-> [[ʿUmayr b. al-Ḥumām]] ﵁ is at **4:45** (not 4:49); of [[Umayyah b. Khalaf]] ☠ at **4:46**
-> (not 4:51); of [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *"the killing of the Pharaoh of this Ummah"* — at
-> **4:50** (not 4:52–53); the casting of the pebbles at **4:47** (not 4:48); the *sīmā* of the angels
-> at **4:43** (not 4:40); the dragging of the Qurashī dead to the well at **4:54** (not 4:55); the
-> Companions' disagreement over the captives at **4:60** (not 4:68); and the captives' arrival at
-> Medina at **4:65** (not 4:66).
->
-> A further five were corrected against the page topics themselves: Abū Sufyān's coastal escape and
-> Abū Jahl's refusal to turn back are at **4:29** (not 4:25); the cleansing rain at **4:30** (not
-> 4:29); the marking of the *maṣāriʿ* — where the Prophet ﷺ pointed and *"not one of them exceeded the
-> place of his indication"* — at **4:31** (not 4:30); and the straightening of the ranks with
-> [[Sawād b. Ghaziyyah]] ﵁ at **4:34** (not 4:33).
->
-> The troop figures in the frontmatter were also corrected — see the notes there. Fourteen citation
-> corrections in all; no claim in this entry was found to be fabricated, and the substance of the
-> narrative held up throughout.
 
 ---
 
