@@ -251,6 +251,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Khallād b. Suwayd]] ﵁ — *Badri veteran and martyr of Banū Qurayẓah who was granted the reward of two martyrs*
 - [[Abū Sinān b. Miḥṣan]] ﵁ — *Elder brother of ʿUkkāshah b. Miḥṣan, Badri veteran, and martyr of Banū Qurayẓah*
 - [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
+- [[Masʿūd b. Sinān al-Sulamī]] ﵁ — *Standard-bearer of the expedition under ʿAlī ﵁, veteran of Uḥud, and martyr of al-Yamāmah*
 - [[Anas b. al-Naḍr]] ﵁ — *Hero of Uḥud who scented the fragrance of Paradise*
 - [[Ḥanẓalah b. Abī ʿĀmir]] ﵁ — *Ghasīl al-Malāʾikah (Washed by the Angels)*
 - [[ʿAmr b. al-Jamūḥ]] ﵁ — *Chieftain of Banū Salimah who trod Paradise with his lame foot*
@@ -304,6 +305,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Jahjāh b. Saʿīd al-Ghifārī]] ﵁ — *Veteran of the Tree whose dispute at the well of al-Muraysīʿ led to the repudiation of Jāhiliyyah calls*
 
 ### Companions of al-Ṭāʾif & The Envoys
+- [[Farwah b. ʿAmr al-Judhāmī]] ﵁ — *Roman governor of Maʿān who embraced Islam, gifted the white mule al-Fiḍḍah, and was crucified at ʿAfrāʾ*
 - [[Abū Bakrah al-Thaqafī]] ﵁ — *Freedman of the Prophet ﷺ who scaled down the ramparts of al-Ṭāʾif with a pulley rope*
 - [[Mālik b. ʿAwf al-Naṣrī]] ﵁ — *Supreme commander of Hawāzin at Ḥunayn who embraced Islam, received 100 camels, and besieged Thaqīf*
 
