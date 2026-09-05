@@ -81,6 +81,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Sariyyat Abī ʿĀmir al-Ashʿarī ilā Awṭās]] (Shawwāl 8 AH) — *Rout of the Hawāzin Rearguard & Prophetic Prayer for the Ashʿarīs*
 - [[Ghazwat al-Ṭāʾif]] (Shawwāl 8 AH) — *The Siege of the Citadel, Ballistas, and Covenant of the Anṣār*
 - [[Qismat Ghanāʾim Ḥunayn bi-al-Jiʿrānah]] (Dhū al-Qaʿdah 8 AH) — *Division of Spoils, Address to the Anṣār, and Sacred Night Umrah*
+- [[Sariyyat al-Fuls]] (Rabīʿ al-Ākhir 9 AH) — *Demolition of the Idol of Ṭayyiʾ by [[ʿAlī b. Abī Ṭālib]] & Conversion of [[ʿAdī b. Ḥātim al-Ṭāʾī]]*
 - [[Ghazwat Tabūk]] (Rajab 9 AH) — *Jaysh al-ʿUsrah & The Confrontation on the Byzantine Frontier*
 - [[Hadam Masjid al-Ḍirār]] (Dhū al-Qaʿdah 9 AH) — *Eradication of the Outpost of Hypocrisy at Qubāʾ*
 - [[Ḥajjat Abī Bakr al-Ṣiddīq]] (Dhū al-Ḥijjah 9 AH) — *Purification of the Sanctuary & Proclamation of Sūrat Barāʾah by ʿAlī*
@@ -267,6 +268,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Hilāl b. Umayyah]] ﵁ — *Badri veteran, occasion of Liʿān, and one of the three penitents forgiven in Sūrat al-Tawbah*
 - [[Bishr b. al-Barāʾ]] ﵁ — *Veteran of Badr and martyr of Khaybar*
 - [[Abū Hurayrah]] ﵁ — *Preserver of Hadith who joined the Prophet ﷺ at Khaybar*
+- [[ʿAdī b. Ḥātim al-Ṭāʾī]] ﵁ — *Chieftain of Ṭayyiʾ, son of Ḥātim al-Ṭāʾī, steadfast leader of the Riddah, and conqueror of Iraq*
 - [[al-Aṣbagh b. ʿAmr al-Kalbī]] ﵁ — *Paramount king of Banū Kalb at Dūmat al-Jandal who embraced Islam*
 - [[Tumāḍir bint al-Aṣbagh]] ﵂ — *Princess of Banū Kalb, wife of [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁*
 - [[Abū Salamah b. ʿAbd al-Raḥmān]] — *Son of ʿAbd al-Raḥmān and Tumāḍir; one of the Seven Jurists of Medina*
