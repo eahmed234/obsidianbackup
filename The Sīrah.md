@@ -363,6 +363,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ### Frontier & Outlying Tribes
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
+- [[Banū Hawāzin]] — *The great Qaysī confederation of the Hijaz uplands; foster-kin of the Prophet ﷺ and adversaries of Ḥunayn*
+- [[Banū Thaqīf]] — *The mountain chieftains of al-Ṭāʾif, custodians of al-Lāt, and participants at Ḥunayn and al-Ṭāʾif*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
 
