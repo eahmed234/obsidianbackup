@@ -147,6 +147,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
 - [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
+- [[Umm Ḥabībah (Ramlah bint Abī Sufyān)]] ﵂ — *Umm al-Muʾminīn (Emigrant of Abyssinia, Contracted by the Negus, and Daughter of Abū Sufyān)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
 
@@ -185,6 +186,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
 - [[ʿAbdullāh b. Masʿūd]] ﵁ — *Custodian of the Prophet's Secrets*
 - [[ʿAbdullāh b. ʿUmar]] ﵁ — *Exemplar of Sunnah emulation and master jurist of Medina*
+- [[ʿAbdullāh b. al-Zubayr]] ﵁ — *Firstborn of the Muhājirūn in Medina, Fāris Quraysh, and Caliph*
 - [[ʿAbdullāh b. Umm Maktūm]] ﵁ — *Blind muezzin and 13-time deputy governor of Medina*
 - [[Salmān al-Fārisī]] ﵁ — *Architect of the Trench (From the Ahl al-Bayt)*
 - [[Zayd b. Ḥārithah]] ﵁ — *Ḥibb Rasūlillāh (Only Companion Named in the Qurʾān)*
