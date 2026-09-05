@@ -19,7 +19,7 @@ death: Shawwāl 43 AH (night of ʿĪd al-Fiṭr, Egypt, aged over 80; buried at 
 kunya: Abū ʿAbdillāh (and Abū Muḥammad)
 lineage: "Banū Sahm (Quraysh); ʿAmr b. al-ʿĀṣ b. Wāʾil al-Sahmī"
 notable_status: "Master diplomat and strategist (dahiyat al-ʿArab); commander of Dhāt al-Salāsil; emissary to Oman; liberator and governor of Egypt"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 388–392; vol. 5, pp. 180–186, 208, 252; vol. 6, pp. 200–205; vol. 11, pp. 341, 375); [[al-Iṣābah]] (vol. 4, pp. 538–541, no. 5896)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 388–392; vol. 5, pp. 180–186, 208, 252; vol. 6, pp. 167–175; vol. 11, pp. 341, 375); [[al-Iṣābah]] (vol. 4, pp. 538–541, no. 5896)"
 ---
 
 # ʿAmr b. al-ʿĀṣ (عمرو بن العاص السهمي) ﵁
@@ -48,7 +48,7 @@ When ʿAmr sat before the Prophet ﷺ, he stretched forth his hand to pledge all
 
 ## 4. Military Commands & Prophetic Emissary
 Recognizing his keen political intellect and military capability, the Messenger of Allāh ﷺ drew ʿAmr close and entrusted him with high responsibilities (*al-Iṣābah*, 4:539):
-- **Command of Dhāt al-Salāsil (8 AH)**: Just months after his conversion, the Prophet ﷺ appointed him supreme commander over the expedition of **Dhāt al-Salāsil** in northern Arabia. When reinforcements were sent, commanded by **[[Abū ʿUbaydah b. al-Jarrāḥ]]** ﵁ and including **[[Abū Bakr al-Ṣiddīq]]** ﵁ and **[[ʿUmar b. al-Khaṭṭāb]]** ﵁, ʿAmr retained overall command (*Subul al-Hudā*, 6:200–205; *al-Iṣābah*, 4:539). ʿAmr demonstrated exceptional tactical caution: he prohibited fires by night to conceal their numbers and prevented pursuit into unfamiliar gorges, decisions the Prophet ﷺ fully affirmed upon their return (*Subul al-Hudā*, 6:203).
+- **Command of Dhāt al-Salāsil (8 AH)**: Just months after his conversion, the Prophet ﷺ appointed him supreme commander over the expedition of **[[Sariyyat Dhāt al-Salāsil]]** in northern Arabia (*Subul al-Hudā*, 6:167–175; *al-Iṣābah*, 4:539). When reinforcements were sent, commanded by **[[Abū ʿUbaydah b. al-Jarrāḥ]]** ﵁ and including **[[Abū Bakr al-Ṣiddīq]]** ﵁ and **[[ʿUmar b. al-Khaṭṭāb]]** ﵁, ʿAmr retained overall command (*Subul al-Hudā*, 6:167–168). ʿAmr demonstrated exceptional tactical caution: he prohibited fires by night to conceal their numbers, prevented pursuit into unfamiliar gorges, and performed tayammum in severe cold, decisions the Prophet ﷺ fully affirmed upon their return (*Subul al-Hudā*, 6:168–170).
 - **Conquest of Mecca (8 AH)**: Marched at the head of the right flank during **[[Fatḥ Makkah]]** (*al-Iṣābah*, 4:539; *Subul al-Hudā*, 5:208). Following the conquest, the Prophet ﷺ dispatched him to demolish the idol of **Suwāʿ** belonging to the tribe of Hudhayl (*Subul al-Hudā*, 5:252).
 - **Sole Governor and Diplomat to Oman**: The Messenger of Allāh ﷺ dispatched ʿAmr with a Prophetic letter to the co-rulers of Oman, Jayfar and ʿAbd, the sons of al-Julandā (*Subul al-Hudā*, 11:341, 375). ʿAmr successfully brought them into Islam, administered the territory, collected zakāt, and governed Oman until the Prophet's passing (*al-Iṣābah*, 4:539; *Subul al-Hudā*, 11:341, 375).
 
@@ -75,5 +75,5 @@ During the caliphate of ʿUmar, ʿAmr liberated Palestine, conquered Qinnasrīn,
 1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, pp. 538–541, no. 5896 (*Tarjamatu ʿAmr b. al-ʿĀṣ*).
 2. *[[Subul al-Hudā war-Rashād]]*, vol. 2, pp. 388–392 (*Wafd Quraysh ilā al-Najāshī*).
 3. *Subul al-Hudā*, vol. 5, pp. 180–186 (*Islām ʿAmr b. al-ʿĀṣ*); vol. 5, pp. 208, 252 (*Fatḥ Makkah wa-Hadam Suwāʿ*).
-4. *Subul al-Hudā*, vol. 6, pp. 200–205 (*Sariyyat Dhāt al-Salāsil*).
+4. *Subul al-Hudā*, vol. 6, pp. 167–175 (*Sariyyat Dhāt al-Salāsil*).
 5. *Subul al-Hudā*, vol. 11, p. 341 (*Kuttābuhu ﷺ: ʿAmr b. al-ʿĀṣ*); vol. 11, p. 375 (*Wafāt ʿAmr b. al-ʿĀṣ*).

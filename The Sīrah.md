@@ -74,6 +74,8 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
 - [[ʿUmrat al-Qaḍāʾ]] (Dhū al-Qaʿdah 7 AH) — *The Compensatory Pilgrimage, Ramal & Adhān Atop the Kaʿbah*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
+- [[Sariyyat Dhāt al-Salāsil]] (Jumādā al-Ākhirah 8 AH) — *The Northern Borderland Deterrence & Tactical Precedents of ʿAmr b. al-ʿĀṣ*
+- [[Sariyyat Sayf al-Baḥr (al-Khabaṭ)]] (Rajab 8 AH) — *The Severe Trial of Famine, Acacia Leaves & Miracle of the Colossal Whale*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā]] (Ramaḍān 8 AH) — *Obliteration of the Supreme Idol of Quraysh & Kinānah*
 - [[Sariyyat ʿAmr b. al-ʿĀṣ ilā Suwāʿ]] (Ramaḍān 8 AH) — *Demolition of the Ancient Idol of Hudhayl*

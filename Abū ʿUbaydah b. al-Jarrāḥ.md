@@ -15,7 +15,7 @@ tags:
   - commander
 birth: ~40 BH (583 CE, Makkah)
 death: 18 AH (639 CE, martyred in the Plague of ʿAmwās, Jordan, aged 58)
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 92, 206; vol. 6, pp. 185, 200–202; vol. 11, pp. 322–325); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 3, pp. 475–478, no. 4418; vol. 7, p. 225, no. 10233)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 92, 206; vol. 6, pp. 167–183; vol. 11, pp. 322–325); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 3, pp. 475–478, no. 4418; vol. 7, p. 225, no. 10233)"
 ---
 
 # Abū ʿUbaydah b. al-Jarrāḥ (أبو عبيدة عامر بن الجراح) ﵁
@@ -60,11 +60,11 @@ At **[[Ghazwat Badr al-Kubrā]]**, Abū ʿUbaydah's polytheist father ʿAbdullā
 ### Sacrifice at Uḥud (3 AH)
 When polytheist strikes fractured the Prophet's helmet at **[[Ghazwat Uḥud]]**, embedding two iron links (*ḥalaqatā al-mighfar*) deeply into his cheeks, Abū ʿUbaydah pleaded with Abū Bakr: *"I adjure you by Allāh, O Abū Bakr, leave it to me!"* Fearing to wrench the metal with his fingers and cause agony to the Prophet ﷺ, Abū ʿUbaydah bit the first link with his incisor and pulled steadily until it yielded, snapping his tooth. He then gripped the second link with his other incisor until it came free, breaking his second tooth (*al-Iṣābah*, 3:475; *Subul al-Hudā*, 4:206; 11:323).
 
-### Sariyyat al-Khabat & the Giant Whale (8 AH)
-Appointed commander over three hundred Muhājirūn and Anṣār dispatched toward the Red Sea coast (*Sariyyat al-Khabat*). When their rations ran out, they survived on dry leaves (*khabat*) beaten down from desert thorn-trees, until the sea cast ashore a colossal sperm whale (*al-ʿanbar*). Abū ʿUbaydah told his starving men: *"We are the emissaries of the Messenger of Allāh ﷺ and in the path of Allāh; eat!"* The entire three-hundred-man army fed upon its blubber and meat for over twenty days, regaining full vigor, and carried dried provisions back to Medina, where the Prophet ﷺ ate from it (*al-Iṣābah*, 3:476; *Subul al-Hudā*, 6:185; 11:323).
+### Sariyyat Sayf al-Baḥr (al-Khabaṭ) & the Giant Whale (8 AH)
+Appointed commander over three hundred Muhājirūn and Anṣār dispatched toward the Red Sea coast on **[[Sariyyat Sayf al-Baḥr (al-Khabaṭ)]]**. When their rations ran out, they survived on dry leaves (*khabat*) beaten down from desert thorn-trees, until the sea cast ashore a colossal sperm whale (*al-ʿanbar*). Abū ʿUbaydah told his starving men: *"We are the emissaries of the Messenger of Allāh ﷺ and in the path of Allāh; eat!"* The entire three-hundred-man army fed upon its blubber and meat for over twenty days, regaining full vigor, and carried dried provisions back to Medina, where the Prophet ﷺ ate from it (*al-Iṣābah*, 3:476; *Subul al-Hudā*, 6:185; 11:323).
 
 ### Reinforcements at Dhāt al-Salāsil
-When ʿAmr b. al-ʿĀṣ requested reinforcements at Dhāt al-Salāsil, the Prophet ﷺ dispatched an elite relief detachment under Abū ʿUbaydah, including Abū Bakr and ʿUmar, instructing him: *"Work together and do not dispute."* When ʿAmr insisted on retaining overall command, Abū ʿUbaydah gracefully deferred for the sake of unity, saying: *"Even if you disobey me, I shall obey you!"* (*al-Iṣābah*, 3:477; *Subul al-Hudā*, 6:200–202).
+When ʿAmr b. al-ʿĀṣ requested reinforcements on **[[Sariyyat Dhāt al-Salāsil]]**, the Prophet ﷺ dispatched an elite relief detachment under Abū ʿUbaydah, including Abū Bakr and ʿUmar, instructing him: *"Work together and do not dispute."* When ʿAmr insisted on retaining overall command, Abū ʿUbaydah gracefully deferred for the sake of unity, saying: *"Even if you disobey me, I shall obey you!"* (*al-Iṣābah*, 3:477; *Subul al-Hudā*, 6:200–202).
 
 ### Envoy to Najrān & Yemen
 When the Christians of Najrān and the tribes of Yemen requested a trustworthy teacher, the Prophet ﷺ took Abū ʿUbaydah by the hand and dispatched him, declaring: *"This is the trustworthy man of this Ummah"* (*al-Iṣābah*, 3:476; *Subul al-Hudā*, 11:323).
@@ -85,4 +85,4 @@ He succumbed to the plague at the age of fifty-eight (or according to Ibn Isḥ�
 
 ## 5. References
 1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 3, pp. 475–478, entry no. 4418 (*ʿĀmir b. ʿAbdillāh Abū ʿUbaydah b. al-Jarrāḥ*); vol. 7, p. 225, entry no. 10233.
-2. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 92, 206; vol. 6, pp. 185, 200–202; vol. 11, pp. 322–325.
+2. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 92, 206; vol. 6, pp. 167–183; vol. 11, pp. 322–325.
