@@ -179,6 +179,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Lubaybah]] ﵂ — *Tortured by ʿUmar Before His Own Conversion*
 - [[Umm ʿUnays]] ﵂ — *Slave of Banū Zuhrah, Tortured by al-Aswad b. ʿAbd Yaghūth*
 - [[al-Nahdiyyah]] ﵂ — *Freed by Abū Bakr Alongside Her Daughter*
+- [[ʿAyyāsh b. Abī Rabīʿah]] ﵁ — *Early Muhājir of Abyssinia, imprisoned confinee of Makkah, and deliveree of Prophetic Qunūt*
+- [[Hishām b. al-ʿĀṣ]] ﵁ — *Believing brother of ʿAmr b. al-ʿĀṣ, penitent of Sūrat al-Zumar, and martyr of Ajnādayn*
 - [[al-Arqam b. Abī al-Arqam]] ﵁ — *Host of the Muslims at Dār al-Arqam*
 - [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
