@@ -133,8 +133,13 @@ if (fs.existsSync(themeFile)) {
 
 
 // 4. Match Obsidian dynamic graph behavior (interactive hover-revealed labels, direct pointerover, crisp text)
-const graphFile = `${prefix}node_modules/@quartz-community/graph/dist/index.js`;
-if (fs.existsSync(graphFile)) {
+const graphFiles = [
+  `${prefix}node_modules/@quartz-community/graph/dist/index.js`,
+  `${prefix}node_modules/@quartz-community/graph/dist/components/index.js`
+];
+
+for (const graphFile of graphFiles) {
+  if (!fs.existsSync(graphFile)) continue;
   let text = fs.readFileSync(graphFile, "utf8");
 
   // A. Generous hitArea on bubbles so hover is immediate and accurate
@@ -183,7 +188,7 @@ if (fs.existsSync(graphFile)) {
   }
 
   fs.writeFileSync(graphFile, text);
-  console.log("Patched graph component for dynamic Obsidian-style labels and smooth physics.");
+  console.log(`Patched graph component in ${graphFile} for dynamic Obsidian-style labels and smooth physics.`);
 }
 
 console.log("Quartz node_modules patched successfully for clean ASCII slugs!");
