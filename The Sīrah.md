@@ -105,6 +105,10 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Khilāfat Abī Bakr al-Ṣiddīq]] (11–13 AH) — *Consolidation of the Realm, Suppression of Apostasy, and First Scribing of the Codex*
   - [[Ḥurūb al-Riddah]] (11–12 AH) — *The Wars of Apostasy & Epic of the Garden of Death*
   - [[Jamʿ al-Qurʾān]] (12 & 25 AH) — *The Historical Compilation & ʿUthmānic Standardization of the Holy Qurʾān*
+- [[Khilāfat ʿUmar b. al-Khaṭṭāb]] (13–23 AH) — *The Era of al-Fārūq, Civic Institutions, and the Imperial Openings*
+  - [[Ghazwat al-Yarmūk]] (15 AH) — *The Decisive Shattering of the Byzantine Roman Legions*
+  - [[Ghazwat al-Qādisiyyah]] (15 AH) — *The Slaying of Rostam & Fall of Sasanian Mesopotamia*
+  - [[Fatḥ Bayt al-Maqdis]] (16 AH) — *The Peaceful Opening of Jerusalem & al-ʿUhdah al-ʿUmariyyah*
 
 ---
 

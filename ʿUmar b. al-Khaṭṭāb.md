@@ -102,10 +102,10 @@ Multiple Qurʾānic verses were revealed in direct confirmation of ʿUmar's judg
 ---
 
 ## 4. Caliphate, Martyrdom & Legacy
-Elected Second Caliph in Jumādā al-Ākhirah 13 AH following the designation of **[[Abū Bakr al-Ṣiddīq]]** ﵁, ʿUmar was the first to receive the formal title **Amīr al-Muʾminīn** (*Subul al-Hudā*, 11:263, 275). His decade-long administration established the foundational civic institutions of the Islamic state:
+Elected Second Caliph in Jumādā al-Ākhirah 13 AH following the designation of **[[Abū Bakr al-Ṣiddīq]]** ﵁ (see master entry **[[Khilāfat ʿUmar b. al-Khaṭṭāb]]**), ʿUmar was the first to receive the formal title **Amīr al-Muʾminīn** (*Subul al-Hudā*, 11:263, 275). His decade-long administration established the foundational civic institutions of the Islamic state:
 - Established the official Islamic Hijrī calendar dating from the migration (*Subul al-Hudā*, 12:36).
 - Organized the central treasury (*Bayt al-Māl*), administrative registers (*dawāwīn*), postal relays, and provincial judicial oversight (*Subul al-Hudā*, 11:275).
-- Directed the liberation of Jerusalem (*Bayt al-Maqdis*), Damascus, the Levant, Egypt, and the collapse of the Sasanian empire at al-Yarmūk, al-Qādisiyyah, Jalūlāʾ, and Nahāwand (*Subul al-Hudā*, 11:275).
+- Directed the liberation of Jerusalem (**[[Fatḥ Bayt al-Maqdis]]**), Damascus, the Levant, Egypt, and the collapse of the Sasanian empire at **[[Ghazwat al-Yarmūk]]**, **[[Ghazwat al-Qādisiyyah]]**, Jalūlāʾ, and Nahāwand (*Subul al-Hudā*, 11:275).
 
 ### Martyrdom and Burial
 On Wednesday, four nights remaining in Dhū al-Ḥijjah 23 AH (26 Dhū al-Ḥijjah 23 AH), while initiating the dawn prayer in al-Masjid al-Nabawī, ʿUmar was attacked by Abū Luʾluʾah Fīrūz, a Persian slave of al-Mughīrah b. Shuʿbah (*Subul al-Hudā*, 11:274). The assassin struck him with a poisoned two-bladed dagger in the shoulder and flank, and wounded thirteen other worshippers (seven of whom died) before taking his own life when trapped under an Iraqi cloak (*Subul al-Hudā*, 11:274–275). 
