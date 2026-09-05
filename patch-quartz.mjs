@@ -164,18 +164,18 @@ for (const graphFile of graphFiles) {
   }
 
   // D. Dynamic label visibility matching Obsidian:
-  //    - Idle: labels are hidden (or faint at high zoom)
+  //    - Idle: labels are 100% hidden (clean, uncluttered graph)
   //    - Hovered node: label is 100% visible, scaled up, and elevated to top
-  //    - Neighbor nodes: labels become visible (0.85 alpha) so you see connections!
+  //    - Neighbor nodes: labels become visible (0.9 alpha) so you see connections!
   const oldQe = "function qe(){for(var i=1/qu,l=i*1.1,F=0;F<L.length;F++){var A=L[F];_u===A.simulationData.id?(A.label.alpha=1,A.label.scale.set(l)):A.label.scale.set(i)}}";
-  const newQe = "function qe(){for(var i=1/qu,l=i*1.2,F=0;F<L.length;F++){var A=L[F];if(_u===A.simulationData.id){A.label.alpha=1;A.label.scale.set(l);vu.addChild(A.label)}else if(_u!==null&&A.active){A.label.alpha=0.85;A.label.scale.set(i);vu.addChild(A.label)}else{A.label.scale.set(i);A.label.alpha=P.k>2.2?Math.min(1,(P.k-2.2)*0.8):0}}}";
+  const newQe = "function qe(){for(var i=1/qu,l=i*1.2,F=0;F<L.length;F++){var A=L[F];if(_u===A.simulationData.id){A.label.alpha=1;A.label.scale.set(l);vu.addChild(A.label)}else if(_u!==null&&A.active){A.label.alpha=0.9;A.label.scale.set(i);vu.addChild(A.label)}else{A.label.scale.set(i);A.label.alpha=0}}}";
   if (text.includes(oldQe)) {
     text = text.replace(oldQe, newQe);
   }
 
   // E. Zoom label updates: maintain dynamic hover visibility while zooming
   const oldUt = "for(var v=0;v<vu.children.length;v++){var j=vu.children[v];A.indexOf(j)===-1&&(j.alpha=F)}";
-  const newUt = "for(var v=0;v<vu.children.length;v++){var j=vu.children[v];if(A.indexOf(j)===-1){j.alpha=_u===null?(P.k>2.2?Math.min(1,(P.k-2.2)*0.8):0):0}}";
+  const newUt = "for(var v=0;v<vu.children.length;v++){var j=vu.children[v];if(A.indexOf(j)===-1){j.alpha=0}}";
   if (text.includes(oldUt)) {
     text = text.replace(oldUt, newUt);
   }
@@ -187,8 +187,29 @@ for (const graphFile of graphFiles) {
     text = text.replace(oldSim, newSim);
   }
 
+  // G. Homepage "/" and "index" resolution to "the-sirah"
+  const oldM = "var m=Fu(w);m===\"\"&&(m=\"index\");";
+  const newM = "var m=Fu(w);(m===\"\"||m===\"/\")&&(m=\"the-sirah\");m===\"index\"&&(m=\"the-sirah\");";
+  if (text.includes(oldM)) {
+    text = text.replace(oldM, newM);
+  }
+
+  // H. Generous drag hit tolerance (20px instead of 5px)
+  const oldJe = "var Je=function(i){for(var l=(i.x-P.x)/P.k,F=(i.y-P.y)/P.k,A=0;A<nu.length;A++){var v=nu[A],j=l-v.x-R/2,N=F-v.y-O/2,K=Math.sqrt(j*j+N*N),gu=ae(v);if(K<gu+5)return v}return null}";
+  const newJe = "var Je=function(i){for(var l=(i.x-P.x)/P.k,F=(i.y-P.y)/P.k,A=0;A<nu.length;A++){var v=nu[A],j=l-v.x-R/2,N=F-v.y-O/2,K=Math.sqrt(j*j+N*N),gu=Math.max(ae(v)+12,20);if(K<gu)return v}return null}";
+  if (text.includes(oldJe)) {
+    text = text.replace(oldJe, newJe);
+  }
+
+  // I. Full canvas-level pointermove hit detection (guarantees 100% of dots respond on hover without pixel-hunting)
+  const oldDrag = "Qe=a.drag().container(Z.canvas).subject(Je).on(\"start\",Xe).on(\"drag\",Ye).on(\"end\",Ze);a.select(Z.canvas).call(Qe)";
+  const newDrag = "Qe=a.drag().container(Z.canvas).subject(Je).on(\"start\",Xe).on(\"drag\",Ye).on(\"end\",Ze);a.select(Z.canvas).call(Qe);Z.canvas.addEventListener(\"pointermove\",function(ev){var rect=Z.canvas.getBoundingClientRect();var sx=ev.clientX-rect.left,sy=ev.clientY-rect.top;var wx=(sx-P.x)/P.k-R/2,wy=(sy-P.y)/P.k-O/2;var hit=null,minDist=Infinity;for(var ai=0;ai<nu.length;ai++){var node=nu[ai];var dx=wx-node.x,dy=wy-node.y;var dist=Math.sqrt(dx*dx+dy*dy);var rHit=Math.max(ae(node)+10,18);if(dist<rHit&&dist<minDist){minDist=dist;hit=node;}}if(hit){if(_u!==hit.id){Wu(hit.id);Au();Z.canvas.style.cursor=\"pointer\";}}else{if(_u!==null&&!Eu){Wu(null);Au();Z.canvas.style.cursor=\"default\";}}});Z.canvas.addEventListener(\"pointerleave\",function(){if(!Eu&&_u!==null){Wu(null);Au();Z.canvas.style.cursor=\"default\";}});";
+  if (text.includes(oldDrag) && !text.includes("Z.canvas.addEventListener(\"pointermove\"")) {
+    text = text.replace(oldDrag, newDrag);
+  }
+
   fs.writeFileSync(graphFile, text);
-  console.log(`Patched graph component in ${graphFile} for dynamic Obsidian-style labels and smooth physics.`);
+  console.log(`Patched graph component in ${graphFile} for dynamic Obsidian-style labels, 100% reliable canvas hover, and smooth physics.`);
 }
 
 console.log("Quartz node_modules patched successfully for clean ASCII slugs!");

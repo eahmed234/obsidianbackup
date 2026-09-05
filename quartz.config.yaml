@@ -149,11 +149,11 @@ plugins:
         drag: true
         zoom: true
         depth: 1
-        scale: 1.1
-        repelForce: 0.8
-        centerForce: 0.3
-        linkDistance: 45
-        fontSize: 0.65
+        scale: 1.0
+        repelForce: 1.5
+        centerForce: 0.2
+        linkDistance: 60
+        fontSize: 0.6
         opacityScale: 1
         showTags: true
         removeTags: []
@@ -163,11 +163,11 @@ plugins:
         drag: true
         zoom: true
         depth: -1
-        scale: 0.95
-        repelForce: 0.7
-        centerForce: 0.25
-        linkDistance: 40
-        fontSize: 0.65
+        scale: 0.9
+        repelForce: 1.2
+        centerForce: 0.15
+        linkDistance: 50
+        fontSize: 0.6
         opacityScale: 1
         showTags: true
         removeTags: []
