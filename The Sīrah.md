@@ -64,6 +64,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat al-Khandaq]] (5 AH) — *Battle of the Trench (The Grand Confederate Siege)*
 - [[Ghazwat Banī Qurayẓah]] (5 AH) — *Judgment of Saʿd b. Muʿādh on Wartime Treason*
 - [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
+- [[Sariyyat al-Quraṭāʾ]] (al-Muḥarram 6 AH) — *Commanded by [[Muḥammad b. Maslamah]] & Capture of [[Thumāmah b. Uthāl]]*
 - [[Ghazwat Dhī Qarad]] (6 AH) — *The Expedition of al-Ghābah & The Sprint of Ibn al-Akwaʿ*
 - [[Ghazwat Banī Liḥyān]] (6 AH) — *The Punitive March to ʿUsfān & Deterrence of Quraysh*
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
@@ -317,6 +318,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ### Companions of the Early Expeditions
 - [[Duʿthūr b. al-Ḥārith]] ﵁ — *Chieftain of Ghaṭafān who drew his sword over the Prophet at Dhū Amr, struck by Jibrīl ﵊, and embraced Islam*
+- [[Thumāmah b. Uthāl]] ﵁ — *Chieftain of Banū Ḥanīfah, first pilgrim of the Talbiyah in Makkah, imposer of the Yamāmah wheat embargo, and martyr of Bahrain*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
