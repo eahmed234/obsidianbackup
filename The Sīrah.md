@@ -55,6 +55,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Banī Sulaym]] (Shawwāl 2 AH) — *Expedition of Qarqarat al-Kudr & Emancipation of Yasār*
 - [[Ghazwat al-Suwayq]] (Dhū al-Ḥijjah 2 AH) — *Abū Sufyān's Hit-and-Run Raid & The Jettisoned Barley Meal*
 - [[Ghazwat Dhī Amr]] (Ṣafar 3 AH) — *Preemptive Strike in Najd & Conversion of Duʿthūr*
+- [[Sariyyat al-Qaradah]] (Jumādā al-Ākhirah 3 AH) — *Interception of the Najd Route & First Command of Zayd b. Ḥārithah*
 - [[Ghazwat Uḥud]] (7 Shawwāl 3 AH) — *The Trial of Archers & 70 Martyrs*
 - [[Ghazwat Ḥamrāʾ al-Asad]] (8 Shawwāl 3 AH) — *The Resolute Pursuit of Deterrence*
 - [[Maʾsāt Biʾr Maʿūnah]] (4 AH) — *Massacre of the 70 Reciters & Qunūt al-Nāzilah*
@@ -317,6 +318,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ### Companions of the Early Expeditions
 - [[Duʿthūr b. al-Ḥārith]] ﵁ — *Chieftain of Ghaṭafān who drew his sword over the Prophet at Dhū Amr, struck by Jibrīl ﵊, and embraced Islam*
+- [[Furāt b. Ḥayyān]] ﵁ — *Desert navigator, guide of Quraysh intercepted at al-Qaradah, who accepted Islam and settled in al-Kūfah*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
