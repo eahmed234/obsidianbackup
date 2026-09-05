@@ -135,6 +135,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbd al-Muṭṭalib]] — *Grandfather & second guardian; rediscoverer of Zamzam*
 - [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
 - [[Abū Ṭālib]] — *Paternal uncle, third guardian, and shield of the Makkan years*
+- [[al-Zubayr b. ʿAbd al-Muṭṭalib]] — *Paternal uncle, elder of Banū Hāshim, and initiator of the historic Ḥilf al-Fuḍūl*
 - [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ḥalīmah al-Saʿdiyyah]] ﵂ — *Wet-nurse whose poverty turned to abundance the moment she took him*
 - [[Umm Ayman]] ﵂ — *Lifelong nursemaid ("my mother after my mother"), mother of [[Usāmah b. Zayd]]*
@@ -291,6 +292,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Qays b. Saʿd b. ʿUbādah]] ﵁ — *Prophetic security commander, knight of the Anṣār, and standard-bearer of Fatḥ Makkah*
 - [[Ṣafwān b. Umayyah]] ﵁ — *Chieftain of Banū Jumaḥ who provided 100 coats of mail as a guaranteed loan for Ḥunayn and embraced Islam at Jiʿrānah*
 - [[Hind bint ʿUtbah]] ﵂ — *Noble matron of Banū ʿAbd Shams, mother of Muʿāwiyah, and eloquent voice of the women's pledge on Mount al-Ṣafā*
+- [[Muʿāwiyah b. Abī Sufyān]] ﵁ — *Scribe of Prophetic correspondence, governor of Syria, and founder of the Umayyad Caliphate*
 - [[Umm Ḥakīm bint al-Ḥārith]] ﵂ — *Chivalric matron of Banū Makhzūm who secured the pardon of ʿIkrimah and slew seven Romans with a tent pole at Marj al-Ṣuffar*
 - [[ʿAbdullāh b. al-Zibaʿrā]] ﵁ — *Premier poet of Quraysh who offered his heartfelt panegyric of repentance and was gifted an honorary mantle by the Prophet ﷺ*
 
