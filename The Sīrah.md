@@ -72,6 +72,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
+- [[ʿUmrat al-Qaḍāʾ]] (Dhū al-Qaʿdah 7 AH) — *The Compensatory Pilgrimage, Ramal & Adhān Atop the Kaʿbah*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā]] (Ramaḍān 8 AH) — *Obliteration of the Supreme Idol of Quraysh & Kinānah*
@@ -148,6 +149,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
 - [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
+- [[Maymūnah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Blessed, Last Wed by the Prophet ﷺ at Saraf)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
 
