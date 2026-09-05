@@ -87,6 +87,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[ʿĀm al-Wufūd]] (9–10 AH) — *The Year of Delegations & Fulfillment of Sūrat al-Naṣr*
   - [[Wafd Thaqīf]] (9 AH) — *Submission of al-Ṭāʾif & Demolition of al-Lāt*
   - [[Wafd Banī Tamīm]] (9 AH) — *The Oratorical Contest & Sūrat al-Ḥujurāt*
+  - [[Wafd Bahrāʾ]] — *The Yemeni Delegation, Hospitality of al-Miqdād, and Miracle of the Bowl of Ḥays*
   - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
 - [[Sariyyat ʿAlī b. Abī Ṭālib ilā al-Yaman]] (Ramaḍān 10 AH) — *Conversion of Madhḥij and Hamdān in a Single Day*
 
@@ -230,6 +231,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
+- [[Maslamah b. Mukhallad]] ﵁ — *Compiler of the Qurʾān, narrator of the Prophet's supplication for Muʿāwiyah, and ruler of Egypt and the Maghrib*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
 
 ### The Companies of the Community
