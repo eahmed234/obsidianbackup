@@ -195,6 +195,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
 - [[ʿAmr b. al-ʿĀṣ]] ﵁ — *Statesman & Commander of Dhāt al-Salāsil*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
+- [[al-Mughīrah b. Shuʿbah]] ﵁ — *Dahyat al-ʿArab, Guardian at Ḥudaybiyah, and Conqueror of Maysān*
 - [[al-Najāshī (Aṣḥamah)]] ﵁ — *Righteous Monarch of Abyssinia*
 
 ### Chieftains & Heroes of the Anṣār
@@ -208,6 +209,9 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Zayd b. Thābit]] ﵁ — *Chief Scribe of Revelation & Compiler of the Qurʾān*
 - [[Ubayy b. Kaʿb]] ﵁ — *Sayyid al-Qurrāʾ & Scribe of Revelation*
 - [[Anas b. Mālik]] ﵁ — *Khādim Rasūlillāh for Ten Years*
+- [[Ḥassān b. Thābit]] ﵁ — *Shāʿir al-Rasūl, Aided by the Holy Spirit (Rūḥ al-Qudus)*
+- [[Thābit b. Qays]] ﵁ — *Khaṭīb Rasūlillāh, Promised Paradise, and Martyr of al-Yamāmah*
+- [[Ḥudhayfah b. al-Yamān]] ﵁ — *Ṣāḥib Sirr Rasūlillāh & Catalyst of the ʿUthmānic Qurʾān Codex*
 - [[Kaʿb b. Mālik]] ﵁ — *Shāʿir al-Islām & Penitent of Tabūk*
 - [[al-Ḥubāb b. al-Mundhir]] ﵁ — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
 - [[ʿAbdullāh b. Rawāḥah]] ﵁ — *Shāʿir Rasūlillāh & Third Commander at Muʾtah*
