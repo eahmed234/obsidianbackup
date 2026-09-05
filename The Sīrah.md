@@ -70,6 +70,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
+- [[Kutub al-Nabī ﷺ ilā al-Mulūk]] (7 AH) — *The Universal Diplomatic Embassies to Heraclius, Chosroes, Negus, and Muqawqis*
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
 - [[ʿUmrat al-Qaḍāʾ]] (Dhū al-Qaʿdah 7 AH) — *The Compensatory Pilgrimage, Ramal & Adhān Atop the Kaʿbah*
