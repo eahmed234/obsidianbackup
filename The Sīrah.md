@@ -149,6 +149,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[al-Ḥasan b. ʿAlī]] ﵁ — *Sayyid Shabāb Ahl al-Jannah, grandson of the Prophet ﷺ, and peacemaker of the Ummah*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
 - [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
@@ -165,6 +166,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### Foremost Muhājirūn Pioneers & Martyrs
 - [[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁ — *Sayyid al-Shuhadāʾ*
 - [[Jaʿfar b. Abī Ṭālib]] ﵁ — *Dhū al-Janāḥayn (The Flying)*
+- [[Asmāʾ bint ʿUmays]] ﵂ — *Ṣāḥibat al-Hijratayn, matron of three noble households, and interpreter of visions*
 - [[Muṣʿab b. ʿUmayr]] ﵁ — *The First Ambassador of Islam*
 - [[Bilāl b. Rabāḥ]] ﵁ — *Muʾadhdhin Rasūlillāh*
 - [[ʿAmmār b. Yāsir]] ﵁ — *The Early Martyr's Son & Slain by the Rebellious Faction*
