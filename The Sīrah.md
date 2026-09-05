@@ -72,6 +72,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
+- [[Sariyyat Baṭn Iḍam]] (Ramaḍān 8 AH) — *Operational Diversion before Makkah & Sūrat al-Nisāʾ 4:94*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā]] (Ramaḍān 8 AH) — *Obliteration of the Supreme Idol of Quraysh & Kinānah*
 - [[Sariyyat ʿAmr b. al-ʿĀṣ ilā Suwāʿ]] (Ramaḍān 8 AH) — *Demolition of the Ancient Idol of Hudhayl*
