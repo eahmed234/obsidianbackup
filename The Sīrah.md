@@ -291,6 +291,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Qays b. Saʿd b. ʿUbādah]] ﵁ — *Prophetic security commander, knight of the Anṣār, and standard-bearer of Fatḥ Makkah*
 - [[Ṣafwān b. Umayyah]] ﵁ — *Chieftain of Banū Jumaḥ who provided 100 coats of mail as a guaranteed loan for Ḥunayn and embraced Islam at Jiʿrānah*
 - [[Hind bint ʿUtbah]] ﵂ — *Noble matron of Banū ʿAbd Shams, mother of Muʿāwiyah, and eloquent voice of the women's pledge on Mount al-Ṣafā*
+- [[al-Ḥārith b. Hishām]] ﵁ — *Chieftain of Banū Makhzūm, sincere convert of the Conquest granted protection by Umm Hānī, and martyr of the Syrian frontier*
 - [[Umm Ḥakīm bint al-Ḥārith]] ﵂ — *Chivalric matron of Banū Makhzūm who secured the pardon of ʿIkrimah and slew seven Romans with a tent pole at Marj al-Ṣuffar*
 - [[ʿAbdullāh b. al-Zibaʿrā]] ﵁ — *Premier poet of Quraysh who offered his heartfelt panegyric of repentance and was gifted an honorary mantle by the Prophet ﷺ*
 
@@ -370,6 +371,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
+- [[Minā]] — *The Sacred Valley of Encampment, Pelting, Sacrifice, and the Pledges of al-ʿAqabah*
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
