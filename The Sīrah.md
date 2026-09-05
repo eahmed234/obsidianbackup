@@ -351,6 +351,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
 - [[Banū Taym]] — *Clan of Abū Bakr al-Ṣiddīq, Ṭalḥah, and host clan of Ḥilf al-Fuḍūl*
+- [[Banū ʿAbd al-Dār]] — *Hereditary standard-bearers of Quraysh and custodians of the keys to the Kaʿbah*
 
 ### The Anṣār of Yathrib
 - [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
@@ -365,6 +366,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ### Frontier & Outlying Tribes
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
+- [[Banū Sulaym]] — *The chivalric Qaysī tribe of the lava fields, vanguard of Fatḥ Makkah and Ḥunayn*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
 
