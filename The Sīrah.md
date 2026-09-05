@@ -189,6 +189,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Salmān al-Fārisī]] ﵁ — *Architect of the Trench (From the Ahl al-Bayt)*
 - [[Zayd b. Ḥārithah]] ﵁ — *Ḥibb Rasūlillāh (Only Companion Named in the Qurʾān)*
 - [[Usāmah b. Zayd]] ﵁ — *Ḥibb Rasūlillāh wa-Ibn Ḥibbihi*
+- [[Abū Rāfiʿ]] ﵁ — *Aslam al-Qibṭī; loyal freedman of the Prophet ﷺ and eyewitness of Khaybar*
 - [[Ḥāṭib b. Abī Baltaʿah]] ﵁ — *Veteran of Badr & Envoy to Alexandria*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
 - [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
@@ -291,6 +292,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Qays b. Saʿd b. ʿUbādah]] ﵁ — *Prophetic security commander, knight of the Anṣār, and standard-bearer of Fatḥ Makkah*
 - [[Ṣafwān b. Umayyah]] ﵁ — *Chieftain of Banū Jumaḥ who provided 100 coats of mail as a guaranteed loan for Ḥunayn and embraced Islam at Jiʿrānah*
 - [[Hind bint ʿUtbah]] ﵂ — *Noble matron of Banū ʿAbd Shams, mother of Muʿāwiyah, and eloquent voice of the women's pledge on Mount al-Ṣafā*
+- [[Abū Barzah al-Aslamī]] ﵁ — *Naḍlah b. ʿUbayd; valiant warrior of Aslam and enforcer of the Prophetic judgment upon Ibn Khaṭal*
 - [[Umm Ḥakīm bint al-Ḥārith]] ﵂ — *Chivalric matron of Banū Makhzūm who secured the pardon of ʿIkrimah and slew seven Romans with a tent pole at Marj al-Ṣuffar*
 - [[ʿAbdullāh b. al-Zibaʿrā]] ﵁ — *Premier poet of Quraysh who offered his heartfelt panegyric of repentance and was gifted an honorary mantle by the Prophet ﷺ*
 
