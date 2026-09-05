@@ -249,7 +249,9 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Yāmīn b. ʿUmayr]] ﵁ — *Israeli Companion of Banū al-Naḍīr who preserved his estates and aided Tabūk*
 - [[Abū Saʿd b. Wahb]] ﵁ — *Companion of Banū al-Naḍīr who embraced Islam during the siege and narrated on water rights*
 - [[Khallād b. Suwayd]] ﵁ — *Badri veteran and martyr of Banū Qurayẓah who was granted the reward of two martyrs*
+- [[ʿUkkāshah b. Miḥṣan]] ﵁ — *Badri knight whose shattered sword turned to wood, entered Paradise without reckoning, and martyr of Buzākhah*
 - [[Abū Sinān b. Miḥṣan]] ﵁ — *Elder brother of ʿUkkāshah b. Miḥṣan, Badri veteran, and martyr of Banū Qurayẓah*
+- [[ʿAbdullāh b. Suhayl]] ﵁ — *Early convert who dramatically crossed enemy lines at Badr, veteran of Ḥudaybiyah, and martyr of al-Yamāmah*
 - [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
 - [[Anas b. al-Naḍr]] ﵁ — *Hero of Uḥud who scented the fragrance of Paradise*
 - [[Ḥanẓalah b. Abī ʿĀmir]] ﵁ — *Ghasīl al-Malāʾikah (Washed by the Angels)*
