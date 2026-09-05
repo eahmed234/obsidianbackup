@@ -1,0 +1,9 @@
+# Quartz build engine and output
+.quartz/
+public/
+node_modules/
+index.md
+
+# OS files
+.DS_Store
+Thumbs.db

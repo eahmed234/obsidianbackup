@@ -17,7 +17,7 @@ kunya: Abū ʿAlī
 tribe: Hawāzin
 clan: Banū Naṣr b. Muʿāwiyah
 battles:
-  - "[[Ghazwat Ḥunayn]]" (opponent, then convert)
+  - '"[[Ghazwat Ḥunayn]]" (opponent, then convert)'
   - "[[Ghazwat al-Ṭāʾif]]"
   - Conquest of Damascus
 primary_source: "*al-Iṣābah*, 5:551–552 (no. 7690); *Subul al-Hudā*, 5:310–335; 5:405"
