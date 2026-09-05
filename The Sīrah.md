@@ -144,6 +144,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
 - [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
+- [[Ḥafṣah bint ʿUmar]] ﵂ — *Umm al-Muʾminīn, the devout worshipper, and custodian of the Master Qurʾānic Codex*
 - [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
 - [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
@@ -257,6 +258,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. ʿAmr b. Ḥarām]] ﵁ — *Naqīb of al-ʿAqabah and first martyr of Uḥud*
 - [[Waḥshī b. Ḥarb]] ﵁ — *Slayer of Ḥamzah who later converted and slew Musaylimah*
 - [[Surāqah b. Mālik b. Juʿshum]] ﵁ — *Pursuer of the Hijrah who became a Companion*
+- [[Buraydah b. al-Ḥuṣayb]] ﵁ — *Standard-bearer of the Hijrah, veteran of sixteen campaigns, and last Companion of Khurasan*
 - [[Maʿbad b. Abī Maʿbad al-Khuzāʿī]] — *Khuzāʿī chieftain who turned back Quraysh at al-Rawḥāʾ*
 - [[Nuʿaym b. Masʿūd]] ﵁ — *Strategist who dissolved the confederacy at the Trench*
 - [[Kurz b. Jābir al-Fihrī]] ﵁ — *Commander of the punitive detachment of al-ʿUraniyyīn and cavalry martyr of the Conquest of Makkah*
