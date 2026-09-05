@@ -88,6 +88,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
   - [[Wafd Thaqīf]] (9 AH) — *Submission of al-Ṭāʾif & Demolition of al-Lāt*
   - [[Wafd Banī Tamīm]] (9 AH) — *The Oratorical Contest & Sūrat al-Ḥujurāt*
   - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
+  - [[Wafd Banī Ḥanīfah]] (10 AH) — *Confrontation with Musaylimah al-Kadhdhāb & Diplomatic Immunity of Envoys*
 - [[Sariyyat ʿAlī b. Abī Ṭālib ilā al-Yaman]] (Ramaḍān 10 AH) — *Conversion of Madhḥij and Hamdān in a Single Day*
 
 ### 4. The Culmination & Departure (10–11 AH)
