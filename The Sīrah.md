@@ -209,6 +209,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ubayy b. Kaʿb]] ﵁ — *Sayyid al-Qurrāʾ & Scribe of Revelation*
 - [[Anas b. Mālik]] ﵁ — *Khādim Rasūlillāh for Ten Years*
 - [[Kaʿb b. Mālik]] ﵁ — *Shāʿir al-Islām & Penitent of Tabūk*
+- [[Ḥassān b. Thābit]] ﵁ — *Shāʿir al-Rasūl ﷺ, defender of Prophethood aided by the Holy Spirit*
+- [[Thābit b. Qays]] ﵁ — *Khaṭīb Rasūlillāh ﷺ, promised inheritor of Paradise, and martyr of al-Yamāmah*
 - [[al-Ḥubāb b. al-Mundhir]] ﵁ — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
 - [[ʿAbdullāh b. Rawāḥah]] ﵁ — *Shāʿir Rasūlillāh & Third Commander at Muʾtah*
 - [[Abū Ayyūb al-Anṣārī]] ﵁ — *Host of the Prophet ﷺ on his arrival in Medina*
@@ -272,6 +274,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Salamah b. ʿAbd al-Raḥmān]] — *Son of ʿAbd al-Raḥmān and Tumāḍir; one of the Seven Jurists of Medina*
 
 ### Companions of al-Ḥudaybiyah & The Later Treaties
+- [[al-Mughīrah b. Shuʿbah]] ﵁ — *Mughīrat al-Raʾy, armed sentry of Ḥudaybiyah, and conqueror of Maysān*
 - [[Sinān b. Abī Sinān al-Asadī]] ﵁ — *Badri veteran and the very first Companion to swear allegiance beneath the tree at Bayʿat al-Riḍwān*
 - [[Abū Baṣīr (ʿUtbah b. Usayd)]] ﵁ — *Hero of the coastal outpost at al-ʿĪṣ and striker of the Red Sea blockade*
 - [[Abū Jandal b. Suhayl]] ﵁ — *The bound believer of al-Ḥudaybiyah and commander of the believers at al-ʿĪṣ*
