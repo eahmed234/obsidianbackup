@@ -71,6 +71,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
+- [[Sariyyat al-Mayfaʿah]] (Ramaḍān 7 AH) — *Commanded by [[Ghālib b. ʿAbdillāh al-Laythī]] against Banū ʿUwāl & Banū ʿAbd*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā]] (Ramaḍān 8 AH) — *Obliteration of the Supreme Idol of Quraysh & Kinānah*
