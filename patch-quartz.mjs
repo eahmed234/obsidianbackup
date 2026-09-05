@@ -128,4 +128,49 @@ if (fs.existsSync(themeFile)) {
   }
 }
 
+
+// 4. Enhance interactive graph view: hitArea for immediate hover, clear crisp labels with stroke, smooth physics
+const graphFile = `${prefix}node_modules/@quartz-community/graph/dist/index.js`;
+if (fs.existsSync(graphFile)) {
+  let text = fs.readFileSync(graphFile, "utf8");
+
+  // A. Expand hitArea to generous radius so hovering is immediate, accurate, and responsive
+  const oldCircle = "var U=new o.Graphics;U.circle(0,0,Tu),U.fill({color:De?He:le}),De&&U.stroke({width:2,color:ue}),U.eventMode=\"static\",U.cursor=\"pointer\",U.label=ie,";
+  const newCircle = "var U=new o.Graphics;U.circle(0,0,Tu),U.fill({color:De?He:le}),De&&U.stroke({width:2,color:ue}),U.hitArea=new o.Circle(0,0,Math.max(Tu+8,14)),U.eventMode=\"static\",U.cursor=\"pointer\",U.label=ie,";
+  if (text.includes(oldCircle)) {
+    text = text.replace(oldCircle, newCircle);
+  }
+
+  // B. Clean, legible text styling with contrast outline and proper padding
+  const oldText = "style:{fontSize:We*15,fill:ze,fontFamily:Ne},resolution:window.devicePixelRatio*4";
+  const newText = "style:{fontSize:Math.max(We*16,11),fill:ze,fontFamily:Ne,stroke:{color:He,width:3},padding:4},resolution:window.devicePixelRatio*4";
+  if (text.includes(oldText)) {
+    text = text.replace(oldText, newText);
+  }
+
+  // C. Immediate hover trigger with pointerenter
+  const oldPointer = "A.on(\"pointerover\",function(N){Wu(F.id),j=v.alpha,Eu||Au()}),A.on(\"pointerleave\",function(){Wu(null),v.alpha=j,Eu||Au()})";
+  const newPointer = "A.on(\"pointerenter\",function(N){Wu(F.id),Au()}),A.on(\"pointerleave\",function(){Wu(null),Au()})";
+  if (text.includes(oldPointer)) {
+    text = text.replace(oldPointer, newPointer);
+  }
+
+  // D. Smooth label scaling on hover and bring active label to top
+  const oldQe = "function qe(){for(var i=1/qu,l=i*1.1,F=0;F<L.length;F++){var A=L[F];_u===A.simulationData.id?(A.label.alpha=1,A.label.scale.set(l)):A.label.scale.set(i)}}";
+  const newQe = "function qe(){for(var i=1/qu,l=i*1.15,F=0;F<L.length;F++){var A=L[F];if(_u===A.simulationData.id){A.label.alpha=1;A.label.scale.set(l);vu.addChild(A.label)}else{A.label.scale.set(i);A.label.alpha=P.k>1.4?1:0}}}";
+  if (text.includes(oldQe)) {
+    text = text.replace(oldQe, newQe);
+  }
+
+  // E. Smooth physics damping (velocityDecay 0.3 for gentle, stable settling)
+  const oldSim = "var au=a.forceSimulation(nu)";
+  const newSim = "var au=a.forceSimulation(nu).velocityDecay(0.35)";
+  if (text.includes(oldSim) && !text.includes(newSim)) {
+    text = text.replace(oldSim, newSim);
+  }
+
+  fs.writeFileSync(graphFile, text);
+  console.log("Patched graph component for smooth physics and responsive hovering.");
+}
+
 console.log("Quartz node_modules patched successfully for clean ASCII slugs!");
