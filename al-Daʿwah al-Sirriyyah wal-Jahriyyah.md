@@ -194,7 +194,13 @@ persecution recorded in full at *Subul al-Hudā*, 2:357–362, whose victims inc
   *"Patience, O family of Yāsir! Your appointed meeting is Paradise."*
 - **[[ʿĀmir b. Fuhayrah]]**, tortured until, it is said, he no longer knew what he was saying, before
   **Abū Bakr** ﵁ purchased and freed him.
-- **[[Bilāl b. Rabāḥ]]** and **Abū Fukayhah**, likewise freed by Abū Bakr.
+- **[[Bilāl b. Rabāḥ]]** and **[[Abū Fukayhah]]**, likewise freed by Abū Bakr.
+- **[[Zunnīrah al-Rūmiyyah]]** and **[[Lubaybah]]**, tortured by **[[ʿUmar b. al-Khaṭṭāb|ʿUmar]]**
+  before his own conversion and by Abū Jahl; Zunnīrah was blinded and, Quraysh's mockery
+  notwithstanding, her sight was miraculously restored.
+- **[[Umm ʿUnays]]**, a slave of Banū Zuhrah tortured by al-Aswad b. ʿAbd Yaghūth, and
+  **[[al-Nahdiyyah]]** with her daughter, whose mistress refused to free them until Abū Bakr purchased
+  and freed both on the spot.
 
 See each companion's own note for the fuller, dual-sourced account of their trial.
 

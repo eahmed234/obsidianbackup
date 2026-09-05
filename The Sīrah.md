@@ -155,6 +155,11 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿĀmir b. Fuhayrah]] ﵁ — *Mawlā of Abū Bakr, Martyred at Biʾr Maʿūnah*
 - [[ʿUthmān b. Maẓʿūn]] ﵁ — *Thirteenth Convert, First Muhājir to Die in Madīnah*
 - [[ʿAbdullāh b. Jaḥsh]] ﵁ — *al-Mujaddaʿ fī Allāh, First Commander in Islam, Martyred at Uḥud*
+- [[Abū Fukayhah]] ﵁ — *Slave of Ṣafwān b. Umayyah, Tortured on the Burning Stones*
+- [[Zunnīrah al-Rūmiyyah]] ﵂ — *Blinded Under Torture, Her Sight Miraculously Restored*
+- [[Lubaybah]] ﵂ — *Tortured by ʿUmar Before His Own Conversion*
+- [[Umm ʿUnays]] ﵂ — *Slave of Banū Zuhrah, Tortured by al-Aswad b. ʿAbd Yaghūth*
+- [[al-Nahdiyyah]] ﵂ — *Freed by Abū Bakr Alongside Her Daughter*
 - [[al-Arqam b. Abī al-Arqam]] ﵁ — *Host of the Muslims at Dār al-Arqam*
 - [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
