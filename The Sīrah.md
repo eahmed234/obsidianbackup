@@ -370,8 +370,10 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
+- [[Zamzam]] — *The Primordial Well of the Sanctuary, Suqyā Ismāʿīl, and Legacy of ʿAbd al-Muṭṭalib*
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
+- [[Biʾr Rūmah]] — *Historic Well of Medina Purchased and Endowed in Perpetuity by ʿUthmān ﵁*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
 - [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
 - [[al-Juḥfah]] — *Historic Mīqāt of the north & site of the Zuhrah withdrawal*
