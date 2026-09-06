@@ -349,6 +349,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
 - [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
+- [[Banū Taym]] — *The clan of Abū Bakr al-Ṣiddīq and Ṭalḥah b. ʿUbaydillāh; host of Ḥilf al-Fuḍūl*
+- [[Banū ʿAbd al-Dār]] — *Hereditary keepers of the Kaʿbah sanctuary (al-Ḥijābah) and war banner (al-Liwāʾ)*
 
 ### The Anṣār of Yathrib
 - [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
