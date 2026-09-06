@@ -196,6 +196,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAmr b. al-ʿĀṣ]] ﵁ — *Statesman & Commander of Dhāt al-Salāsil*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
 - [[al-Najāshī (Aṣḥamah)]] ﵁ — *Righteous Monarch of Abyssinia*
+- [[Zayd b. al-Khaṭṭāb]] ﵁ — *Elder brother of ʿUmar, veteran of Badr & standard-bearer at al-Yamāmah*
 
 ### Chieftains & Heroes of the Anṣār
 - [[Saʿd b. Muʿādh]] ﵁ — *Chieftain of the Aws (Whose death shook the Throne)*
@@ -220,6 +221,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū al-Dardāʾ]] ﵁ — *The Sage of the Ummah (Ḥakīm al-Ummah), collector of the Qurʾān*
 - [[Sahl b. Ḥunayf]] ﵁ — *Badri knight and steadfast archer shielding the Prophet at Uḥud*
 - [[Khārijah b. Zayd]] ﵁ — *Chieftain of Banū al-Ḥārith, brother-in-faith to Abū Bakr, martyr of Uḥud*
+- [[Zayd b. Khārijah]] ﵁ — *Badri veteran of al-Khazraj, narrator of prophetic blessings, and sign of speech after death*
 - [[ʿUtbān b. Mālik]] ﵁ — *Badri Anṣārī, brother-in-faith to ʿUmar b. al-Khaṭṭāb*
 - [[al-Barāʾ b. ʿĀzib]] ﵁ — *Eyewitness chronicler of Ḥudaybiyah and military expeditions*
 - [[ʿAbdullāh b. ʿAbdillāh b. Ubayy]] ﵁ — *Badri hero who rejected his hypocrite father's sedition*
