@@ -365,6 +365,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
+- [[Banū Tamīm]] — *Vast northern confederation of Najd; masters of oratory and occasion of Sūrat al-Ḥujurāt*
+- [[Banū Ghifār]] — *Kinānite desert tribe of the caravan routes; tribe of Abū Dharr and early believers*
 
 ---
 
