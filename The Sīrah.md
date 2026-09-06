@@ -375,6 +375,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
 - [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
 - [[al-Juḥfah]] — *Historic Mīqāt of the north & site of the Zuhrah withdrawal*
+- [[Dhū al-Ḥulayfah]] — *The Prophetic Mīqāt of Medina & Oasis of al-Shajarah*
+- [[Dhū Ṭuwā]] — *The Northern Valley Gateway to Makkah & Staging Ground of Fatḥ Makkah*
 - [[al-Jurf]] — *Northern military encampment and staging ground of Medina*
 - [[Badr]] — *The Valley of the Wells & Yawm al-Furqān*
 - [[al-ʿArīsh]] — *The Prophetic command booth at Badr*
