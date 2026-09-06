@@ -354,6 +354,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
 - [[al-Aws]] — *The second Anṣār tribe; allies of Qurayẓah before Islam*
 - [[Banū al-Najjār]] — *Khazrajī clan; the Prophet's ﷺ maternal kin and hosts of the Hijrah*
+- [[Banū ʿAbd al-Ashhal]] — *Awsi clan; aristocratic leaders whose entire clan embraced Islam in a single day*
+- [[Banū Sāʿidah]] — *Khazrajī clan; noble hosts of the Saqīfah and banner-bearers of the Anṣār*
 - [[Banū Salimah]] — *Khazrajī clan of the western quarter*
 
 ### Jewish Tribes of Yathrib
