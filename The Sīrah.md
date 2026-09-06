@@ -88,6 +88,10 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
   - [[Wafd Thaqīf]] (9 AH) — *Submission of al-Ṭāʾif & Demolition of al-Lāt*
   - [[Wafd Banī Tamīm]] (9 AH) — *The Oratorical Contest & Sūrat al-Ḥujurāt*
   - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
+  - [[Wafd Banī Ḥanīfah]] (9/10 AH) — *Confrontation with Musaylimah & Prophetic Vision of the Twin Bracelets*
+  - [[Wafd Tujīb]] (9 AH) — *The Thirteen-Man Delegation bringing surplus Zakāt & the Youth of Banū Abdhā*
+  - [[Wafd Bahrāʾ]] (9/10 AH) — *The Yemeni Delegation & Prophetic Multiplication of the Dish of Ḥays*
+  - [[Wafd Kindah]] (10 AH) — *Arrival of the Silk-Clad Royal Horsemen under al-Ashʿath b. Qays*
 - [[Sariyyat ʿAlī b. Abī Ṭālib ilā al-Yaman]] (Ramaḍān 10 AH) — *Conversion of Madhḥij and Hamdān in a Single Day*
 
 ### 4. The Culmination & Departure (10–11 AH)
@@ -135,6 +139,12 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbd al-Muṭṭalib]] — *Grandfather & second guardian; rediscoverer of Zamzam*
 - [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
 - [[Abū Ṭālib]] — *Paternal uncle, third guardian, and shield of the Makkan years*
+- [[al-Zubayr b. ʿAbd al-Muṭṭalib]] — *Paternal Uncle, Elder of Banū Hāshim, and Arch-Initiator of Ḥilf al-Fuḍūl*
+- [[Ṣafiyyah bint ʿAbd al-Muṭṭalib]] ﵂ — *Paternal Aunt of the Prophet ﷺ, Mother of al-Zubayr, and Heroic Defender of Fāriʿ*
+- [[Rabīʿah b. al-Ḥārith]] ﵁ — *First Cousin of the Prophet ﷺ whose son's blood-money was the first remitted at the Farewell Pilgrimage*
+- [[al-Faḍl b. al-ʿAbbās]] ﵁ — *Radīf Rasūlillāh ﷺ, eldest son of al-ʿAbbās, steadfast warrior of Ḥunayn, and attendant of the final washing*
+- [[Qutham b. al-ʿAbbās]] ﵁ — *Paternal cousin who resembled the Prophet ﷺ and last person to leave the prophetic grave*
+- [[Abū Sufyān b. al-Ḥārith]] ﵁ — *Paternal cousin and foster brother, who embraced Islam prior to the Conquest and guarded the Prophet at Ḥunayn*
 - [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ḥalīmah al-Saʿdiyyah]] ﵂ — *Wet-nurse whose poverty turned to abundance the moment she took him*
 - [[Umm Ayman]] ﵂ — *Lifelong nursemaid ("my mother after my mother"), mother of [[Usāmah b. Zayd]]*
@@ -143,12 +153,19 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### The Household & Mothers of the Believers (*Ahl al-Bayt*)
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
+- [[Sawdah bint Zamʿah]] ﵂ — *Umm al-Muʾminīn (First Marriage After Khadījah & Matron of Noble Sacrifices)*
 - [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
+- [[Ḥafṣah bint ʿUmar]] ﵂ — *Umm al-Muʾminīn (The Devout Consort & Custodian of the Master Codex)*
+- [[Zaynab bint Jaḥsh]] ﵂ — *Umm al-Muʾminīn (Wed by Heavenly Decree & Lady of the Long Hand in Charity)*
 - [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
-- [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
+- [[Umm Ḥabībah]] ﵂ — *Umm al-Muʾminīn (Ramlah bint Abī Sufyān, Steadfast Emigrant of Axum)*
+- [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[al-Ḥasan b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah, Rayḥānat Rasūlillāh ﷺ, and Peacemaker of the Community*
+- [[al-Ḥusayn b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah, Rayḥānat Rasūlillāh ﷺ, and Martyr of Karbalāʾ*
+- [[Umm Kulthūm bint ʿAlī]] ﵂ — *Granddaughter of the Prophet ﷺ, Daughter of ʿAlī and Fāṭimah, and Consort of ʿUmar b. al-Khaṭṭāb*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
 - [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
@@ -198,6 +215,21 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[al-Najāshī (Aṣḥamah)]] ﵁ — *Righteous Monarch of Abyssinia*
 - [[Zayd b. al-Khaṭṭāb]] ﵁ — *Elder brother of ʿUmar, veteran of Badr & standard-bearer at al-Yamāmah*
 - [[ʿAbd al-Raḥmān b. Abī Bakr]] ﵁ — *Eldest son of al-Ṣiddīq, hero of al-Yamāmah, and narrator of the Prophet's final illness*
+- [[ʿUtbah b. Ghazwān]] ﵁ — *Seventh convert to Islam, Badri veteran, conqueror and founder of Basra*
+- [[Sālim Mawlā Abī Ḥudhayfah]] ﵁ — *Master reciter of the Qurʾān, imam of the early Muhājirūn at Qubāʾ, and standard-bearer at al-Yamāmah*
+- [[ʿUkkāshah b. Miḥṣan]] ﵁ — *Promised Paradise without reckoning, hero of the wooden branch turned sword (al-ʿAwn) at Badr*
+- [[Wāqid b. ʿAbdillāh]] ﵁ — *Ally of Banū ʿAdī, first combatant to slay an enemy in Islam (at Nakhlah), and Badri veteran*
+- [[Marthad b. Abī Marthad al-Ghanawī]] ﵁ — *Cavalry hero of Badr who shared a camel with the Prophet ﷺ, and martyr commander of al-Rajīʿ*
+- [[Hishām b. al-ʿĀṣ]] ﵁ — *Brother of ʿAmr b. al-ʿĀṣ, persecuted early convert, captive in Makkah, and martyr of Yarmūk*
+- [[ʿAyyāsh b. Abī Rabīʿah]] ﵁ — *Maternal brother of Abū Jahl, early emigrant, captive of Makkah, and subject of the prophetic qunūt*
+- [[Salāmah b. Hishām]] ﵁ — *Early convert of Banū Makhzūm, imprisoned and tortured in Makkah, and deliveree of prophetic qunūt*
+- [[al-Walīd b. al-Walīd]] ﵁ — *Brother of Khālid b. al-Walīd, captive of Badr who embraced Islam and rescued fellow believers*
+- [[Shuraḥbīl b. Ḥasanah]] ﵁ — *Early Abyssinian emigrant, scribe of revelation, and supreme army commander in the conquest of the Levant*
+- [[Shuqrān]] ﵁ — *Ṣāliḥ b. ʿAdī; loyal freedman of the Prophet ﷺ, custodian of Badr spoils, and attendant who laid the shroud in the prophetic grave*
+- [[Abū Rāfiʿ]] ﵁ — *Aslam; freedman of the Prophet ﷺ who brought the joyful tidings of al-ʿAbbās's conversion*
+- [[Asmāʾ bint Abī Bakr]] ﵂ — *Dhāt al-Niṭāqayn (She of the Two Waistbelts), heroine of the Hijrah, and mother of ʿAbdullāh b. al-Zubayr*
+- [[Asmāʾ bint ʿUmays]] ﵂ — *The Lady of the Two Sea Migrations, wife of Jaʿfar, Abū Bakr, and ʿAlī*
+- [[Maʿn b. ʿAdī]] ﵁ — *Ally of the Anṣār, Badri veteran, companion of al-ʿAqabah, and martyr of al-Yamāmah*
 
 ### Chieftains & Heroes of the Anṣār
 - [[Saʿd b. Muʿādh]] ﵁ — *Chieftain of the Aws (Whose death shook the Throne)*
@@ -234,12 +266,28 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
+- [[Thābit b. Qays]] ﵁ — *Khaṭīb Rasūlillāh (The Orator of Islam), promised Paradise, and martyr commander at al-Yamāmah*
+- [[Ḥassān b. Thābit]] ﵁ — *Shāʿir Rasūlillāh ﷺ, aided by the Holy Spirit (Rūḥ al-Qudus)*
+- [[Abū Ṭalḥah al-Anṣārī]] ﵁ — *Zayd b. Sahl; premier archer of Uḥud who shielded the Prophet ﷺ with his chest, and benefactor of Bayruḥāʾ*
+- [[Abū Saʿīd al-Khudrī]] ﵁ — *Saʿd b. Mālik; prolific transmitter of hadith, jurist of Medina, and veteran of twelve ghazawāt*
+- [[al-Barāʾ b. Mālik]] ﵁ — *Fearless champion whose oath Allāh answered, hero who vaulted into the Garden of Death at al-Yamāmah*
+- [[al-Mundhir b. ʿAmr]] ﵁ — *Aʿnaqa li-Yamūta; Naqīb of Banū Sāʿidah, Badri veteran, and commander of the seventy reciters at Biʾr Maʿūnah*
+- [[Bashīr b. Saʿd]] ﵁ — *Badri veteran, first to pledge allegiance at Saqīfat Banī Sāʿidah, and father of al-Nuʿmān b. Bashīr*
+- [[Qatādah b. al-Nuʿmān]] ﵁ — *Badri veteran whose gouged eye was miraculously restored by the hand of the Prophet ﷺ at Uḥud*
+- [[Saʿd b. Zayd al-Ashhalī]] ﵁ — *Badri knight, commander of the expedition to demolish the idol Manāt, and guardian of the captives of Qurayẓah*
+- [[Aws b. Khawlī]] ﵁ — *Badri veteran who represented the Anṣār in descending into the sacred grave of the Prophet ﷺ*
+- [[Khawwāt b. Jubayr]] ﵁ — *Badri veteran, knight of the Prophet ﷺ, and veteran of all major campaigns*
+- [[Mālik b. al-Dukhshum]] ﵁ — *Badri veteran falsely accused of hypocrisy whom the Prophet ﷺ declared a believer who said 'Lā ilāha illā Allāh'*
+- [[ʿĀṣim b. ʿAdī]] ﵁ — *Chieftain of Banū al-ʿAjlān, deputy over Qubāʾ and the Upper Quarter at Badr, and centenarian companion*
+- [[Abū Laylā al-Māzinī]] ﵁ — *Bilāl b. Bilāl; Badri veteran and pious companion who wept when lacking mounts for Tabūk*
+- [[Maslamah b. Mukhallad]] ﵁ — *Early Anṣārī youth, statesman, and long-serving governor of Egypt and the Maghrib*
 
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
 - [[al-Anṣār]] — *The Helpers of Medina; al-Aws and al-Khazraj*
 - [[Ahl Badr]] — *al-Badriyyūn; the 313 of Yawm al-Furqān*
 - [[Ahl al-Ṣuffah]] — *The Devoted Scholars of the Mosque Portico*
+- [[al-Nuqabāʾ]] — *The Twelve Chief Guarantors chosen at the Second Pledge of al-ʿAqabah*
 
 ### Further Companions of Badr & Uḥud
 - [[ʿUbaydah b. al-Ḥārith]] ﵁ — *First champion of the duel; first Muhājir martyr*
@@ -320,6 +368,26 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ### Companions of the Early Expeditions
 - [[Duʿthūr b. al-Ḥārith]] ﵁ — *Chieftain of Ghaṭafān who drew his sword over the Prophet at Dhū Amr, struck by Jibrīl ﵊, and embraced Islam*
+- [[Masʿūd b. Sinān al-Sulamī]] ﵁ — *Badri veteran and ally of Banū Kaʿb*
+- [[Umm Maʿbad]] ﵂ — *ʿĀtikah bint Khālid; hostess of the Hijrah waystation at Qudayd and witness of the miraculous milking of the barren ewe*
+
+### Later Converts, Statesmen & Chieftains
+- [[Ḥakīm b. Ḥizām]] ﵁ — *Noble chieftain born inside the Kaʿbah, merchant-philanthropist, and nephew of Khadījah*
+- [[al-Mughīrah b. Shuʿbah]] ﵁ — *Mughīrat al-Raʾy; statesman, armed bodyguard of the Prophet ﷺ at Ḥudaybiyah, and destroyer of al-Lāt*
+- [[al-Ḥārith b. Hishām]] ﵁ — *Brother of Abū Jahl, noble convert at the Conquest, altruist of the water-skin, and martyr of Yarmūk*
+- [[ʿAbdullāh b. Suhayl]] ﵁ — *Son of Suhayl b. ʿAmr, early Abyssinian emigrant, hero who crossed lines to the Muslims at Badr, and martyr of al-Yamāmah*
+- [[ʿAbdullāh b. al-Zubayr]] ﵁ — *Firstborn of the Muhājirūn in Medina, lion of the Sanctuary, and intrepid commander*
+- [[Muʿāwiyah b. Abī Sufyān]] ﵁ — *Scribe of revelation, statesman, and founder of the Umayyad Caliphate*
+- [[Ḥudhayfah b. al-Yamān]] ﵁ — *Ṣāḥib Sirr Rasūlillāh ﷺ (Keeper of the Prophet's Secret Register of Hypocrites) and hero of Khandaq*
+- [[Thumāmah b. Uthāl]] ﵁ — *Chieftain of Yamāmah who declared the wheat embargo against polytheist Makkah and resisted Musaylimah*
+- [[ʿAdī b. Ḥātim al-Ṭāʾī]] ﵁ — *Chieftain of Ṭayyiʾ, son of the generous Ḥātim, and steadfast pillar against Riddah*
+- [[ʿUthmān b. Abī al-ʿĀṣ]] ﵁ — *Wise young delegate of Thaqīf, appointed governor of al-Ṭāʾif, who anchored his tribe upon Islam*
+- [[Buraydah b. al-Ḥuṣayb]] ﵁ — *Chieftain of Aslam who embraced Islam during the Hijrah at Ghukm and hoisted his turban as a standard*
+- [[Abū Barzah al-Aslamī]] ﵁ — *Badri veteran, slayer of the blasphemer Ibn Khaṭal at the Conquest, and ascetic companion*
+- [[Abū ʿĀmir al-Ashʿarī]] ﵁ — *Paternal uncle of Abū Mūsā, commander of the expedition to Awṭās, and martyr for whom the Prophet prayed*
+- [[Farwah b. ʿAmr al-Bayāḍī]] ﵁ — *Naqīb of al-ʿAqabah, Badri veteran, and prominent commander of the Anṣār*
+- [[Farwah b. ʿAmr al-Judhāmī]] ﵁ — *Roman governor of Maʿān who accepted Islam and was crucified by the Byzantines for his faith*
+- [[Furāt b. Ḥayyān]] ﵁ — *Expert desert scout and tracker of Banū Bakr who embraced Islam and was granted an estate in Bahrain*
 
 ### Polytheist & Hypocrite Antagonists
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *The Pharaoh of this Ummah (Slain at Badr)*
@@ -336,35 +404,67 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ---
 
 ## 📜 Key Scriptural Nodes (*al-Qurʾān wa-Asbāb al-Nuzūl*)
-- **[[Sūrat al-Anfāl]]** — *Comprehensive Divine Commentary on Badr (Sūrat Badr)*
+- **[[Sūrat al-Baqarah]]** — *The Legislative and Theological Keystone of the Madinan Commonwealth*
 - **[[Sūrat Āl ʿImrān]]** — *The Sixty Verses of Commentary on Uḥud and Badr*
+- **[[Sūrat al-Māʾidah]]** — *The Table Spread (al-ʿUqūd) & The Perfection of Religion at Arafat*
+- **[[Sūrat al-Anʿām]]** — *The Cosmic Manifestation of Pure Monotheism revealed in Makkah*
+- **[[Sūrat al-Anfāl]]** — *Comprehensive Divine Commentary on Badr (Sūrat Badr)*
+- **[[Sūrat al-Tawbah]]** — *Jaysh al-ʿUsrah, Dissecting the Hypocrites, and Final Treaties*
+- **[[Sūrat Maryam]]** — *The Defense of Divine Transcendence Recited before the Negus of Aksum*
+- **[[Sūrat al-Isrāʾ]]** — *The Miraculous Nocturnal Journey from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā*
+- **[[Sūrat al-Nūr]]** — *The Divine Exoneration of the Mother of the Believers ʿĀʾishah and Sanctity of the Household*
 - **[[Sūrat al-Aḥzāb]]** — *The Terror of the Trench, Hypocrites, and Banū Qurayẓah*
+- **[[Sūrat Yā-Sīn]]** — *The Heart of the Qurʾān and Shield on the Night of the Hijrah*
 - **[[Sūrat al-Fatḥ]]** — *The Manifest Victory of Ḥudaybiyah & Bayʿat al-Riḍwān*
 - **[[Sūrat al-Ḥashr]]** — *The Siege and Expulsion of Banū al-Naḍīr (Sūrat al-Naḍīr)*
-- **[[Sūrat al-Tawbah]]** — *Jaysh al-ʿUsrah, Dissecting the Hypocrites, and Final Treaties*
+- **[[Sūrat al-Mumtaḥanah]]** — *The Prohibition of Alliance with Hostile Combatants and Interception at Rawḍat Khākh*
+- **[[Sūrat al-Munāfiqūn]]** — *The Exposure of ʿAbdullāh b. Ubayy and Vindication of Zayd b. Arqam*
+- **[[Sūrat al-Kāfirūn]]** — *The Absolute Disavowal of Polytheism and Syncretism*
+- **[[Sūrat al-Ikhlāṣ]]** — *The Pure Essence of Monotheism Equaling One-Third of the Qurʾān*
+- **[[Sūrat al-Naṣr]]** — *The Herald of Ultimate Conquest, Universal Delegations, and the Prophetic Departure*
 
 ---
 
 ## 🏕️ Tribes & Clans (*al-Qabāʾil wal-Buṭūn*)
 
-### Quraysh of Makkah
+### Quraysh & Sub-Clans of Makkah
 - [[Quraysh]] — *The Sovereign Custodians of the Sacred Sanctuary*
 - [[Banū Hāshim]] — *The Prophet's ﷺ own clan; custodians of the pilgrim rites*
 - [[Banū al-Muṭṭalib]] — *The collateral line that shared the boycott*
 - [[Banū Zuhrah]] — *His maternal clan, through [[Āminah bint Wahb]]*
+- [[Banū ʿAbd al-Dār]] — *Hereditary custodians of the Kaʿbah key and standard-bearers of Quraysh in war*
+- [[Banū ʿAdī]] — *The diplomatic envoys of Quraysh and clan of [[ʿUmar b. al-Khaṭṭāb]]*
+- [[Banū Taym]] — *The aristocratic clan of civil arbitration and family of [[Abū Bakr al-Ṣiddīq]]*
+- [[Banū Makhzūm]] — *The military leaders and cavalry aristocracy of Quraysh*
+- [[Banū Jumaḥ]] — *The custodians of divination arrows and prominent opponents turned sincere believers*
+- [[Banū Sahm]] — *The magistrates of civil decrees and financial custodians*
+- [[Banū ʿĀmir b. Luʾayy]] — *Noble suburban clan of Quraysh, kin of Suhayl b. ʿAmr and Sawdah bint Zamʿah*
 
 ### The Anṣār of Yathrib
 - [[al-Khazraj]] — *The greater Anṣār tribe; majority of the ʿAqabah pledges*
 - [[al-Aws]] — *The second Anṣār tribe; allies of Qurayẓah before Islam*
 - [[Banū al-Najjār]] — *Khazrajī clan; the Prophet's ﷺ maternal kin and hosts of the Hijrah*
 - [[Banū Salimah]] — *Khazrajī clan of the western quarter*
+- [[Banū ʿAbd al-Ashhal]] — *Paramount Awsī clan of [[Saʿd b. Muʿādh]], who all embraced Islam in a single day*
+- [[Banū Sāʿidah]] — *Khazrajī clan of [[Saʿd b. ʿUbādah]] and site of the historic Saqīfah*
 
 ### Jewish Tribes of Yathrib
 - [[Banū Qaynuqāʿ]] — *Goldsmith clan expelled after Badr*
 - [[Banū al-Naḍīr]] — *Chieftains of al-ʿĀliyah, siege and expulsion to Khaybar (Sūrat al-Ḥashr)*
 - [[Banū Qurayẓah]] — *Southern bastion; treaty breach during the Trench*
 
-### Frontier & Outlying Tribes
+### Allied, Regional & Frontier Tribes
+- [[Banū Kinānah]] — *The grand parent tribe of Quraysh along the Tihāmah littoral*
+- [[Banū Asad]] — *Muḍarite confederates of Najd who joined the Confederate Siege at Khandaq*
+- [[Banū Hudhayl]] — *Archers and poets of the mountains around Makkah, perpetrators of al-Rajīʿ*
+- [[Banū Sulaym]] — *Warrior tribe of the volcanic harrahs who fielded 1,000 warriors at Fatḥ Makkah*
+- [[Banū Hawāzin]] — *The vast Qaysite confederation of the uplands defeated at Ḥunayn*
+- [[Banū Thaqīf]] — *The formidable fortress-dwellers and masters of al-Ṭāʾif*
+- [[Banū Saʿd]] — *Saʿd b. Bakr; the desert tribe of fosterage and pure Arabic eloquence*
+- [[Banū Ghifār]] — *Highway bedouins transformed into pious early converts led by Abū Dharr*
+- [[Banū Tamīm]] — *The vast, legendary tribe of warrior-poets and orators of central Arabia*
+- [[Banū Ḥanīfah]] — *The agricultural powerhouse of al-Yamāmah, plagued by the false prophet Musaylimah*
+- [[Daws]] — *The southern mountain tribe of Yemen brought to Islam by al-Ṭufayl b. ʿAmr*
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
@@ -373,10 +473,22 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
-- [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
+- [[al-Masjid al-Ḥarām]] — *The Inviolable Sanctuary, the Mother Mosque, and Universal Qiblah*
+- [[Zamzam]] — *The Primordial Well of the Sanctuary, drink of Ismāʿīl, and legacy of ʿAbd al-Muṭṭalib*
+- [[al-Ṣafā]] — *The Sacred Granite Crest, Mount of the Public Call, and beginning of al-Saʿy*
+- [[al-Marwah]] — *The White Quartz Crest and terminus of the ritual Saʿy*
+- [[Ḥirāʾ]] — *Jabal al-Nūr; the Peak of Solitude and Dawn of Prophetic Revelation*
+- [[Jabal Abū Qubays]] — *The Ancient Mountain of Makkah, repository of the Black Stone during the Deluge*
+- [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at the foot of al-Ṣafā*
+- [[Dhū Ṭuwā]] — *The Historic Valley Gateway where the Prophet ﷺ encamped before entering Makkah*
 - [[Muzdalifah]] — *al-Mashʿar al-Ḥarām; station of the combined prayers and Abrahamic dawn standing*
+- [[Minā]] — *The Valley of Tents, Pelting of the Jimār, and Days of Tashrīq*
+- [[ʿArafāt]] — *The Grand Plain of the Stand (al-Wuqūf) and Mountain of Mercy*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
-- [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
+- [[al-Masjid al-Nabawī]] — *The Prophet's Mosque, Noble Rawḍah, and Center of the Caliphate*
+- [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of the Companions and Household*
+- [[Biʾr Rūmah]] — *The Fresh Water Well of Medina purchased and endowed for the Muslims by ʿUthmān ﵁*
+- [[Dhū al-Ḥulayfah]] — *The Mīqāt of the People of Medina and starting station of the Farewell Pilgrimage*
 - [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
 - [[al-Juḥfah]] — *Historic Mīqāt of the north & site of the Zuhrah withdrawal*
 - [[al-Jurf]] — *Northern military encampment and staging ground of Medina*
@@ -391,6 +503,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
 - [[Tabūk]] — *The Northern Border Facing Byzantium*
+- [[al-Lāt]] — *The Ancient Idol Sanctuary of Thaqīf at al-Ṭāʾif demolished by al-Mughīrah and Abū Sufyān*
 
 ---
 
