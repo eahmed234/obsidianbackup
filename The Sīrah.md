@@ -149,6 +149,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[Asmāʾ bint Abī Bakr]] ﵂ — *Dhāt al-Niṭāqayn; heroine of the Cave of Thawr and mother of ʿAbdullāh b. al-Zubayr*
+- [[Asmāʾ bint ʿUmays]] ﵂ — *Ṣāḥibat al-Hijratayn; maternal sister to the Mothers of the Believers and master oneirocritic of Medina*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
 - [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
