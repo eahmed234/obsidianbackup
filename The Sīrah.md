@@ -371,6 +371,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
+- [[Ḥirāʾ]] — *Ghār Ḥirāʾ; the mountain cave of solitude, first revelation, and joyous tremor*
+- [[Jabal Abū Qubays]] — *The ancient eastern bastion of Makkah, keeper of the Black Stone, and witness to the moon splitting*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
 - [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
