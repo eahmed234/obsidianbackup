@@ -138,11 +138,13 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ḥalīmah al-Saʿdiyyah]] ﵂ — *Wet-nurse whose poverty turned to abundance the moment she took him*
 - [[Umm Ayman]] ﵂ — *Lifelong nursemaid ("my mother after my mother"), mother of [[Usāmah b. Zayd]]*
+- [[Ṣafiyyah bint ʿAbd al-Muṭṭalib]] ﵂ — *Paternal aunt of the Prophet ﷺ, mother of al-Zubayr, and heroic defender of Fāriʿ*
 - [[ʿAbdullāh b. Judʿān]] — *Paramount host of the historic Ḥilf al-Fuḍūl league in Makkah*
 
 ### The Household & Mothers of the Believers (*Ahl al-Bayt*)
 - [[Āminah bint Wahb]] — *Umm al-Nabī (Mother of the Messenger ﷺ)*
 - [[Khadījah bint Khuwaylid]] ﵂ — *Umm al-Muʾminīn (First to Believe)*
+- [[Sawdah bint Zamʿah]] ﵂ — *Umm al-Muʾminīn (First Spouse Following Khadījah & Altruist of the Household)*
 - [[ʿĀʾishah bint Abī Bakr]] ﵂ — *Umm al-Muʾminīn (The Jurist of the Ummah)*
 - [[Umm Salamah]] ﵂ — *Umm al-Muʾminīn (Counselor of Ḥudaybiyah)*
 - [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
