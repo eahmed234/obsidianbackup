@@ -197,6 +197,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
 - [[al-Najāshī (Aṣḥamah)]] ﵁ — *Righteous Monarch of Abyssinia*
 - [[Zayd b. al-Khaṭṭāb]] ﵁ — *Elder brother of ʿUmar, veteran of Badr & standard-bearer at al-Yamāmah*
+- [[ʿAbd al-Raḥmān b. Abī Bakr]] ﵁ — *Eldest son of al-Ṣiddīq, hero of al-Yamāmah, and narrator of the Prophet's final illness*
 
 ### Chieftains & Heroes of the Anṣār
 - [[Saʿd b. Muʿādh]] ﵁ — *Chieftain of the Aws (Whose death shook the Throne)*
@@ -373,6 +374,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
+- [[Muzdalifah]] — *al-Mashʿar al-Ḥarām; station of the combined prayers and Abrahamic dawn standing*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
 - [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
