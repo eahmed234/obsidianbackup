@@ -2,6 +2,7 @@
 title: Maʿn b. ʿAdī
 arabic: معن بن عدي
 aliases:
+  - "Maʿn b. ʿAdiyy"
   - Maʿn b. ʿAdī al-ʿAjlānī
   - Maʿn b. ʿAdī al-Balawī
   - معن بن عدي

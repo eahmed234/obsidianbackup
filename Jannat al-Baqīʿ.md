@@ -2,6 +2,7 @@
 title: Jannat al-Baqīʿ
 arabic: جنة البقيع
 aliases:
+  - "al-Baqīʿ"
   - al-Baqi
   - Baqīʿ al-Gharqad
   - Baqi Cemetery

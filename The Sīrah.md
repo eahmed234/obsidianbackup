@@ -71,6 +71,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
+- [[ʿUmrat al-Qaḍāʾ]] (Dhū al-Qaʿdah 7 AH) — *The Compensatory Pilgrimage & Return to the Kaʿbah*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā]] (Ramaḍān 8 AH) — *Obliteration of the Supreme Idol of Quraysh & Kinānah*
@@ -140,10 +141,12 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. ʿAbd al-Muṭṭalib]] — *His father, who died before his birth*
 - [[Abū Ṭālib]] — *Paternal uncle, third guardian, and shield of the Makkan years*
 - [[al-Zubayr b. ʿAbd al-Muṭṭalib]] — *Paternal Uncle, Elder of Banū Hāshim, and Arch-Initiator of Ḥilf al-Fuḍūl*
+- [[Ḍubāʿah bint al-Zubayr]] ﵂ — *Paternal First Cousin of the Prophet ﷺ and Matron of the Miqdād Household*
 - [[Ṣafiyyah bint ʿAbd al-Muṭṭalib]] ﵂ — *Paternal Aunt of the Prophet ﷺ, Mother of al-Zubayr, and Heroic Defender of Fāriʿ*
 - [[Rabīʿah b. al-Ḥārith]] ﵁ — *First Cousin of the Prophet ﷺ whose son's blood-money was the first remitted at the Farewell Pilgrimage*
 - [[al-Faḍl b. al-ʿAbbās]] ﵁ — *Radīf Rasūlillāh ﷺ, eldest son of al-ʿAbbās, steadfast warrior of Ḥunayn, and attendant of the final washing*
 - [[Qutham b. al-ʿAbbās]] ﵁ — *Paternal cousin who resembled the Prophet ﷺ and last person to leave the prophetic grave*
+- [[ʿAbdullāh b. Jaʿfar]] ﵁ — *Firstborn of Abyssinia, Baḥr al-Jūd, and beloved nephew of the Prophet ﷺ*
 - [[Abū Sufyān b. al-Ḥārith]] ﵁ — *Paternal cousin and foster brother, who embraced Islam prior to the Conquest and guarded the Prophet at Ḥunayn*
 - [[al-Shifāʾ bint ʿAwf]] ﵂ — *Midwife at the Mawlid; mother of [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ḥalīmah al-Saʿdiyyah]] ﵂ — *Wet-nurse whose poverty turned to abundance the moment she took him*
@@ -161,6 +164,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
 - [[Umm Ḥabībah]] ﵂ — *Umm al-Muʾminīn (Ramlah bint Abī Sufyān, Steadfast Emigrant of Axum)*
 - [[Ṣafiyyah bint Ḥuyayy]] ﵂ — *Umm al-Muʾminīn (Noble Descendant of Aaron ﵊)*
+- [[Maymūnah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (Last Wedded Wife & Hilālī Matron)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
 - [[al-Ḥasan b. ʿAlī]] ﵄ — *Sayyid Shabāb Ahl al-Jannah, Rayḥānat Rasūlillāh ﷺ, and Peacemaker of the Community*
@@ -200,6 +204,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Dharr al-Ghifārī]] ﵁ — *The Truthful Ascetic of Ghifār*
 - [[Ṣuhayb b. Sinān]] ﵁ — *al-Rūmī (The Profitable Trader of the Faith)*
 - [[al-Miqdād b. ʿAmr]] ﵁ — *Knight of the Prophet at Badr*
+- [[Khunays b. Ḥudhāfah]] ﵁ — *Early Sahmī Badri veteran, double-migrant, and first husband of Ḥafṣah bint ʿUmar*
 - [[ʿAbdullāh b. Masʿūd]] ﵁ — *Custodian of the Prophet's Secrets*
 - [[ʿAbdullāh b. ʿUmar]] ﵁ — *Exemplar of Sunnah emulation and master jurist of Medina*
 - [[ʿAbdullāh b. Umm Maktūm]] ﵁ — *Blind muezzin and 13-time deputy governor of Medina*
@@ -235,6 +240,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Saʿd b. Muʿādh]] ﵁ — *Chieftain of the Aws (Whose death shook the Throne)*
 - [[Usayd b. Ḥuḍayr]] ﵁ — *Chieftain of the Aws & Reciter of Celestial Lights*
 - [[Saʿd b. ʿUbādah]] ﵁ — *Sayyid al-Khazraj; standard-bearer of the Anṣār*
+- [[Abū Usayd al-Sāʿidī]] ﵁ — *Mālik b. Rabīʿah; Badri archer, standard-bearer of Banū Sāʿidah, and last surviving Badri*
 - [[al-Barāʾ b. Maʿrūr]] ﵁ — *Chieftain of Banū Salimah & First to Face the Kaʿbah*
 - [[Saʿd b. al-Rabīʿ]] ﵁ — *Naqīb of Khazraj & Altruist of the Muʾākhāh*
 - [[Asʿad b. Zurārah]] ﵁ — *Abū Umāmah, Naqīb of the Banū al-Najjār*
@@ -317,6 +323,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Murārah b. al-Rabīʿ]] ﵁ — *Badri veteran and one of the three penitent Companions forgiven in Sūrat al-Tawbah*
 - [[Hilāl b. Umayyah]] ﵁ — *Badri veteran, occasion of Liʿān, and one of the three penitents forgiven in Sūrat al-Tawbah*
 - [[Bishr b. al-Barāʾ]] ﵁ — *Veteran of Badr and martyr of Khaybar*
+- [[al-Ṭufayl b. ʿAmr al-Dawsī]] ﵁ — *Dhū al-Nūr; Chieftain of Daws and heroic martyr of al-Yamāmah*
 - [[Abū Hurayrah]] ﵁ — *Preserver of Hadith who joined the Prophet ﷺ at Khaybar*
 - [[al-Aṣbagh b. ʿAmr al-Kalbī]] ﵁ — *Paramount king of Banū Kalb at Dūmat al-Jandal who embraced Islam*
 - [[Tumāḍir bint al-Aṣbagh]] ﵂ — *Princess of Banū Kalb, wife of [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁*
@@ -500,6 +507,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ḥamrāʾ al-Asad]] — *Plain of the Five Hundred Fires & pursuit of deterrence*
 - [[Jabal Salʿ]] — *Mount Salʿ; the basaltic bastion of the Trench*
 - [[al-Ḥudaybiyah]] — *The Boundary Plain of the Sacred Covenant*
+- [[Ḥunayn]] — *The Historic Valley of Ambush and Ultimate Victory near Dhū al-Majāz*
+- [[al-Ṭāʾif]] — *The Mountain Stronghold of Thaqīf, Wādī Wajj, and City of Orchards*
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
 - [[Tabūk]] — *The Northern Border Facing Byzantium*
@@ -525,4 +534,5 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ---
 
 ## 📚 Primary Canonical Reference
-- ***[[Subul al-Hudā war-Rashād]]*** — Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī (d. 942 AH)
+- ***[[Subul al-Hudā war-Rashād]]*** — Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī (d. 942 AH) — *The primary narrative, geographical, and campaign backbone*
+- ***[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*** — al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī (d. 852 AH) — *The premier biographical encyclopedia for the Ṣaḥābah*

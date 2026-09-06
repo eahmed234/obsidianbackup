@@ -2,6 +2,7 @@
 title: al-Miqdād b. ʿAmr
 arabic: المقداد بن عمرو
 aliases:
+  - "al-Miqdād b. Amr"
   - al-Miqdād b. al-Aswad
   - المقداد بن الأسود
   - Abū Maʿbad
