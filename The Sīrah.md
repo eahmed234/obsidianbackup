@@ -333,6 +333,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ---
 
 ## 📜 Key Scriptural Nodes (*al-Qurʾān wa-Asbāb al-Nuzūl*)
+- **[[Sūrat al-Isrāʾ]]** — *The Nocturnal Journey from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā (Sūrat Banī Isrāʾīl)*
+- **[[Sūrat al-Masad]]** — *The Public Warning atop al-Ṣafā and Condemnation of Abū Lahab*
 - **[[Sūrat al-Anfāl]]** — *Comprehensive Divine Commentary on Badr (Sūrat Badr)*
 - **[[Sūrat Āl ʿImrān]]** — *The Sixty Verses of Commentary on Uḥud and Badr*
 - **[[Sūrat al-Aḥzāb]]** — *The Terror of the Trench, Hypocrites, and Banū Qurayẓah*
