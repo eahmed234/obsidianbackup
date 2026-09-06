@@ -196,6 +196,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAmr b. al-ʿĀṣ]] ﵁ — *Statesman & Commander of Dhāt al-Salāsil*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
 - [[al-Najāshī (Aṣḥamah)]] ﵁ — *Righteous Monarch of Abyssinia*
+- [[ʿAbdullāh b. al-Zubayr]] ﵁ — *Firstborn of the Hijrah, Disciple’s Son, Worshipful Jurist, and Sovereign of the Sanctuary*
 
 ### Chieftains & Heroes of the Anṣār
 - [[Saʿd b. Muʿādh]] ﵁ — *Chieftain of the Aws (Whose death shook the Throne)*
@@ -305,6 +306,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ### Companions of al-Ṭāʾif & The Envoys
 - [[Abū Bakrah al-Thaqafī]] ﵁ — *Freedman of the Prophet ﷺ who scaled down the ramparts of al-Ṭāʾif with a pulley rope*
+- [[ʿUthmān b. Abī al-ʿĀṣ]] ﵁ — *Youngest of Wafd Thaqīf, governor of al-Ṭāʾif, and steadfast anchor against the Riddah*
 - [[Mālik b. ʿAwf al-Naṣrī]] ﵁ — *Supreme commander of Hawāzin at Ḥunayn who embraced Islam, received 100 camels, and besieged Thaqīf*
 
 ### Knights & Champions of Dhī Qarad
