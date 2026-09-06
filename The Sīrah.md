@@ -38,15 +38,19 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Bayʿat al-ʿAqabah al-Ūlā]] (12th Year of Nubūwah / 621 CE) — *The First Pledge & Muṣʿab's Mission*
 - [[Bayʿat al-ʿAqabah al-Thāniyah]] (13th Year of Nubūwah / 622 CE) — *The Second Pledge of Defense*
 
-### 2. The Early Madinan Era: State Foundation (1–2 AH)
+### 2. The Early Madinan Era: State Foundation & First Expeditions (1–2 AH)
 - [[al-Hijrah ilā al-Madīnah]] (1 AH / 622 CE) — *Cave Thawr to Qubāʾ & Medina*
 - [[Bināʾ al-Masjid al-Nabawī]] (1 AH) — *The Prophet's Mosque, Apartments, and Ahl al-Ṣuffah*
 - [[al-Muʾākhāh]] (1 AH) — *The Institutional Fraternization between Muhājirūn and Anṣār*
+- [[Dustūr al-Madīnah]] (1 AH) — *The World's First Written Constitution*
+- [[Sariyyat Ḥamzah b. ʿAbd al-Muṭṭalib ilā Sayf al-Baḥr]] (Ramaḍān 1 AH) — *The First Military Standard Entrusted in Islam*
+- [[Sariyyat ʿUbaydah b. al-Ḥārith ilā Baṭn Rābigh]] (Shawwāl 1 AH) — *The Second White Standard & First Arrow Shot by Saʿd*
+- [[Sariyyat Saʿd b. Abī Waqqāṣ ilā al-Kharrār]] (Dhū al-Qaʿdah 1 AH) — *Reconnaissance on Foot to the Hijazi Red Sea Marches*
 - [[Ghazwat al-Abwāʾ]] (Ṣafar 2 AH) — *The First Ghazwah in Islam & The Treaty of Waddān*
 - [[Ghazwat Buwāṭ]] (Rabīʿ al-Awwal 2 AH) — *Interception at Mount Buwāṭ of Umayyah's 2,500 Camels*
 - [[Ghazwat Safawān]] (Rabīʿ 2 AH) — *Badr al-Ūlā & Pursuit of Kurz b. Jābir al-Fihrī*
 - [[Ghazwat al-ʿUshayrah]] (Jumādā al-Ūlā 2 AH) — *The Interception at Yanbuʿ & Precursor to Badr*
-- [[Dustūr al-Madīnah]] (1 AH) — *The World's First Written Constitution*
+- [[Sariyyat ʿAbdillāh b. Jaḥsh ilā Baṭn Nakhlah]] (Rajab 2 AH) — *The Sealed Letter, Capture of the Caravan, and Revelation of 2:217*
 - [[Taḥwīl al-Qiblah]] (Shaʿbān 2 AH) — *The Shifting of the Prayer Direction to the Kaʿbah*
 
 ### 3. The Epoch of Major Ghazawāt (2–9 AH)
@@ -54,9 +58,11 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Banī Qaynuqāʿ]] (Shawwāl 2 AH) — *Breach of Treaty & Expulsion*
 - [[Ghazwat Banī Sulaym]] (Shawwāl 2 AH) — *Expedition of Qarqarat al-Kudr & Emancipation of Yasār*
 - [[Ghazwat al-Suwayq]] (Dhū al-Ḥijjah 2 AH) — *Abū Sufyān's Hit-and-Run Raid & The Jettisoned Barley Meal*
+- [[Sariyyat al-Qaradah]] (Jumādā al-Ākhirah 3 AH) — *Interception of the Iraqi Route under Zayd b. Ḥārithah*
 - [[Ghazwat Dhī Amr]] (Ṣafar 3 AH) — *Preemptive Strike in Najd & Conversion of Duʿthūr*
 - [[Ghazwat Uḥud]] (7 Shawwāl 3 AH) — *The Trial of Archers & 70 Martyrs*
 - [[Ghazwat Ḥamrāʾ al-Asad]] (8 Shawwāl 3 AH) — *The Resolute Pursuit of Deterrence*
+- [[Sariyyat al-Rajīʿ]] (Ṣafar 4 AH) — *The Martyrdom of the Reciters, Khubayb, and ʿĀṣim*
 - [[Maʾsāt Biʾr Maʿūnah]] (4 AH) — *Massacre of the 70 Reciters & Qunūt al-Nāzilah*
 - [[Ghazwat Banī al-Naḍīr]] (4 AH) — *Siege & Expulsion (Sūrat al-Ḥashr)*
 - [[Ghazwat Badr al-Mawʿid]] (4 AH) — *The Rendezvous of Honor & Fulfillment of Sūrat Āl ʿImrān*
@@ -66,13 +72,23 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Banī al-Muṣṭaliq]] (5/6 AH) — *The Expedition of al-Muraysīʿ & Sūrat al-Munāfiqūn*
 - [[Ghazwat Dhī Qarad]] (6 AH) — *The Expedition of al-Ghābah & The Sprint of Ibn al-Akwaʿ*
 - [[Ghazwat Banī Liḥyān]] (6 AH) — *The Punitive March to ʿUsfān & Deterrence of Quraysh*
+- [[Sariyyat al-Quraṭāʾ]] (Muḥarram 6 AH) — *Expedition of Muḥammad b. Maslamah & Capture of Thumāmah b. Uthāl*
+- [[Sariyyat al-Ghamr]] (Rabīʿ al-Awwal 6 AH) — *Expedition of ʿUkkāshah b. Miḥṣan to Banū Asad*
+- [[Sariyyat ʿAlī b. Abī Ṭālib ilā Fadak]] (Shaʿbān 6 AH) — *Dispersal of Banū Saʿd b. Bakr Allies of Khaybar*
+- [[Sariyyat al-ʿUraniyyīn]] (Shawwāl 6 AH) — *Punitive Pursuit of Kurz b. Jābir al-Fihrī*
+- [[Sariyyat Wādī al-Qurā]] (Shawwāl 6 AH) — *Expedition of Zayd b. Ḥārithah to the Northern Border Valley*
 - **[[Sariyyat Dūmat al-Jandal]]** (Shaʿbān 6 AH) — *Commanded by [[ʿAbd al-Raḥmān b. ʿAwf]]*
 - [[Ṣulḥ al-Ḥudaybiyah]] (Dhū al-Qaʿdah 6 AH) — *Treaty of Peace & Bayʿat al-Riḍwān*
 - [[Bayʿat al-Riḍwān]] (Dhū al-Qaʿdah 6 AH) — *The Pledge Beneath the Tree (Sūrat al-Fatḥ 48:18)*
 - [[Ghazwat Khaybar]] (7 AH) — *The Conquest of Citadels by ʿAlī b. Abī Ṭālib*
 - [[Ghazwat Dhāt al-Riqāʿ]] (4/5/7 AH) — *The Expedition of Wonders (Ghazwat al-Aʿājīb) & Ṣalāt al-Khawf*
+- [[Kutub al-Nabī ﷺ ilā al-Mulūk]] (6–7 AH) — *Diplomatic Embassies to the Roman, Persian, and Abyssinian Emperors*
+- [[Sariyyat al-Mayfaʿah]] (Ramaḍān 7 AH) — *Expedition of Ghālib b. ʿAbdillāh al-Laythī to Banū ʿUwāl*
 - [[ʿUmrat al-Qaḍāʾ]] (Dhū al-Qaʿdah 7 AH) — *The Compensatory Pilgrimage & Return to the Kaʿbah*
 - [[Ghazwat Muʾtah]] (8 AH) — *The Epic Clash in Jordan & The 3 Martyr Commanders*
+- [[Sariyyat Dhāt al-Salāsil]] (Jumādā al-Ākhirah 8 AH) — *Expedition of ʿAmr b. al-ʿĀṣ to the Northern Border Clans of Quḍāʿah*
+- [[Sariyyat Sayf al-Baḥr (al-Khabaṭ)]] (Rajab 8 AH) — *Expedition of the Fish (ʿAnbar) under Abū ʿUbaydah b. al-Jarrāḥ*
+- [[Sariyyat Baṭn Iḍam]] (Ramaḍān 8 AH) — *Diversionary Expedition Preceding the Conquest of Makkah*
 - [[Fatḥ Makkah]] (20 Ramaḍān 8 AH) — *The Supreme Conquest & Universal Pardon*
 - [[Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā]] (Ramaḍān 8 AH) — *Obliteration of the Supreme Idol of Quraysh & Kinānah*
 - [[Sariyyat ʿAmr b. al-ʿĀṣ ilā Suwāʿ]] (Ramaḍān 8 AH) — *Demolition of the Ancient Idol of Hudhayl*
@@ -81,11 +97,13 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Ghazwat Ḥunayn]] (Shawwāl 8 AH) — *The Lesson against Pride in Numbers*
 - [[Sariyyat Abī ʿĀmir al-Ashʿarī ilā Awṭās]] (Shawwāl 8 AH) — *Rout of the Hawāzin Rearguard & Prophetic Prayer for the Ashʿarīs*
 - [[Ghazwat al-Ṭāʾif]] (Shawwāl 8 AH) — *The Siege of the Citadel, Ballistas, and Covenant of the Anṣār*
+- [[Sariyyat al-Fuls]] (Rabīʿ al-Ākhar 9 AH) — *Expedition of ʿAlī b. Abī Ṭālib to Demolish the Idol of Ṭayyiʾ*
 - [[Qismat Ghanāʾim Ḥunayn bi-al-Jiʿrānah]] (Dhū al-Qaʿdah 8 AH) — *Division of Spoils, Address to the Anṣār, and Sacred Night Umrah*
 - [[Ghazwat Tabūk]] (Rajab 9 AH) — *Jaysh al-ʿUsrah & The Confrontation on the Byzantine Frontier*
 - [[Hadam Masjid al-Ḍirār]] (Dhū al-Qaʿdah 9 AH) — *Eradication of the Outpost of Hypocrisy at Qubāʾ*
 - [[Ḥajjat Abī Bakr al-Ṣiddīq]] (Dhū al-Ḥijjah 9 AH) — *Purification of the Sanctuary & Proclamation of Sūrat Barāʾah by ʿAlī*
 - [[ʿĀm al-Wufūd]] (9–10 AH) — *The Year of Delegations & Fulfillment of Sūrat al-Naṣr*
+  - [[Wafd al-Ashʿariyyīn]] (7/9 AH) — *Arrival of the Yemeni Companions with Melody and Soft Hearts*
   - [[Wafd Thaqīf]] (9 AH) — *Submission of al-Ṭāʾif & Demolition of al-Lāt*
   - [[Wafd Banī Tamīm]] (9 AH) — *The Oratorical Contest & Sūrat al-Ḥujurāt*
   - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
@@ -101,10 +119,21 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - [[Wafāt al-Nabī]] (12 Rabīʿ al-Awwal 11 AH) — *Passing to the Highest Companion (al-Rafīq al-Aʿlā)*
 - [[Saqīfat Banī Sāʿidah]] (11 AH) — *The Council and Consensus upon the First Caliph*
 
-### 5. The Era of the Rightly Guided Caliphs (*al-Khulafāʾ al-Rāshidūn*, 11–40 AH)
+### 5. The Era of the Rightly Guided Caliphs & Early Caliphate (*al-Khulafāʾ al-Rāshidūn*, 11–61 AH)
 - [[Khilāfat Abī Bakr al-Ṣiddīq]] (11–13 AH) — *Consolidation of the Realm, Suppression of Apostasy, and First Scribing of the Codex*
   - [[Ḥurūb al-Riddah]] (11–12 AH) — *The Wars of Apostasy & Epic of the Garden of Death*
   - [[Jamʿ al-Qurʾān]] (12 & 25 AH) — *The Historical Compilation & ʿUthmānic Standardization of the Holy Qurʾān*
+- [[Khilāfat ʿUmar b. al-Khaṭṭāb]] (13–23 AH) — *Establishment of the Dīwān, Justice, and the Great Imperial Expansions*
+  - [[Ghazwat al-Yarmūk]] (15 AH) — *The Decisive Rout of the Byzantine Imperial Army in Syria*
+  - [[Ghazwat al-Qādisiyyah]] (15 AH) — *The Collapse of Sasanian Imperial Power in Iraq*
+  - [[Fatḥ Bayt al-Maqdis]] (16 AH) — *The Peaceful Entry of ʿUmar and the Covenant of Jerusalem*
+- [[Khilāfat ʿUthmān b. ʿAffān]] (23–35 AH) — *Maritime Conquests, Universal Qurʾānic Standardization, and Fitnah*
+- [[Khilāfat ʿAlī b. Abī Ṭālib]] (35–40 AH) — *The Defense of Principles and Sovereignty of Justice*
+  - [[Waqʿat al-Jamal]] (36 AH) — *The Tragic Strife Outside Basra and Reconciliation*
+  - [[Waqʿat Ṣiffīn]] (37 AH) — *The Confrontation upon the Euphrates and the Arbitration*
+  - [[Waqʿat al-Nahrawān]] (38 AH) — *The Eradication of the Extremist Khawārij Outlaws*
+- [[ʿĀm al-Jamāʿah]] (41 AH) — *The Year of Unity: Ḥasan's Abdication and Reconciliation of the Ummah*
+- [[Waqʿat Karbalāʾ]] (61 AH) — *The Martyrdom of Sayyid Shabāb Ahl al-Jannah al-Ḥusayn b. ʿAlī*
 
 ---
 
@@ -224,6 +253,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Sālim Mawlā Abī Ḥudhayfah]] ﵁ — *Master reciter of the Qurʾān, imam of the early Muhājirūn at Qubāʾ, and standard-bearer at al-Yamāmah*
 - [[ʿUkkāshah b. Miḥṣan]] ﵁ — *Promised Paradise without reckoning, hero of the wooden branch turned sword (al-ʿAwn) at Badr*
 - [[Wāqid b. ʿAbdillāh]] ﵁ — *Ally of Banū ʿAdī, first combatant to slay an enemy in Islam (at Nakhlah), and Badri veteran*
+- [[Abū Marthad al-Ghanawī]] ﵁ — *Kināz b. Ḥuṣayn; Badri veteran and confederate elder of Banū Hāshim*
 - [[Marthad b. Abī Marthad al-Ghanawī]] ﵁ — *Cavalry hero of Badr who shared a camel with the Prophet ﷺ, and martyr commander of al-Rajīʿ*
 - [[Hishām b. al-ʿĀṣ]] ﵁ — *Brother of ʿAmr b. al-ʿĀṣ, persecuted early convert, captive in Makkah, and martyr of Yarmūk*
 - [[ʿAyyāsh b. Abī Rabīʿah]] ﵁ — *Maternal brother of Abū Jahl, early emigrant, captive of Makkah, and subject of the prophetic qunūt*
@@ -413,6 +443,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ## 📜 Key Scriptural Nodes (*al-Qurʾān wa-Asbāb al-Nuzūl*)
 - **[[Sūrat al-Baqarah]]** — *The Legislative and Theological Keystone of the Madinan Commonwealth*
 - **[[Sūrat Āl ʿImrān]]** — *The Sixty Verses of Commentary on Uḥud and Badr*
+- **[[Sūrat al-Nisāʾ]]** — *Decrees on Orphans, Warfare, Ties of Kinship, and the Hypocrites*
 - **[[Sūrat al-Māʾidah]]** — *The Table Spread (al-ʿUqūd) & The Perfection of Religion at Arafat*
 - **[[Sūrat al-Anʿām]]** — *The Cosmic Manifestation of Pure Monotheism revealed in Makkah*
 - **[[Sūrat al-Anfāl]]** — *Comprehensive Divine Commentary on Badr (Sūrat Badr)*
@@ -428,6 +459,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - **[[Sūrat al-Munāfiqūn]]** — *The Exposure of ʿAbdullāh b. Ubayy and Vindication of Zayd b. Arqam*
 - **[[Sūrat al-Kāfirūn]]** — *The Absolute Disavowal of Polytheism and Syncretism*
 - **[[Sūrat al-Ikhlāṣ]]** — *The Pure Essence of Monotheism Equaling One-Third of the Qurʾān*
+- **[[Sūrat al-Masad]]** — *The Divine Repudiation of Abū Lahab and Umm Jamīl*
 - **[[Sūrat al-Naṣr]]** — *The Herald of Ultimate Conquest, Universal Delegations, and the Prophetic Departure*
 
 ---
