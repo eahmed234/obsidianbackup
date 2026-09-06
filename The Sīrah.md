@@ -338,7 +338,9 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - **[[Sūrat al-Aḥzāb]]** — *The Terror of the Trench, Hypocrites, and Banū Qurayẓah*
 - **[[Sūrat al-Fatḥ]]** — *The Manifest Victory of Ḥudaybiyah & Bayʿat al-Riḍwān*
 - **[[Sūrat al-Ḥashr]]** — *The Siege and Expulsion of Banū al-Naḍīr (Sūrat al-Naḍīr)*
+- **[[Sūrat al-Munāfiqūn]]** — *Exposing the Muraysīʿ Sedition of Ibn Ubayy (Banū al-Muṣṭaliq)*
 - **[[Sūrat al-Tawbah]]** — *Jaysh al-ʿUsrah, Dissecting the Hypocrites, and Final Treaties*
+- **[[Sūrat al-Naṣr]]** — *The Herald of Ultimate Victory, Universal Delegations, and the Prophetic Farewell*
 
 ---
 
