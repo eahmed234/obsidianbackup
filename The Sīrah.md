@@ -230,6 +230,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
+- [[al-Mundhir b. ʿAmr]] ﵁ — *Chieftain of Banū Sāʿidah, Naqīb of al-ʿAqabah, al-Muʿnaq li-Yamūt, and commander of Biʾr Maʿūnah*
+- [[ʿĀṣim b. ʿAdī]] ﵁ — *Chieftain of Banū al-ʿAjlān, deputy over Qubāʾ at Badr, and elder centenarian Companion*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
 
 ### The Companies of the Community
