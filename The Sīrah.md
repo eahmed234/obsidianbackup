@@ -250,6 +250,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Saʿd b. Wahb]] ﵁ — *Companion of Banū al-Naḍīr who embraced Islam during the siege and narrated on water rights*
 - [[Khallād b. Suwayd]] ﵁ — *Badri veteran and martyr of Banū Qurayẓah who was granted the reward of two martyrs*
 - [[Abū Sinān b. Miḥṣan]] ﵁ — *Elder brother of ʿUkkāshah b. Miḥṣan, Badri veteran, and martyr of Banū Qurayẓah*
+- [[ʿUkkāshah b. Miḥṣan]] ﵁ — *Badri hero of the divine blade al-ʿAwn and promised inheritor of Paradise without reckoning*
 - [[ʿAbdullāh b. Jubayr]] ﵁ — *Commander of the archers who held his post at Uḥud*
 - [[Anas b. al-Naḍr]] ﵁ — *Hero of Uḥud who scented the fragrance of Paradise*
 - [[Ḥanẓalah b. Abī ʿĀmir]] ﵁ — *Ghasīl al-Malāʾikah (Washed by the Angels)*
@@ -257,6 +258,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. ʿAmr b. Ḥarām]] ﵁ — *Naqīb of al-ʿAqabah and first martyr of Uḥud*
 - [[Waḥshī b. Ḥarb]] ﵁ — *Slayer of Ḥamzah who later converted and slew Musaylimah*
 - [[Surāqah b. Mālik b. Juʿshum]] ﵁ — *Pursuer of the Hijrah who became a Companion*
+- [[Buraydah b. al-Ḥuṣayb]] ﵁ — *Chieftain of Aslam who intercepted the Hijrah, accepted Islam with seventy men, and bore the Prophet's standard on his spear*
 - [[Maʿbad b. Abī Maʿbad al-Khuzāʿī]] — *Khuzāʿī chieftain who turned back Quraysh at al-Rawḥāʾ*
 - [[Nuʿaym b. Masʿūd]] ﵁ — *Strategist who dissolved the confederacy at the Trench*
 - [[Kurz b. Jābir al-Fihrī]] ﵁ — *Commander of the punitive detachment of al-ʿUraniyyīn and cavalry martyr of the Conquest of Makkah*
