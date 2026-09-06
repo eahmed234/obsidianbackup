@@ -230,6 +230,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
+- [[Abū Saʿīd al-Khudrī]] ﵁ — *Saʿd b. Mālik; sage-jurist of the Anṣār, veteran of the Trench, and prolific hadith preserver*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
 
 ### The Companies of the Community
@@ -293,6 +294,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Hind bint ʿUtbah]] ﵂ — *Noble matron of Banū ʿAbd Shams, mother of Muʿāwiyah, and eloquent voice of the women's pledge on Mount al-Ṣafā*
 - [[Umm Ḥakīm bint al-Ḥārith]] ﵂ — *Chivalric matron of Banū Makhzūm who secured the pardon of ʿIkrimah and slew seven Romans with a tent pole at Marj al-Ṣuffar*
 - [[ʿAbdullāh b. al-Zibaʿrā]] ﵁ — *Premier poet of Quraysh who offered his heartfelt panegyric of repentance and was gifted an honorary mantle by the Prophet ﷺ*
+- [[Abū Barzah al-Aslamī]] ﵁ — *Naḍlah b. ʿUbayd; early Aslamī veteran of Khaybar and executor of justice against Ibn Khaṭal at Fatḥ Makkah*
 
 ### Heroes & Martyrs of Muʾtah
 - [[Thābit b. Aqram]] ﵁ — *Badri veteran of the Anṣār who seized the falling standard at Muʾtah and elevated Khālid b. al-Walīd*
