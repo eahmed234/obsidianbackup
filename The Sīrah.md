@@ -192,6 +192,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ḥāṭib b. Abī Baltaʿah]] ﵁ — *Veteran of Badr & Envoy to Alexandria*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
 - [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
+- [[Abū Sufyān b. al-Ḥārith]] ﵁ — *First cousin and foster-brother of the Prophet ﷺ; steadfast champion at Ḥunayn and Sayyid Fityān Ahl al-Jannah*
+- [[Rabīʿah b. al-Ḥārith]] ﵁ — *Elder Hāshimī cousin, partner of ʿUthmān, and subject of the abolished blood feud at the Farewell Pilgrimage*
 - [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
 - [[ʿAmr b. al-ʿĀṣ]] ﵁ — *Statesman & Commander of Dhāt al-Salāsil*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
