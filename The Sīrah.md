@@ -229,6 +229,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[al-Mundhir b. Qudāmah]] ﵁ — *Badri veteran and officer of custody over Banū Qaynuqāʿ*
 - [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
+- [[Abū Qatādah]] ﵁ — *Fāris Rasūlillāh (Knight of the Messenger of Allāh ﷺ) and hero of Dhī Qarad*
+- [[Khawwāt b. Jubayr]] ﵁ — *Badri veteran of Banū ʿAmr b. ʿAwf, knight of the desert, and narrator of Ṣalāt al-Khawf*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
 
