@@ -149,6 +149,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Juwayriyah bint al-Ḥārith]] ﵂ — *Umm al-Muʾminīn (The Lady of Supreme Blessing & Emancipator of Khuzāʿah)*
 - [[Ruqayyah bint Rasūlillāh]] ﵂ — *Daughter of the Prophet ﷺ and Emigrant of Two Hijrahs*
 - [[Fāṭimah al-Zahrāʾ]] ﵂ — *Sayyidat Nisāʾ Ahl al-Jannah*
+- [[Umm Kulthūm bint ʿAlī]] ﵂ — *Granddaughter of the Prophet ﷺ; daughter of ʿAlī and Fāṭimah, and consort of ʿUmar b. al-Khaṭṭāb ﵁*
 
 ### The Ten Promised Paradise (*al-ʿAsharah al-Mubashsharūn*)
 - [[Abū Bakr al-Ṣiddīq]] ﵁ — *First Caliph & Sole Companion in the Cave*
@@ -192,6 +193,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ḥāṭib b. Abī Baltaʿah]] ﵁ — *Veteran of Badr & Envoy to Alexandria*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
 - [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
+- [[Qutham b. al-ʿAbbās]] ﵁ — *First cousin of the Prophet ﷺ; last to touch him in the sacred grave and martyr of Samarqand*
 - [[Khālid b. al-Walīd]] ﵁ — *Sayfullāh al-Maslūl (The Drawn Sword)*
 - [[ʿAmr b. al-ʿĀṣ]] ﵁ — *Statesman & Commander of Dhāt al-Salāsil*
 - [[Abū Sufyān b. Ḥarb]] ﵁ — *Chieftain of Quraysh (Later Convert)*
