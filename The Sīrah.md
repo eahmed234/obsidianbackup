@@ -261,6 +261,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Nuʿaym b. Masʿūd]] ﵁ — *Strategist who dissolved the confederacy at the Trench*
 - [[Kurz b. Jābir al-Fihrī]] ﵁ — *Commander of the punitive detachment of al-ʿUraniyyīn and cavalry martyr of the Conquest of Makkah*
 - [[Ḥubaysh b. Khālid al-Khuzāʿī]] ﵁ — *Ibn al-Ashʿar; brother of Umm Maʿbad and cavalry martyr of the Conquest of Makkah*
+- [[Umm Maʿbad]] ﵂ — *ʿĀtikah bint Khālid al-Khuzāʿiyyah; hostess of the Hijrah halt at Qudayd, witness of the milking miracle, and narrator of the supreme Shamāʾil portrait*
 - [[Ayman b. ʿUbayd]] ﵁ — *Son of Umm Ayman, brother of Usāmah b. Zayd, and steadfast martyr of Ḥunayn*
 - [[ʿAbdullāh Dhū al-Bijādayn]] ﵁ — *Devout penitent of Muzaynah whom the Prophet ﷺ personally buried at Tabūk*
 - [[Murārah b. al-Rabīʿ]] ﵁ — *Badri veteran and one of the three penitent Companions forgiven in Sūrat al-Tawbah*
@@ -365,6 +366,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
+- [[Banū Saʿd]] — *Desert foster-clan of the Prophet ﷺ; fount of pure Arabic speech and the fosterage of Ḥalīmah al-Saʿdiyyah*
 
 ---
 
