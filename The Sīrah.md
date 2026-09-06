@@ -370,6 +370,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
+- [[al-Masjid al-Ḥarām]] — *The Inviolable Sanctuary, the Bayt ʿAtīq, and the Perpetual Qiblah*
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
@@ -384,6 +385,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ḥamrāʾ al-Asad]] — *Plain of the Five Hundred Fires & pursuit of deterrence*
 - [[Jabal Salʿ]] — *Mount Salʿ; the basaltic bastion of the Trench*
 - [[al-Ḥudaybiyah]] — *The Boundary Plain of the Sacred Covenant*
+- [[ʿArafāt]] — *The Plain of the Standstill, Mount of Mercy, and site of the Farewell Sermon*
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
 - [[Tabūk]] — *The Northern Border Facing Byzantium*
