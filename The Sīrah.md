@@ -231,6 +231,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
+- [[Abū Laylā al-Māzinī]] ﵁ — *Hero of Banū Māzin b. al-Najjār, officer of the date-palms at Banū al-Naḍīr, and weeping Companion of Tabūk*
 
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
@@ -242,6 +243,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿUbaydah b. al-Ḥārith]] ﵁ — *First champion of the duel; first Muhājir martyr*
 - [[ʿĀṣim b. Thābit]] ﵁ — *Ḥamiyy al-Dabr; archer of the Prophet protected by hornets at al-Rajīʿ*
 - [[Khubayb b. ʿAdī]] ﵁ — *Balīʿ al-Arḍ; Badri veteran, martyr of al-Tanʿīm, and originator of the prayer before execution*
+- [[Marthad b. Abī Marthad al-Ghanawī]] ﵁ — *Hero of the Makkah prisoner rescues, Badri cavalier, and commander-martyr of al-Rajīʿ*
 - [[Mālik b. Sinān]] ﵁ — *Father of Abū Saʿīd al-Khudrī; martyr who cleansed the Prophet's face at Uḥud*
 - [[al-Uṣayrim (ʿAmr b. Thābit)]] ﵁ — *The Ashhali hero who entered Paradise without praying a single prayer*
 - [[Ḥusīl b. Jābir (al-Yamān)]] ﵁ — *Father of Ḥudhayfah b. al-Yamān; aged martyr slain mistakenly at Uḥud*
