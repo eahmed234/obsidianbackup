@@ -335,6 +335,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ## 📜 Key Scriptural Nodes (*al-Qurʾān wa-Asbāb al-Nuzūl*)
 - **[[Sūrat al-Anfāl]]** — *Comprehensive Divine Commentary on Badr (Sūrat Badr)*
 - **[[Sūrat Āl ʿImrān]]** — *The Sixty Verses of Commentary on Uḥud and Badr*
+- **[[Sūrat al-Māʾidah]]** — *The Table Spread (al-ʿUqūd); Culmination of Obligations & Perfected Religion*
 - **[[Sūrat al-Aḥzāb]]** — *The Terror of the Trench, Hypocrites, and Banū Qurayẓah*
 - **[[Sūrat al-Fatḥ]]** — *The Manifest Victory of Ḥudaybiyah & Bayʿat al-Riḍwān*
 - **[[Sūrat al-Ḥashr]]** — *The Siege and Expulsion of Banū al-Naḍīr (Sūrat al-Naḍīr)*
@@ -370,6 +371,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 
 ## 🗺️ Sacred & Historical Geography (*al-Amākin wal-Buldān*)
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
+- [[al-Masjid al-Ḥarām]] — *The Primordial Sanctuary, Mother Mosque, and Universal Qiblah*
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
