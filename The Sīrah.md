@@ -231,6 +231,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
+- [[Bashīr b. Saʿd]] ﵁ — *Badri Anṣārī chieftain, expedition commander to Fadak and Jubār, and first to give the pledge at al-Saqīfah*
 
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
@@ -245,6 +246,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Mālik b. Sinān]] ﵁ — *Father of Abū Saʿīd al-Khudrī; martyr who cleansed the Prophet's face at Uḥud*
 - [[al-Uṣayrim (ʿAmr b. Thābit)]] ﵁ — *The Ashhali hero who entered Paradise without praying a single prayer*
 - [[Ḥusīl b. Jābir (al-Yamān)]] ﵁ — *Father of Ḥudhayfah b. al-Yamān; aged martyr slain mistakenly at Uḥud*
+- [[Ḥudhayfah b. al-Yamān]] ﵁ — *Ṣāḥib Sirr Rasūlillāh ﷺ; hero of the Trench night reconnaissance and sentinel of Tabūk*
 - [[Mukhayrīq]] ﵁ — *Rabbi of Medina who accepted Islam at Uḥud and endowed the Prophet's seven orchards*
 - [[Yāmīn b. ʿUmayr]] ﵁ — *Israeli Companion of Banū al-Naḍīr who preserved his estates and aided Tabūk*
 - [[Abū Saʿd b. Wahb]] ﵁ — *Companion of Banū al-Naḍīr who embraced Islam during the siege and narrated on water rights*
