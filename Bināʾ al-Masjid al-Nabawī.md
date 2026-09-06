@@ -2,6 +2,7 @@
 title: Bināʾ al-Masjid al-Nabawī
 arabic: بناء المسجد النبوي الشريف
 aliases:
+  - al-Masjid al-Nabawī
   - Construction of the Prophet's Mosque
   - Building of the Mosque
   - The Prophet's Mosque
