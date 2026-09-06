@@ -372,6 +372,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Makkah al-Mukarramah]] — *The Mother of Cities & The Sacred Sanctuary*
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
+- [[al-Masjid al-Nabawī]] — *The Prophet's Mosque, al-Rawḍah al-Sharīfah, and the Center of the State*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
 - [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
 - [[al-Juḥfah]] — *Historic Mīqāt of the north & site of the Zuhrah withdrawal*
