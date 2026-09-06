@@ -339,6 +339,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - **[[Sūrat al-Fatḥ]]** — *The Manifest Victory of Ḥudaybiyah & Bayʿat al-Riḍwān*
 - **[[Sūrat al-Ḥashr]]** — *The Siege and Expulsion of Banū al-Naḍīr (Sūrat al-Naḍīr)*
 - **[[Sūrat al-Tawbah]]** — *Jaysh al-ʿUsrah, Dissecting the Hypocrites, and Final Treaties*
+- **[[Sūrat al-Kāfirūn]]** — *The Decisive Repudiation of Polytheism & Syncretic Compromise*
+- **[[Sūrat al-Ikhlāṣ]]** — *The Quintessence of Monotheism & Divine Transcendent Unity*
 
 ---
 
