@@ -235,6 +235,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
 - [[al-Anṣār]] — *The Helpers of Medina; al-Aws and al-Khazraj*
+- [[al-Nuqabāʾ]] — *The Twelve Covenant Guarantors of Bayʿat al-ʿAqabah*
 - [[Ahl Badr]] — *al-Badriyyūn; the 313 of Yawm al-Furqān*
 - [[Ahl al-Ṣuffah]] — *The Devoted Scholars of the Mosque Portico*
 
@@ -365,6 +366,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
+- [[Daws]] — *The valiant Azdite mountain tribe of al-Ṭufayl b. ʿAmr and Abū Hurayrah*
 
 ---
 
