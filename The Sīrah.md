@@ -362,9 +362,11 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Banū Qurayẓah]] — *Southern bastion; treaty breach during the Trench*
 
 ### Frontier & Outlying Tribes
+- [[Banū Kinānah]] — *The chosen Ishmaelite confederation of Tihāmah & ancestral root of Quraysh*
 - [[Ghaṭafān]] — *The Bedouin confederates of Najd (Khandaq & Khaybar)*
 - [[Banū Kalb]] — *Quḍāʿah of the northern marches around [[Dūmat al-Jandal]]*
 - [[Banū Khuzāʿah]] — *Tihāmah confederates and allies of the Prophetic mission*
+- [[Daws]] — *Highland fortress tribe of al-Azd, al-Ṭufayl b. ʿAmr (Dhū al-Nūr), and Abū Hurayrah*
 
 ---
 
