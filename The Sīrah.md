@@ -231,6 +231,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
+- [[Thābit b. Qays]] ﵁ — *Khaṭīb Rasūlillāh ﷺ; orator of the Anṣār, promised Paradise, and martyr of al-Yamāmah*
 
 ### The Companies of the Community
 - [[al-Muhājirūn]] — *The Emigrants of Makkah*
@@ -373,6 +374,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Dār al-Arqam]] — *The Cradle of the Secret Daʿwah at al-Ṣafā*
 - [[al-Madīnah al-Munawwarah]] — *The Capital of Prophethood & Dār al-Hijrah*
 - [[Jannat al-Baqīʿ]] — *Baqīʿ al-Gharqad; the Sacred Cemetery of Medina*
+- [[Minā]] — *The Sacred Valley of Rites, Pledges of al-ʿAqabah, and Yawm al-Naḥr*
+- [[ʿArafāt]] — *The Grand Plain of the Stand (al-Wuqūf), Jabal al-Raḥmah, and Farewell Address*
 - [[al-Rawḥāʾ]] — *The Blessed Waystation of Seventy Prophets*
 - [[al-Juḥfah]] — *Historic Mīqāt of the north & site of the Zuhrah withdrawal*
 - [[al-Jurf]] — *Northern military encampment and staging ground of Medina*
