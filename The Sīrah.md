@@ -189,6 +189,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Salmān al-Fārisī]] ﵁ — *Architect of the Trench (From the Ahl al-Bayt)*
 - [[Zayd b. Ḥārithah]] ﵁ — *Ḥibb Rasūlillāh (Only Companion Named in the Qurʾān)*
 - [[Usāmah b. Zayd]] ﵁ — *Ḥibb Rasūlillāh wa-Ibn Ḥibbihi*
+- [[Shuqrān]] ﵁ — *Ṣāliḥ al-Ḥabashī; devoted mawlā of the Prophet ﷺ and layer of the mantle in the noble grave*
 - [[Ḥāṭib b. Abī Baltaʿah]] ﵁ — *Veteran of Badr & Envoy to Alexandria*
 - [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] ﵁ — *Paternal Uncle & Narrator of the Dalāʾil*
 - [[ʿAbdullāh b. ʿAbbās]] ﵄ — *Tarjumān al-Qurʾān (The Interpreter of the Qurʾān)*
@@ -230,6 +231,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. Salām]] ﵁ — *Paramount scholar of Scripture, former rabbi, and promised inheritor of Paradise*
 - [[Abū Dujānah]] ﵁ — *Simāk b. Kharashah; bearer of the red bandana and the Prophet's sword at Uḥud*
 - [[al-Ḥārith b. al-Ṣimmah]] ﵁ — *Badri veteran, steadfast defender at Uḥud, and martyr of Biʾr Maʿūnah*
+- [[Saʿd b. Zayd al-Ashhalī]] ﵁ — *Badri veteran of al-Aws, cavalry commander at Dhī Qarad, and smasher of the idol Manāt*
 - [[Nusaybah bint Kaʿb]] ﵂ — *Umm ʿUmārah; fierce defender of the Prophet at Uḥud and veteran of al-ʿAqabah*
 
 ### The Companies of the Community
