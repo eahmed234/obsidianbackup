@@ -208,6 +208,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Zayd b. Thābit]] ﵁ — *Chief Scribe of Revelation & Compiler of the Qurʾān*
 - [[Ubayy b. Kaʿb]] ﵁ — *Sayyid al-Qurrāʾ & Scribe of Revelation*
 - [[Anas b. Mālik]] ﵁ — *Khādim Rasūlillāh for Ten Years*
+- [[Ḥassān b. Thābit]] ﵁ — *Shāʿir al-Rasūl ﷺ; poet laureate of the Prophetic daʿwah aided by the Holy Spirit*
 - [[Kaʿb b. Mālik]] ﵁ — *Shāʿir al-Islām & Penitent of Tabūk*
 - [[al-Ḥubāb b. al-Mundhir]] ﵁ — *Dhū al-Raʾy (Tactician of the Wells of Badr)*
 - [[ʿAbdullāh b. Rawāḥah]] ﵁ — *Shāʿir Rasūlillāh & Third Commander at Muʾtah*
@@ -280,6 +281,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Maʿqil b. Yasār]] ﵁ — *Guardian who held the tree branch during Bayʿat al-Riḍwān and builder of Nahr Maʿqil*
 - [[Budayl b. Warqāʾ al-Khuzāʿī]] ﵁ — *Chieftain of Khuzāʿah, repository of prophetic counsel, and diplomatic intermediary*
 - [[Bisr b. Sufyān al-Khuzāʿī]] ﵁ — *Chieftain of Khuzāʿah and prophetic advance scout who delivered the critical reconnaissance at ʿUsfān*
+- [[al-Mughīrah b. Shuʿbah]] ﵁ — *Mughīrat al-Raʾy; armed sentry shielding the Prophet at Ḥudaybiyah and dismantler of al-Lāt at al-Ṭāʾif*
 - [[Numaylah b. ʿAbdillāh al-Laythī]] ﵁ — *Deputy governor of Medina during al-Ḥudaybiyah and enforcer of justice against apostasy at Fatḥ Makkah*
 
 ### Companions of the Supreme Conquest (Fatḥ Makkah)
