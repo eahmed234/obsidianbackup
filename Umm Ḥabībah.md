@@ -2,6 +2,7 @@
 title: Umm Ḥabībah
 arabic: أم حبيبة
 aliases:
+  - "Umm Ḥabībah (Ramlah bint Abī Sufyān)"
   - Ramlah bint Abī Sufyān
   - Umm al-Muʾminīn
   - Umm Ḥabībah al-Umawiyyah

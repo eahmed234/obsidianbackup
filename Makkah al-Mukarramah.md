@@ -2,6 +2,7 @@
 title: Makkah al-Mukarramah
 arabic: مكة المكرمة
 aliases:
+  - "Makkah"
   - Mecca
   - Bakkah
   - Umm al-Qurā

@@ -2,6 +2,7 @@
 title: Ḥurūb al-Riddah
 arabic: حروب الردة
 aliases:
+  - "Battle of al-Yamāmah"
   - The Wars of Apostasy
   - Ridda Wars
   - Battle of al-Yamamah

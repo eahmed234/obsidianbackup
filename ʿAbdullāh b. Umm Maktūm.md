@@ -2,6 +2,7 @@
 title: ʿAbdullāh b. Umm Maktūm
 arabic: عبد الله بن أم مكتوم
 aliases:
+  - "Abdullāh b. Umm Maktūm"
   - Ibn Umm Maktūm
   - ʿAmr b. Umm Maktūm
   - ʿAbdullāh b. Qays
