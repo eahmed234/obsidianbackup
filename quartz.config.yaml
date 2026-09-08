@@ -143,7 +143,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     options:
       localGraph:
         drag: true
