@@ -3,6 +3,7 @@ title: Sariyyat Dhāt al-Salāsil
 arabic: سرية ذات السلاسل
 aliases:
   - Sariyyat Dhat al-Salasil
+  - Ghazwat Dhāt al-Salāsil
   - Expedition of Dhat al-Salasil
   - سرية عمرو بن العاص إلى ذات السلاسل
 type: event

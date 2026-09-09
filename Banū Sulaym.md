@@ -20,7 +20,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 178, 273; vol. 5, p
 *The Chivalric Qaysī Tribe of the Lava Fields, Vanguard of the Conquest of Makkah, and Bearers of the Red Banners*
 
 > [!NOTE] Primary Sourcing & Tribal Provenance
-> Sourced directly from *Subul al-Hudā war-Rashād*, vol. 4, p. 178 (*Ghazwat al-Furūʿ min Buḥrān*); vol. 4, p. 273 (*Ghazwat al-Khandaq: Dhikr Qabāʾil al-Aḥzāb*); vol. 5, p. 219 (*Fatḥ Makkah: Murūr al-Katāʾib bi-Abī Sufyān*); vol. 6, p. 346 (*Wufūd Banī Sulaym*); and *al-Iṣābah fī Tamyīz al-Ṣaḥābah*, vol. 3, p. 521 (entry 4496).
+> Sourced directly from *Subul al-Hudā war-Rashād*, vol. 4, p. 178 (*Ghazwat al-Furūʿ min Buḥrān*); vol. 4, p. 273 (*Ghazwat al-Khandaq: Dhikr Qabāʾil al-Aḥzāb*); vol. 5, p. 219 (*Fatḥ Makkah: Murūr al-Katāʾib bi-Abī Sufyān*); vol. 6, p. 346 (*Wufūd Banī Sulaym*); and *al-Iṣābah fī Tamyīz al-Ṣaḥābah*, vol. 3, p. 512 (entry 4496).
 
 ---
 
@@ -75,4 +75,4 @@ They subsequently fought with immense distinction at **[[Ghazwat Ḥunayn]]** an
    - vol. 4, p. 273 (*Ghazwat al-Khandaq: Dhikr Qabāʾil al-Aḥzāb*).
    - vol. 5, p. 219 (*Fatḥ Makkah: Murūr al-Katāʾib bi-Abī Sufyān*).
    - vol. 6, p. 346 (*al-Bāb al-Rābiʿ wal-Khamsūn fī Wufūd Banī Sulaym*).
-2. al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī, *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 3, p. 521 (entry no. 4496, *al-ʿAbbās b. Mirdās*).
+2. al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī, *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 3, p. 512 (entry no. 4496, *al-ʿAbbās b. Mirdās*).

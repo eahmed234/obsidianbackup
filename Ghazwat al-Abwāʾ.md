@@ -4,6 +4,8 @@ arabic: غزوة الأبواء
 aliases:
   - Ghazwat Waddan
   - Ghazwat al-Abwa
+  - al-Abwāʾ
+  - al-Abwa
   - Expedition of Waddan
   - The First Ghazwah
 type: event

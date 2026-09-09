@@ -7,3 +7,8 @@ index.md
 # OS files
 .DS_Store
 Thumbs.db
+
+# Python cache & audit index cache
+__pycache__/
+*.py[cod]
+sources/.index_cache.json

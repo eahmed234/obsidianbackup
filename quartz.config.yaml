@@ -16,7 +16,10 @@ configuration:
     - .quartz
     - public
     - GEMINI.md
+    - CLAUDE.md
     - README.md
+    - sources
+    - audit.py
     - build.sh
     - patch-quartz.mjs
     - custom.scss

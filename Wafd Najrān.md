@@ -33,14 +33,14 @@ forces_enemy: 60 mounted Christian dignitaries and clerics of Najrān (*Subul al
 casualties_muslim: None
 casualties_enemy: None
 outcome: The Christian leaders declined the challenge of mutual imprecation (*al-Mubāhalah*); execution of the Peace Treaty of Najrān; dispatch of Abū ʿUbaydah b. al-Jarrāḥ as the Trustworthy of the Ummah (*Amīn hādhihi al-Ummah*)
-primary_source: "*Subul al-Hudā*, 6:415–422; *al-Iṣābah*, 3:588"
+primary_source: "*Subul al-Hudā*, 6:415–422; *al-Iṣābah*, 3:475–478"
 ---
 
 # Wafd Najrān (وفد نجران — مباهلة نصارى نجران ومصالحتهم)
 *The Delegation of the Christians of Najrān — The Theological Disputation, the Invocation of Mubāhalah with the Ahl al-Bayt, and the Treaty of Protection*
 
 > [!NOTE] Scholarly Provenance & Primary Source
-> This master entry is derived strictly from *Subul al-Hudā*, Volume 6, *al-Bāb al-Ḥādī wal-Tisʿūn fī Wufūd ʿUlamāʾ Najrān ilayhi ﷺ... wa-imtinaʿ man imtanaʿ ʿan mulāʿanatihi* (pp. 415–422), synthesizing canonical narrations from Imām Muslim, Imām al-Bukhārī, Imām Aḥmad, and the historical records of [[Ibn Isḥāq]] and [[Ibn Saʿd]], cross-referenced with *al-Iṣābah*, 3:588 (entry for Abū ʿUbaydah).
+> This master entry is derived strictly from *Subul al-Hudā*, Volume 6, *al-Bāb al-Ḥādī wal-Tisʿūn fī Wufūd ʿUlamāʾ Najrān ilayhi ﷺ... wa-imtinaʿ man imtanaʿ ʿan mulāʿanatihi* (pp. 415–422), synthesizing canonical narrations from Imām Muslim, Imām al-Bukhārī, Imām Aḥmad, and the historical records of [[Ibn Isḥāq]] and [[Ibn Saʿd]], cross-referenced with *al-Iṣābah*, 3:475–478 (entry for Abū ʿUbaydah, no. 4418).
 
 ---
 
@@ -121,6 +121,6 @@ Abū ʿUbaydah ﵁ accompanied the delegation south to Najrān, where he collect
 ## References
 
 1. al-Ṣāliḥī, *Subul al-Hudā war-Rashād*, 6:415–422.
-2. Ibn Ḥajar al-ʿAsqalānī, *al-Iṣābah fī Tamyīz al-Ṣaḥābah*, 3:588 (no. 4276).
+2. Ibn Ḥajar al-ʿAsqalānī, *al-Iṣābah fī Tamyīz al-Ṣaḥābah*, 3:475–478 (no. 4418).
 3. al-Bukhārī, *Ṣaḥīḥ al-Bukhārī*, Kitāb al-Maghāzī, Bāb Qiṣṣat Ahl Najrān (ḥadīth 4380, 4381).
 4. Muslim b. al-Ḥajjāj, *Ṣaḥīḥ Muslim*, Kitāb Faḍāʾil al-Ṣaḥābah, Bāb min Faḍāʾil ʿAlī b. Abī Ṭālib (ḥadīth 2404).

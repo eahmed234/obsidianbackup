@@ -4,22 +4,28 @@ This file provides guidance to Antigravity when working with code in this reposi
 
 ## What this repository is
 
-This is **not a software project**. It is an Obsidian vault, git-backed, containing an English-language
-scholarly wiki of the *Sīrah* (Prophetic biography) written from an orthodox Sunni perspective. There is
-no build, no tests, no lint, no dependencies. The deliverable is the Markdown notes themselves and the
-link graph between them.
+This repository is an Obsidian vault, git-backed, containing an English-language scholarly wiki of the *Sīrah* (Prophetic biography) written from an orthodox Sunni perspective. While authoring occurs directly in Markdown inside Obsidian, the repository also functions as the static source for **nabiwiki**, built with **Quartz v4** and published live to **https://nabiwiki.netlify.app/**.
 
-All 80 notes live **flat in the repository root** — no folders. `.obsidian/` (config + the `obsidian-git`
-plugin) is committed alongside them.
+The knowledge graph has expanded to **over 470+ articles (approaching 500+ across all registers)**. All article notes live **flat in the repository root** — no folders. Configuration directories (`.obsidian/`, `.github/`) and Quartz build infrastructure (`build.sh`, `quartz.config.yaml`, `patch-quartz.mjs`, `custom.scss`, `netlify.toml`) live alongside them.
 
-## Git workflow
+## Git workflow and CI/CD deployment
 
-Commits are made automatically by the Obsidian **obsidian-git** plugin, not by hand:
+### Git commits
+Commits are managed primarily by the Obsidian **obsidian-git** plugin:
 - Commit message template: `vault backup: {{date}}` with format `YYYY-MM-DD HH:mm:ss`
-- Sync method is `merge`, `pullBeforePush` is on, auto-intervals are all disabled (commit is manual-trigger from inside Obsidian)
+- Sync method is `merge`, `pullBeforePush` is on, auto-intervals are disabled (commits are triggered manually from inside Obsidian or when synchronizing).
+- Expect `.obsidian/workspace.json` and `.obsidian/graph.json` to show up as noise in most diffs.
+- When committing from the CLI, follow the existing `vault backup: <timestamp>` convention so git history stays uniform.
 
-Expect `.obsidian/workspace.json` and `.obsidian/graph.json` to show up as noise in most diffs. When
-committing from the CLI, follow the existing `vault backup: <timestamp>` convention so history stays uniform.
+### Static build & CI/CD deployment
+Pushing to the `main` branch on GitHub automatically triggers a deployment workflow (`.github/workflows/deploy.yml`):
+- **Engine**: Jacky Zhao's Quartz v4 (`build.sh` clones Quartz to `.quartz/` if absent, installs dependencies with Node 22).
+- **Customizations**:
+  - `quartz.config.yaml`: Sets page title (`nabiwiki (السيرة)`), disables SPA mode, configures Noto Serif typography and dark/light themes, and filters non-content files (`ignorePatterns`).
+  - `custom.scss`: Enforces Noto Serif for English and Noto Naskh Arabic for Arabic script, styling blockquotes with classical typography.
+  - `patch-quartz.mjs`: Critical ASCII slug fold patch. Normalizes complex IJMES diacritics (`ʿ`, `ʻ`, `ʾ`, `ā`, `ī`, `ū`, `ḍ`, `ṣ`, etc.) and Arabic script into clean lowercase ASCII URL slugs, preventing infinite redirect loops and 404 errors on CDN hosting.
+  - `build.sh`: Generates static HTML into `public/`, then copies `the-sirah.html` to `index.html` so the canonical hub serves as the website's homepage.
+- **Hosting**: Deployed directly to Netlify via `netlify-cli` at **https://nabiwiki.netlify.app/**.
 
 ## Architecture of the knowledge graph
 
@@ -28,18 +34,17 @@ canonical chronological master index of events (Makkan era → early Madinan →
 plus registers for biographies, Qurʾānic nodes, and geography. **Any new note must be added to the matching
 section of this hub**, or it becomes an orphan — there is no folder structure to discover it by.
 
-Notes are typed via frontmatter `type:`, and each type has its own frontmatter shape and body skeleton
-(counts below drift as notes are added; `type` is the stable part):
+Notes are typed via frontmatter `type:`, and each type has its own frontmatter shape and body skeleton:
 
-| `type` | Count | Body pattern |
+| `type` | Approx. Count | Body pattern |
 | --- | --- | --- |
-| `event` | 35 | Numbered `## 1. Strategic Context`, deployment, reversal/climax, aftermath |
-| `person` | 29 | `## 1. Lineage/Before Islam`, `## 2. Key Sīrah Milestones`, death & burial |
-| `place` | 8 | Topography & significance, linked to its `primary_event` |
-| `text` | 6 | Qurʾān sūrahs: overview, then an *asbāb al-nuzūl* table (ayah / Arabic excerpt / occasion / persons) |
-| `group` | 7 | Tribes and clans: lineage, territory, role in the Sīrah, principal members |
-| `source` | 1 | [Subul al-Hudā war-Rashād.md](Subul%20al-Hudā%20war-Rashād.md) — the vault's citation backbone |
-| `index` | 1 | The hub |
+| `person` | 267+ | `## 1. Lineage & Background`, `## 2. Key Sīrah Milestones`, `## 3. Merits & Character`, death & burial |
+| `event` | 106+ | Numbered `## 1. Strategic Context`, deployment, battle/crisis climax, aftermath & Qurʾānic commentary |
+| `group` | 39+ | Lineage (*nasab*), territory, alliances (*ḥilf*), role in the Sīrah, notable figures |
+| `place` | 36+ | Topography, prophetic milestones, primary events, coordinates/region |
+| `text` | 20+ | Qurʾān sūrahs: revelation context, thematic overview, *asbāb al-nuzūl* table (ayah / Arabic text / occasion / persons) |
+| `source` | 2 | Primary canonical source descriptions ([Subul al-Hudā war-Rashād.md](Subul%20al-Hudā%20war-Rashād.md) and [al-Iṣābah fī Tamyīz al-Ṣaḥābah.md](al-Iṣābah%20fī%20Tamyīz%20al-Ṣaḥābah.md)) |
+| `index` | 1 | The hub: [The Sīrah.md](The%20Sīrah.md) |
 
 Two notes are deliberately built out as **featured master entries** far longer than the rest and are the
 reference for maximal depth: [Ghazwat Badr al-Kubrā.md](Ghazwat%20Badr%20al-Kubrā.md) (17 numbered sections,
@@ -71,7 +76,7 @@ The vault relies exclusively upon **two canonical primary sources**:
 This is a religious text; every statement in every note must trace back to one of these two sources and be verifiable there. This rule overrides helpfulness, completeness, and fluency — an incomplete note that is fully sourced is correct, and a rich note carrying unsourced background is defective, however accurate that background may be.
 
 **Biographical Enrichment Protocol for Ṣaḥābah**:
-Whenever a Ṣaḥābī's note is created or updated, consult their entry in both *Subul al-Hudā* and *al-Iṣābah* (`sirah-corpus/isabah.jsonl`). Flesh out their profile comprehensively, with particular emphasis on:
+Whenever a Ṣaḥābī's note is created or updated, consult their entry in both *Subul al-Hudā* and *al-Iṣābah* (`~/Downloads/9767.epub`). Flesh out their profile comprehensively, with particular emphasis on:
 - Detailed genealogical chains tracing ancestors back to common tribal progenitors (linking them to other Companions and to the Prophet ﷺ).
 - Maternal lineage, tribal and clan affiliations (*al-qabāʾil wal-buṭūn*), confederacies (*ḥilf*), and clientship (*walāʾ*).
 - Kinship networks, marriages, fosterage (*riḍāʿah*), and progeny.
@@ -80,41 +85,36 @@ Whenever a Ṣaḥābī's note is created or updated, consult their entry in bot
 
 **Do not add anything from general knowledge of the sīrah**, however well established. If neither book mentions a detail, it does not enter the vault. Where a fact is needed but absent from both, state its absence explicitly.
 
-**Working method — read before writing.** Before writing a claim, read the cited page in `~/Documents/repos/sirah-corpus/corpus.jsonl` (for Subul) or `~/Documents/repos/sirah-corpus/isabah.jsonl` (for al-Iṣābah) and write directly from the source text. Never cite a page whose text you have not inspected.
+### Repository source corpus locations & structure
+
+The authoritative Arabic corpora are stored directly within the repository under `sources/` and tracked in git:
+- **Subul al-Hudā war-Rashād**: `sources/1693.epub` (12 volumes, 5,750+ page files)
+- **al-Iṣābah fī Tamyīz al-Ṣaḥābah**: `sources/9767.epub` (8 volumes, 4,400+ page files)
+
+Having the EPUBs tracked directly in git ensures that collaborators immediately have the full primary source corpus upon cloning, without requiring manual downloads or external corpus configuration. Both files are ignored by Quartz during static builds via `ignorePatterns` in `quartz.config.yaml`.
+
+**Internal page structure**:
+Both EPUBs follow standard Shamela formatting within `OEBPS/text/`:
+- **Matn**: Primary text is contained in regular `<p>` tags (and section headers in `<h3>`, `<h4>`, `<h5>`).
+- **Taḥqīq / Footnotes**: The apparatus is encapsulated in `<p class="hamesh">...</p>`.
+- **Pagination markers**: Every page ends with a centered volume and page indicator:
+  `<p class="text-center">الجزء: X - الصفحة: Y</p>`
+- This enables instant programmatic verification via `audit.py` using Python's standard `zipfile` library.
+
+**Working method — read before writing.** Before writing or updating a claim, inspect the actual text in `sources/1693.epub` or `sources/9767.epub`. Never cite a volume or page without verifying that the source text contains the asserted facts.
 
 ### The two tiers, and how to cite them
 
-The vault cites the Dār al-Kutub al-ʿIlmiyyah edition (Beirut, 1414/1993), which contains two
-distinct authorial voices. **Both are permitted; they must be told apart**, because they do not carry
-equal weight:
+The vault cites the Dār al-Kutub al-ʿIlmiyyah editions of both works, each containing two distinct authorial voices that must be told apart:
 
 | Source & Tier | Whose words | Cite as |
 | --- | --- | --- |
 | **Subul al-Hudā: Matn** | Imām al-Ṣāliḥī (d. 942 AH) | `*Subul al-Hudā*, 4:50` |
-| **Subul al-Hudā: Taḥqīq** | Editors (1414/1993), citing al-Taqrīb, al-Iṣābah, etc. | `*Subul al-Hudā*, 1:68 n. 5 (taḥqīq)` |
+| **Subul al-Hudā: Taḥqīq** | Editors (1414/1993), citing al-Taqrīb, al-Khulāṣah, al-Aʿlām, etc. | `*Subul al-Hudā*, 1:68 n. 5 (taḥqīq)` |
 | **al-Iṣābah: Matn** | al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī (d. 852 AH) | `*al-Iṣābah*, 4:145` or `*al-Iṣābah*, no. 4835 (4:145)` |
 | **al-Iṣābah: Taḥqīq** | Editors (1415/1995), apparatus | `*al-Iṣābah*, 4:145 n. 1 (taḥqīq)` |
 
-The apparatus is where the *transmitters' biographies* live — death years, gradings, work titles. It
-is the only place in the book such material exists, so notes on the authorities depend on it
-entirely. It is never to be presented as al-Ṣāliḥī's own statement.
-
-The corpus separates the tiers mechanically: each page's `body` is matn, its `footnotes` array is
-taḥqīq.
-
-### Auditing what is already written
-
-`~/Documents/repos/sirah-corpus/audit.py` cross-checks every numeral asserted in a note against the
-numerals actually present on the pages that note cites (Arabic-Indic digits and number-words, matn
-plus apparatus). It produces a triage list, not a verdict — a flagged number may still be sound, and
-an unflagged one is not thereby verified. Run it after any batch of writing:
-
-```bash
-cd ~/Documents/repos/sirah-corpus && python3 audit.py
-```
-
-Known false positives: Qurʾānic sūrah and āyah numbers, Hijrī years the book writes as word-compounds
-(`مات سنة إحدى وخمسين ومائة` = 151), and Gregorian years — see below.
+The apparatus is where the *transmitters' biographies* live — death years, gradings, work titles. It is never to be presented as the primary author's own statement. In both EPUBs, each page's body is matn, while `<p class="hamesh">` contains taḥqīq.
 
 ### Gregorian dates — decided: exempt
 
@@ -143,20 +143,11 @@ Corollary: **a corrected claim can survive elsewhere in the graph.** The "Christ
 confederation of Banū Kalb" was removed from `Banū Kalb` and still stood in
 `ʿAbd al-Raḥmān b. ʿAwf`. After fixing a claim, grep the vault for it.
 
-### Where the book is silent
+### Where the primary texts are silent
 
-Some authorities the book cites are given no biographical entry in it — as of this audit,
-**Ibn Ḥajar al-ʿAsqalānī, Mūsā b. ʿUqbah, Ibn Kathīr and al-Ṣāliḥī himself** have none. Their notes
-must therefore record only what the book does attest — that it cites them, which of their works it
-names, and the verdicts it takes from them — and must say plainly that the book supplies no
-biography. Do not fill the gap from elsewhere.
+Some authorities *Subul al-Hudā* cites are given no standalone biographical entry in it — such as **Mūsā b. ʿUqbah, Ibn Kathīr and al-Ṣāliḥī himself**. (Ibn Ḥajar al-ʿAsqalānī is the prominent exception: he is now a canonical primary source in his own right via *al-Iṣābah*, and his note ([Ibn Ḥajar al-ʿAsqalānī.md](Ibn%20Ḥajar%20al-ʿAsqalānī.md)) is fully authored). For authorities genuinely absent from both primary texts, the note must record only what the books attest — which works are cited and what narrations or gradings are transmitted — and must state plainly that the primary sources supply no biography. Do not fill the gap from unapproved external sources.
 
-**Citations.** Every substantive claim is anchored to `*Subul al-Hudā*, <vol>:<page>` inline, with `primary_source`
-in frontmatter giving the volume and page range. The bare `(vol. N, pp. X–Y)` shorthand **always means Subul
-al-Hudā** — any other work's pagination must name that work explicitly (`*al-Ṭabaqāt al-Kubrā* 3:522–525`), or it
-reads as a Subul citation and will fail validation against the volume bounds. Longer notes close with a numbered `## References` list in full
-bibliographic form (al-Ṣāliḥī, Ibn Hishām, Ibn Kathīr, al-Bukhārī, Muslim…). Never invent a volume/page number —
-if the citation isn't known, say so rather than fabricating one.
+**Citations.** Every substantive claim is anchored to `*Subul al-Hudā*, <vol>:<page>` or `*al-Iṣābah*, <vol>:<page>` inline, with `primary_source` in frontmatter giving the source, volume, and page range. The bare `(vol. N, pp. X–Y)` shorthand **always means Subul al-Hudā** — any other work's pagination (including *al-Iṣābah*) must name that work explicitly (`*al-Iṣābah*, 4:145` or `*al-Ṭabaqāt al-Kubrā* 3:522–525`), or it reads as a Subul citation and will fail validation. Longer notes close with a numbered `## References` list in full bibliographic form (al-Ṣāliḥī, Ibn Ḥajar, Ibn Hishām, Ibn Kathīr, al-Bukhārī, Muslim…). Never invent a volume/page number — if the citation isn't known, say so rather than fabricating one.
 
 **Body style.** `# Title (Arabic script)` followed by an italic epithet line; numbered `##` sections; Arabic
 primary-text quotations in `«…»` guillemets inside blockquotes with an English rendering beneath; `> [!NOTE]`
@@ -185,14 +176,37 @@ the vocabulary is already established across the vault.
 
 ## Intentional stubs and unresolved links
 
-Roughly 118 of the ~198 distinct wikilink targets have no note yet (classical authorities like `[[Ibn Kathīr]]`,
-`[[Ibn Isḥāq]]`; tribes like `[[Banū Hāshim]]`; secondary companions; sub-events like `[[Bayʿat al-Riḍwān]]`).
-This is by design — links are written eagerly so the graph is ready when a note is created. **Do not "fix"
-unresolved links by removing them.** `Ibn Ḥajar al-ʿAsqalānī.md` exists but is empty (0 bytes), a placeholder
-awaiting content.
+The vast majority of foundational stubs (such as `[[Ibn Isḥāq]]`, `[[Ibn Kathīr]]`, `[[Banū Hāshim]]`, `[[Bayʿat al-Riḍwān]]`, and `[[Ibn Ḥajar al-ʿAsqalānī]]`) have now been created into full articles. Currently, across 6,700+ wikilinks in the vault, only ~84 dangling targets remain, predominantly secondary biographical figures awaiting dedicated notes.
 
-When creating one of these stubs, give it the full frontmatter + body skeleton for its `type`, and add it to
-the correct section of the hub.
+This link graph design is intentional — links are written eagerly so the web graph connects automatically when a note is authored. **Do not "fix" unresolved links by removing them.** When creating a new note to resolve one of these targets, give it the full frontmatter + body skeleton for its `type`, ensure strict adherence to IJMES transliteration, and add it to the matching section of [The Sīrah.md](The%20Sīrah.md).
+
+## Automated Audit & Verification Tooling (`audit.py`)
+
+The repository includes a dedicated verification script (`audit.py`) that audits the knowledge graph and verifies citations against the canonical EPUB corpora.
+
+### Running the audit
+```bash
+python3 audit.py
+```
+
+### What it checks
+1. **Canonical Citation Bounds**: Parses every citation to *Subul al-Hudā* and *al-Iṣābah* (over 9,900 citations vault-wide), verifying that volume and page numbers exist in `sources/1693.epub` and `sources/9767.epub`.
+2. **Knowledge Graph Link Integrity**: Scans all 6,700+ wikilinks against all note titles and aliases, detecting broken links and generating fuzzy-match recommendations for near misses.
+3. **Hub Completeness**: Enforces that 100% of all articles are indexed in [The Sīrah.md](The%20Sīrah.md) (detects orphans).
+4. **Syntax & Wrap Errors**: Detects and flags multiline wikilinks (`[[\n...]]`) caused by markdown line wrapping.
+5. **Frontmatter Integrity**: Enforces YAML schema fields (`title`, `arabic`, `type`, `tags`, `primary_source`).
+
+### Useful CLI options
+- `python3 audit.py`: Standard audit with summary statistics and failure details.
+- `python3 audit.py --links`: Lists all unresolved wikilink targets with fuzzy match suggestions.
+- `python3 audit.py --reindex`: Forces rebuilding the EPUB page cache (`sources/.index_cache.json`).
+
+## Progress & Milestones
+
+- **Corpus Ingestion**: The two primary source EPUBs (*Subul al-Hudā war-Rashād* 12 vols and *al-Iṣābah fī Tamyīz al-Ṣaḥābah* 8 vols) are integrated directly into the repository under `sources/` and tracked in git for seamless collaboration.
+- **Audit Tooling Deployed**: `audit.py` created and operational. 100% of the 6,583 citations to *Subul al-Hudā* and 3,327 citations to *al-Iṣābah* are verified against primary EPUB text.
+- **Hub & Link Graph Hardening**: 100% of content notes (471 articles) are linked in the hub with 0 orphans. All multiline link syntax errors eliminated. Missing aliases added across historical expeditions and tribal delegations.
+- **Quartz & Netlify Pipeline**: `sources/` and `audit.py` added to `ignorePatterns`, ensuring clean static builds and CI/CD deploys to `https://nabiwiki.netlify.app/`.
 
 ## Importing other agent configs
 

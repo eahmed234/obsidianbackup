@@ -2,6 +2,7 @@
 title: Sariyyat Saʿd b. Abī Waqqāṣ ilā al-Kharrār
 arabic: سرية سعد بن أبي وقاص إلى الخرار
 aliases:
+  - Sariyyat Saʿd b. Abī Waqqāṣ
   - Expedition of Sad ibn Abi Waqqas to al-Kharrar
   - Sariyyat al-Kharrar
   - سرية الخرار

@@ -1,6 +1,10 @@
 ---
 title: "Wafd al-Ashʿariyyīn"
 arabic: "وفد الأشعريين"
+aliases:
+  - "Wafd al-Ashʿariyyīn wa-Ahl al-Yaman"
+  - "Delegation of the Ash'aris"
+  - "Delegation of al-Ash'ariyyin"
 type: event
 tags:
   - event

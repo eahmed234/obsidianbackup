@@ -1,6 +1,10 @@
 ---
 title: "ʿAdī b. Ḥātim al-Ṭāʾī"
 arabic: "عدي بن حاتم الطائي"
+aliases:
+  - "ʿAdī b. Ḥātim"
+  - "Adi ibn Hatim"
+  - "Adi b. Hatim"
 type: person
 tags:
   - person

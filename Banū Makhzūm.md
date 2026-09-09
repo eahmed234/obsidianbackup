@@ -40,8 +40,8 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 278, 420; vol. 2, p
 - [[Umm Salamah]] ﵂ — *Mother of the Believers*
 - [[ʿIkrimah b. Abī Jahl]] ﵁ — *Cavalier of Yarmūk*
 - [[Umm Ḥakīm bint al-Ḥārith]] ﵂ — *Heroine of Marj al-Ṣuffar*
-- [[Salamah b. Hishām]] ﵁ — *Early convert and emigrant*
-- [[Ayyāsh b. Abī Rabīʿah]] ﵁ — *Early Muhājir*
+- [[Salāmah b. Hishām]] ﵁ — *Early convert and emigrant*
+- [[ʿAyyāsh b. Abī Rabīʿah]] ﵁ — *Early Muhājir*
 - [[Abū Jahl (ʿAmr b. Hishām)]] ☠ — *Paramount adversary of the Makkan era*
 - [[al-Walīd b. al-Mughīrah]] ☠ — *Chieftain of Quraysh*
 

@@ -544,6 +544,8 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[Khaybar]] — *The Fortress Oasis of the North*
 - [[Dūmat al-Jandal]] — *The Strategic Oasis Frontier*
 - [[Tabūk]] — *The Northern Border Facing Byzantium*
+- [[Abyssinia]] — *Bilād al-Ḥabashah; the Realm of Righteous Sanctuary across the Red Sea*
+- [[Bayt al-Maqdis]] — *The First Qiblah, Destination of al-Isrāʾ, and Holy Sanctuary of the Prophets*
 - [[al-Lāt]] — *The Ancient Idol Sanctuary of Thaqīf at al-Ṭāʾif demolished by al-Mughīrah and Abū Sufyān*
 
 ---

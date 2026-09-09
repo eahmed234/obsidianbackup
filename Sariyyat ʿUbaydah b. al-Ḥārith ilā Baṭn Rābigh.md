@@ -2,6 +2,7 @@
 title: Sariyyat ʿUbaydah b. al-Ḥārith ilā Baṭn Rābigh
 arabic: سرية عبيدة بن الحارث إلى بطن رابغ
 aliases:
+  - Sariyyat ʿUbaydah b. al-Ḥārith
   - Expedition of Ubaydah ibn al-Harith to Rabigh
   - Sariyyat Rabigh
   - The First Arrow in Islam
