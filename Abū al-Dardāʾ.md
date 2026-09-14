@@ -12,6 +12,7 @@ tags:
   - ansari
   - khazraji
   - jurist
+  - unverified
 death: ~32 AH (Damascus, Syria)
 lineage: "Anṣārī of [[al-Khazraj]], Banū al-Ḥārith b. al-Khazraj"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 360; vol. 11, p. 330); [[al-Iṣābah]] (4:621–622, entry 6132)"

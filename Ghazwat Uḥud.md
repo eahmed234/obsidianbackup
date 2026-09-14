@@ -11,6 +11,7 @@ tags:
   - trial
   - 3-ah
   - uhud
+  - unverified
 date_hijri: 7 Shawwāl 3 AH (23 March 625 CE)
 location: "[[Jabal Uḥud]], north of [[al-Madīnah al-Munawwarah]]"
 commanders_muslim:

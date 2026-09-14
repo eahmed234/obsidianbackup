@@ -11,6 +11,7 @@ tags:
   - persecution
   - shahid
   - martyr
+  - unverified
 death: "Martyred at Biʾr Maʿūnah, 4 AH"
 relation: "Mawlā of Abū Bakr al-Ṣiddīq ﵁; formerly belonged to al-Ṭufayl b. ʿAbdullāh b. Sakhbarah (ʿĀʾishah's maternal half-brother)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 306, 357–362); [[al-Iṣābah]] (vol. 3, p. 482, no. 4433)"

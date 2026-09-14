@@ -12,6 +12,7 @@ tags:
   - aslam
   - hijrah
   - standard_bearer
+  - unverified
 kunya: Abū ʿAbdillāh
 clan: Banū Sahm (Banū Aslam)
 role: "Chieftain of Aslam who intercepted the Hijrah, converted with seventy men, and bore the Prophet's standard on his turban"

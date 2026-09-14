@@ -11,6 +11,7 @@ tags:
   - sanctuary
   - qiblah
   - isra_miraj
+  - unverified
 location_coords: "Jerusalem, Palestine"
 primary_event: "[[al-Isrāʾ wal-Miʿrāj]] & [[Taḥwīl al-Qiblah]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 60–120, 368–375)"

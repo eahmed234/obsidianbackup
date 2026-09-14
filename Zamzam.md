@@ -13,6 +13,7 @@ tags:
   - haram
   - ismail
   - abd_al_muttalib
+  - unverified
 location: "Inside al-Masjid al-Ḥarām, east of the Kaʿbah near the Black Stone"
 primary_source: "*Subul al-Hudā*, 1:185, 1:187–188"
 ---

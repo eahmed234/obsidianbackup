@@ -8,6 +8,7 @@ tags:
   - makkah
   - qiblah
   - hajj
+  - unverified
 key_features:
   - "al-Kaʿbah al-Musharrafah (al-Bayt al-ʿAtīq)"
   - "al-Ḥajar al-Aswad & al-Multazam"

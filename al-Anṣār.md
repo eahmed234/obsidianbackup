@@ -10,6 +10,7 @@ tags:
   - ansar
   - medina
   - 1-ah
+  - unverified
 definition: "The Muslims of [[al-Madīnah al-Munawwarah]] who received and aided the Prophet ﷺ and the Muhājirūn"
 composition: "[[al-Aws]] and [[al-Khazraj]], of the Azd of Yemen"
 paired_with: "[[al-Muhājirūn]], through [[al-Muʾākhāh]]"

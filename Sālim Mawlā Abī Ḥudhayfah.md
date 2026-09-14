@@ -9,6 +9,7 @@ tags:
   - badri
   - qari
   - martyr
+  - unverified
 aliases:
   - Salim Mawla Abi Hudhayfah
   - Salim mawla Abi Hudhayfa

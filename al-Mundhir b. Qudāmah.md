@@ -12,6 +12,7 @@ tags:
   - ansari
   - awsi
   - badri
+  - unverified
 clan: "Banū Ghanm b. al-Silm ([[al-Aws]])"
 father: Qudāmah b. ʿArfajah
 role: "Badri veteran and officer appointed over the binding and custody of [[Banū Qaynuqāʿ]]"

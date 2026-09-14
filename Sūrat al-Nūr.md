@@ -10,6 +10,7 @@ tags:
   - quran
   - madani
   - sabab_al_nuzul
+  - unverified
 period: Madanī
 primary_event: "[[Ghazwat Banī al-Muṣṭaliq]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 371; vol. 9, p. 220; vol. 11, p. 164)"

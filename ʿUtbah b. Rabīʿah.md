@@ -10,6 +10,7 @@ tags:
   - quraysh
   - slain_at_badr
   - 2-ah
+  - unverified
 death: "17 Ramaḍān 2 AH — slain at [[Ghazwat Badr al-Kubrā]]"
 clan: "Banū ʿAbd Shams of Quraysh"
 children: "[[al-Walīd b. ʿUtbah]] ☠; Hind bint ʿUtbah"

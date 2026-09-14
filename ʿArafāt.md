@@ -14,6 +14,7 @@ tags:
   - makkah
   - hajj
   - mashair
+  - unverified
 location_coords: "Vast plain roughly 20 km southeast of Makkah, situated outside the sacred boundary of the Ḥaram in the hill country of the Ḥijāz"
 primary_event: "[[Ḥajjat al-Wadāʿ]] & [[Khutbat al-Wadāʿ]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 8, pp. 468–472)"

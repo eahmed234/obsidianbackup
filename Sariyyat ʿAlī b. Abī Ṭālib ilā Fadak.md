@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 6-ah
   - madinan_era
+  - unverified
 date_hijri: "Shaʿbān 6 AH"
 leader: "[[ʿAlī b. Abī Ṭālib]] ﵁"
 adversaries:

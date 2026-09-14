@@ -12,6 +12,7 @@ tags:
   - ansar
   - awsi
   - medina
+  - unverified
 lineage: "A leading clan of [[al-Aws]], descended from ʿAbd al-Ashhal b. Jusham b. al-Ḥārith b. al-Khazraj b. ʿAmr (al-Nābīt) b. Mālik b. al-Aws"
 chieftains:
   - "[[Saʿd b. Muʿādh]] ﵁"

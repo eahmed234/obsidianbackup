@@ -13,6 +13,7 @@ tags:
   - sanctuary
   - makkan_era
   - hajj
+  - unverified
 key_sanctuaries:
   - "al-Kaʿbah al-Musharrafah"
   - "al-Masjid al-Ḥarām"

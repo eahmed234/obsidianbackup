@@ -7,6 +7,7 @@ tags:
   - sahabi
   - sahaba
   - banu_hashim
+  - unverified
 aliases:
   - Abdullah b. Jafar
   - ʿAbd Allāh b. Jaʿfar b. Abī Ṭālib

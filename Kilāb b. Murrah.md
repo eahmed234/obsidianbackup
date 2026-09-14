@@ -10,6 +10,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū Zuhrah
 parents: "[[Murrah b. Kaʿb]]"
 children: "[[Quṣayy b. Kilāb]], Zuhrah (al-Mughīrah)"

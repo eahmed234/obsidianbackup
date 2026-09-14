@@ -12,6 +12,7 @@ tags:
   - qurayzah
   - judgement
   - 5-ah
+  - unverified
 date_hijri: Dhū al-Qaʿdah–Dhū al-Ḥijjah 5 AH (March–April 627 CE)
 location: "Fortified settlements of Banū Qurayẓah, southeast of [[al-Madīnah al-Munawwarah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

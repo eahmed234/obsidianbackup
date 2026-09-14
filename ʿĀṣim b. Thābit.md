@@ -12,6 +12,7 @@ tags:
   - aws
   - badri
   - martyr
+  - unverified
 kunya: Abū Sulaymān
 death_hijri: 4 AH
 burial: "al-Rajīʿ"

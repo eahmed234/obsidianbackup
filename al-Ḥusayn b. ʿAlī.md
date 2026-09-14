@@ -6,6 +6,7 @@ tags:
   - person
   - sahabi
   - ahl_al_bayt
+  - unverified
 aliases:
   - al-Ḥusayn b. ʿAlī b. Abī Ṭālib
   - Husayn ibn Ali

@@ -15,6 +15,7 @@ tags:
   - uhud
   - hudaybiyah
   - yamamah
+  - unverified
 kunya: Umm ʿUmārah
 burial: "Medina (al-Baqīʿ)"
 clan: Banū Māzin b. al-Najjār (al-Khazraj)

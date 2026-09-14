@@ -8,6 +8,7 @@ tags:
   - ahl_al_bayt
   - muhajir
   - hashemite
+  - unverified
 aliases:
   - Safiyyah bint Abd al-Muttalib
   - Safiyya bint Abd al-Muttalib

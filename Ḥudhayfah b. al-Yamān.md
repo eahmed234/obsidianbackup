@@ -13,6 +13,7 @@ tags:
   - abs
   - commander
   - governor
+  - unverified
 birth: ~20 BH (603 CE, Medina)
 death: 36 AH (656 CE, al-Madāʾin, Iraq, aged ~56)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 209, 381–383; vol. 10, pp. 132–134; vol. 11, p. 285); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, pp. 39–40, entry no. 1652)"

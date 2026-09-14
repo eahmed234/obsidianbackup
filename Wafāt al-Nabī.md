@@ -10,6 +10,7 @@ tags:
   - bereavement
   - milestone
   - 11-ah
+  - unverified
 date_hijri: Monday, 12 Rabīʿ al-Awwal 11 AH (June 632 CE)
 location: "Chamber of [[ʿĀʾishah bint Abī Bakr]], [[al-Madīnah al-Munawwarah]]"
 appointed_prayer_imam: "[[Abū Bakr al-Ṣiddīq]] ﵁"

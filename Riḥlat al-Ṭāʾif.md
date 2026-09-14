@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - dawah
   - trial
+  - unverified
 date_period: "Some nights of Shawwāl, the 10th year of the mission (Jubayr b. Muṭʿim's report, per Ibn Saʿd)"
 location: "al-Ṭāʾif"
 companion: "[[Zayd b. Ḥārithah]] ﵁"

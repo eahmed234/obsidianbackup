@@ -13,6 +13,7 @@ tags:
   - badri
   - uhud
   - martyr
+  - unverified
 burial: "Biʾr Maʿūnah"
 death_hijri: 4 AH
 clan: Banū al-Najjār (al-Khazraj)

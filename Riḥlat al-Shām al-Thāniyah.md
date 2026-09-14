@@ -12,6 +12,7 @@ tags:
   - pre_prophethood
   - travel
   - khadijah
+  - unverified
 date_hijri: "Age twenty-five, per Ibn Isḥāq; fourteenth night of Dhū al-Ḥijjah, per other reports (Subul al-Hudā 2:158)"
 location: "Via [[Makkah al-Mukarramah]] to Buṣrā, Syria"
 participants: "Maysarah, servant of [[Khadījah bint Khuwaylid]]"

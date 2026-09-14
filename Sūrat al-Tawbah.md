@@ -12,6 +12,7 @@ tags:
   - madani
   - tabuk
   - sabab_al_nuzul
+  - unverified
 surah_number: 9
 total_ayahs: 129
 period: Madanī (Late 9 AH)

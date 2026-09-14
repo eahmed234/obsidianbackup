@@ -11,6 +11,7 @@ tags:
   - madani
   - trench
   - sabab_al_nuzul
+  - unverified
 surah_number: 33
 total_ayahs: 73
 period: Madanī (5 AH)

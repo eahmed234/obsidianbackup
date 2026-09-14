@@ -13,6 +13,7 @@ tags:
   - asad
   - badri
   - martyr
+  - unverified
 death_hijri: 5 AH
 burial: "Medina (Banū Qurayẓah)"
 clan: Banū Asad b. Khuzaymah (Confederate of Banū ʿAbd Shams)

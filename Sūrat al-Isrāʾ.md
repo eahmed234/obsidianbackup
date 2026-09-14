@@ -13,6 +13,7 @@ tags:
   - makki
   - isra_miraj
   - sabab_al_nuzul
+  - unverified
 surah_number: 17
 total_ayahs: 111
 period: Makkī (Prior to the Hijrah)

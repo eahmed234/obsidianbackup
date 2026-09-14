@@ -11,6 +11,7 @@ tags:
   - miqat
   - geography
   - medina
+  - unverified
 location: "South of Medina, six miles along the road to Makkah"
 primary_events:
   - "[[Ṣulḥ al-Ḥudaybiyah]]"

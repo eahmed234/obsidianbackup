@@ -11,6 +11,7 @@ tags:
   - authority
   - muhaddith
   - hafiz
+  - unverified
 death: 852 AH (Cairo; noted in scholarly apparatus)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 68; vol. 4, p. 93; vol. 5, p. 128)"
 ---

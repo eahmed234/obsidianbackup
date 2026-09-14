@@ -10,6 +10,7 @@ tags:
   - martyr
   - mutah
   - 8-ah
+  - unverified
 aliases:
   - al-Ḥārith b. ʿUmayr
   - al-Harith ibn Umayr

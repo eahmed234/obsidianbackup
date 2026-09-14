@@ -12,6 +12,7 @@ tags:
   - 9-ah
   - amir
   - madinan_era
+  - unverified
 kunya: "Abū Ṭarīf"
 tribal_affiliation: "Banū Ṭayyiʾ (Kahlan / Qaḥṭān)"
 role: "Chieftain of Ṭayyiʾ, Son of the Legendary Philanthropist Ḥātim al-Ṭāʾī, Steadfast Anti-Apostasy Leader, and Veteran Commander of Iraq"

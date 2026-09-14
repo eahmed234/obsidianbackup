@@ -16,6 +16,7 @@ tags:
   - ambassador
   - abd_al_dar
   - uhud
+  - unverified
 birth: ~38 BH (585 CE, Makkah)
 death: 15 Shawwāl 3 AH (625 CE, martyred at Uḥud, aged ~40; buried at the foot of Mount Uḥud)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 185–188; vol. 4, pp. 40, 92, 183, 206–207, 230); [[al-Iṣābah]] (vol. 6, p. 98, no. 8020; vol. 8, p. 163)"

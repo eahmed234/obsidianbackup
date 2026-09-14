@@ -12,6 +12,7 @@ tags:
   - khazraji
   - naqib
   - pledge
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], Banū al-Najjār"
 role: "First naqīb of Banū al-Najjār, pioneer who established the first Jumuʿah in Medina"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 133; vol. 1, p. 530; vol. 3, pp. 198–203; vol. 12, p. 53); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 1, pp. 208–209, entry 111; vol. 8, pp. 150, 153, 250, 258, 293)"

@@ -14,6 +14,7 @@ tags:
   - khubayb-b-adi
   - 4-ah
   - martyrs
+  - unverified
 date_hijri: Ṣafar 4 AH
 location: "al-Rajīʿ (a watering spring of Hudhayl in Baṭn Ghurān between ʿUsfān and Makkah)"
 commanders_muslim:

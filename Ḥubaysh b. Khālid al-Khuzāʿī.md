@@ -14,6 +14,7 @@ tags:
   - khuzaah
   - fath_makkah
   - martyr
+  - unverified
 death_hijri: 8 AH
 burial: "Makkah"
 clan: "Banū Kaʿb b. ʿAmr ([[Banū Khuzāʿah]])"

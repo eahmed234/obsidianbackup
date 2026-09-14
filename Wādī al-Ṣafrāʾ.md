@@ -8,6 +8,7 @@ tags:
   - place
   - badr
   - 2-ah
+  - unverified
 location: "On the route between [[Badr]] and [[al-Madīnah al-Munawwarah]]"
 significance: "Burial place of [[ʿUbaydah b. al-Ḥārith]] ﵁"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 46–60)"

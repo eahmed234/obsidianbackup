@@ -15,6 +15,7 @@ tags:
   - leader
   - ahl_al_bayt
   - hashimi
+  - unverified
 kunya: Abū al-Qāsim
 birth: "12 Rabīʿ al-Awwal, ~53 BH / 570 CE ([[Makkah al-Mukarramah]], the Year of the Elephant)"
 death: "12 Rabīʿ al-Awwal 11 AH / 632 CE ([[al-Madīnah al-Munawwarah]])"

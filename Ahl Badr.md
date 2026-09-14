@@ -11,6 +11,7 @@ tags:
   - sahabi
   - 2-ah
   - furqan
+  - unverified
 count: "313 — the count reported to the Prophet ﷺ (Subul al-Hudā 4:25)"
 distinction: "The highest collective rank among the Companions"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 60–66)"

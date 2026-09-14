@@ -12,6 +12,7 @@ tags:
   - makki
   - sabab_al_nuzul
   - tawhid
+  - unverified
 period: Makkan (during the early public Daʿwah around the Kaʿbah)
 primary_source: "*Subul al-Hudā*, 2:425"
 ---

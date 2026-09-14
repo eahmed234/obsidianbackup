@@ -12,6 +12,7 @@ tags:
   - sariyyah
   - abdullah-b-jahsh
   - 2-ah
+  - unverified
 date_hijri: Rajab 2 AH
 location: "Baṭn Nakhlah (between Makkah and al-Ṭāʾif)"
 commanders_muslim:

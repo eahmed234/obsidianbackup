@@ -14,6 +14,7 @@ tags:
   - badri
   - early_convert
   - abyssinian
+  - unverified
 birth: ~42 BH (580 CE, Makkah; contemporary and peer of Abū Bakr)
 death: 20 AH (641 CE, Syria/Damascus, aged ~60; buried at Bāb al-Ṣaghīr)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 307–308; vol. 3, pp. 328–332; vol. 4, pp. 68–70, 92; vol. 5, pp. 234, 240; vol. 10, p. 204); [[al-Iṣābah]] (vol. 1, pp. 455–456, no. 736)"

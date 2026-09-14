@@ -15,6 +15,7 @@ tags:
   - al-taif
   - idols
   - 9-ah
+  - unverified
 date_hijri: Ramaḍān in the year nine AH (December 630 / January 631 CE)
 location: "Medina (al-Masjid al-Nabawī) and al-Ṭāʾif"
 commanders_muslim:

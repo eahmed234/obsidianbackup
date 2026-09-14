@@ -12,6 +12,7 @@ tags:
   - king
   - abyssinia
   - righteous_monarch
+  - unverified
 death: Rajab 9 AH (Aksum, Abyssinia; funeral prayer in absentia led by the Prophet ﷺ in Medina)
 title_office: "Monarch (Negus) of the Kingdom of Aksum (Abyssinia)"
 notable_status: "Righteous Christian monarch who recognized the Prophethood; sheltered the Muslim emigrants; prayed over in absentia by the Prophet ﷺ"

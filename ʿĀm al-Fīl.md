@@ -11,6 +11,7 @@ tags:
   - pre_birth
   - makkan_era
   - miracle
+  - unverified
 date_hijri: "The same year as the Prophet's ﷺ birth, per the majority position (Subul al-Hudā 1:214)"
 location: "[[Makkah al-Mukarramah]] and its approaches, via al-Mughammas"
 commanders_enemy: "Abrahah b. al-Ṣabbāḥ, viceroy of Abyssinia in Yemen"

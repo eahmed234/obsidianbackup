@@ -10,6 +10,7 @@ tags:
   - historian
   - maghazi
   - source
+  - unverified
 primary_source: "[[Subul al-Hudā war-Rashād]] — cited as a source; no biographical entry in the book"
 ---
 

@@ -12,6 +12,7 @@ tags:
   - badri
   - adi
   - early_convert
+  - unverified
 birth: ~22 BH (600 CE, Makkah)
 death: 51 AH (671 CE, al-ʿAqīq / Medina, aged 73+; buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 365–367; vol. 4, p. 24; vol. 11, pp. 317–318); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 3, pp. 87–88, no. 3271)"

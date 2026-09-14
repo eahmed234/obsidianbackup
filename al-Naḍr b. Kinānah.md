@@ -10,6 +10,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū Yakhlud
 parents: "[[Kinānah b. Khuzaymah]]"
 children: "[[Mālik b. al-Naḍr]], Yakhlud, al-Ṣalt"

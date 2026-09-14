@@ -7,6 +7,7 @@ tags:
   - caliphate
   - 36-ah
   - fitnah
+  - unverified
 date_hijri: 10–15 Jumādā al-Ākhirah 36 AH
 location: "Outskirts of Baṣrah, Iraq"
 commanders_muslim:

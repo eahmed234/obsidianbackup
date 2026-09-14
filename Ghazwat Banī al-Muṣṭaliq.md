@@ -12,6 +12,7 @@ tags:
   - khuzaah
   - munafiqun
   - 5-ah
+  - unverified
 date_hijri: Shaʿbān 5 AH / 6 AH (January 627 / 628 CE)
 location: "al-Muraysīʿ, near Qudayd (coastal Tihāmah)"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"

@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - mawlid
   - pre_prophethood
+  - unverified
 date_hijri: "~53 BH — the Year of the Elephant (ʿĀm al-Fīl); most reports place it 9th or 12th Rabīʿ al-Awwal, on a Monday"
 date_gregorian: "20 April 571 CE, per the editors' Muqaddimah (Subul al-Hudā, Muqaddimah p. 6)"
 location: "[[Makkah al-Mukarramah]]"

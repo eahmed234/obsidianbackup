@@ -12,6 +12,7 @@ tags:
   - historian
   - hadith
   - source
+  - unverified
 kunya: Abū ʿAbdillāh
 nisbah: "al-Hāshimī (by clientage), al-Baṣrī; resident of Baghdād"
 death: "230 AH (Baghdād) — on the report of Ibn Qahm"

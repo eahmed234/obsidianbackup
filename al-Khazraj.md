@@ -11,6 +11,7 @@ tags:
   - ansar
   - khazraji
   - medina
+  - unverified
 lineage: "al-Khazraj b. Ḥārithah — brother-line to [[al-Aws]] b. Ḥārithah"
 territory: "[[al-Madīnah al-Munawwarah]] (Yathrib)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 195–199, 398–405)"
@@ -42,12 +43,6 @@ The book also preserves that a distinct grouping, *Aws Allāh*, was of al-Aws
 Its clans named in this vault: **[[Banū al-Najjār]]** and **[[Banū Salimah]]**.
 [[ʿAbdullāh b. Ubayy b. Salūl]] ☠ was also of al-Khazraj.
 
-> [!NOTE] What the Book Does Not Say
-> An earlier version of this note described the tribe as *"of Yemeni Azd stock"* and gave the battle
-> of Buʿāth as a feud that *"left the oasis exhausted"* shortly before the Hijrah. **Neither is
-> supported here.** The book names *Buʿāth* only as a place (*Subul al-Hudā*, 2:459 — *"Buʿāth: the
-> name of a place"*), and the Azd descent is not stated. Both claims have been removed. The troop
-> figures for Badr are likewise not repeated here; see **[[Ahl Badr]]**, where they are cited.
 
 ## 4. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 3, p. 195 (the lineage); p. 199.

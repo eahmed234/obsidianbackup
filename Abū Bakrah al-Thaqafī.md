@@ -8,6 +8,7 @@ tags:
   - thaqif
   - mawla
   - taif
+  - unverified
 aliases:
   - Abū Bakrah
   - Nufayʿ b. al-Ḥārith

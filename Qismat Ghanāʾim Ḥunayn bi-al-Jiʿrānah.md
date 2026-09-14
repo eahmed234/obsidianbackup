@@ -13,6 +13,7 @@ tags:
   - al-jiranah
   - ansar
   - umrah
+  - unverified
 date_hijri: Dhū al-Qaʿdah in the year eight AH (February–March 630 CE)
 location: "al-Jiʿrānah (valley between Makkah and al-Ṭāʾif)"
 commanders_muslim:

@@ -15,6 +15,7 @@ tags:
   - abu-ubaydah
   - miracles
   - 8-ah
+  - unverified
 date_hijri: Rajab 8 AH
 location: "Sayf al-Baḥr (Red Sea coast in the territory of Juhaynah, five nights from Medina)"
 commanders_muslim:

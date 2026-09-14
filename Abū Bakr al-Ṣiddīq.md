@@ -16,6 +16,7 @@ tags:
   - badri
   - taym
   - muhajir
+  - unverified
 birth: ~51 BH (573 CE, Makkah, two years and six months after the Year of the Elephant)
 death: 22 Jumādā al-Ākhirah 13 AH (634 CE, Medina, aged 63; buried beside the Prophet ﷺ)
 reign: 11 AH – 13 AH (First Rightly Guided Caliph)

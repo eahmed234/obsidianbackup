@@ -12,6 +12,7 @@ tags:
   - wet_nurse
   - pre_prophethood
   - makkan_era
+  - unverified
 kunya: Umm ʿAbdillāh
 spouse: "al-Ḥārith b. ʿAbd al-ʿUzzā, of Banū Saʿd b. Bakr"
 children: "ʿAbdullāh b. al-Ḥārith, Ḥafṣ b. al-Ḥārith, Umayyah bint al-Ḥārith, al-Shaymāʾ bint al-Ḥārith"

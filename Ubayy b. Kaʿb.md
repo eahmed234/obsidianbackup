@@ -14,6 +14,7 @@ tags:
   - badri
   - khazraji
   - katib_al_wahy
+  - unverified
 death: ~30 AH (or twenty-two AH, Medina)
 lineage: "Ubayy b. Kaʿb b. Qays al-Najjārī al-Khazrajī (Banū al-Najjār)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 95, 183; vol. 11, pp. 328, 330, 375–377); [[al-Iṣābah]] (1:180–182, entry 32)"

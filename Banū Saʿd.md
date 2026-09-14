@@ -11,6 +11,7 @@ tags:
   - hawazin
   - fosterage
   - makkan_era
+  - unverified
 lineage: "Saʿd b. Bakr b. Hawāzin b. Manṣūr b. ʿIkrimah b. Khaṣafah b. Qays ʿAylān"
 territory: "The desert highlands of the Sarāt east of Makkah"
 relation: "The maternal foster-clan of the Prophet ﷺ through [[Ḥalīmah al-Saʿdiyyah]] ﵂"

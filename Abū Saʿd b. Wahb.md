@@ -11,6 +11,7 @@ tags:
   - sahabi
   - israelite
   - nadir
+  - unverified
 kunya: Abū Saʿd
 clan: Banū al-Naḍīr
 father: Wahb (or ʿAmr b. Wahb)

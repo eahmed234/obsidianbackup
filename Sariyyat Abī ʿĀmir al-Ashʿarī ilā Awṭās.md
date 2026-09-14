@@ -12,6 +12,7 @@ tags:
   - sariyyah
   - hunayn
   - ashari
+  - unverified
 date_hijri: Shawwāl in the year eight AH (February 630 CE)
 location: "Awṭās (a valley in the lands of Hawāzin between Ḥunayn and al-Ṭāʾif)"
 commanders_muslim:

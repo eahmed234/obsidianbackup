@@ -13,6 +13,7 @@ tags:
   - makhzumi
   - mustadafun
   - habashah
+  - unverified
 clan: "[[Banū Makhzūm]] (Quraysh)"
 lineage: "ʿAyyāsh (ʿAmr) b. Abī Rabīʿah (ʿAmr) Dhū al-Rumḥayn b. al-Mughīrah b. ʿAbdillāh b. ʿUmar b. Makhzūm al-Qurashī al-Makhzūmī"
 kinship: "Uterine brother and cousin of Abū Jahl, cousin of Khālid b. al-Walīd and Umm Salamah"

@@ -16,6 +16,7 @@ tags:
   - umar-b-al-khattab
   - abu-ubaydah
   - 16-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal in the year 16 AH
 location: "Bayt al-Maqdis (Jerusalem, Palestine / al-Quds al-Sharīf)"
 commanders_muslim:

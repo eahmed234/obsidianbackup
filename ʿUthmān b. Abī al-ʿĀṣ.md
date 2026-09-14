@@ -7,6 +7,7 @@ tags:
   - sahabi
   - thaqafi
   - governor
+  - unverified
 primary_source: "*al-Iṣābah*, no. 5444 (4:374); *Subul al-Hudā*, 6:296–299"
 death: "50 AH"
 location: "al-Baṣrah"

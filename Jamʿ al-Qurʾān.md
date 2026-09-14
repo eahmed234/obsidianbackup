@@ -15,6 +15,7 @@ tags:
   - abu-bakr
   - uthman-b-affan
   - zayd-b-thabit
+  - unverified
 date_hijri: Twelve AH (First Compilation under Abū Bakr) and twenty-five AH (Standardization under ʿUthmān)
 location: "Medina (al-Masjid al-Nabawī and the Caliphal Archives)"
 commanders_muslim:

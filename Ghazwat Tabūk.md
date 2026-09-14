@@ -14,6 +14,7 @@ tags:
   - usrah
   - byzantine
   - 9-ah
+  - unverified
 date_hijri: Rajab 9 AH (October 630 CE)
 location: "[[Tabūk]], northern frontier facing Byzantine Syria"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

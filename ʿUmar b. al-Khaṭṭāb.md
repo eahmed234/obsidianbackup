@@ -14,6 +14,7 @@ tags:
   - ashara_mubashsharah
   - badri
   - adi
+  - unverified
 birth: ~40 BH (584 CE, Makkah)
 death: 26 Dhū al-Ḥijjah 23 AH (644 CE, martyred in Medina, aged 63; buried beside the Prophet ﷺ and Abū Bakr)
 reign: 13 AH – 23 AH (Second Rightly-Guided Caliph)

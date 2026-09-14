@@ -13,6 +13,7 @@ tags:
   - khazraji
   - naqib
   - chieftain
+  - unverified
 death: Ṣafar 1 AH (Medina, buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 132, 201–203, 215; vol. 8, p. 372); [[al-Iṣābah]] (1:415–416, entry 622)"
 ---

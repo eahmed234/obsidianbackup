@@ -15,6 +15,7 @@ tags:
   - shahid
   - naqib
   - poet
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], Banū al-Ḥārith b. al-Khazraj"
 role: "Nuqayb at al-ʿAqabah, Poet of the Prophet ﷺ, Scribe, and Commander at Muʾtah"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 57, 300; vol. 6, pp. 111–120, 154); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, pp. 72–74, entry 4694)"

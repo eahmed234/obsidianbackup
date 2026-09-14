@@ -14,6 +14,7 @@ tags:
   - abs
   - uhud
   - martyr
+  - unverified
 burial: "Uḥud (Medina)"
 death_hijri: 3 AH
 clan: Banū ʿAbs (Confederate of Banū ʿAbd al-Ashhal)

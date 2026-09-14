@@ -13,6 +13,7 @@ tags:
   - fai
   - exile
   - 4-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal 4 AH (August 625 CE)
 location: "Fortified settlements of Banū al-Naḍīr, southeast of [[al-Madīnah al-Munawwarah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

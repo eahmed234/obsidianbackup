@@ -13,6 +13,7 @@ tags:
   - constitution
   - medina
   - 1-ah
+  - unverified
 date_hijri: 1 AH (approx. 622–623 CE)
 location: "[[al-Madīnah al-Munawwarah]]"
 author: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

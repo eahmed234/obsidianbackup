@@ -13,6 +13,7 @@ tags:
   - abu-bakr
   - ali-b-abi-talib
   - 9-ah
+  - unverified
 date_hijri: Month of Dhū al-Qaʿdah / Dhū al-Ḥijjah in the year nine AH (March 631 CE)
 location: "Makkah (al-Masjid al-Ḥarām, Minā, and ʿArafāt)"
 commanders_muslim:

@@ -14,6 +14,7 @@ tags:
   - ahl_al_bayt
   - muhajir
   - asad
+  - unverified
 birth: ~32 BH (592 CE, Makkah)
 death: 20 AH (641 CE, Medina, aged 53; buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 201–205); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 8, pp. 153–156, entry no. 11226)"

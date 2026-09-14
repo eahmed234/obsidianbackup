@@ -8,6 +8,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 kunya: Abū Iyād, or Abū Rabīʿah
 parents: "[[Maʿadd b. ʿAdnān]]"
 children: "[[Muḍar b. Nizār]], Rabīʿah, Iyād, Anmār"

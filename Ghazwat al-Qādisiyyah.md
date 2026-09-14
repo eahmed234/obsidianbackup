@@ -15,6 +15,7 @@ tags:
   - sad-b-abi-waqqas
   - sasanian
   - 15-ah
+  - unverified
 date_hijri: Shaʿbān 15 AH
 location: "al-Qādisiyyah (south of al-Ḥīrah / Kūfah on the Iraqi plains bordering the desert)"
 commanders_muslim:

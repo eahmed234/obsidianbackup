@@ -8,6 +8,7 @@ tags:
   - thaqif
   - taif
   - jahiliyyah
+  - unverified
 aliases:
   - al-Lat
   - al-Rabbah

@@ -12,6 +12,7 @@ tags:
   - khalid-b-al-walid
   - fath-makkah
   - idols
+  - unverified
 date_hijri: Five nights remaining in Ramaḍān in the year eight AH (January 630 CE)
 location: "Nakhlah (between Makkah and al-Ṭāʾif)"
 commanders_muslim:

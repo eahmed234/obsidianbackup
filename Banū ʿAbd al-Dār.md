@@ -13,6 +13,7 @@ tags:
   - quraysh
   - abdari
   - makkan_era
+  - unverified
 lineage: "ʿAbd al-Dār b. Quṣayy b. Kilāb b. Murrah b. Kaʿb"
 relation: "Hereditary keepers of the Kaʿbah key (al-Ḥijābah), the standard of war (al-Liwāʾ), and the assembly house (Dār al-Nadwah)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 275–276, 420; vol. 4, pp. 191, 195; vol. 5, pp. 244–245)"

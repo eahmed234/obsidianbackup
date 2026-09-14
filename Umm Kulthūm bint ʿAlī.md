@@ -10,6 +10,7 @@ tags:
   - sahabi
   - hashimi
   - ahl_al_bayt
+  - unverified
 clan: "Banū Hāshim (Quraysh)"
 relation: "Granddaughter of the Prophet ﷺ; daughter of ʿAlī and Fāṭimah; wife of ʿUmar b. al-Khaṭṭāb ﵁"
 death: "Madīnah (buried in Jannat al-Baqīʿ alongside her son Zayd b. ʿUmar)"

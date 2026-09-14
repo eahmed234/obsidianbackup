@@ -12,6 +12,7 @@ tags:
   - makki
   - hijrah
   - dalail
+  - unverified
 period: Makkan (culminating in the miraculous departure on the Night of the Hijrah)
 primary_source: "*Subul al-Hudā*, 3:232–234"
 ---

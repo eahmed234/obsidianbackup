@@ -10,6 +10,7 @@ tags:
   - sahabiyyah
   - makkan_era
   - persecution
+  - unverified
 relation: "Freed by Abū Bakr al-Ṣiddīq ﵁, among seven he purchased out of torture"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 361); [[al-Iṣābah]] (vol. 8, pp. 150–151, no. 11222)"
 ---

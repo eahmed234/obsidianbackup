@@ -12,6 +12,7 @@ tags:
   - tragedy
   - martyrs
   - 4-ah
+  - unverified
 date_hijri: Ṣafar 4 AH (approx. 36 months after Hijrah)
 location: "Biʾr Maʿūnah (between the territories of Banū ʿĀmir and Ḥarrah Banī Sulaym in Najd)"
 commanders_muslim:

@@ -12,6 +12,7 @@ tags:
   - female
   - banu_kalb
   - 6-ah
+  - unverified
 lineage: "Daughter of King [[al-Aṣbagh b. ʿAmr al-Kalbī]]; noblewoman of [[Banū Kalb]]"
 role: "First Kalbite noblewoman in Medina; wife of [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁"
 clan: Banū Kalb (Quḍāʿah)

@@ -11,6 +11,7 @@ tags:
   - quraysh
   - pre_prophethood
   - makkan_era
+  - unverified
 death: "~46 BH (Makkah), when the Prophet ﷺ was about eight"
 relation: "Paternal grandfather and second guardian of the Prophet ﷺ"
 custodial_office: "al-Siqāyah wal-Rifādah; rediscovery of Zamzam"

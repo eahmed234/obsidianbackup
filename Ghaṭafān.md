@@ -11,6 +11,7 @@ tags:
   - bedouin
   - qays_aylan
   - 5-ah
+  - unverified
 territory: "Najd, east and northeast of Medina toward Khaybar"
 lineage: "Ghaṭafān b. Saʿd b. Qays ʿAylān b. Muḍar (ʿAdnānī Arabs)"
 role_in_sirah: "Major Bedouin confederacy; joined the 10,000-man coalition against Medina at the Battle of the Trench; allied with Khaybar"

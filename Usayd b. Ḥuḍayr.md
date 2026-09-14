@@ -13,6 +13,7 @@ tags:
   - awsi
   - naqib
   - chieftain
+  - unverified
 birth: ~19 BH (604 CE, Yathrib)
 death: Shaʿbān 20 AH (641 CE, Medina, buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 198–200; vol. 4, p. 206; vol. 10, p. 47; vol. 11, p. 330); [[al-Iṣābah]] (1:234–235, entry 185)"

@@ -15,6 +15,7 @@ tags:
   - mawla
   - makkan_era
   - 8-ah
+  - unverified
 birth: "~35 BH (Najd, of the Banū Kalb)"
 death: Jumādā al-Ūlā 8 AH (martyred at [[Ghazwat Muʾtah]], aged 55)
 kunya: Abū Usāmah

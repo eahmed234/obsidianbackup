@@ -14,6 +14,7 @@ tags:
   - badr
   - quranic_event
   - 4-ah
+  - unverified
 date_hijri: Shaʿbān / Dhū al-Qaʿdah 4 AH (April 626 CE)
 location: "Badr al-Ṣafrāʾ"
 commanders_muslim:

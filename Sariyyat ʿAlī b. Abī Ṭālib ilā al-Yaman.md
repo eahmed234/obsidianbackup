@@ -12,6 +12,7 @@ tags:
   - ali-b-abi-talib
   - yemen
   - 10-ah
+  - unverified
 date_hijri: Ramaḍān in the year ten AH (December 631 CE)
 location: "Yemen (territories of Madhḥij and Hamdān)"
 commanders_muslim:

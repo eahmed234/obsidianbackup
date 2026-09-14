@@ -11,6 +11,7 @@ tags:
   - makki
   - habashah
   - christology
+  - unverified
 period: Makkan (prior to the First Migration to Abyssinia)
 primary_source: "*Subul al-Hudā*, 2:391"
 ---

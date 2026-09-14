@@ -12,6 +12,7 @@ tags:
   - khalid-b-al-walid
   - fath-makkah
   - banu-jadhimah
+  - unverified
 date_hijri: Shawwāl in the year eight AH (February 630 CE)
 location: "al-Ghumayṣāʾ (in the territory of Banū Jadhimah in lower Makkah toward Yalamlam)"
 commanders_muslim:

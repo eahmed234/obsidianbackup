@@ -13,6 +13,7 @@ tags:
   - medina
   - uthman
   - waqf
+  - unverified
 location: "In the northern al-Aqiq valley of Medina"
 primary_source: "*Subul al-Hudā*, 7:230–231, 11:280"
 ---

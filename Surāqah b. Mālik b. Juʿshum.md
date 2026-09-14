@@ -11,6 +11,7 @@ tags:
   - sahabi
   - kinanah
   - late_convert
+  - unverified
 lineage: "Kinānah, Banū Mudlij"
 role: "Pursuer of the Prophet ﷺ during the Hijrah, recipient of the bracelets of Kisrā, and late convert"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 248–264; vol. 4, p. 22); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 3, pp. 35–36, entry 3122)"

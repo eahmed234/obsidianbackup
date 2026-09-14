@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 9-ah
   - madinan_era
+  - unverified
 date_hijri: "Rabīʿ al-Ākhir 9 AH"
 leader: "[[ʿAlī b. Abī Ṭālib]] ﵁"
 adversaries:

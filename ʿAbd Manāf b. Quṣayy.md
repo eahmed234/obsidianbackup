@@ -11,6 +11,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū ʿAbd Shams
 parents: "[[Quṣayy b. Kilāb]] and Ḥubbā bint Ḥulayl"
 children: "[[Hāshim b. ʿAbd Manāf]], ʿAbd Shams, al-Muṭṭalib, Nawfal, Abū ʿAmr, Tamāḍur, Qilābah, Umaymah, Rayṭah"

@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - sanctuary
   - early_dawah
+  - unverified
 location_coords: "At the eastern foot of Mount al-Ṣafā, Makkah"
 primary_event: "[[al-Daʿwah al-Sirriyyah wal-Jahriyyah]] (Early Prophetic Era)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 319–322; vol. 6, p. 61)"

@@ -10,6 +10,7 @@ tags:
   - warrior
   - fath_makkah
   - yarmuk
+  - unverified
 aliases:
   - Umm Ḥakīm al-Makhzūmiyyah
   - Umm Hakim bint al-Harith

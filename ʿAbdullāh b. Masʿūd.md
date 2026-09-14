@@ -15,6 +15,7 @@ tags:
   - early_convert
   - hudhayl
   - zuhrah
+  - unverified
 birth: ~32 BH (594 CE, Makkah)
 death: 32 AH (653 CE, Medina, aged over 60; buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 310–312; vol. 4, pp. 71–72, 92; vol. 10, p. 208; vol. 11, pp. 328, 330); [[al-Iṣābah]] (vol. 4, pp. 199–202, no. 4971; vol. 8, p. 154)"

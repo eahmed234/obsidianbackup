@@ -12,6 +12,7 @@ tags:
   - ansari
   - khazraji
   - badri
+  - unverified
 clan: "Banū Sālim b. ʿAwf (al-Khazraj) / Banū Ghanm b. ʿAwf"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 92; vol. 5, p. 472); [[al-Iṣābah]] (vol. 5, pp. 534–535, no. 7640)"
 ---

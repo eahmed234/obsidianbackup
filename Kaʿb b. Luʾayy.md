@@ -9,6 +9,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū Hisl (Abū Huṣayṣ)
 parents: "[[Luʾayy b. Ghālib]]"
 children: "[[Murrah b. Kaʿb]], Huṣayṣ, ʿAdiyy"

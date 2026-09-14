@@ -12,6 +12,7 @@ tags:
   - ansari
   - khazraji
   - martyr
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], Banū al-Najjār"
 matronymic: "Known by his mother ʿAfrāʾ"
 role: "Youthful hero who struck down Abū Jahl at Badr; Badri martyr"

@@ -15,6 +15,7 @@ tags:
   - khalid-b-al-walid
   - abu-ubaydah
   - 15-ah
+  - unverified
 date_hijri: Rajab 15 AH
 location: "Wādī al-Yarmūk (near the Yarmouk River south of Lake Tiberias / Golan plateau)"
 commanders_muslim:

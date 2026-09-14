@@ -12,6 +12,7 @@ tags:
   - makkah
   - hajj
   - mashair
+  - unverified
 location_coords: "Valley east of Makkah situated between Muzdalifah and Makkah within the sacred precinct (Ḥaram)"
 primary_event: "[[Ḥajjat al-Wadāʿ]], [[Bayʿat al-ʿAqabah al-Ūlā]], and [[Bayʿat al-ʿAqabah al-Thāniyah]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 179, 199; vol. 8, pp. 468, 473–482)"

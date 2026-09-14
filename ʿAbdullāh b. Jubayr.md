@@ -12,6 +12,7 @@ tags:
   - ansari
   - awsi
   - shahid
+  - unverified
 lineage: "Banū ʿAmr b. ʿAwf ([[al-Aws]])"
 command: "Commander of the fifty archers upon Mount ʿAynayn at Uḥud"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 218; vol. 4, pp. 76, 190, 195); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, p. 291; vol. 4, p. 31, entry 4600)"

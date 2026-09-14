@@ -12,6 +12,7 @@ tags:
   - quraysh
   - taymi
   - makkan_era
+  - unverified
 lineage: "Taym b. Murrah b. Kaʿb b. Luʾayy b. Ghālib"
 relation: "The clan of Abū Bakr al-Ṣiddīq, Ṭalḥah b. ʿUbaydillāh, and ʿAbdullāh b. Judʿān"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 278, 420; vol. 2, pp. 154, 305)"

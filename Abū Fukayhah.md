@@ -13,6 +13,7 @@ tags:
   - makkan_era
   - persecution
   - habashah
+  - unverified
 kunya: Abū Fukayhah
 relation: "Mawlā of Ṣafwān b. Umayyah, emancipated by Abū Bakr al-Ṣiddīq ﵁"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 306, 360, 407); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 6, p. 536, no. 9364; vol. 7, p. 268, no. 10397)"

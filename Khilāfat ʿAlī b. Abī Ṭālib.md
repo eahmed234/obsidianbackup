@@ -8,6 +8,7 @@ tags:
   - khulafa_rashidun
   - 35-ah
   - 40-ah
+  - unverified
 date_hijri: 35–40 AH
 location: "[[al-Madīnah al-Munawwarah]] and Kūfah"
 caliph: "[[ʿAlī b. Abī Ṭālib]]"

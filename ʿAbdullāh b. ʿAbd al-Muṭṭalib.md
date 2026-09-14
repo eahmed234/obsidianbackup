@@ -11,6 +11,7 @@ tags:
   - hashimi
   - quraysh
   - pre_prophethood
+  - unverified
 death: "~53 BH (Medina/Yathrib, on a trading journey), before the Prophet's ﷺ birth"
 parents: "[[ʿAbd al-Muṭṭalib]] and Fāṭimah bint ʿAmr b. ʿĀʾidh b. ʿImrān b. Makhzūm"
 spouse: "[[Āminah bint Wahb]]"

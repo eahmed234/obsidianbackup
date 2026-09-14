@@ -7,6 +7,7 @@ tags:
   - sahabi
   - muhajir
   - taymi
+  - unverified
 aliases:
   - Abd al-Rahman ibn Abi Bakr
   - "عبد الرحمن بن أبي بكر"

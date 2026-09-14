@@ -8,6 +8,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 kunya: Abū Maʿadd
 children: "[[Maʿadd b. ʿAdnān]], al-Dīth, Abī, al-Yaʿyy, ʿAdiyy, al-Ḥārith al-Mudhhab"
 relation: "20th-generation ancestor of the Prophet ﷺ in the agreed line; a descendant of Ismāʿīl b. Ibrāhīm ﵊"

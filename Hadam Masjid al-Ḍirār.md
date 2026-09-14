@@ -12,6 +12,7 @@ tags:
   - quba
   - munafiqun
   - 9-ah
+  - unverified
 date_hijri: Dhū al-Qaʿdah in the year nine AH (after returning from Tabūk; late 630 CE)
 location: "Qubāʾ (outskirts of Medina)"
 commanders_muslim:

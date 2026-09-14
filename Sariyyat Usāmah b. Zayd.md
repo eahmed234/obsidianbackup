@@ -13,6 +13,7 @@ tags:
   - byzantine
   - sham
   - usamah
+  - unverified
 date_hijri: Ṣafar–Rabīʿ al-Ākhar in the year eleven AH (May–June 632 CE)
 location: "Ubnā (in the land of al-Sharāh near al-Balqāʾ, southern Jordan) and [[al-Jurf]]"
 commanders_muslim:

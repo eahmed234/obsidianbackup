@@ -9,6 +9,7 @@ tags:
   - quraysh
   - abd_shams
   - fath_makkah
+  - unverified
 aliases:
   - Hind bint ʿUtbah al-Qurashiyyah
   - Mother of Muʿāwiyah

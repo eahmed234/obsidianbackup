@@ -12,6 +12,7 @@ tags:
   - amr-b-al-as
   - fath-makkah
   - idols
+  - unverified
 date_hijri: Month of Ramaḍān in the year eight AH (January 630 CE)
 location: "Ruhāṭ (coastal plain roughly three miles from Makkah)"
 commanders_muslim:

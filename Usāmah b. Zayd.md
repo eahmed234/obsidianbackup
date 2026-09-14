@@ -13,6 +13,7 @@ tags:
   - commander
   - muhajir
   - 54-ah
+  - unverified
 birth: "~7 BH (615 CE, Makkah)"
 death: 54 AH (al-Jurf near Medina, aged ~60)
 kunya: Abū Muḥammad (and Abū Zayd)

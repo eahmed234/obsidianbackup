@@ -12,6 +12,7 @@ tags:
   - hashimi
   - quraysh
   - muhajir
+  - unverified
 clan: "Banū Hāshim (Quraysh)"
 relation: "First cousin and foster-brother of the Prophet ﷺ"
 death: "15 AH or 20 AH, during the Caliphate of ʿUmar ﵁ (buried in Madīnah)"

@@ -11,6 +11,7 @@ tags:
   - quran
   - sabab_al_nuzul
   - tawhid
+  - unverified
 period: Revealed upon theological inquiries regarding the lineage of the Divine
 primary_source: "*Subul al-Hudā*, 3:396–397"
 ---

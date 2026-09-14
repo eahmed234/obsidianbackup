@@ -6,6 +6,7 @@ tags:
   - event
   - caliphate
   - khawarij
+  - unverified
 date_hijri: ninth of Ṣafar in the year thirty-eight AH
 location: "al-Nahrawān (east of the Tigris, near modern-day Baghdad, Iraq)"
 commanders_muslim:

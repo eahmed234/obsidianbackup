@@ -11,6 +11,7 @@ tags:
   - medina
   - khandaq
   - 5-ah
+  - unverified
 location_coords: "Western-northwestern edge of ancient Medina"
 primary_event: "[[Ghazwat al-Khandaq]] (Shawwāl 5 AH)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 365, 371)"

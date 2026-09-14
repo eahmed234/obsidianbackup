@@ -10,6 +10,7 @@ tags:
   - sahabi
   - bakr_bin_wa'il
   - kufah
+  - unverified
 birth: ~30 BH (593 CE, Najd)
 death: ~50 AH (670 CE, Kūfah)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, pp. 32–33); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 5, pp. 272–273, entry no. 6980)"

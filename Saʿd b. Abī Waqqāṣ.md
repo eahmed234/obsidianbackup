@@ -14,6 +14,7 @@ tags:
   - badri
   - zuhrah
   - conqueror
+  - unverified
 birth: ~23 BH (600 CE, Makkah)
 death: 55 AH (674 CE, al-ʿAqīq / Medina, aged 74; buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 10, 92, 205, 370; vol. 5, pp. 48, 124, 445; vol. 11, pp. 315–317); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 3, pp. 61–65, no. 3202)"

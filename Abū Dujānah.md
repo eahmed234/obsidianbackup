@@ -15,6 +15,7 @@ tags:
   - uhud
   - yamamah
   - martyr
+  - unverified
 kunya: Abū Dujānah
 death_hijri: 12 AH
 burial: "al-Yamāmah"

@@ -11,6 +11,7 @@ tags:
   - sahabiyyah
   - makkan_era
   - persecution
+  - unverified
 relation: "Enslaved woman of Banū Zuhrah; emancipated by Abū Bakr al-Ṣiddīq ﵁ among the seven oppressed believers"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 361); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 8, p. 434, entry 12163)"
 ---

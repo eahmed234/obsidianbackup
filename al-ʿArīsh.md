@@ -8,6 +8,7 @@ tags:
   - place
   - badr
   - 2-ah
+  - unverified
 location: "The nearer slope (al-ʿUdwah al-Dunyā) at [[Badr]]"
 built_by: "The Anṣār, at the counsel of [[Saʿd b. Muʿādh]] ﵁"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 36–37)"

@@ -11,6 +11,7 @@ tags:
   - israelite
   - uhud
   - martyr
+  - unverified
 burial: "Uḥud (Medina)"
 death_hijri: 3 AH
 clan: Banū al-Naḍīr (or Banū Qaynuqāʿ)

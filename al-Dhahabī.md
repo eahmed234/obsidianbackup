@@ -11,6 +11,7 @@ tags:
   - historian
   - hadith
   - source
+  - unverified
 kunya: Abū ʿAbdillāh
 death: "Dhū al-Qaʿdah 748 AH"
 epithet: "Muʾarrikh al-Islām — the Historian of Islam"

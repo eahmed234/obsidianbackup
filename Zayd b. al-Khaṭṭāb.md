@@ -7,6 +7,7 @@ tags:
   - sahabi
   - muhajir
   - badri
+  - unverified
 aliases:
   - Zayd ibn al-Khattab
   - "زيد بن الخطاب"

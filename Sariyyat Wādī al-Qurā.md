@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 6-ah
   - madinan_era
+  - unverified
 date_hijri: "Ramaḍān 6 AH"
 leader: "[[Zayd b. Ḥārithah]] ﵁"
 adversaries:

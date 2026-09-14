@@ -14,6 +14,7 @@ tags:
   - badr
   - 2-ah
   - furqan
+  - unverified
 date_hijri: 17 Ramaḍān 2 AH
 date_gregorian: 13 March 624 CE
 location: "[[Badr]]"

@@ -12,6 +12,7 @@ tags:
   - historian
   - sirah
   - author
+  - unverified
 kunya: Abū ʿAbdillāh
 laqab: Shams al-Dīn
 death: 942 AH

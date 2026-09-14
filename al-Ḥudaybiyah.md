@@ -10,6 +10,7 @@ tags:
   - treaty
   - pledge
   - 6-ah
+  - unverified
 location_coords: "Approx. 22 km west of Makkah, situated at the boundary of the sacred precinct (al-Ḥill wal-Ḥaram)"
 key_landmarks:
   - "The Acacia Tree of the Pledge (Shajarat al-Riḍwān)"

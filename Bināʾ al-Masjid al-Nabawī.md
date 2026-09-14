@@ -11,6 +11,7 @@ tags:
   - medina
   - mosque
   - 1-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal – Shawwāl 1 AH (622 CE)
 location: "[[al-Madīnah al-Munawwarah]]"
 purchased_from: "Sahl and Suhayl (orphan sons of Rāfiʿ b. Abī ʿAmr of [[Banū al-Najjār]])"

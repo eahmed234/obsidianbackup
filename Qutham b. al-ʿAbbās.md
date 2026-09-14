@@ -11,6 +11,7 @@ tags:
   - hashimi
   - quraysh
   - ahl_al_bayt
+  - unverified
 clan: "Banū Hāshim (Quraysh)"
 relation: "First cousin of the Prophet ﷺ; foster-brother of al-Ḥasan b. ʿAlī"
 death: "Martyred at Samarqand during the Caliphate of Muʿāwiyah (under Saʿīd b. ʿUthmān)"

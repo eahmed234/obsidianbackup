@@ -12,6 +12,7 @@ tags:
   - hudaybiyah
   - 6-ah
   - covenant
+  - unverified
 date_hijri: Dhū al-Qaʿdah 6 AH (approx. March 628 CE)
 location: "Beneath an acacia tree (*al-Samurah*) at [[al-Ḥudaybiyah]]"
 participants: "1,400 Companions (per al-Barāʾ b. ʿĀzib and Jābir b. ʿAbdillāh)"

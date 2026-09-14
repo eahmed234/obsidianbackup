@@ -14,6 +14,7 @@ tags:
   - naqib
   - aqabah
   - qadi
+  - unverified
 kunya: Abū al-Walīd
 birth_approx: ~38 BH (Medina)
 death_hijri: 34 AH

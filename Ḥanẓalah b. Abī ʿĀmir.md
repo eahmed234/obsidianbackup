@@ -12,6 +12,7 @@ tags:
   - awsi
   - shahid
   - uhud
+  - unverified
 lineage: "Anṣārī of [[al-Aws]], Banū ʿAmr b. ʿAwf"
 epithet: "Ghasīl al-Malāʾikah (The One Washed by the Angels)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 183, 199, 213); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, p. 119, entry 1868; vol. 8, pp. 67, 70)"

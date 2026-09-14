@@ -9,6 +9,7 @@ tags:
   - khazraj
   - knight
   - 54-ah
+  - unverified
 aliases:
   - Abū Qatādah
   - al-Ḥārith b. Ribʿī

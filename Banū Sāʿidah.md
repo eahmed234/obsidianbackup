@@ -12,6 +12,7 @@ tags:
   - ansar
   - khazraji
   - medina
+  - unverified
 lineage: "A principal clan of [[al-Khazraj]], descended from Sāʿidah b. Kaʿb b. al-Khazraj"
 chieftains:
   - "[[Saʿd b. ʿUbādah]] ﵁"

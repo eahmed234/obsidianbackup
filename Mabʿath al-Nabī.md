@@ -11,6 +11,7 @@ tags:
   - makkan_era
   - revelation
   - prophethood
+  - unverified
 date_hijri: "Age forty, per the majority; Monday; the month disputed — mostly Ramaḍān, also reported as Rabīʿ al-Awwal or Rajab"
 location: "Cave Ḥirāʾ, Mount al-Nūr, [[Makkah al-Mukarramah]]"
 angels: "[[Jibrīl]]; disputed pairing with Isrāfīl for three years beforehand"

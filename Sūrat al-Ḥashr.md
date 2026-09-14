@@ -12,6 +12,7 @@ tags:
   - madani
   - expulsion
   - sabab_al_nuzul
+  - unverified
 surah_number: 59
 total_ayahs: 24
 period: Madanī (Rabīʿ al-Awwal 4 AH)

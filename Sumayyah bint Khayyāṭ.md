@@ -13,6 +13,7 @@ tags:
   - makkan_era
   - persecution
   - first_martyr
+  - unverified
 kunya: Umm ʿAmmār
 death: "Speared by [[Abū Jahl (ʿAmr b. Hishām)]], Makkah, before the Hijrah — the first martyr of Islam"
 spouse: "[[Yāsir b. ʿĀmir]]"

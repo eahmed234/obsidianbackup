@@ -11,6 +11,7 @@ tags:
   - madani
   - hudaybiyah
   - sabab_al_nuzul
+  - unverified
 surah_number: 48
 total_ayahs: 29
 period: Madanī (Dhū al-Qaʿdah 6 AH)

@@ -9,6 +9,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū Yaqẓah
 parents: "[[Kaʿb b. Luʾayy]]"
 children: "[[Kilāb b. Murrah]], Tamīm, Yaqaẓah"

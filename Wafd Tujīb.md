@@ -7,6 +7,7 @@ tags:
   - wufud
   - 9-ah
   - madinan_era
+  - unverified
 date_hijri: "9 AH"
 date_gregorian: "630/631 CE"
 delegation_members: "13 men of Tujīb (from al-Sukūn / Kindah) and their youngest youth"

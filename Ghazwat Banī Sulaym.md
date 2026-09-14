@@ -12,6 +12,7 @@ tags:
   - sulaym
   - ghatafan
   - 2-ah
+  - unverified
 date_hijri: Shawwāl 2 AH (approx. April 624 CE)
 location: "Qarqarat al-Kudr (the waters of Banū Sulaym in Najd)"
 commanders_muslim:

@@ -9,6 +9,7 @@ tags:
   - quraysh
   - badr
   - combatant_enemy
+  - unverified
 lineage: "Quraysh, Banū ʿAbd Shams; son of [[ʿUtbah b. Rabīʿah]] ☠ and brother of Hind bint ʿUtbah"
 role: "Formidable polytheist champion slain by [[ʿAlī b. Abī Ṭālib]] ﵁ in the opening duel of Badr"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 35–37; vol. 11, p. 293)"

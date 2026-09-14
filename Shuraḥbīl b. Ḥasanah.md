@@ -8,6 +8,7 @@ tags:
   - muhajir
   - kindah
   - commander
+  - unverified
 aliases:
   - Shurahbil ibn Hasanah
   - Abū ʿAbdillāh

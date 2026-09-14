@@ -14,6 +14,7 @@ tags:
   - abu-ubaydah
   - qudaah
   - 8-ah
+  - unverified
 date_hijri: Jumādā al-Ākhirah 8 AH
 location: "Dhāt al-Salāsil (a watering place in the territory of Balī and Quḍāʿah in northern Ḥijāz / Syrian marches)"
 commanders_muslim:

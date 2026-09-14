@@ -12,6 +12,7 @@ tags:
   - qays_aylan
   - hunayn
   - 8-ah
+  - unverified
 territory: "The uplands between Makkah, al-Ṭāʾif, and Najd"
 lineage: "Hawāzin b. Manṣūr b. ʿIkrimah b. Khaṣafah b. Qays ʿAylān b. Muḍar"
 role_in_sirah: "Fostered the Prophet ﷺ in infancy through Banū Saʿd b. Bakr; mobilized the mass pagan confederacy at Ḥunayn (8 AH); repented and received back their captive families at al-Jiʿrānah"

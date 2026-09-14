@@ -8,6 +8,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 kunya: Abū Asad
 parents: "[[Mudrikah b. Ilyās]]"
 children: "[[Kinānah b. Khuzaymah]]"

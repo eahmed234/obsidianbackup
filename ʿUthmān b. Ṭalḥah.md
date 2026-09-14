@@ -9,6 +9,7 @@ tags:
   - quraysh
   - abd_al_dar
   - custodian
+  - unverified
 aliases:
   - ʿUthmān b. Ṭalḥah al-ʿAbdarī
   - Uthman ibn Talhah

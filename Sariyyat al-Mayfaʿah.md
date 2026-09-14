@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 7-ah
   - madinan_era
+  - unverified
 date_hijri: "Ramaḍān 7 AH"
 leader: "[[Ghālib b. ʿAbdillāh al-Laythī]] ﵁"
 adversaries:

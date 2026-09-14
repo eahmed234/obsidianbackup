@@ -15,6 +15,7 @@ tags:
   - ahl_al_bayt
   - muhajir
   - umayyah
+  - unverified
 birth: ~17 BH (606 CE, Makkah)
 death: 44 AH (664 CE, Medina; buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, pp. 193–197); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 8, pp. 140–142, entry no. 11191)"

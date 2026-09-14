@@ -15,6 +15,7 @@ tags:
   - badri
   - naqib
   - shahid
+  - unverified
 clan: "Banū Sāʿidah (al-Khazraj)"
 title_honorific: "al-Muʿnaq li-Yamūt (He Who Hastened to Meet Death)"
 death: "4 AH, martyred commanding the Expedition of Biʾr Maʿūnah"

@@ -11,6 +11,7 @@ tags:
   - abyssinia
   - sanctuary
   - makkan_era
+  - unverified
 location_coords: "Horn of Africa across the Red Sea; Kingdom of Aksum"
 primary_event: "[[al-Hijrah ilā al-Ḥabashah]] (5th & 7th Year of Nubūwah)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 382–402)"

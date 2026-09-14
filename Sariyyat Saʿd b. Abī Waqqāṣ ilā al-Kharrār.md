@@ -12,6 +12,7 @@ tags:
   - sariyyah
   - sad-b-abi-waqqas
   - 1-ah
+  - unverified
 date_hijri: Month of Dhū al-Qaʿdah at the head of nine months from the Hijrah in the year one AH
 location: "al-Kharrār (near Ghadīr Khumm and al-Juḥfah)"
 commanders_muslim:

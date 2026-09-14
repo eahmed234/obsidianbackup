@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - hijrah
   - abyssinia
+  - unverified
 date_period: "First Hijrah: Rajab, year 5 of the mission; Second Hijrah: after news reached Makkah of the Muslims' good treatment under al-Najāshī"
 destination: "Kingdom of [[Abyssinia|Aksum (Abyssinia)]]"
 sovereign: "[[al-Najāshī (Aṣḥamah)]]"

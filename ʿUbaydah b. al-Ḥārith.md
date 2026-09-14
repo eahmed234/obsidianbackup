@@ -13,6 +13,7 @@ tags:
   - muhajir
   - muttalibi
   - shahid
+  - unverified
 lineage: "Quraysh, [[Banū al-Muṭṭalib]] b. ʿAbd Manāf"
 role: "Senior chieftain of Banū ʿAbd Manāf, commander of the Sariyyah of Rābigh, duel champion and foremost Muhājir martyr of Badr"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 34–46; vol. 6, p. 13); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, p. 130; vol. 4, pp. 352–353, entry 5391; vol. 5, p. 56)"

@@ -9,6 +9,7 @@ tags:
   - muhajir
   - badri
   - banu_sahm
+  - unverified
 aliases:
   - Khunays b. Hudhafah
   - Khunais b. Hudhafah

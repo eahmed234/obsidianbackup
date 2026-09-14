@@ -9,6 +9,7 @@ tags:
   - poet
   - standard_bearer
   - fath_makkah
+  - unverified
 aliases:
   - ʿAmr b. Sālim
   - Rājiz Banī Kaʿb

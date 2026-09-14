@@ -15,6 +15,7 @@ tags:
   - ahl_al_bayt
   - scholar
   - mufassir
+  - unverified
 kunya: Abū al-ʿAbbās
 birth_approx: ~3 BH (Shiʿb Abī Ṭālib, Makkah)
 death: 68 AH (aged 71)

@@ -10,6 +10,7 @@ tags:
   - jurist
   - medina
   - first-century-ah
+  - unverified
 lineage: "Quraysh, Banū Zuhrah; son of [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁ and [[Tumāḍir bint al-Aṣbagh]]"
 role: "One of the Seven Great Jurists of Medina (al-Fuqahāʾ al-Sabʿah)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, p. 95)"

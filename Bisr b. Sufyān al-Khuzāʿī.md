@@ -10,6 +10,7 @@ tags:
   - reconnaissance
   - hudaybiyah
   - 6-ah
+  - unverified
 aliases:
   - Bisr b. Sufyān
   - Bisr b. Sufyān al-Kaʿbī

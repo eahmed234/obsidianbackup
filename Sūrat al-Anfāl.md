@@ -11,6 +11,7 @@ tags:
   - madani
   - badr
   - sabab_al_nuzul
+  - unverified
 surah_number: 8
 total_ayahs: 75
 period: Madanī (revealed immediately after Badr, 2 AH)

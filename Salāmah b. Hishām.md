@@ -12,6 +12,7 @@ tags:
   - makhzumi
   - mustadafun
   - habashah
+  - unverified
 clan: "[[Banū Makhzūm]] (Quraysh)"
 lineage: "Salāmah b. Hishām b. al-Mughīrah b. ʿAbdillāh b. ʿUmar b. Makhzūm al-Qurashī al-Makhzūmī"
 kinship: "Brother of Abū Jahl and al-Ḥārith b. Hishām, cousin of Khālid b. al-Walīd and Umm Salamah"

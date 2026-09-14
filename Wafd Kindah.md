@@ -7,6 +7,7 @@ tags:
   - wufud
   - 10-ah
   - madinan_era
+  - unverified
 date_hijri: "10 AH"
 date_gregorian: "631/632 CE"
 leader: "[[al-Ashʿath b. Qays]]"

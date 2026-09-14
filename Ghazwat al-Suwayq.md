@@ -11,6 +11,7 @@ tags:
   - ghazwah
   - quraysh
   - 2-ah
+  - unverified
 date_hijri: 5 Dhū al-Ḥijjah 2 AH (June 624 CE)
 location: "al-ʿUrayḍ (Medina) to Qarqarat al-Kudr"
 commanders_muslim:

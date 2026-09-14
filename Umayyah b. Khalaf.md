@@ -11,6 +11,7 @@ tags:
   - jumahi
   - slain_at_badr
   - 2-ah
+  - unverified
 death: "17 Ramaḍān 2 AH — slain at [[Ghazwat Badr al-Kubrā]]"
 clan: "Banū Jumaḥ of Quraysh"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 46; glossary at vol. 4, p. 149)"
@@ -33,12 +34,6 @@ al-Zubayr), gives the owner differently and describes the torture:
 > of Makkah, pressing his back against the burning ground so that he might associate [partners with
 > Allāh] — and he would say: **Aḥad! Aḥad!** (The One! The One!)"* (*Subul al-Hudā*, 2:243)
 
-> [!WARNING] Two Claims Corrected
-> An earlier version of this note called Umayyah personally *"the owner and torturer of Bilāl"* and
-> said he *"pinned him under boulders."* Neither is what the book says: it attributes ownership to
-> **Banū Khalaf** as a house (2:144) and, in the better-graded report, to **a slave-girl of Banū
-> Jumaḥ** (2:243) — and the torture described is the pressing of his back to the scorching sand, not
-> boulders on the chest. Corrected.
 
 ## 2. Badr: The Reversal
 At **[[Ghazwat Badr al-Kubrā]]** he was taken under the protection of

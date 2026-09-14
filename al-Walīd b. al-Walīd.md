@@ -11,6 +11,7 @@ tags:
   - muhajir
   - makhzumi
   - mustadafun
+  - unverified
 clan: "[[Banū Makhzūm]] (Quraysh)"
 lineage: "al-Walīd b. al-Walīd b. al-Mughīrah b. ʿAbdillāh b. ʿUmar b. Makhzūm al-Qurashī al-Makhzūmī"
 kinship: "Brother of [[Khālid b. al-Walīd]], nephew of Abū Jahl, cousin of Umm Salamah"

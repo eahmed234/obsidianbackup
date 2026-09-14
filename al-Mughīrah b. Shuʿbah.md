@@ -12,6 +12,7 @@ tags:
   - thaqif
   - hudaybiyah
   - statesman
+  - unverified
 kunya: Abū ʿAbdillāh (or Abū ʿĪsā)
 tribe: Thaqīf
 role: "Statesman of Thaqīf, armed sentry at Ḥudaybiyah, and veteran of Bayʿat al-Riḍwān"

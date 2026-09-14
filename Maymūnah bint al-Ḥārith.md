@@ -9,6 +9,7 @@ tags:
   - umm_al-muminin
   - banu_hilal
   - 7-ah
+  - unverified
 aliases:
   - Maymūnah bint al-Ḥārith al-Hilāliyyah
   - Maymunah bint al-Harith

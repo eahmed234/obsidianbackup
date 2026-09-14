@@ -16,6 +16,7 @@ tags:
   - ahl_al_bayt
   - abyssinia
   - mutah
+  - unverified
 birth: ~34 BH (588 CE, Makkah; ten years older than ʿAlī)
 death: Jumādā al-Ūlā 8 AH (629 CE, martyred at Muʾtah, aged ~41; buried in Muʾtah, Jordan)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 20–30; vol. 5, p. 135; vol. 6, pp. 154, 158; vol. 11, pp. 106–111); [[al-Iṣābah]] (vol. 1, pp. 592–594, no. 1169)"

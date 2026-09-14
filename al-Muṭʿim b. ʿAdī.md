@@ -7,6 +7,7 @@ tags:
   - quraysh
   - makkan_era
   - protector
+  - unverified
 death: "Before [[Ghazwat Badr al-Kubrā]] (2 AH), a polytheist"
 relation: "Granted the Prophet ﷺ protection (jiwār) to re-enter Makkah after [[Riḥlat al-Ṭāʾif]]; his son Jubayr b. Muṭʿim later accepted Islam"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 413–414, 441; vol. 4, p. 54)"

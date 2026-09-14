@@ -10,6 +10,7 @@ tags:
   - antagonist
   - unseen
   - badr
+  - unverified
 role_in_seerah: "Adversary; appears at the Mawlid, at Badr, and at the Conquest"
 quranic_reference: "[[Sūrat al-Anfāl]] (8:48)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 350; vol. 4, p. 22; vol. 5, p. 232)"

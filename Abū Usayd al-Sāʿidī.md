@@ -9,6 +9,7 @@ tags:
   - ansari
   - badri
   - khazraj
+  - unverified
 aliases:
   - Abu Usayd al-Sa'idi
   - Abu Usayd al-Saidi

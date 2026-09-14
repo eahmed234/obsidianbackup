@@ -11,6 +11,7 @@ tags:
   - scholar
   - hadith
   - source
+  - unverified
 kunya: Abū ʿAbdillāh
 nisbah: al-Juʿfī
 death: "Shawwāl 256 AH, aged sixty-two"

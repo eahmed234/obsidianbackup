@@ -12,6 +12,7 @@ tags:
   - clan
   - makkah
   - quraysh
+  - unverified
 lineage: "A prominent clan of [[Quraysh]], descended from ʿĀmir b. Luʾayy b. Ghālib b. Fihr"
 notable_members:
   - "[[Suhayl b. ʿAmr]] ﵁"

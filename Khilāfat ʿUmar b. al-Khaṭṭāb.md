@@ -15,6 +15,7 @@ tags:
   - 13-ah
   - 23-ah
   - conquests
+  - unverified
 date_hijri: Jumādā al-Ākhirah in the year 13 AH to Dhū al-Ḥijjah in the year 23 AH
 location: "Medina (Imperial administrative capital), the Levant, Iraq, Persia, and Egypt"
 commanders_muslim:

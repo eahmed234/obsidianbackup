@@ -10,6 +10,7 @@ tags:
   - ansari
   - shahid
   - uhud
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], Banū al-Najjār"
 kinship: "Paternal uncle of [[Anas b. Mālik]], brother of al-Rabīʿ bint al-Naḍr"
 quranic_reference: "[[Sūrat al-Aḥzāb]] (33:23)"

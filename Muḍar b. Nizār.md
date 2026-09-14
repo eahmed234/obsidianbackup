@@ -9,6 +9,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 parents: "[[Nizār b. Maʿadd]]"
 children: "[[Ilyās b. Muḍar]], Qays ʿAylān"
 siblings: "Rabīʿah, Iyād, Anmār"

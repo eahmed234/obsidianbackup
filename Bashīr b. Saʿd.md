@@ -16,6 +16,7 @@ tags:
   - uhud
   - saqifah
   - martyr
+  - unverified
 kunya: Abū al-Nuʿmān
 death_hijri: 12 AH
 burial: "ʿAyn al-Tamr (Iraq)"

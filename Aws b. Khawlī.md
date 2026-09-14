@@ -12,6 +12,7 @@ tags:
   - ansari
   - khazraji
   - badri
+  - unverified
 kunya: "Abū Laylā"
 clan: "Banū Ghanm b. ʿAwf (al-Khazraj)"
 death: "During the Caliphate of ʿUthmān ﵁ (prior to his encirclement)"

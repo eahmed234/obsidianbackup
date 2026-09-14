@@ -11,6 +11,7 @@ tags:
   - scholar
   - hadith
   - source
+  - unverified
 nisbah: "al-Qushayrī al-Naysābūrī"
 death: "261 AH, aged fifty-seven"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 69 n. 5, taḥqīq)"

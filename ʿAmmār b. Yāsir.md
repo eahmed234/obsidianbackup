@@ -14,6 +14,7 @@ tags:
   - early_convert
   - makhzum
   - madhhij
+  - unverified
 death: 37 AH (martyred at the Battle of Ṣiffīn, aged 93; buried at Ṣiffīn)
 lineage: "ʿAmmār b. Yāsir b. ʿĀmir al-ʿAnsī al-Madhḥijī (confederates of Banū Makhzūm)"
 notable_status: "Early pioneer; son of the first martyrs of Islam; builder of the Prophet's Mosque; slain by the rebellious faction"

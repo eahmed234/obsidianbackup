@@ -12,6 +12,7 @@ tags:
   - madani
   - ahkam
   - sabab_al_nuzul
+  - unverified
 surah_order: "Fifth canonical surah"
 period: Madanī (Late Madinan)
 primary_events:

@@ -11,6 +11,7 @@ tags:
   - mufassir
   - sabab_al_nuzul
   - source
+  - unverified
 kunya: Abū al-Ḥasan
 teachers: "Abū Isḥāq al-Thaʿlabī (tafsīr); Abū al-Faḍl al-ʿArūḍī (language); Abū al-Ḥasan al-Qahandarī al-Ḍarīr (grammar)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 195 n. 1, taḥqīq)"

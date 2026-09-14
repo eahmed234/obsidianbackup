@@ -13,6 +13,7 @@ tags:
   - umayyah
   - chieftain
   - later_convert
+  - unverified
 kunya: Abū Sufyān, Abū Ḥanẓalah
 birth: ~57 BH (567 CE, Makkah, ~10 years older than the Prophet ﷺ)
 death_hijri: 31 AH

@@ -12,3 +12,7 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 sources/.index_cache.json
+
+# Obsidian UI state (noisy, not portable)
+.obsidian/workspace.json
+.obsidian/graph.json

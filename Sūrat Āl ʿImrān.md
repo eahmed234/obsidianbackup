@@ -12,6 +12,7 @@ tags:
   - uhud
   - badr
   - sabab_al_nuzul
+  - unverified
 surah_number: 3
 total_ayahs: 200
 period: Madanī (3 AH onwards)
@@ -50,9 +51,6 @@ so this table is taken from the book's own tagging rather than inferred from wha
 | **3:169** | 4:251 | The martyrs — *"do not think them dead"* |
 | **3:173–175** | 4:311, 4:312, 4:313 | [[Ghazwat Ḥamrāʾ al-Asad]] |
 
-> [!NOTE] Range Corrected
-> The `primary_source` range was given as vol. 4, pp. 240–330. The commentary verses in fact cluster
-> from **4:188** — well before 240 — through **4:313**. The range is corrected accordingly.
 
 ---
 

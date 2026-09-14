@@ -11,6 +11,7 @@ tags:
   - quraysh
   - hashimi
   - makkan_era
+  - unverified
 lineage: "Hāshim b. ʿAbd Manāf b. Quṣayy b. Kilāb"
 custodial_offices: "al-Siqāyah and al-Rifādah, which Hāshim inherited from his father ʿAbd Manāf"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 239, 271–275; vol. 2, pp. 377–395)"

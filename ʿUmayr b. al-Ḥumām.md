@@ -9,6 +9,7 @@ tags:
   - khazraji
   - badri
   - shahid
+  - unverified
 battles:
   - "[[Ghazwat Badr al-Kubrā]]"
 lineage: "Anṣārī of [[al-Khazraj]], [[Banū Salimah]]"

@@ -8,6 +8,7 @@ tags:
   - khuzaah
   - hudaybiyah
   - fateh_makkah
+  - unverified
 aliases:
   - Budayl b. Warqāʾ
   - Budayl ibn Warqa

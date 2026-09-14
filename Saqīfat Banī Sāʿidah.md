@@ -10,6 +10,7 @@ tags:
   - event
   - caliphate
   - succession
+  - unverified
 date_hijri: Rabīʿ al-Awwal in the year eleven AH (June 632 CE)
 location: "Portico of Banū Sāʿidah and [[al-Masjid al-Nabawī]], [[al-Madīnah al-Munawwarah]]"
 spokesmen_ansar:

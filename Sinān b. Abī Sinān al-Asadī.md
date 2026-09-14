@@ -9,6 +9,7 @@ tags:
   - muhajir
   - banu_asad
   - ridwan
+  - unverified
 aliases:
   - Sinān b. Abī Sinān
   - Sinan ibn Abi Sinan

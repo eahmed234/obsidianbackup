@@ -13,6 +13,7 @@ tags:
   - wufud
   - 9-ah
   - 10-ah
+  - unverified
 date_hijri: Year nine and ten AH (630–632 CE)
 location: "Medina (al-Masjid al-Nabawī, Dār al-Ḍiyāfah, and the encampments around the City)"
 commanders_muslim:

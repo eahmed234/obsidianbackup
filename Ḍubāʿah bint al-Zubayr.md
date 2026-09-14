@@ -7,6 +7,7 @@ tags:
   - sahabi
   - sahaba
   - banu_hashim
+  - unverified
 aliases:
   - Duba'ah bint al-Zubayr
   - Dubaah bint al-Zubayr

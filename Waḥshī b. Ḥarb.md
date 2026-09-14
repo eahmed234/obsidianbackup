@@ -11,6 +11,7 @@ tags:
   - habashi
   - uhud
   - yamamah
+  - unverified
 death: During the Caliphate of ʿUthmān (at Ḥimṣ, Syria)
 kunya: "Abū Dasmah"
 origin: "Abyssinian (al-Ḥabashah)"

@@ -11,6 +11,7 @@ tags:
   - banu_kalb
   - dumat_al_jandal
   - 6-ah
+  - unverified
 lineage: "Paramount chieftain of [[Banū Kalb]] at [[Dūmat al-Jandal]]"
 role: "Paramount Kalbite chieftain who embraced Islam under [[ʿAbd al-Raḥmān b. ʿAwf]] ﵁"
 clan: Banū Kalb (Quḍāʿah)

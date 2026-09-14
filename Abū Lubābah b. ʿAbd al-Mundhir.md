@@ -12,6 +12,7 @@ tags:
   - ansari
   - awsi
   - naqib
+  - unverified
 lineage: "Anṣārī of [[al-Aws]], Banū ʿAmr b. ʿAwf"
 role: "Nuqayb at al-ʿAqabah, Deputy over Medina during Badr, Companion of the Pillar of Repentance"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 23; vol. 5, pp. 8–24); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 7, pp. 290–291, entry 10472; vol. 8, p. 108)"

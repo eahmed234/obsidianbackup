@@ -11,6 +11,7 @@ tags:
   - makkan_era
   - pre_prophethood
   - war
+  - unverified
 date_hijri: "Fourteen or fifteen years before the mission (Ibn Hishām), or twenty years (Ibn Isḥāq); fought in Shawwāl (al-Wāqidī) or Shaʿbān (al-Rawḍ)"
 location: "ʿUkāẓ, Majannah, and Nakhlah (between Makkah and al-Ṭāʾif)"
 belligerents:

@@ -12,6 +12,7 @@ tags:
   - 7-ah
   - 9-ah
   - madinan_era
+  - unverified
 date_hijri: "7 AH / 9 AH"
 leader: "[[Abū Mūsā al-Ashʿarī]] ﵁"
 delegation_members: "52 to 53 men of the Ashʿarīs from Yemen aboard the Ship"

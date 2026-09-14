@@ -10,6 +10,7 @@ tags:
   - quraish
   - jumahi
   - uhud
+  - unverified
 death: 7 Shawwāl in the year three AH (at Sarif, returning from [[Ghazwat Uḥud]])
 tribe: "[[Quraysh]] (Banū Jumaḥ)"
 brother: "[[Umayyah b. Khalaf]] ☠"

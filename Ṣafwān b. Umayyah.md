@@ -10,6 +10,7 @@ tags:
   - tulaqa
   - fath_makkah
   - hunayn
+  - unverified
 aliases:
   - Ṣafwān b. Umayyah al-Jumaḥī
   - Safwan ibn Umayyah

@@ -9,6 +9,7 @@ tags:
   - geography
   - 3-ah
   - pursuit
+  - unverified
 location_coords: "Approx. 8 miles south of Medina on the road to Dhū al-Ḥulayfah"
 primary_event: "[[Ghazwat Ḥamrāʾ al-Asad]] (8 Shawwāl 3 AH)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 308–316)"

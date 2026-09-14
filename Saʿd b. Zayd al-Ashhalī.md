@@ -11,6 +11,7 @@ tags:
   - ansari
   - awsi
   - badri
+  - unverified
 clan: "Banū ʿAbd al-Ashhal (al-Aws)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 91; vol. 5, pp. 26, 394–395); [[al-Iṣābah]] (vol. 3, pp. 51–52, no. 3165)"
 ---

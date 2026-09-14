@@ -15,6 +15,7 @@ tags:
   - kinanah
   - treaty
   - 2-ah
+  - unverified
 date_hijri: Ṣafar 2 AH (August 623 CE)
 location: "al-Abwāʾ & Waddān"
 commanders_muslim:

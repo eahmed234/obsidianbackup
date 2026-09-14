@@ -12,6 +12,7 @@ tags:
   - hawazin
   - hunayn
   - 8-ah
+  - unverified
 date_hijri: Shawwāl 8 AH (January–February 630 CE)
 location: "Valley of [[Ḥunayn]], between [[Makkah al-Mukarramah]] and [[al-Ṭāʾif]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

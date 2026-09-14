@@ -12,6 +12,7 @@ tags:
   - ansari
   - khazraji
   - khadim_al_nabi
+  - unverified
 death: ~93 AH (Baṣrah, aged over 100; last surviving Companion in Baṣrah)
 lineage: "Anas b. Mālik b. al-Naḍr al-Najjārī al-Khazrajī (Banū al-Najjār)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 323; vol. 4, p. 24; vol. 5, pp. 115, 208; vol. 10, pp. 202–203); [[al-Iṣābah]] (1:276–278, entry 278)"

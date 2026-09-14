@@ -9,6 +9,7 @@ tags:
   - makkan_era
   - madinan_era
   - 7-ah
+  - unverified
 aliases:
   - Umrat al-Qada
   - ʿUmrat al-Qaṣāṣ

@@ -12,6 +12,7 @@ tags:
   - aws
   - badri
   - penitent
+  - unverified
 burial: "Medina"
 clan: Banū ʿAmr b. ʿAwf (al-Aws)
 father: al-Rabīʿ

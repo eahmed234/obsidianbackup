@@ -11,6 +11,7 @@ tags:
   - yarmuk
   - fath_makkah
   - 8-ah
+  - unverified
 aliases:
   - ʿIkrimah b. Abī Jahl al-Makhzūmī
   - Ikrimah ibn Abi Jahl

@@ -13,6 +13,7 @@ tags:
   - ahl_al_bayt
   - fath_makkah
   - hunayn
+  - unverified
 kunya: Abū al-ʿAbbās (or Abū ʿAbdillāh)
 clan: "[[Banū Hāshim]]"
 father: "[[al-ʿAbbās b. ʿAbd al-Muṭṭalib]]"

@@ -9,6 +9,7 @@ tags:
   - place
   - miqat
   - geography
+  - unverified
 location_coords: "Approx. 135 km north-northwest of Makkah near Rābigh, on the coastal route to Medina"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 211; vol. 3, p. 297; vol. 4, pp. 28–29)"
 ---

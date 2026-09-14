@@ -11,6 +11,7 @@ tags:
   - jewish
   - medina
   - khandaq
+  - unverified
 territory: "Southern fortified quarter of Medina"
 role_in_seerah: "Breach of pact during the Confederate siege of the Trench"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 373–376; vol. 5, pp. 4–35)"

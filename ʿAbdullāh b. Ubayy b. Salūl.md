@@ -13,6 +13,7 @@ tags:
   - khazraji
   - antagonist
   - madinan_era
+  - unverified
 birth: ~50 BH (574 CE, Yathrib)
 death: Dhū al-Qaʿdah 9 AH (631 CE, Medina, aged ~59)
 lineage: "ʿAbdullāh b. Ubayy b. Mālik b. al-Ḥārith b. ʿUbayd al-Khazrajī al-ʿAwfī (Salūl was his mother)"

@@ -14,6 +14,7 @@ tags:
   - ahl_al_bayt
   - makhzum
   - 61-ah
+  - unverified
 death: 59 AH or 61 AH (Medina, aged ~84; buried in al-Baqīʿ; last surviving Mother of the Believers)
 lineage: "Banū Makhzūm (Quraysh); daughter of Abū Umayyah (Suhayl Zād al-Rākib) b. al-Mughīrah al-Makhzūmī"
 matrimony: "First wed to Abū Salamah ʿAbdullāh b. ʿAbd al-Asad al-Makhzūmī; wed to the Prophet ﷺ in 4 AH"

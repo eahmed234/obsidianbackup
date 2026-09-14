@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - kaabah
   - pre_prophethood
+  - unverified
 date_hijri: "Disputed: five years before the mission (Ibn Isḥāq, judged more well-known) or fifteen (Mujāhid, Ibn ʿAbd al-Barr, Mūsā b. ʿUqbah); the Prophet ﷺ variously reported as 35 or younger"
 location: "The Sacred Sanctuary, [[Makkah al-Mukarramah]]"
 key_figure: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ (al-Amīn)"

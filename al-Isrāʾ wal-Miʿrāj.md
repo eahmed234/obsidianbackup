@@ -11,6 +11,7 @@ tags:
   - miracle
   - prayer
   - jerusalem
+  - unverified
 date_period: "Disputed: most hold one year before the Hijrah; al-Qāḍī [ʿIyāḍ] holds five years before, reasoning from Khadījah's death; the month is likewise disputed (Ibn al-Athīr and al-Nawawī: Rabīʿ al-Awwal)"
 locations:
   - "al-Masjid al-Ḥarām ([[Makkah al-Mukarramah]])"

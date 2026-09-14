@@ -9,6 +9,7 @@ tags:
   - khuzaah
   - tihamah
   - 3-ah
+  - unverified
 tribe: "[[Banū Khuzāʿah]]"
 role: "Confederate scout whose psychological warfare turned back Quraysh at al-Rawḥāʾ"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 310–311); *al-Iṣābah* (vol. 6, pp. 135–136, entry 8132)"

@@ -10,6 +10,7 @@ tags:
   - martyr
   - knight
   - 3-ah
+  - unverified
 aliases:
   - Marthad b. Abī Marthad
   - Marthad ibn Abi Marthad

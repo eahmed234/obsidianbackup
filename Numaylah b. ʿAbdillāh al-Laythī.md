@@ -9,6 +9,7 @@ tags:
   - deputy_medina
   - hudaybiyah
   - fath_makkah
+  - unverified
 aliases:
   - Numaylah b. ʿAbdillāh
   - Numaylah al-Laythī

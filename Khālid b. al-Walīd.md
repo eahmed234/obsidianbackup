@@ -13,6 +13,7 @@ tags:
   - commander
   - makhzum
   - conqueror
+  - unverified
 birth: "~30 BH (592 CE, Makkah)"
 death: the year twenty-one AH (642 CE, Homs, Syria, aged 55; buried in Homs)
 kunya: Abū Sulaymān

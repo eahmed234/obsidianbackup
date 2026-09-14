@@ -13,6 +13,7 @@ tags:
   - medina
   - banu_qaynuqa
   - siege
+  - unverified
 date_hijri: 15 Shawwāl 2 AH (mid-Shawwāl, 20 months after Hijrah)
 location: "Fortresses of [[Banū Qaynuqāʿ]], [[al-Madīnah al-Munawwarah]]"
 commanders_muslim:

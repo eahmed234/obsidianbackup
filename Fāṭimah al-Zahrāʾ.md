@@ -14,6 +14,7 @@ tags:
   - daughter_of_prophet
   - hashim
   - 11-ah
+  - unverified
 birth: "~18 BH (605 CE, Makkah; year of the rebuilding of the Kaʿbah)"
 death: 3 Ramaḍān 11 AH (Medina, aged ~29; buried in al-Baqīʿ)
 kunya: Umm al-Ḥasanayn (and Umm Abīhā)

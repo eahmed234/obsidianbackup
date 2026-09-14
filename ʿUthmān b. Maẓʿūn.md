@@ -9,6 +9,7 @@ tags:
   - makkan_era
   - early_convert
   - abyssinia
+  - unverified
 nasab: "ʿUthmān b. Maẓʿūn b. Ḥabīb b. Wahb b. Ḥudhāfah b. Jumaḥ al-Jumaḥī"
 death: "2 AH, Madīnah, after witnessing Badr — the first Muhājir to die there, and the first buried at al-Baqīʿ"
 son: "al-Sāʾib b. ʿUthmān (accompanied him to Abyssinia); Qudāmah b. Maẓʿūn (brother)"

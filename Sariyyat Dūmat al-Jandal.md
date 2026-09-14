@@ -10,6 +10,7 @@ tags:
   - sariyyah
   - 6-ah
   - dumat_al_jandal
+  - unverified
 date_hijri: Shaʿbān 6 AH
 date_gregorian: December 627 CE
 location: "[[Dūmat al-Jandal]]"

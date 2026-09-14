@@ -12,6 +12,7 @@ tags:
   - female
   - muhajir
   - taymi
+  - unverified
 lineage: "Asmāʾ bint ʿAbdillāh (Abī Bakr al-Ṣiddīq) b. ʿUthmān (Abī Quḥāfah) b. ʿĀmir b. ʿAmr b. Kaʿb b. Saʿd b. Taym al-Qurashiyyah al-Taymiyyah"
 kunya: "Umm ʿAbdillāh"
 epithet: "Dhāt al-Niṭāqayn (She of the Two Girdles)"

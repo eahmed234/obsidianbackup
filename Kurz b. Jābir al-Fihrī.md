@@ -11,6 +11,7 @@ tags:
   - fihri
   - fath_makkah
   - martyr
+  - unverified
 death_hijri: 8 AH
 burial: "Makkah"
 clan: "Banū Fihr ([[Quraysh]])"

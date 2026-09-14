@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - boycott
   - hardship
+  - unverified
 date_period: "Three years, ending in the tenth year of the mission — three years before the Hijrah"
 location: "Shiʿb Abī Ṭālib (the ravine of [[Banū Hāshim]]), [[Makkah al-Mukarramah]]"
 victims: "[[Banū Hāshim]] and Banū al-Muṭṭalib b. ʿAbd Manāf (Muslims and their protecting kinsmen)"

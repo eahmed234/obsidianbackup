@@ -10,6 +10,7 @@ tags:
   - ansari
   - khazraji
   - badri
+  - unverified
 battles:
   - "[[Ghazwat Badr al-Kubrā]]"
   - "[[Ghazwat Uḥud]]"
@@ -74,11 +75,7 @@ Al-Ḥubāb witnessed all major campaigns alongside the Prophet ﷺ:
   was with [[Muṣʿab b. ʿUmayr]], the standard of **al-Khazraj with al-Ḥubāb b. al-Mundhir**, and the
   standard of al-Aws with [[Saʿd b. Muʿādh]]"* (*Subul al-Hudā*, 4:24).
 
-> [!WARNING] A Claim Removed
-> An earlier version had him advising the Prophet ﷺ at **[[Ghazwat Khaybar]]** against encamping near
-> Naṭāh on account of malarial dampness and missile range, cited to 5:124. That page treats the move
-> to the Kutaybah fortresses and does note the land was unwholesome (*arḍan wakhimah*), but **it does
-> not attribute the advice to al-Ḥubāb**, and he does not appear on it. The claim is removed.
+
 - **[[Saqīfat Banī Sāʿidah]] (11 AH)**: Following the demise of the Prophet ﷺ, al-Ḥubāb was the chief spokesman for the Anṣār advocating a dual leadership arrangement (*"minnā amīr wa-minkum amīr"*), before **[[Abū Bakr al-Ṣiddīq]]** and **[[ʿUmar b. al-Khaṭṭāb]]** established the consensus (*ijmāʿ*) upon the Caliphate of Abū Bakr. Al-Ḥubāb subsequently gave his pledge of allegiance (*bayʿah*) and remained loyal to the unified state.
 
 ---

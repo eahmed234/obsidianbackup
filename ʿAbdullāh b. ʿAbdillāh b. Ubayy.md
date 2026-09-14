@@ -12,6 +12,7 @@ tags:
   - khazraji
   - badri
   - martyr
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], Banū ʿAwf b. al-Khazraj"
 role: "Pious Badri warrior, scribe of the Prophet ﷺ, and steadfast exemplar of faith over kin"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 109, 350, 357; vol. 11, p. 386; vol. 12, p. 73); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, pp. 133–134, entry 4802)"

@@ -14,6 +14,7 @@ tags:
   - aqabah
   - covenants
   - pioneers
+  - unverified
 number_of_deputies: 12 (9 Khazraj, 3 Aws)
 institution: "The covenant guarantors established at Bayʿat al-ʿAqabah al-Thāniyah"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 204–206)"

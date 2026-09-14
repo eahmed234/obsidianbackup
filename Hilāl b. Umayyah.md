@@ -12,6 +12,7 @@ tags:
   - aws
   - badri
   - penitent
+  - unverified
 burial: "Medina"
 clan: Banū Wāqif (al-Aws)
 father: Umayyah b. ʿĀmir

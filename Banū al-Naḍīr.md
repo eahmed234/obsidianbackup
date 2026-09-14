@@ -11,6 +11,7 @@ tags:
   - jewish
   - medina
   - 4-ah
+  - unverified
 lineage: "A major Jewish priestly clan claiming descent from Prophet Hārūn b. ʿImrān ﵊"
 territory: "The fertile date-palm groves and fortresses of al-ʿĀliyah (southern Medina)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 378, 384; vol. 4, pp. 174, 317–332; vol. 5, pp. 115–151)"

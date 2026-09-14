@@ -10,6 +10,7 @@ tags:
   - historian
   - maghazi
   - source
+  - unverified
 grading: "Weak (ḍaʿīf) — per the editors' apparatus"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 8, p. 251 n. 4, taḥqīq); no biographical entry in the book"
 ---

@@ -12,6 +12,7 @@ tags:
   - sanctuary
   - medina
   - hijrah
+  - unverified
 location_coords: "The central Ḥijāzī volcanic plateau, flanked by volcanic tracts (al-Lābatayn)"
 key_sanctuaries:
   - "al-Masjid al-Nabawī al-Sharīf"

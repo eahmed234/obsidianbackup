@@ -10,6 +10,7 @@ tags:
   - clan
   - quraysh
   - makkan_era
+  - unverified
 territory: "Mecca (al-Ḥaram precinct near the Kaʿbah)"
 lineage: "ʿAdī b. Kaʿb b. Luʾayy b. Ghālib al-Qurashī"
 role_in_sirah: "Aristocratic clan of Quraysh; guardians of the Hijr/Ḥaṭīm during the Kaʿbah rebuilding; clan of Sayyidunā ʿUmar b. al-Khaṭṭāb ﵁"

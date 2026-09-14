@@ -15,6 +15,7 @@ tags:
   - 11-ah
   - 12-ah
   - 13-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal in the year eleven AH to Jumādā al-Ākhirah in the year thirteen AH (632–634 CE)
 location: "Medina (Administrative capital of the Caliphate)"
 commanders_muslim:

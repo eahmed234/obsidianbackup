@@ -10,6 +10,7 @@ tags:
   - sahaba
   - ascetics
   - madinan_era
+  - unverified
 territory: "The northern covered portico (al-Ṣuffah) of the Prophetic Mosque in Medina"
 role_in_sirah: "Impoverished, unmarried companions completely devoted to worship, memorization of revelation, and military service under the direct patronage of the Prophet ﷺ"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 325–327; vol. 7, pp. 196–200; vol. 11, p. 48)"

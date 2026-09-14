@@ -11,6 +11,7 @@ tags:
   - medina
   - brotherhood
   - 1-ah
+  - unverified
 date_hijri: 1 AH (approx. 5 to 9 months after Hijrah)
 location: "House of [[Anas b. Mālik]], [[al-Madīnah al-Munawwarah]]"
 participants: "90 Companions (45 Muhājirūn and 45 Anṣār) or 100 Companions (50 each)"

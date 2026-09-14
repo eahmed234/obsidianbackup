@@ -9,6 +9,7 @@ tags:
   - tabuk
   - byzantine_frontier
   - 9-ah
+  - unverified
 location_coords: "Northwestern Arabian frontier, approx. 700 km north of Medina on the pilgrimage and commercial route to Syria"
 key_landmarks:
   - "ʿAyn Tabūk (The Spring of Tabūk, miraculously gushed with roaring water)"

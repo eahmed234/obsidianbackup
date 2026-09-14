@@ -9,6 +9,7 @@ tags:
   - tribe
   - tihamah
   - allies
+  - unverified
 territory: "Tihāmah and the coastal approach to Makkah"
 allies: "The Prophet ﷺ (confederacy rooted in ancient Ḥilf al-Muṭayyabīn / treaty)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 183, 310–311)"

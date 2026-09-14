@@ -13,6 +13,7 @@ tags:
   - ghatafan
   - najd
   - 3-ah
+  - unverified
 date_hijri: Ṣafar / Rabīʿ al-Awwal 3 AH (September 624 CE)
 location: "Dhū Amr (Najd)"
 commanders_muslim:

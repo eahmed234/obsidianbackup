@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - pledge
   - medina
+  - unverified
 date_period: "Two pilgrimage seasons: an initial meeting, then the pledge itself the following year, before fighting was made obligatory upon the Muslims"
 location: "al-ʿAqabah, near Minā"
 participants: "Twelve men of the Anṣār (per Ibn Isḥāq)"

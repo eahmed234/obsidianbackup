@@ -11,6 +11,7 @@ tags:
   - historian
   - sirah
   - source
+  - unverified
 kunya: Abū ʿAbdillāh
 nisbah: "al-Muṭṭalibī, client of Qays b. Makhramah; al-Madanī"
 death: 151 AH

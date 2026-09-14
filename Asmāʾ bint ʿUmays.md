@@ -9,6 +9,7 @@ tags:
   - muhajir
   - ahl_al_safinah
   - fath_makkah
+  - unverified
 aliases:
   - Asmāʾ bint ʿUmays al-Khathʿamiyyah
   - Asma bint Umays

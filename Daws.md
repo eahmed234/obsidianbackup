@@ -11,6 +11,7 @@ tags:
   - tribe
   - yemen
   - azd
+  - unverified
 lineage: "A major noble tribe of [[al-Azd]], descended from Daws b. ʿUdmān b. ʿAbdillāh b. Zahrān b. Kaʿb b. al-Ḥārith b. Kaʿb b. ʿAbdillāh b. Mālik b. Naṣr b. al-Azd"
 territory: "The mountainous highlands of the Sarat facing Tihamah in southern Arabia"
 notable_members:

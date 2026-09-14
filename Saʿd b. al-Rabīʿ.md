@@ -11,6 +11,7 @@ tags:
   - badri
   - naqib
   - martyr
+  - unverified
 birth: ~30 BH (592 CE, Yathrib)
 death: 3 AH (625 CE, Martyred at Ghazwat Uḥud)
 battles:

@@ -12,6 +12,7 @@ tags:
   - ahl_al_bayt
   - umm_al_muminin
   - adi
+  - unverified
 father: "[[ʿUmar b. al-Khaṭṭāb]]"
 mother: "Zaynab bint Maẓʿūn"
 spouse: "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"

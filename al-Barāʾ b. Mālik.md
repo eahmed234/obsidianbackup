@@ -9,6 +9,7 @@ tags:
   - uhud
   - khandaq
   - yamamah
+  - unverified
 aliases:
   - al-Barāʾ b. Mālik al-Anṣārī
   - Bara ibn Malik

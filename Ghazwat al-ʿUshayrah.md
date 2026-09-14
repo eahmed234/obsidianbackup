@@ -12,6 +12,7 @@ tags:
   - caravan_interception
   - 2-ah
   - yanbu
+  - unverified
 date_hijri: "Jumādā al-Ūlā – Jumādā al-Ākhirah 2 AH (approx. 16 months after Hijrah)"
 location: "al-ʿUshayrah in Baṭn Yanbuʿ (the station of the Egyptian pilgrim route)"
 commanders_muslim:

@@ -12,6 +12,7 @@ tags:
   - hajj
   - makkan_era
   - dawlah
+  - unverified
 location: "[[Makkah al-Mukarramah]] (adjacent to [[al-Masjid al-Ḥarām]])"
 key_landmarks:
   - "Starting point of al-Saʿy"

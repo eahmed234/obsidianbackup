@@ -10,6 +10,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū Ghālib
 parents: "[[Mālik b. al-Naḍr]]"
 children: "[[Ghālib b. Fihr]], Asad, ʿAwf, Jawn, Rayth, al-Ḥārith, Muḥārib, Qays"

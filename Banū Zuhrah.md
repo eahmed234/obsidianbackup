@@ -11,6 +11,7 @@ tags:
   - quraysh
   - zuhri
   - makkan_era
+  - unverified
 lineage: "Zuhrah b. Kilāb b. Murrah b. Kaʿb b. Luʾayy"
 relation: "The clan of [[Āminah bint Wahb]], mother of the Prophet ﷺ"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 239, 325; vol. 2, p. 305)"
@@ -45,10 +46,6 @@ The register of the foremost early Muslims traces both of these men to Zuhrah
 **[[al-Shifāʾ bint ʿAwf]]** ﵂, midwife at the birth of the Prophet ﷺ, was the mother of ʿAbd
 al-Raḥmān b. ʿAwf ﵁ (*Subul al-Hudā*, 1:341).
 
-> [!NOTE] What the Book Does Not Say
-> An earlier version of this note stated that the Prophet ﷺ called the Zuhrites his maternal uncles
-> (*akhwālī*). **That is not supported here** — the book attaches that address to
-> **[[Banū al-Najjār]]** (*Subul al-Hudā*, 1:530; 2:120). The claim has been removed.
 
 ## 3. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 1, p. 239; p. 325; p. 341.

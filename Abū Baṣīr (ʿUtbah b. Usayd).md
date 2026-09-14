@@ -8,6 +8,7 @@ tags:
   - muhajir
   - hudaybiyah
   - 7-ah
+  - unverified
 aliases:
   - Abū Baṣīr
   - ʿUtbah b. Usayd

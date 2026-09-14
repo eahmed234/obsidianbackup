@@ -10,6 +10,7 @@ tags:
   - quraysh
   - muttalibi
   - makkan_era
+  - unverified
 lineage: "al-Muṭṭalib b. ʿAbd Manāf — brother of Hāshim"
 notables: "[[ʿUbaydah b. al-Ḥārith]] ﵁, [[Muṣʿab b. ʿUmayr]] ﵁"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 377–395)"

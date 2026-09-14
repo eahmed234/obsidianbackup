@@ -12,6 +12,7 @@ tags:
   - awsi
   - badri
   - knight
+  - unverified
 kunya: Abū ʿAbd al-Raḥmān (also Abū ʿAbdillāh, Abū Saʿīd)
 birth: 22 years before the Prophetic mission
 death: Ṣafar 46 AH (aged 77)

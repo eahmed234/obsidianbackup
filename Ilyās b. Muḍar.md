@@ -9,6 +9,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 kunya: Abū ʿAmr
 parents: "[[Muḍar b. Nizār]]"
 children: "[[Mudrikah b. Ilyās]], ʿAmr (Ṭābikhah), ʿĀmir, ʿUmayr (Qumʿah)"

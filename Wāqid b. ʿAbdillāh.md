@@ -13,6 +13,7 @@ tags:
   - badri
   - muhajir
   - tamim
+  - unverified
 death: During the Caliphate of ʿUmar b. al-Khaṭṭāb ﵁
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 120; vol. 6, pp. 16–18); [[al-Iṣābah]] (vol. 6, p. 465, no. 9117)"
 ---

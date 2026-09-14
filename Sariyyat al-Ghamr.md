@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 6-ah
   - madinan_era
+  - unverified
 date_hijri: "Rabīʿ al-Awwal 6 AH"
 leader: "[[ʿUkkāshah b. Miḥṣan]] ﵁"
 adversaries:

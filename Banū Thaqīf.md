@@ -14,6 +14,7 @@ tags:
   - qays_aylan
   - 8-ah
   - 9-ah
+  - unverified
 territory: "The fortified mountain city and fertile valleys of al-Ṭāʾif"
 lineage: "Thaqīf (Qasiyy) b. Munabbih b. Bakr b. Hawāzin b. Manṣūr (or Munabbih b. Hawāzin)"
 role_in_sirah: "Rulers of al-Ṭāʾif; rejected the Prophet ﷺ during the Year of Sorrow; allied with Hawāzin at Ḥunayn and resisted during Ghazwat al-Ṭāʾif (8 AH); submitted unconditionally via Wafd Thaqīf in 9 AH with the destruction of al-Lāt"

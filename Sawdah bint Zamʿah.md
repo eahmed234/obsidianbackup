@@ -8,6 +8,7 @@ tags:
   - umm_al_muminin
   - muhajir
   - quraysh
+  - unverified
 aliases:
   - Sawda bint Zama
   - Umm al-Muʾminīn Sawdah

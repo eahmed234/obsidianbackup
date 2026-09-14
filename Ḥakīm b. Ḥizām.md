@@ -8,6 +8,7 @@ tags:
   - asadi
   - fath_makkah
   - centenarian
+  - unverified
 aliases:
   - Ḥakīm b. Ḥizām al-Asadī
   - Hakim ibn Hizam

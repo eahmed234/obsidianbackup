@@ -12,6 +12,7 @@ tags:
   - andalusi
   - sirah
   - source
+  - unverified
 nisbah: al-Khathʿamī
 birth: "Born in Málaga (Mālaqah)"
 death: 581 AH

@@ -10,6 +10,7 @@ tags:
   - mutah
   - martyr
   - 12-ah
+  - unverified
 aliases:
   - Thābit b. Aqram al-Balawī
   - Thabit ibn Aqram

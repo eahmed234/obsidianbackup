@@ -10,6 +10,7 @@ tags:
   - ghazwah
   - caravan_interception
   - 2-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal 2 AH (October 623 CE)
 location: "Mount Buwāṭ (Juhaynah mountains near Raḍwā)"
 commanders_muslim:

@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 6-ah
   - madinan_era
+  - unverified
 date_hijri: "al-Muḥarram 6 AH"
 leader: "[[Muḥammad b. Maslamah]] ﵁"
 adversaries:

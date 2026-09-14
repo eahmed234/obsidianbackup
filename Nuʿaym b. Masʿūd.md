@@ -10,6 +10,7 @@ tags:
   - person
   - sahabi
   - ghatafan
+  - unverified
 lineage: "Ghaṭafān, Banū Ashjaʿ"
 role: "Strategic convert whose tactical deception fractured the confederacy at the Trench"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 384–386); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 6, p. 363, entry 8802)"

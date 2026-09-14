@@ -11,6 +11,7 @@ tags:
   - tribe
   - najd
   - yamamah
+  - unverified
 lineage: "A major branch of the Bakr b. Wāʾil confederation (Rabīʿah), inhabiting the fertile plateau of al-Yamāmah"
 territory: "[[al-Yamāmah]] in central eastern Arabia"
 notable_figures:

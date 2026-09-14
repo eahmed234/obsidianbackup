@@ -12,6 +12,7 @@ tags:
   - khazraji
   - badri
   - martyr
+  - unverified
 lineage: "Banū al-Ḥārith b. al-Khazraj ([[al-Khazraj]])"
 role: "Chieftain of Banū al-Ḥārith, Brother-in-faith and Father-in-law to Abū Bakr al-Ṣiddīq, Martyr of Uḥud"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 215, 266, 360, 363; vol. 4, pp. 98, 207, 225–226); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, p. 190, entry 2140; vol. 8, p. 80, entry 11029)"

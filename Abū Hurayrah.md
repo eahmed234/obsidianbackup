@@ -14,6 +14,7 @@ tags:
   - muhajir
   - khaybar
   - 7-ah
+  - unverified
 death_hijri: 57 AH
 birth_approx: ~20 BH
 clan: Daws

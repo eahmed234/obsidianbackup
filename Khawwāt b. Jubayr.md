@@ -13,6 +13,7 @@ tags:
   - aws
   - badri
   - veteran
+  - unverified
 lineage: "Khawwāt b. Jubayr b. al-Nuʿmān b. Umayyah b. Imriʾ al-Qays b. Thaʿlabah b. ʿAmr b. ʿAwf b. Mālik b. al-Aws"
 clan: "Banū ʿAmr b. ʿAwf ([[al-Aws]])"
 kunya: "Abū ʿAbdillāh (and Abū Ṣāliḥ)"

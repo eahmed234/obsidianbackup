@@ -8,6 +8,7 @@ tags:
   - yemen
   - delegation
   - miracles
+  - unverified
 location: "Medina (at the residence of al-Miqdād b. ʿAmr in Banū Ḥudaylah)"
 participants_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

@@ -10,6 +10,7 @@ tags:
   - commander
   - standard_bearer
   - fath_makkah
+  - unverified
 aliases:
   - Qays b. Saʿd
   - Qays b. Saʿd al-Anṣārī

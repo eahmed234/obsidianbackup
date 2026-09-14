@@ -13,6 +13,7 @@ tags:
   - madani
   - sabab_al_nuzul
   - fath_makkah
+  - unverified
 surah_number: 110
 total_ayahs: 3
 period: Madanī (8 AH – 10 AH)

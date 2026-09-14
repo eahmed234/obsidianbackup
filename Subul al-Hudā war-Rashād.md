@@ -13,6 +13,7 @@ tags:
   - encyclopedia
   - sirah
   - hadith
+  - unverified
 author: "[[al-Ṣāliḥī|Imām Shams al-Dīn Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]] (d. 942 AH / 1536 CE)"
 volumes: 12 volumes
 edition: "Dār al-Kutub al-ʿIlmiyyah (Beirut, 1414 AH / 1993 CE), edited by ʿĀdil ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ"

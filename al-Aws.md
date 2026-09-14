@@ -11,6 +11,7 @@ tags:
   - ansar
   - awsi
   - medina
+  - unverified
 lineage: "al-Aws b. Ḥārithah — brother-line to [[al-Khazraj]] b. Ḥārithah"
 territory: "[[al-Madīnah al-Munawwarah]] (Yathrib)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 195–199, 398–405)"

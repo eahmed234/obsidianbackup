@@ -14,6 +14,7 @@ tags:
   - muhajir
   - badri
   - namir
+  - unverified
 birth: ~35 BH (589 CE, Mesopotamia/Tigris)
 death: Shawwāl 38 AH (659 CE, Medina, aged 70; buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, p. 359; vol. 3, pp. 77, 227; vol. 4, p. 105; vol. 11, p. 277); [[al-Iṣābah]] (vol. 3, pp. 364–366, no. 4124)"

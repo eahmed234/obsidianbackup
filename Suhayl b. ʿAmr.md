@@ -11,6 +11,7 @@ tags:
   - hudaybiyah
   - fath_makkah
   - 8-ah
+  - unverified
 aliases:
   - Suhayl b. ʿAmr al-Qurashī
   - Khaṭīb Quraysh

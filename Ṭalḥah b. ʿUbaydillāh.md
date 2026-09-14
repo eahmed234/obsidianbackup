@@ -13,6 +13,7 @@ tags:
   - ashara_mubashsharah
   - badri
   - taym
+  - unverified
 birth: ~28 BH (594 CE, Makkah)
 death: 10 Jumādā al-Ūlā 36 AH (656 CE, martyred during the Battle of the Camel, aged 64)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 24, 205, 225, 370; vol. 5, pp. 48, 124, 312; vol. 11, pp. 308–312); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 3, pp. 430–433, no. 4285)"

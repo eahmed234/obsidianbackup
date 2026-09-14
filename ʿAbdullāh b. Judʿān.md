@@ -9,6 +9,7 @@ tags:
   - quraysh
   - makkan_era
   - jahiliyyah
+  - unverified
 lineage: "Quraysh, Banū Taym b. Murrah; elder cousin of [[Abū Bakr al-Ṣiddīq]] ﵁"
 role: "Host of the historic Ḥilf al-Fuḍūl covenant and wealthy philanthropist of Makkah"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 154–157, 312)"

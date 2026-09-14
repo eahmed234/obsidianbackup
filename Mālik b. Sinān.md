@@ -12,6 +12,7 @@ tags:
   - khazraj
   - uhud
   - martyr
+  - unverified
 burial: "Uḥud (Medina)"
 death_hijri: 3 AH
 clan: Banū Khudrah (al-Khazraj)

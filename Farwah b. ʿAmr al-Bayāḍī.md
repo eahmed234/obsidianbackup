@@ -9,6 +9,7 @@ tags:
   - khazraji
   - badri
   - aqabah
+  - unverified
 aliases:
   - Farwah b. ʿAmr b. Wadqah
   - Abū ʿAmrah

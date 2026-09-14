@@ -10,6 +10,7 @@ tags:
   - quran
   - madani
   - sabab_al_nuzul
+  - unverified
 period: Madanī (3 AH onwards)
 primary_events:
   - "[[Ghazwat Uḥud]]"

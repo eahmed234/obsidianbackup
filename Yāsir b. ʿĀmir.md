@@ -12,6 +12,7 @@ tags:
   - martyr
   - makkan_era
   - persecution
+  - unverified
 kunya: Abū ʿAmmār
 death: "Died under torture, Makkah, before the Hijrah"
 spouse: "[[Sumayyah bint Khayyāṭ|Sumayyah]] ﵂"

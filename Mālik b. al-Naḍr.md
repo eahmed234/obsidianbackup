@@ -9,6 +9,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū al-Ḥārith
 parents: "[[al-Naḍr b. Kinānah]]"
 children: "[[Fihr b. Mālik]]"

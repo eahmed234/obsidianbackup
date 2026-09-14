@@ -9,6 +9,7 @@ tags:
   - commander
   - taif
   - hunayn
+  - unverified
 aliases:
   - Mālik b. ʿAwf
   - Malik ibn Awf

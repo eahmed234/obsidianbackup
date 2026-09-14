@@ -18,6 +18,7 @@ tags:
   - badri
   - ashara_mubashsharah
   - ashab_al_shura
+  - unverified
 birth: ~43 BH (580 CE, Makkah — ten years after the Year of the Elephant)
 death: 31 or 32 AH (652 CE, Medina, aged ~72–75; buried in al-Baqīʿ)
 battles:

@@ -14,6 +14,7 @@ tags:
   - khazraj
   - orator
   - martyr
+  - unverified
 birth: ~35 BH (588 CE, Yathrib)
 death: 12 AH (633 CE, martyred at al-Yamāmah, aged ~47)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 272; vol. 6, pp. 332–333; vol. 10, pp. 58–61); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 1, pp. 511–512, entry no. 906)"

@@ -11,6 +11,7 @@ tags:
   - quraysh
   - makkan_era
   - protector
+  - unverified
 death: "3 BH / 619 CE (Makkah) — see [[ʿĀm al-Ḥuzn]]"
 relation: "Paternal uncle and third guardian of the Prophet ﷺ; father of [[ʿAlī b. Abī Ṭālib]] and [[Jaʿfar b. Abī Ṭālib]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 135–145)"

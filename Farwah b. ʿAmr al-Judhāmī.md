@@ -9,6 +9,7 @@ tags:
   - yemen
   - judham
   - byzantine
+  - unverified
 aliases:
   - Farwah b. ʿAmr b. al-Nāqidah
   - Farwah b. ʿĀmir al-Judhāmī

@@ -8,6 +8,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 kunya: Abū Quḍāʿah, or Abū Nizār
 parents: "[[ʿAdnān]]"
 children: "[[Nizār b. Maʿadd]], Quḍāʿah, Iyād the elder, Ḥaydān, ʿUbayd (al-Rammāḥ), Jutayd, Sulaym, Qanaṣ"

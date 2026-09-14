@@ -11,6 +11,7 @@ tags:
   - quraysh
   - jumahi
   - makkan_era
+  - unverified
 lineage: "Jumaḥ b. ʿAmr b. Huṣayṣ b. Kaʿb b. Luʾayy"
 territory: "The Central Quarter of Makkah (Quraysh al-Biṭāḥ)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 420; vol. 2, pp. 307, 358; vol. 4, p. 163; vol. 5, pp. 249, 312; vol. 6, p. 42; vol. 9, p. 14)"

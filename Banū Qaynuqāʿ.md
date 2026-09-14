@@ -11,6 +11,7 @@ tags:
   - jewish_tribes
   - madinan_era
   - 2-ah
+  - unverified
 territory: "Fortified quarters and market within southwest Medina"
 role_in_sirah: "First Jewish tribe to breach the Constitution of Medina following Badr; expelled to Syria in Shawwāl 2 AH"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 170–173)"

@@ -12,6 +12,7 @@ tags:
   - khazraji
   - medina
   - 1-ah
+  - unverified
 lineage: "A clan of [[al-Khazraj]]"
 relation: "The Prophet's ﷺ maternal kinship in Yathrib, through Salmā bint ʿAmr al-Najjāriyyah"
 naqib: "[[Asʿad b. Zurārah]] ﵁ (Abū Umāmah)"

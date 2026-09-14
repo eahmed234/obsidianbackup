@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 3-ah
   - caravan
+  - unverified
 date_hijri: Early Jumādā al-Ākhirah 3 AH
 location: "al-Qaradah (a watering place in Najd)"
 commanders_muslim:

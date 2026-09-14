@@ -10,6 +10,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Zayd (given name); titled Mujammiʿ
 parents: "[[Kilāb b. Murrah]] and Fāṭimah bint Saʿd b. Sayl"
 children: "[[ʿAbd Manāf b. Quṣayy]], ʿAbd al-Dār, ʿAbd al-ʿUzzā, ʿAbd Quṣayy"

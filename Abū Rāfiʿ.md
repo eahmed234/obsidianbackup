@@ -8,6 +8,7 @@ tags:
   - mawla
   - copt
   - ahl_al-bayt
+  - unverified
 aliases:
   - Abu Rafi
   - Aslam mawla Rasulillah

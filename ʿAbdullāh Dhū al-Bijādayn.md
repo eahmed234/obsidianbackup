@@ -14,6 +14,7 @@ tags:
   - tabuk
   - awwah
   - martyr
+  - unverified
 death: 9 AH
 burial: "Tabūk"
 clan: Muzaynah

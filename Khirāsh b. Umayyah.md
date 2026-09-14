@@ -8,6 +8,7 @@ tags:
   - khuzaah
   - hudaybiyah
   - envoy
+  - unverified
 aliases:
   - Khirāsh b. Umayyah al-Khuzāʿī
   - Khirash ibn Umayyah

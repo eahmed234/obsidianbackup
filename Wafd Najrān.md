@@ -15,6 +15,7 @@ tags:
   - mubahalah
   - ahl-al-bayt
   - 10-ah
+  - unverified
 date_hijri: Year ten AH (631/632 CE)
 location: "Medina (al-Masjid al-Nabawī)"
 commanders_muslim:

@@ -10,6 +10,7 @@ tags:
   - tribe
   - makkan_era
   - adnani
+  - unverified
 territory: "Makkah al-Mukarramah and the Sacred Sanctuary (al-Ḥaram)"
 lineage: "Descendants of al-Naḍr b. Kinānah b. Khuzaymah (ʿAdnānī Arabs)"
 role_in_sirah: "The custodial tribe of the Kaʿbah; custodians of the pilgrimage; epicenter of early opposition to the Daʿwah until their mass conversion at Fatḥ Makkah"

@@ -11,6 +11,7 @@ tags:
   - makkan_era
   - pact
   - pre_prophethood
+  - unverified
 date_hijri: Approx. 20 BH (circa 590 CE, when the Prophet ﷺ was 20 years old)
 location: "Residence of [[ʿAbdullāh b. Judʿān]] al-Taymī, [[Makkah al-Mukarramah]]"
 participating_clans:

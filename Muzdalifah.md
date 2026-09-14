@@ -8,6 +8,7 @@ tags:
   - hajj
   - haram
   - makkan_era
+  - unverified
 aliases:
   - al-Mashʿar al-Ḥarām
   - Jamʿ

@@ -12,6 +12,7 @@ tags:
   - hijrah
   - milestone
   - 1-ah
+  - unverified
 date_hijri: Ṣafar – Rabīʿ al-Awwal 1 AH (September 622 CE)
 route: "[[Makkah al-Mukarramah]] -> Cave Thawr -> Coastal Highway (al-Sāḥil) -> Qudayd (Tent of Umm Maʿbad) -> Qubāʾ -> [[al-Madīnah al-Munawwarah]]"
 principal_figures:

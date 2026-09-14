@@ -10,6 +10,7 @@ tags:
   - prayer
   - quran
   - 2-ah
+  - unverified
 date_hijri: Mid-Shaʿbān or Rajab 2 AH (approx. 16–17 months after Hijrah)
 locations:
   - "Masjid al-Qiblatayn ([[al-Madīnah al-Munawwarah]])"

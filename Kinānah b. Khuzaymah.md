@@ -8,6 +8,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 kunya: Abū al-Naḍr
 parents: "[[Khuzaymah b. Mudrikah]]"
 children: "[[al-Naḍr b. Kinānah]]"

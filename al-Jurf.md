@@ -9,6 +9,7 @@ tags:
   - geography
   - medina
   - encampment
+  - unverified
 location_coords: "Approx. 3 miles north of Medina"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, p. 95; vol. 12, p. 44)"
 ---

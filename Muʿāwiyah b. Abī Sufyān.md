@@ -9,6 +9,7 @@ tags:
   - quraysh
   - scribe
   - caliph
+  - unverified
 aliases:
   - Muʿāwiyah b. Abī Sufyān al-Umawī
   - Amīr al-Muʾminīn

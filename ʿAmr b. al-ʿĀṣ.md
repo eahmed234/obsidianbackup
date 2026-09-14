@@ -14,6 +14,7 @@ tags:
   - sahm
   - conqueror
   - 43-ah
+  - unverified
 birth: "~50 BH (~573 CE, Makkah)"
 death: Shawwāl 43 AH (night of ʿĪd al-Fiṭr, Egypt, aged over 80; buried at the foot of Mount al-Muqaṭṭam)
 kunya: Abū ʿAbdillāh (and Abū Muḥammad)

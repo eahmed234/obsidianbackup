@@ -14,6 +14,7 @@ tags:
   - badri
   - shahid
   - yamamah
+  - unverified
 clan: "Balī (confederate of Banū ʿAmr b. ʿAwf of al-Aws)"
 brother: "[[ʿĀṣim b. ʿAdī]]"
 death: "12 AH, martyred at the Battle of al-Yamāmah"

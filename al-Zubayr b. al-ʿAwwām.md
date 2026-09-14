@@ -13,6 +13,7 @@ tags:
   - ashara_mubashsharah
   - badri
   - asad
+  - unverified
 birth: ~28 BH (594 CE, Makkah)
 death: 10 Jumādā al-Ūlā 36 AH (656 CE, martyred at Wādī al-Sibāʿ, aged 64)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 40, 52, 205, 308, 380; vol. 5, pp. 126, 202, 208; vol. 11, pp. 312–315); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, pp. 457–460, no. 2796)"

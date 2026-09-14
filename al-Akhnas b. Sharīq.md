@@ -11,6 +11,7 @@ tags:
   - thaqif
   - quraysh
   - badr
+  - unverified
 lineage: "Thaqīf, confederate and chieftain of [[Banū Zuhrah]] in Makkah"
 role: "Confederate chieftain who averted Banū Zuhrah from fighting at Badr"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 352, 440; vol. 4, pp. 29, 94)"

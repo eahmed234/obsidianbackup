@@ -12,6 +12,7 @@ tags:
   - muhajir
   - badri
   - martyr
+  - unverified
 clan: Banū Asad b. Khuzaymah
 confederacy: Ḥalīf Banī ʿAbd Shams
 role: "Pioneer Badri warrior, promised Paradise without reckoning, and hero of the sword al-ʿAwn"

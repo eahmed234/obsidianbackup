@@ -13,6 +13,7 @@ tags:
   - badri
   - jurist
   - 18-ah
+  - unverified
 death: 18 AH (Plague of ʿAmwās, Jordan, Syria)
 lineage: "Anṣārī of [[al-Khazraj]], Banū Salimah"
 role: "Master of Halal and Haram, Collector of the Qurʾān, Envoy to Yemen"

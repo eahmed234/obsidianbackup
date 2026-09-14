@@ -9,6 +9,7 @@ tags:
   - khazraj
   - munafiqun
   - 66-ah
+  - unverified
 aliases:
   - Zayd b. Arqam al-Khazrajī
   - Zayd ibn Arqam

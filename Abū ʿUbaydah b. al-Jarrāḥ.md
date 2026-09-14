@@ -13,6 +13,7 @@ tags:
   - badri
   - fihr
   - commander
+  - unverified
 birth: ~40 BH (583 CE, Makkah)
 death: 18 AH (639 CE, martyred in the Plague of ʿAmwās, Jordan, aged 58)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 92, 206; vol. 6, pp. 185, 200–202; vol. 11, pp. 322–325); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 3, pp. 475–478, no. 4418; vol. 7, p. 225, no. 10233)"

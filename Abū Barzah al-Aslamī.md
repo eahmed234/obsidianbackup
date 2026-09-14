@@ -12,6 +12,7 @@ tags:
   - muhajir
   - khaybar
   - fath_makkah
+  - unverified
 clan: Banū Aslam
 role: "Companion of early conversion, veteran of Khaybar, Fatḥ Makkah, and slayer of Ibn Khaṭal"
 primary_source: "*al-Iṣābah* (vol. 6, pp. 341–342, entry 8737; vol. 7, p. 33, entry 9616); [[Subul al-Hudā war-Rashād]] (vol. 5, p. 268)"

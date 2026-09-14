@@ -14,6 +14,7 @@ tags:
   - khuzaah
   - hijrah
   - shamail
+  - unverified
 clan: "Banū Kaʿb (Banū Khuzāʿah)"
 location: "Qudayd (between Makkah and Madīnah)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 2, pp. 3–6; vol. 3, pp. 242–247); [[al-Iṣābah]] (vol. 8, pp. 475–477, no. 12263)"

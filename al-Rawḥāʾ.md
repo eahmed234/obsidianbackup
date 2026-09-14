@@ -10,6 +10,7 @@ tags:
   - waystation
   - hijaz
   - badr
+  - unverified
 location_coords: "Valley roughly 73 km southwest of Medina on the primary caravan road toward Mecca and Badr"
 primary_event: "[[Ghazwat Badr al-Kubrā]] & [[Ghazwat Ḥamrāʾ al-Asad]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, pp. 211–212; vol. 4, pp. 25, 136, 309–310)"

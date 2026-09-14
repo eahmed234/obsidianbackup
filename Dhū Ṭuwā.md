@@ -12,6 +12,7 @@ tags:
   - makkah
   - fath_makkah
   - hajj
+  - unverified
 location: "At the northern threshold of Makkah, classically known as the wells of al-Zāhir"
 primary_events:
   - "[[Fatḥ Makkah]]"

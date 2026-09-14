@@ -11,6 +11,7 @@ tags:
   - badri
   - makkan_era
   - persecution
+  - unverified
 kunya: Abū ʿAbdullāh
 death: "37 AH, Kūfah (al-Iṣābah judges this more correct than the report of 19 AH); lived 63 years"
 nasab: "Khabbāb b. al-Aratt b. Jundalah b. Saʿd b. Khuzaymah b. Kaʿb b. Saʿd b. Zayd Manāt b. Tamīm al-Tamīmī, also said al-Khuzāʿī"

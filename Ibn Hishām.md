@@ -12,6 +12,7 @@ tags:
   - historian
   - sirah
   - source
+  - unverified
 kunya: "Abū Muḥammad; Jamāl al-Dīn"
 nisbah: "al-Ḥimyarī al-Maʿāfirī"
 birth: "Born and raised in al-Baṣrah"

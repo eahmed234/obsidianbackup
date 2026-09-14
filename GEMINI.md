@@ -14,7 +14,6 @@ The knowledge graph has expanded to **over 470+ articles (approaching 500+ acros
 Commits are managed primarily by the Obsidian **obsidian-git** plugin:
 - Commit message template: `vault backup: {{date}}` with format `YYYY-MM-DD HH:mm:ss`
 - Sync method is `merge`, `pullBeforePush` is on, auto-intervals are disabled (commits are triggered manually from inside Obsidian or when synchronizing).
-- Expect `.obsidian/workspace.json` and `.obsidian/graph.json` to show up as noise in most diffs.
 - When committing from the CLI, follow the existing `vault backup: <timestamp>` convention so git history stays uniform.
 
 ### Static build & CI/CD deployment
@@ -76,7 +75,7 @@ The vault relies exclusively upon **two canonical primary sources**:
 This is a religious text; every statement in every note must trace back to one of these two sources and be verifiable there. This rule overrides helpfulness, completeness, and fluency — an incomplete note that is fully sourced is correct, and a rich note carrying unsourced background is defective, however accurate that background may be.
 
 **Biographical Enrichment Protocol for Ṣaḥābah**:
-Whenever a Ṣaḥābī's note is created or updated, consult their entry in both *Subul al-Hudā* and *al-Iṣābah* (`~/Downloads/9767.epub`). Flesh out their profile comprehensively, with particular emphasis on:
+Whenever a Ṣaḥābī's note is created or updated, consult their entry in both *Subul al-Hudā* and *al-Iṣābah* (`sources/9767.epub`). Flesh out their profile comprehensively, with particular emphasis on:
 - Detailed genealogical chains tracing ancestors back to common tribal progenitors (linking them to other Companions and to the Prophet ﷺ).
 - Maternal lineage, tribal and clan affiliations (*al-qabāʾil wal-buṭūn*), confederacies (*ḥilf*), and clientship (*walāʾ*).
 - Kinship networks, marriages, fosterage (*riḍāʿah*), and progeny.
@@ -172,7 +171,7 @@ All honorifics in the vault now use these ligatures; no ASCII forms (`(ra)`, `(a
 
 **Tags** duplicate `type` as the first tag, then add era (`makkan_era`), Hijri year (`2-ah`), role
 (`sahabi`, `badri`, `ashara_mubashsharah`, `ansari`, `muhajir`, `munafiq`), and topic. Reuse existing tags —
-the vocabulary is already established across the vault.
+the vocabulary is already established across the vault. Notes also track editorial verification status: every note carries `unverified` by default, which is updated to `verified` upon manual review and primary-source verification.
 
 ## Intentional stubs and unresolved links
 

@@ -12,6 +12,7 @@ tags:
   - pre_prophethood
   - childhood
   - makkan_era
+  - unverified
 date_hijri: Around four years of age (approx. 575 CE)
 location: "Territory of [[Banū Saʿd]] b. Bakr (near al-Ṭāʾif)"
 participants:

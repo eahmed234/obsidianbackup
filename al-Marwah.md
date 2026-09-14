@@ -11,6 +11,7 @@ tags:
   - sanctuary
   - hajj
   - makkan_era
+  - unverified
 location: "[[Makkah al-Mukarramah]] (adjacent to [[al-Masjid al-Ḥarām]])"
 key_landmarks:
   - "Concluding terminus of al-Saʿy"

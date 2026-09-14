@@ -13,6 +13,7 @@ tags:
   - hudhayl
   - usfan
   - 6-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal / Jumādā al-Ūlā 6 AH (September 627 CE)
 location: "Baṭn Ghurān, ʿUsfān & Kurāʿ al-Ghamīm"
 commanders_muslim:

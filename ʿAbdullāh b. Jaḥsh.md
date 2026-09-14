@@ -13,6 +13,7 @@ tags:
   - shahid
   - martyr
   - uhud
+  - unverified
 nasab: "ʿAbdullāh b. Jaḥsh b. Riʾāb b. Yaʿmar b. Ṣabirah b. Murrah b. Kabīr b. Ghanm b. Dūdān, of Banū Asad — ḥalīf of Banū ʿAbd Shams"
 death: "Martyred at [[Ghazwat Uḥud]], aged just over forty; buried in one grave with [[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁"
 epithet: "al-Mujaddaʿ fī Allāh (mutilated for Allāh's sake)"

@@ -8,6 +8,7 @@ tags:
   - 6-ah
   - amir
   - madinan_era
+  - unverified
 kunya: "Abū Umāmah"
 tribal_affiliation: "Banū Ḥanīfah (Bakr b. Wāʾil)"
 role: "Chieftain of Banū Ḥanīfah, Hero of the Yamāmah Blockade & Steadfast Anti-Apostasy Leader"

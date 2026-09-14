@@ -8,6 +8,7 @@ tags:
   - ansari
   - martyr
   - yamamah
+  - unverified
 aliases:
   - Masʿūd b. Sinān al-Aslamī
   - Masʿūd b. Sinān al-Anṣārī

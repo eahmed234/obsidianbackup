@@ -12,6 +12,7 @@ tags:
   - najd
   - delegations
   - 9-ah
+  - unverified
 lineage: "Tamīm b. Murr b. Udd b. Ṭābikha b. Ilyās b. Muḍar b. Nizār"
 territory: "The vast plateaus of Najd and eastern Arabia"
 prominent_members:

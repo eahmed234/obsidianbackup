@@ -14,6 +14,7 @@ tags:
   - diplomacy
   - 6-ah
   - hudaybiyah
+  - unverified
 date_hijri: Dhū al-Qaʿdah 6 AH (March 628 CE)
 location: "[[al-Ḥudaybiyah]], on the boundary perimeter of the Sacred Sanctuary"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"

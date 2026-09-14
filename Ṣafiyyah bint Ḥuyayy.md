@@ -12,6 +12,7 @@ tags:
   - ahl_al_bayt
   - khaybar
   - 50-ah
+  - unverified
 death: 50 AH or 52 AH (Medina, aged ~59; buried in al-Baqīʿ)
 lineage: "Banū al-Naḍīr (Levite, descended from the Prophet Hārūn ﵊); daughter of Ḥuyayy b. Akhṭab"
 matrimony: "Emancipated and wed to the Prophet ﷺ following the conquest of Khaybar (7 AH)"

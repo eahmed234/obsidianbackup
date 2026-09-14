@@ -13,6 +13,7 @@ tags:
   - ahl_al_kitab
   - promised_paradise
   - medina
+  - unverified
 kunya: Abū Yūsuf
 birth_approx: ~30 BH (Medina)
 death_hijri: 43 AH

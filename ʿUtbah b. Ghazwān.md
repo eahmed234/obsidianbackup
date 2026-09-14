@@ -15,6 +15,7 @@ tags:
   - early_convert
   - conqueror
   - basra
+  - unverified
 birth: ~40 BH (583 CE)
 death: 17 AH (638 CE, Maʿdin Banī Sulaym on the pilgrimage route, aged 57)
 kunya: Abū ʿAbdillāh

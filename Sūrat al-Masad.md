@@ -12,6 +12,7 @@ tags:
   - makki
   - sabab_al_nuzul
   - antagonists
+  - unverified
 period: Makkī (Early Makkan Period)
 primary_events:
   - "[[al-Daʿwah al-Sirriyyah wal-Jahriyyah]] (al-Indhār atop [[al-Ṣafā]])"

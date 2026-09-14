@@ -13,6 +13,7 @@ tags:
   - mountain
   - revelation
   - tahannuth
+  - unverified
 location_coords: "Northeast of Makkah al-Mukarramah"
 key_landmarks:
   - "Ghār Ḥirāʾ (Cave of the First Revelation)"

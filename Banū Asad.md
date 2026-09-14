@@ -13,6 +13,7 @@ tags:
   - 4-ah
   - 5-ah
   - 9-ah
+  - unverified
 territory: "Najd (around the waters of Qaṭan and al-Ghamr)"
 lineage: "Asad b. Khuzaymah b. Mudrikah b. Ilyās b. Muḍar (brother branch to Kinānah)"
 role_in_sirah: "Bedouin tribe of Najd that mobilized against Medina at Qaṭan (4 AH), joined the confederates at the Trench (5 AH), were raided at al-Ghamr (6 AH), and entered Islam via their delegation in 9 AH"

@@ -11,6 +11,7 @@ tags:
   - makki
   - tawhid
   - angels
+  - unverified
 period: Makkan (revealed in its entirety in a single night accompanied by angelic host)
 primary_source: "*Subul al-Hudā*, 10:298"
 ---

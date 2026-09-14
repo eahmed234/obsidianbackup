@@ -7,6 +7,7 @@ tags:
   - hashimi
   - quraysh
   - pre_islamic
+  - unverified
 aliases:
   - al-Zubayr b. ʿAbd al-Muṭṭalib al-Hāshimī
   - Abū Ṭāhir

@@ -9,6 +9,7 @@ tags:
   - person
   - nasab
   - pre_islamic
+  - unverified
 kunya: Abū Hudhayl, or Abū Khuzaymah
 parents: "[[Ilyās b. Muḍar]]"
 children: "[[Khuzaymah b. Mudrikah]]"

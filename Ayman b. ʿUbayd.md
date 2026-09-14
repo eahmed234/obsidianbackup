@@ -10,6 +10,7 @@ tags:
   - sahabi
   - hunayn
   - martyr
+  - unverified
 death_hijri: 8 AH
 burial: "Valley of Ḥunayn"
 clan: Banū al-Ḥārith b. al-Khazraj (or Banū Hāshim client)

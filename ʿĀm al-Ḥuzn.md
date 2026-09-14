@@ -9,6 +9,7 @@ tags:
   - event
   - makkan_era
   - bereavement
+  - unverified
 date_period: "10th year of the mission, three years before the Hijrah; Abū Ṭālib's death is placed by some between shortly after leaving Shiʿb Abī Ṭālib, by Ibn Ḥazm mid-Shawwāl; Khadījah's death followed within days to a few months"
 location: "[[Makkah al-Mukarramah]]"
 departed_figures:

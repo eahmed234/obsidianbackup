@@ -13,6 +13,7 @@ tags:
   - quraysh
   - muhajir
   - pre_prophethood
+  - unverified
 clan: "[[Banū Zuhrah]]"
 father: ʿAwf b. ʿAbd b. al-Ḥārith b. Zuhrah
 mother: Salmā bint ʿĀmir al-Khuzāʿiyyah

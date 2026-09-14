@@ -12,6 +12,7 @@ tags:
   - syria
   - ghatafan
   - 5-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal / Rabīʿ al-Ākhir 5 AH (August–September 626 CE)
 location: "Dūmat al-Jandal (northern frontier towards Syria)"
 commanders_muslim:

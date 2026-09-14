@@ -8,6 +8,7 @@ tags:
   - udhrah
   - mutah
   - commander
+  - unverified
 aliases:
   - Quṭbah b. Qatādah
   - Qutbah ibn Qatadah

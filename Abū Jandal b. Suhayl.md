@@ -8,6 +8,7 @@ tags:
   - muhajir
   - hudaybiyah
   - 18-ah
+  - unverified
 aliases:
   - Abū Jandal
   - al-ʿĀṣ b. Suhayl

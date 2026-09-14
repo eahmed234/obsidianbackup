@@ -13,6 +13,7 @@ tags:
   - ansari
   - awsi
   - badri
+  - unverified
 death: 38 AH (Kūfah, Iraq)
 lineage: "Anṣārī of [[al-Aws]], Banū ʿAmr b. ʿAwf"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 45, 205, 326; vol. 11, p. 280); [[al-Iṣābah]] (3:165–166, entry 3540)"

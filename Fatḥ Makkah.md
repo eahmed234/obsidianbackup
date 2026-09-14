@@ -13,6 +13,7 @@ tags:
   - victory
   - makkah
   - 8-ah
+  - unverified
 date_hijri: 20 Ramaḍān 8 AH (January 630 CE)
 location: "[[Makkah al-Mukarramah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

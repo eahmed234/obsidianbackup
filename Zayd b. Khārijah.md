@@ -8,6 +8,7 @@ tags:
   - ansari
   - khazraji
   - badri
+  - unverified
 aliases:
   - Zayd ibn Kharijah
   - "زيد بن خارجة"

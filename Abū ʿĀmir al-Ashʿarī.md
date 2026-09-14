@@ -8,6 +8,7 @@ tags:
   - yemeni
   - commander
   - martyr
+  - unverified
 aliases:
   - Abu Amir al-Ashari
   - ʿUbayd b. Sulaym

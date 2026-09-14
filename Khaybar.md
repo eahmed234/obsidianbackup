@@ -9,6 +9,7 @@ tags:
   - khaybar
   - fortresses
   - 7-ah
+  - unverified
 location_coords: "Approx. 150 km north-northwest of Medina"
 famous_citadels:
   - "Ḥiṣn Nāʿim"

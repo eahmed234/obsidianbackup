@@ -14,6 +14,7 @@ tags:
   - persian
   - strategist
   - khandaq
+  - unverified
 death: 36 AH (656 CE, al-Madāʾin, Iraq; buried in al-Madāʾin)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 370–375; vol. 4, pp. 364–366); [[al-Iṣābah]] (vol. 3, pp. 118–120, no. 3369)"
 ---

@@ -8,6 +8,7 @@ tags:
   - makhzumi
   - fath_makkah
   - martyr
+  - unverified
 aliases:
   - al-Ḥārith b. Hishām al-Makhzūmī
   - Abū ʿAbd al-Raḥmān

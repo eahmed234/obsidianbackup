@@ -8,6 +8,7 @@ tags:
   - taym
   - fath_makkah
   - quraysh
+  - unverified
 aliases:
   - ʿUthmān b. ʿĀmir al-Taymī
   - Abu Quhafa

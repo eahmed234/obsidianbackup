@@ -11,6 +11,7 @@ tags:
   - hajj
   - milestone
   - 10-ah
+  - unverified
 date_hijri: Dhū al-Ḥijjah 10 AH (March 632 CE)
 location: "[[Makkah]], [[Minā]], and Mount [[ʿArafāt]]"
 participants: "Over 100,000 Companions"

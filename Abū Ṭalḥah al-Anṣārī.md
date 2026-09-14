@@ -9,6 +9,7 @@ tags:
   - khazraj
   - badri
   - archer
+  - unverified
 aliases:
   - Abu Talha al-Ansari
   - Zayd b. Sahl

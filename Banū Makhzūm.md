@@ -11,6 +11,7 @@ tags:
   - tribe
   - quraysh
   - makkan_era
+  - unverified
 lineage: "Makhzūm b. Yaqaẓah b. Murrah b. Kaʿb b. Luʾayy"
 territory: "Quraysh al-Biṭāḥ (Makkah)"
 custodial_offices: "al-Qubbah and al-Aʿinnah (Cavalry Command)"

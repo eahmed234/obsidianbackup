@@ -9,6 +9,7 @@ tags:
   - place
   - badr
   - ghazwah
+  - unverified
 location_coords: "Approx. 130 km southwest of Medina, on the old caravan route to Syria"
 key_topographical_landmarks:
   - "al-ʿUdwah al-Dunyā (Nearer slope — Muslim camp)"

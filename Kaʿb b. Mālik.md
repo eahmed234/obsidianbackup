@@ -13,6 +13,7 @@ tags:
   - ansari
   - khazraji
   - poet
+  - unverified
 death: ~50 AH (Medina or Syria, Caliphate of Muʿāwiyah)
 lineage: "Kaʿb b. Mālik b. ʿAmr al-Salmī al-Khazrajī (Banū Salimah)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 214; vol. 4, pp. 206, 213; vol. 5, pp. 475–481); [[al-Iṣābah]] (5:456–458, entry 7448)"

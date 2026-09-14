@@ -16,6 +16,7 @@ tags:
   - ahl_al_bayt
   - hashim
   - uhud
+  - unverified
 birth: ~54 BH (570 CE, Makkah; two to four years older than the Prophet ﷺ)
 death: 15 Shawwāl 3 AH (625 CE, martyred at Uḥud, aged 57–59; buried at Uḥud)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1:378; 2:360; 4:7, 40, 68, 92, 216–231; 11:90–93); [[al-Iṣābah]] (vol. 2, pp. 105–107, no. 1831; vol. 8, pp. 23, 185)"

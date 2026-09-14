@@ -11,6 +11,7 @@ tags:
   - sahabi
   - ansari
   - badri
+  - unverified
 clan: "Balī (chieftain of Banū al-ʿAjlān, confederate of Banū ʿAmr b. ʿAwf of al-Aws)"
 brother: "[[Maʿn b. ʿAdī]]"
 death: "45 AH, during the Caliphate of Muʿāwiyah (aged ~115–120 in Madīnah)"

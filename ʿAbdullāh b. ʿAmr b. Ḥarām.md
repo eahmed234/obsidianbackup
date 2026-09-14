@@ -13,6 +13,7 @@ tags:
   - khazraji
   - shahid
   - uhud
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], [[Banū Salimah]]"
 kinship: "Father of [[Jābir b. ʿAbdillāh]], brother-in-law of [[ʿAmr b. al-Jamūḥ]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 188, 213–215, 225, 251); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, pp. 162–163, entry 4856)"

@@ -13,6 +13,7 @@ tags:
   - awsi
   - badri
   - uhudi
+  - unverified
 lineage: "Qatādah b. al-Nuʿmān b. Zayd b. ʿĀmir b. Sawād b. Ẓafar al-Awsī al-Ẓafarī"
 clan: "Banū Ẓafar (clan of [[al-Aws]])"
 kunya: "Abū ʿAmr, and said to be Abū ʿAbdillāh or Abū ʿUthmān"

@@ -13,6 +13,7 @@ tags:
   - badri
   - muhajir
   - envoy
+  - unverified
 lineage: "Lakhm, confederate of [[Banū Asad]] (Quraysh)"
 role: "Badri veteran, envoy of the Prophet ﷺ to al-Muqawqis, recipient of divine pardon for Ahl Badr"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 97, 102, 206; vol. 5, pp. 202–204; vol. 11, pp. 348–350); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 2, pp. 4–5, entry 1543)"

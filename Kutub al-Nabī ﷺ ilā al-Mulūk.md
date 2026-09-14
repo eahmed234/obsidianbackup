@@ -18,6 +18,7 @@ tags:
   - negus
   - muqawqis
   - 7-ah
+  - unverified
 date_hijri: Muharram 7 AH (late 6 AH / 7 AH, post-Ḥudaybiyah)
 location: "Medina to Byzantine Empire (Constantinople / Jerusalem / Homs), Sasanian Persian Empire (Ctesiphon), Alexandria (Egypt), Aksum (Abyssinia), Bahrain, and Oman"
 commanders_muslim:

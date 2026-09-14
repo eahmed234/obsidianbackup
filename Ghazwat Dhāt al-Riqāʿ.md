@@ -16,6 +16,7 @@ tags:
   - 4-ah
   - 5-ah
   - 7-ah
+  - unverified
 date_hijri: 10 al-Muḥarram (dated to 4 AH, 5 AH, or post-Khaybar 7 AH)
 location: "Najd, Wādī al-Shaqrah & Nakhl"
 commanders_muslim:

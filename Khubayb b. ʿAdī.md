@@ -14,6 +14,7 @@ tags:
   - badri
   - martyr
   - karamat
+  - unverified
 death: 4 AH (al-Tanʿīm, Makkah)
 burial: "al-Tanʿīm (miraculously swallowed by the earth — Balīʿ al-Arḍ)"
 lineage: "Khubayb b. ʿAdī b. Mālik al-Anṣārī al-Awsī (Banū ʿAmr b. ʿAwf)"

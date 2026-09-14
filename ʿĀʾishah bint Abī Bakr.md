@@ -16,6 +16,7 @@ tags:
   - jurist
   - taym
   - 58-ah
+  - unverified
 birth: "~9 BH (613 CE, Makkah)"
 death: 17 Ramaḍān 57 AH (or 58 AH, Medina, aged 66; buried in al-Baqīʿ)
 kunya: Umm ʿAbdillāh

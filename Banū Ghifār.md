@@ -12,6 +12,7 @@ tags:
   - kinanah
   - sahabi
   - early_converts
+  - unverified
 lineage: "Ghifār b. Mulayl b. Ḍamrah b. Bakr b. ʿAbd Manāt b. Kinānah"
 territory: "The Red Sea caravan track south of Medina (near Waddān and Badr)"
 prominent_members:

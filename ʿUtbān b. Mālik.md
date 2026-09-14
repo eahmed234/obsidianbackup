@@ -11,6 +11,7 @@ tags:
   - ansari
   - khazraji
   - badri
+  - unverified
 lineage: "Banū Sālim b. ʿAwf ([[al-Khazraj]])"
 role: "Badri veteran, Chieftain and Imam of Banū Sālim, Brother-in-faith to ʿUmar b. al-Khaṭṭāb"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 272, 363, 365; vol. 4, p. 110; vol. 8, p. 303); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 4, pp. 358–359, entry 5412; vol. 8, p. 305, entry 11717)"

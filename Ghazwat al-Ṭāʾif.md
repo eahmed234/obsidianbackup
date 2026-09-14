@@ -12,6 +12,7 @@ tags:
   - siege
   - thaqif
   - 8-ah
+  - unverified
 date_hijri: Shawwāl – Dhū al-Qaʿdah 8 AH (February 630 CE)
 location: "al-Ṭāʾif & al-Jiʿrānah (Hijaz)"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"

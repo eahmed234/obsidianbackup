@@ -13,6 +13,7 @@ tags:
   - banu-tamim
   - quranic-revelation
   - 9-ah
+  - unverified
 date_hijri: Year nine AH (630 CE)
 location: "Medina (al-Masjid al-Nabawī and the Prophet's Chambers)"
 commanders_muslim:

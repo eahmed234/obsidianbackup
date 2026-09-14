@@ -10,6 +10,7 @@ tags:
   - sahabi
   - makkan_era
   - badri
+  - unverified
 nasab: "al-Arqam b. Abī al-Arqam ʿAbd Manāf b. Asad — Asad was called Abū Jundab — b. ʿAbdullāh b. ʿUmar b. Makhzūm b. Yaqẓah b. Murrah b. Kaʿb b. Luʾayy"
 relation: "Owner of the house (Dār al-Arqam) that sheltered the Prophet ﷺ and the earliest Muslims"
 son: "ʿUthmān b. al-Arqam"

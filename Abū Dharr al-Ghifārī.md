@@ -12,6 +12,7 @@ tags:
   - early_convert
   - ascetic
   - ghifar
+  - unverified
 birth: "~40 BH (Tihāmah, of Banū Ghifār)"
 death: 32 AH (al-Rabadhah, in solitary simplicity; buried by [[ʿAbdullāh b. Masʿūd]] ﵁)
 kunya: Abū Dharr

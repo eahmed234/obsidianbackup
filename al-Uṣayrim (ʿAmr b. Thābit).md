@@ -14,6 +14,7 @@ tags:
   - aws
   - uhud
   - martyr
+  - unverified
 burial: "Uḥud (Medina)"
 death_hijri: 3 AH
 clan: Banū ʿAbd al-Ashhal (al-Aws)

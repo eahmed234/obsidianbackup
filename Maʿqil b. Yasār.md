@@ -8,6 +8,7 @@ tags:
   - muzaynah
   - hudaybiyah
   - ahl_al_shajarah
+  - unverified
 aliases:
   - Maʿqil b. Yasār al-Muzanī
   - Ma'qil ibn Yasar

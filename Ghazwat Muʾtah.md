@@ -13,6 +13,7 @@ tags:
   - byzantine
   - martyrdom
   - 8-ah
+  - unverified
 date_hijri: Jumādā al-Ūlā 8 AH (September 629 CE)
 location: "Muʾtah, al-Balqāʾ (modern-day Jordan)"
 commanders_muslim:

@@ -14,6 +14,7 @@ tags:
   - badr
   - hunayn
   - fath_makkah
+  - unverified
 kunya: Abū al-Faḍl
 death: the year thirty-two AH (buried in al-Baqīʿ)
 birth: two or three years before the Year of the Elephant (Makkah)

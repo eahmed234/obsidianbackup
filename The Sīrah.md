@@ -6,6 +6,7 @@ tags:
   - index
   - hub
   - sirah
+  - unverified
 ---
 
 # The Noble Sīrah (السيرة النبوية الشريفة)
@@ -415,6 +416,7 @@ The agreed chain al-Ṣāliḥī gives from the Prophet ﷺ to ʿAdnān, each an
 - [[ʿAbdullāh b. Suhayl]] ﵁ — *Son of Suhayl b. ʿAmr, early Abyssinian emigrant, hero who crossed lines to the Muslims at Badr, and martyr of al-Yamāmah*
 - [[ʿAbdullāh b. al-Zubayr]] ﵁ — *Firstborn of the Muhājirūn in Medina, lion of the Sanctuary, and intrepid commander*
 - [[Muʿāwiyah b. Abī Sufyān]] ﵁ — *Scribe of revelation, statesman, and founder of the Umayyad Caliphate*
+- [[Yazīd b. Abī Sufyān]] ﵁ — *Yazīd al-Khayr; supreme commander of the Syrian conquests, governor of Damascus, and martyr of ʿAmwās*
 - [[Ḥudhayfah b. al-Yamān]] ﵁ — *Ṣāḥib Sirr Rasūlillāh ﷺ (Keeper of the Prophet's Secret Register of Hypocrites) and hero of Khandaq*
 - [[Thumāmah b. Uthāl]] ﵁ — *Chieftain of Yamāmah who declared the wheat embargo against polytheist Makkah and resisted Musaylimah*
 - [[ʿAdī b. Ḥātim al-Ṭāʾī]] ﵁ — *Chieftain of Ṭayyiʾ, son of the generous Ḥātim, and steadfast pillar against Riddah*

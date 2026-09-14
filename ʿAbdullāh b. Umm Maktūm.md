@@ -17,6 +17,7 @@ tags:
   - shahid
   - amir_luayy
   - 15-ah
+  - unverified
 death: "~15 AH (martyred bearing the standard at the Battle of al-Qādisiyyah)"
 kunya: Abū ʿAmr
 lineage: "Banū ʿĀmir b. Luʾayy (Quraysh); son of Qays b. Zāʾidah and maternal cousin of [[Khadījah bint Khuwaylid]] ﵂"

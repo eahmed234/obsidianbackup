@@ -12,6 +12,7 @@ tags:
   - cavalry
   - ghatafan
   - 6-ah
+  - unverified
 date_hijri: Rabīʿ al-Ākhir (or Jumādā) 6 AH (September 627 CE)
 location: "al-Ghābah & Dhū Qarad (two stages north of Medina)"
 commanders_muslim:

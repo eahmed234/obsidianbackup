@@ -9,6 +9,7 @@ tags:
   - ahl_al_bayt
   - khuzaah
   - 50-ah
+  - unverified
 aliases:
   - Juwayriyah
   - Juwayriya bint al-Harith

@@ -9,6 +9,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū Kaʿb
 parents: "[[Ghālib b. Fihr]]"
 children: "[[Kaʿb b. Luʾayy]], ʿĀmir, Sāmah, Khuzaymah, Saʿd, al-Ḥārith, ʿAwf"

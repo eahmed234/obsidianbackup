@@ -12,6 +12,7 @@ tags:
   - mudari
   - tihamah
   - hijaz
+  - unverified
 lineage: "Hudhayl b. Mudrikah b. Ilyās b. Muḍar"
 territory: "The mountains of the Ḥijāz around Makkah, Nakhlah, and ʿUsfān"
 primary_source: "*Subul al-Hudā*, 2:178; 5:30–31; 6:40, 198"

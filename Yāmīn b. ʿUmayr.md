@@ -13,6 +13,7 @@ tags:
   - israelite
   - nadir
   - tabuk
+  - unverified
 kunya: Abū Yāmīn
 clan: Banū al-Naḍīr
 father: ʿUmayr (or Kaʿb / ʿAmr)

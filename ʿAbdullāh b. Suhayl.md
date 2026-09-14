@@ -11,6 +11,7 @@ tags:
   - badri
   - muhajir
   - martyr
+  - unverified
 primary_source: "*al-Iṣābah*, no. 4754 (4:107); *Subul al-Hudā*, 2:369, 5:48"
 death: "12 AH"
 location: "al-Yamāmah"

@@ -12,6 +12,7 @@ tags:
   - sariyyah
   - hamzah-b-abd-al-muttalib
   - 1-ah
+  - unverified
 date_hijri: Month of Ramaḍān at the head of seven months from the Hijrah in the year one AH
 location: "al-ʿĪṣ on the Red Sea coast (territory of Juhaynah)"
 commanders_muslim:

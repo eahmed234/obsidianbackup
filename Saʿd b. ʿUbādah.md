@@ -14,6 +14,7 @@ tags:
   - khazraji
   - naqib
   - chieftain
+  - unverified
 death: ~15 AH (Ḥawrān, Syria)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 183, 198; vol. 4, p. 371; vol. 6, p. 211); [[al-Iṣābah]] (3:55–56, entry 3180)"
 ---

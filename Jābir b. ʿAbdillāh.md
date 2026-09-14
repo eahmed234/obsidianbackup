@@ -13,6 +13,7 @@ tags:
   - ansari
   - khazraji
   - bayat_al_ridwan
+  - unverified
 death: ~78 AH (Medina, aged 94; last surviving Companion in Medina)
 lineage: "Jābir b. ʿAbdillāh b. ʿAmr b. Ḥarām al-Salmī al-Khazrajī (Banū Salimah)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 213; vol. 4, pp. 188, 365–367; vol. 5, pp. 48, 142); [[al-Iṣābah]] (1:546–548, entry 1028)"

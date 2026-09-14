@@ -12,6 +12,7 @@ tags:
   - madani
   - fath_makkah
   - sabab_al_nuzul
+  - unverified
 period: Madanī (Ramaḍān 8 AH, prior to Fatḥ Makkah)
 primary_events:
   - "[[Fatḥ Makkah]]"

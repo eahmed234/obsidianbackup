@@ -15,6 +15,7 @@ tags:
   - ashrali
   - badri
   - martyr
+  - unverified
 death: 12 AH (Yamamah, aged 45)
 lineage: "ʿAbbād b. Bishr b. Waqsh b. Zughbah b. Zaʿūrāʾ b. ʿAbd al-Ashhal al-Anṣārī al-Awsī al-Ashhalī"
 primary_source: "[[al-Iṣābah]] (vol. 3, p. 496, entry 4473); [[Subul al-Hudā war-Rashād]] (vol. 5, pp. 179–180)"

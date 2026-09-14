@@ -12,6 +12,7 @@ tags:
   - ansari
   - awsi
   - jurist
+  - unverified
 lineage: "Anṣārī of [[al-Aws]], Banū Ḥārithah b. al-Ḥārith"
 role: "Prolific narrator of military expeditions, conqueror of Rayy, and Hadith transmitter"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 185; vol. 5, pp. 40–44; vol. 11, p. 333); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 1, pp. 411–412, entry 618)"

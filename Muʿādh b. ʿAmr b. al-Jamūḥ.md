@@ -10,6 +10,7 @@ tags:
   - badri
   - ansari
   - khazraji
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], [[Banū Salimah]]"
 role: "Youthful hero who struck off Abū Jahl's leg at Badr and received his spoils"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 220, 222; vol. 4, pp. 50, 118); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 6, pp. 113–114, entry 8069)"

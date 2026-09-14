@@ -7,6 +7,7 @@ tags:
   - sahabi
   - ahl_al_bayt
   - rashidun
+  - unverified
 aliases:
   - al-Ḥasan b. ʿAlī b. Abī Ṭālib
   - Hasan ibn Ali

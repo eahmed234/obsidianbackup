@@ -13,6 +13,7 @@ tags:
   - sahmi
   - mustadafun
   - habashah
+  - unverified
 clan: "Banū Sahm (Quraysh)"
 lineage: "Hishām b. al-ʿĀṣ b. Wāʾil b. Hāshim b. Suʿayd b. Sahm al-Qurashī al-Sahmī"
 kinship: "Full/Paternal brother of [[ʿAmr b. al-ʿĀṣ]]"

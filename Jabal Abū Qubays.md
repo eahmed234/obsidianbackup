@@ -11,6 +11,7 @@ tags:
   - makkah
   - mountain
   - sanctuary
+  - unverified
 location_coords: "Directly east of al-Masjid al-Ḥarām, overlooking the Kaʿbah"
 key_landmarks:
   - "The repository of the Black Stone during the Deluge (al-Amīn)"

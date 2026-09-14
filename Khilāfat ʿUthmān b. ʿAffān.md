@@ -8,6 +8,7 @@ tags:
   - khulafa_rashidun
   - 24-ah
   - 35-ah
+  - unverified
 date_hijri: 24–35 AH
 location: "[[al-Madīnah al-Munawwarah]]"
 caliph: "[[ʿUthmān b. ʿAffān]]"

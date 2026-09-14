@@ -11,6 +11,7 @@ tags:
   - tribe
   - qays
   - hejaz
+  - unverified
 lineage: "Sulaym b. Manṣūr b. ʿIkrimah b. Khaṣafah b. Qays ʿAylān"
 territory: "The volcanic lava plains (Ḥarrat Banī Sulaym) between Makkah and Medina"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 178, 273; vol. 5, p. 219; vol. 6, p. 346)"

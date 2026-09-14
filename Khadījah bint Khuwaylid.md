@@ -14,6 +14,7 @@ tags:
   - ahl_al_bayt
   - asad
   - makkan_era
+  - unverified
 birth: "~68 BH (556 CE, Makkah)"
 death: Ramaḍān 10th year of Nubūwah (619 CE, Makkah, aged 65; buried at al-Ḥajūn)
 kunya: Umm al-Qāsim

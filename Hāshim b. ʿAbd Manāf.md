@@ -11,6 +11,7 @@ tags:
   - pre_islamic
   - quraysh
   - hashimi
+  - unverified
 kunya: Abū ʿAbd al-Muṭṭalib
 parents: "[[ʿAbd Manāf b. Quṣayy]]"
 children: "[[ʿAbd al-Muṭṭalib]], al-Muṭṭalib, Asad, and others"

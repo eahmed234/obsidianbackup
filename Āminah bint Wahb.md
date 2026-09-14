@@ -11,6 +11,7 @@ tags:
   - zuhri
   - pre_prophethood
   - makkan_era
+  - unverified
 death: "At al-Abwāʾ, between Makkah and Medina; the book reports the Prophet's ﷺ age variously as four, five, six, seven, nine, or twelve (Subul al-Hudā 2:120)"
 spouse: "[[ʿAbdullāh b. ʿAbd al-Muṭṭalib]]"
 tribe: "[[Banū Zuhrah]] of Quraysh"

@@ -12,6 +12,7 @@ tags:
   - madani
   - qiblah
   - sabab_al_nuzul
+  - unverified
 surah_number: 2
 total_ayahs: 286
 period: Madanī (Commencing 1 AH / 2 AH)

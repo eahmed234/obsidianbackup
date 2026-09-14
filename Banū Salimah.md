@@ -10,6 +10,7 @@ tags:
   - ansar
   - khazraji
   - medina
+  - unverified
 lineage: "Major sub-clan of [[al-Khazraj]], descended from Salimah b. Saʿd b. ʿAlī b. Asad b. Sāridah b. Tazīd b. Jusham b. al-Khazraj"
 territory: "The western quarter of [[al-Madīnah al-Munawwarah]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 203, 370–373; vol. 4, pp. 188–189, 226)"

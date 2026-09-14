@@ -10,6 +10,7 @@ tags:
   - makkan_era
   - dawah
   - persecution
+  - unverified
 date_period: "Secret call: three to four years from the start of revelation; public call: upon the revelation of Qurʾān 26:214 and 15:94"
 location: "[[Dār al-Arqam]]; Mount al-Ṣafā, [[Makkah al-Mukarramah]]"
 quranic_references:

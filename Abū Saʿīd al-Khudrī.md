@@ -9,6 +9,7 @@ tags:
   - khazraj
   - muhaddith
   - faqih
+  - unverified
 aliases:
   - Abu Said al-Khudri
   - Saʿd b. Mālik

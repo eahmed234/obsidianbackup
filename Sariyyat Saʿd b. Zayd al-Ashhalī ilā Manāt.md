@@ -12,6 +12,7 @@ tags:
   - ansar
   - fath-makkah
   - idols
+  - unverified
 date_hijri: Six nights remaining in Ramaḍān in the year eight AH (January 630 CE)
 location: "al-Mushallal (mountain pass near Qudayd on the Red Sea coast)"
 commanders_muslim:

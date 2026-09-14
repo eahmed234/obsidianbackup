@@ -17,6 +17,7 @@ tags:
   - khalid-b-al-walid
   - 11-ah
   - 12-ah
+  - unverified
 date_hijri: Eleven to twelve AH (632–633 CE)
 location: "Arabian Peninsula (Dhu al-Qassah, Buzakhah, Butah, al-Yamamah / Hadiqat al-Mawt, Oman, Mahrah, Hadramawt, and Yemen)"
 commanders_muslim:

@@ -12,6 +12,7 @@ tags:
   - pledge
   - covenant
   - ansar
+  - unverified
 date_period: "The pilgrimage season, one year (per Jābir b. ʿAbdullāh's account) after the first pledge"
 location: "the Shiʿb (ravine) by al-ʿAqabah, near Minā"
 participants: "Seventy-three men and two women of the Anṣār"

@@ -9,6 +9,7 @@ tags:
   - muhajir
   - martyr
   - 6-ah
+  - unverified
 aliases:
   - al-Akhram
   - Muḥraz b. Naḍlah al-Asadī

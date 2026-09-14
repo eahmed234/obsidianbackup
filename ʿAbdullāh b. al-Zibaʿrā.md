@@ -10,6 +10,7 @@ tags:
   - quraysh
   - tulaqa
   - fath_makkah
+  - unverified
 aliases:
   - ʿAbdullāh b. al-Zibaʿrā al-Sahmī
   - Ibn al-Zibaʿrā

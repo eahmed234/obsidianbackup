@@ -10,6 +10,7 @@ tags:
   - ansari
   - badri
   - khazraji
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], Banū al-Najjār (Banū ʿAdī b. al-Najjār)"
 role: "Badri warrior celebrated for embracing and kissing the Prophet's abdomen; Governor over Khaybar"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 34); [[al-Iṣābah]] (3:180–181, entry 3595)"

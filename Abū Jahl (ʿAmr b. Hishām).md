@@ -13,6 +13,7 @@ tags:
   - makhzum
   - slain_at_badr
   - 2-ah
+  - unverified
 birth: ~52 BH (572 CE, Makkah)
 death: 17 Ramaḍān 2 AH (624 CE, slain at Badr, aged ~54; thrown into the Pit of Badr)
 lineage: "ʿAmr b. Hishām b. al-Mughīrah al-Makhzūmī al-Qurashī"

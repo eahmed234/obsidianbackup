@@ -9,6 +9,7 @@ tags:
   - nasab
   - pre_islamic
   - quraysh
+  - unverified
 kunya: Abū Tamīm
 parents: "[[Fihr b. Mālik]]"
 children: "[[Luʾayy b. Ghālib]], Taym (Taym al-Adram)"

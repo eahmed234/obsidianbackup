@@ -12,6 +12,7 @@ tags:
   - ansari
   - khazraj
   - poet
+  - unverified
 kunya: Abū al-Walīd
 clan: Banū al-Najjār (al-Khazraj)
 role: "Poet laureate of the Messenger of Allāh ﷺ, aided by the Holy Spirit (Jibrīl ﵊)"

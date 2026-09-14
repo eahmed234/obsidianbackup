@@ -7,6 +7,7 @@ tags:
   - caliphate
   - 37-ah
   - fitnah
+  - unverified
 date_hijri: Dhū al-Ḥijjah 36 – Ṣafar 37 AH
 location: "Ṣiffīn (near al-Raqqah, right bank of the Euphrates river, Syria)"
 commanders_muslim:

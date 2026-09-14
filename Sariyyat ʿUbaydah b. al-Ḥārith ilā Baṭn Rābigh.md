@@ -14,6 +14,7 @@ tags:
   - ubaydah-b-al-harith
   - sad-b-abi-waqqas
   - 1-ah
+  - unverified
 date_hijri: Month of Shawwāl at the head of eight months from the Hijrah in the year one AH
 location: "Thanyat al-Marrah in Baṭn Rābigh (ten miles from al-Juḥfah)"
 commanders_muslim:

@@ -11,6 +11,7 @@ tags:
   - conquest
   - khaybar
   - 7-ah
+  - unverified
 date_hijri: Muḥarram 7 AH (May 628 CE)
 location: "Oasis of [[Khaybar]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

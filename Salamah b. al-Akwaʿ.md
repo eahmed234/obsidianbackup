@@ -9,6 +9,7 @@ tags:
   - hudaybiyah
   - archer
   - 74-ah
+  - unverified
 aliases:
   - Salamah b. Amr b. al-Akwaʿ
   - Salamah ibn al-Akwa

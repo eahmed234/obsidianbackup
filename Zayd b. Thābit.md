@@ -14,6 +14,7 @@ tags:
   - khazraji
   - katib_al_wahy
   - jurist
+  - unverified
 death: ~45 AH (Medina)
 lineage: "Zayd b. Thābit b. al-Ḍaḥḥāk al-Najjārī al-Khazrajī (Banū al-Najjār)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 185; vol. 5, pp. 142–143; vol. 11, pp. 328, 330, 382); [[al-Iṣābah]] (2:490–492, entry 2887)"

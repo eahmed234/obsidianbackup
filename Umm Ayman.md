@@ -11,6 +11,7 @@ tags:
   - sahabiyyah
   - ahl_al_bayt
   - mawlah
+  - unverified
 death: Early in the caliphate of ʿUthmān (shortly after Caliph ʿUmar; buried in al-Baqīʿ)
 lineage: "Abyssinian freedwoman and childhood nursemaid of the Prophet ﷺ; mother of [[Usāmah b. Zayd]] ﵁"
 matrimony: "First married to ʿUbayd b. Zayd al-Khazrajī; wed to [[Zayd b. Ḥārithah]] ﵁ by the Prophet ﷺ"

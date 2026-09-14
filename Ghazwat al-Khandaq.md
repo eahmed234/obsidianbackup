@@ -12,6 +12,7 @@ tags:
   - trench
   - trial
   - 5-ah
+  - unverified
 date_hijri: Shawwāl 5 AH (March 627 CE)
 location: "Northern perimeter of [[al-Madīnah al-Munawwarah]], anchored to [[Jabal Salʿ]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

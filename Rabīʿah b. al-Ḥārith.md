@@ -11,6 +11,7 @@ tags:
   - sahabi
   - hashimi
   - quraysh
+  - unverified
 clan: "Banū Hāshim (Quraysh)"
 relation: "First cousin of the Prophet ﷺ; elder Hāshimī kinsman"
 death: "23 AH, during the Caliphate of ʿUmar ﵁ (Madīnah)"

@@ -10,6 +10,7 @@ tags:
   - muhajir
   - hijrah
   - 1-ah
+  - unverified
 definition: "Those who emigrated from [[Makkah al-Mukarramah]] to [[al-Madīnah al-Munawwarah]] for the sake of Allāh"
 paired_with: "[[al-Anṣār]], through [[al-Muʾākhāh]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 275–365)"

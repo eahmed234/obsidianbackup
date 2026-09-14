@@ -13,6 +13,7 @@ tags:
   - mawla
   - badri
   - habashi
+  - unverified
 origin: "Abyssinian (Ḥabashī)"
 relation: "Freedman (mawlā) and intimate personal attendant of the Prophet ﷺ"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 93, 345; vol. 12, pp. 324, 336); [[al-Iṣābah]] (vol. 3, pp. 284–285, no. 3935)"

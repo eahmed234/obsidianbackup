@@ -13,6 +13,7 @@ tags:
   - medina
   - mosque
   - rawdah
+  - unverified
 location_coords: "Heart of al-Madīnah al-Munawwarah, established on the mirbad of Banū al-Najjār"
 primary_event: "[[Bināʾ al-Masjid al-Nabawī]], Establishment of the Madinan State, and Burial of the Prophet ﷺ"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 335–355; vol. 12, pp. 349–353)"

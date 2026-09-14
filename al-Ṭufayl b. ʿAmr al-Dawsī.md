@@ -7,6 +7,7 @@ tags:
   - sahabi
   - sahaba
   - daws
+  - unverified
 aliases:
   - al-Tufayl b. Amr al-Dawsi
   - Tufayl b. Amr

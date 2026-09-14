@@ -10,6 +10,7 @@ tags:
   - tragedy
   - martyrdom
   - ahl_al_bayt
+  - unverified
 date_hijri: 10 Muḥarram in the year sixty-one AH
 location: "Karbalāʾ (near the western bank of the Euphrates river, Iraq)"
 commanders_muslim:

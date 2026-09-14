@@ -12,6 +12,7 @@ tags:
   - khazraji
   - martyr
   - khaybar
+  - unverified
 lineage: "Anṣārī of [[al-Khazraj]], [[Banū Salimah]]"
 role: "Badri veteran, designated chieftain of Banū Salimah, martyr of the poisoned sheep at Khaybar"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 215; vol. 4, pp. 93, 205; vol. 5, pp. 134–135); [[al-Iṣābah fī Tamyīz al-Ṣaḥābah]] (vol. 1, pp. 426–427, entry 654)"

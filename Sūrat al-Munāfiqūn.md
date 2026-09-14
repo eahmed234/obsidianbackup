@@ -11,6 +11,7 @@ tags:
   - madani
   - munafiqun
   - sabab_al_nuzul
+  - unverified
 period: Madanī (revealed following Ghazwat Banī al-Muṣṭaliq)
 primary_event: "[[Ghazwat Banī al-Muṣṭaliq]]"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 417–418; vol. 4, pp. 348–350)"

@@ -12,6 +12,7 @@ tags:
   - cemetery
   - sacred_space
   - madina
+  - unverified
 location_coords: "Immediately east of the Prophet's Mosque, al-Madīnah al-Munawwarah"
 primary_event: "[[Bināʾ al-Masjid al-Nabawī]] & Burial of the Companions"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 1, p. 64; vol. 3, pp. 279, 322; vol. 4, p. 57; vol. 11, p. 192)"

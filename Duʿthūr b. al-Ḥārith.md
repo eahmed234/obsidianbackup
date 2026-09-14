@@ -11,6 +11,7 @@ tags:
   - sahabi
   - ghatafan
   - convert
+  - unverified
 lineage: "Duʿthūr b. al-Ḥārith al-Muḥāribī al-Ghaṭafānī (Banū Muḥārib / Banū Thaʿlabah)"
 primary_source: "[[al-Iṣābah]] (vol. 2, p. 324, entry 2401); [[Subul al-Hudā war-Rashād]] (vol. 4, pp. 176–177)"
 ---

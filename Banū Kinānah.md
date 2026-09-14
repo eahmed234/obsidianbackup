@@ -12,6 +12,7 @@ tags:
   - tihamah
   - hijaz
   - makkah
+  - unverified
 lineage: "The paramount progenitor confederation of the Ishmaelite north Arabs, descended from Kinānah b. Khuzaymah b. Mudrikah b. Ilyās b. Muḍar b. Nizār b. Maʿadd b. ʿAdnān"
 territory: "The coastal plains of Tihamah, the foothills of the Hijaz, and the sanctuary surrounding Makkah"
 primary_source: "*Subul al-Hudā*, 1:230, 1:245–257, 5:208"

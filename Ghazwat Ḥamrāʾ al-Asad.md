@@ -11,6 +11,7 @@ tags:
   - resolve
   - deterrence
   - 3-ah
+  - unverified
 date_hijri: 8 Shawwāl 3 AH (March 625 CE)
 location: "[[Ḥamrāʾ al-Asad]], 8 miles south of [[al-Madīnah al-Munawwarah]]"
 commanders_muslim: "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"

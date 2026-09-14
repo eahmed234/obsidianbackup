@@ -12,6 +12,7 @@ tags:
   - khazraj
   - badri
   - martyr
+  - unverified
 death_hijri: 5 AH
 burial: "Medina"
 clan: Banū al-Ḥārith b. al-Khazraj

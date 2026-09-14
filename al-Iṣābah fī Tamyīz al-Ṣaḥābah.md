@@ -14,6 +14,7 @@ tags:
   - biographical_dictionary
   - sahaba
   - hadith
+  - unverified
 author: "[[Ibn Ḥajar al-ʿAsqalānī|al-Ḥāfiẓ Shihāb al-Dīn Aḥmad b. ʿAlī b. Ḥajar al-ʿAsqalānī]] (d. 852 AH / 1449 CE)"
 volumes: 8 volumes
 edition: "Dār al-Kutub al-ʿIlmiyyah (Beirut, 1415 AH / 1995 CE), edited by ʿĀdil Aḥmad ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ"

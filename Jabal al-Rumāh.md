@@ -11,6 +11,7 @@ tags:
   - uhud
   - topography
   - 3-ah
+  - unverified
 location_coords: "Directly south of Jabal Uḥud, Medina"
 primary_event: "[[Ghazwat Uḥud]] (7 Shawwāl 3 AH)"
 command: "[[ʿAbdullāh b. Jubayr]] ﵁ and 50 archers"

@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 8-ah
   - madinan_era
+  - unverified
 date_hijri: "al-Awwal min Ramaḍān 8 AH"
 leader: "[[Abū Qatādah al-Anṣārī]] ﵁"
 adversaries:

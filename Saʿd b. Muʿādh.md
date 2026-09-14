@@ -14,6 +14,7 @@ tags:
   - chieftain
   - badri
   - martyr
+  - unverified
 birth: ~32 BH (590 CE, Yathrib)
 death: Dhū al-Qaʿdah 5 AH (627 CE, Medina, martyred aged 37; buried in al-Baqīʿ)
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, pp. 198–200; vol. 4, pp. 36, 92, 380–382; vol. 5, pp. 9–16; vol. 12, pp. 64–66); [[al-Iṣābah]] (3:70–72, entry 3212)"

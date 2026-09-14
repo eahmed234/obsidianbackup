@@ -13,6 +13,7 @@ tags:
   - ansari
   - khazraji
   - 1-ah
+  - unverified
 death: "~50 AH (Constantinople, buried beneath the city walls)"
 primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 3, p. 275; vol. 9, p. 482); [[al-Iṣābah]] (2:199–201, entry 2168)"
 ---

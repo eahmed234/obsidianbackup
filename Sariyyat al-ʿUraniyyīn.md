@@ -7,6 +7,7 @@ tags:
   - sariyyah
   - 6-ah
   - madinan_era
+  - unverified
 date_hijri: "Shawwāl 6 AH"
 leader: "[[Kurz b. Jābir al-Fihrī]] ﵁"
 adversaries:

@@ -11,6 +11,7 @@ tags:
   - tribe
   - clan
   - quraysh
+  - unverified
 lineage: "Sahm b. ʿAmr b. Huṣayṣ b. Kaʿb b. Luʾayy"
 territory: "Makkah al-Mukarramah"
 primary_source: "*Subul al-Hudā*, 2:154, 309–311, 374–375, 425, 461–462; 6:198"

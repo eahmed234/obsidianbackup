@@ -14,6 +14,7 @@ tags:
   - ashara_mubashsharah
   - badri
   - umayyah
+  - unverified
 birth: "6 years after the Year of the Elephant (576 CE, Makkah)"
 death: 18 Dhū al-Ḥijjah 35 AH (656 CE, martyred in Medina, aged 82; buried in al-Baqīʿ)
 reign: 23 AH – 35 AH (Third Rightly-Guided Caliph)

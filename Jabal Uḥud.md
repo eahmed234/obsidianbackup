@@ -9,6 +9,7 @@ tags:
   - uhud
   - mountain
   - martyrs
+  - unverified
 location_coords: "Approx. 5 km north of al-Masjid al-Nabawī, Medina"
 key_landmarks:
   - "Jabal al-Rumāh (Mount ʿAynayn / Hill of the Archers)"

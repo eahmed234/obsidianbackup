@@ -16,6 +16,7 @@ tags:
   - badri
   - fursan
   - ahl_al_bayt_affinity
+  - unverified
 birth: ~35 BH (589 CE, Ḥaḍramawt)
 death: 33 AH (653 CE, al-Jurf near Medina, aged 70; buried in al-Baqīʿ)
 battles:

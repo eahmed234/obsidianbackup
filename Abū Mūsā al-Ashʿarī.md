@@ -13,6 +13,7 @@ tags:
   - yemeni
   - qari
   - governor
+  - unverified
 death: 44–53 AH (Kufa or Makkah, aged 60+)
 lineage: "ʿAbdullāh b. Qays b. Sulaym al-Ashʿarī (Banū al-Ashʿar, Yemen)"
 primary_source: "[[al-Iṣābah]] (vol. 4, pp. 181–183, entry 4916; vol. 7, p. 322, entry 10590); [[Subul al-Hudā war-Rashād]] (vol. 5, p. 180)"

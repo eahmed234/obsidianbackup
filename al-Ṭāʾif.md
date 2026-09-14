@@ -7,6 +7,7 @@ tags:
   - sacred_geography
   - hijaz
   - thaqif
+  - unverified
 aliases:
   - al-Ta'if
   - Taif

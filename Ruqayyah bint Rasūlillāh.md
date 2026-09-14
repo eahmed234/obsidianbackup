@@ -12,6 +12,7 @@ tags:
   - daughter_of_prophet
   - hashim
   - 2-ah
+  - unverified
 death: Ramaḍān 2 AH (Medina, aged ~22; buried in al-Baqīʿ on the day of victory at Badr)
 lineage: "Daughter of the Prophet ﷺ and Umm al-Muʾminīn Khadījah bint Khuwaylid"
 matrimony: "Married to ʿUthmān b. ʿAffān ﵁; earned him the title Dhū al-Nūrayn alongside her sister"

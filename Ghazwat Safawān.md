@@ -12,6 +12,7 @@ tags:
   - ghazwah
   - badr
   - 2-ah
+  - unverified
 date_hijri: Rabīʿ al-Awwal / Rabīʿ al-Ākhir 2 AH (Autumn 623 CE)
 location: "Valley of Safawān (district of Badr)"
 commanders_muslim:

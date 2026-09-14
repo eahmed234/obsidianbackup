@@ -16,6 +16,7 @@ tags:
   - ashara_mubashsharah
   - badri
   - hashim
+  - unverified
 birth: ~23 BH (600 CE, Makkah)
 death: 21 Ramaḍān 40 AH (661 CE, martyred in Kūfah, aged 63)
 reign: 35 AH – 40 AH (Fourth Rightly-Guided Caliph)

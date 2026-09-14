@@ -13,6 +13,7 @@ tags:
   - badri
   - muhajir
   - qays-aylan
+  - unverified
 birth: Before the Prophetic Mission (~45 BH)
 death: The year twelve AH (633 CE, caliphate of Abū Bakr, aged 66)
 primary_source: "*al-Iṣābah*, 7:305 (no. 10522); *al-Iṣābah*, 5:467 (no. 7477); *al-Iṣābah*, 6:56; *Subul al-Hudā*, 6:11"
