@@ -44,6 +44,9 @@ npm run quartz -- build -d .. -o ../public
 # 6. Mark every page whose note is still tagged `unverified` (see site_notice.py)
 python3 ../site_notice.py ../public
 
+# Contents sidebar, infoboxes and chronological links, built from the hub and frontmatter (see site_nav.py)
+python3 ../site_nav.py ../public
+
 # 7. Ensure root index.html is populated from the canonical hub (The Sīrah)
 echo "Ensuring root index.html..."
 python3 -c '

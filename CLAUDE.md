@@ -9,7 +9,7 @@ lines — **when you change one, change the other**.
 An Obsidian vault, git-backed, containing an English-language scholarly wiki of the *Sīrah* (Prophetic
 biography) written from an orthodox Sunni perspective. The deliverable is the Markdown notes and the link
 graph between them. The same files are also the source of the public site **nabiwiki**
-(https://nabiwiki.netlify.app/), built with Quartz v4.
+(https://nabiwiki.netlify.app/), built with Quartz v5.
 
 Layout (repository root):
 
@@ -21,6 +21,7 @@ Layout (repository root):
 | `sources/9767.epub` | *al-Iṣābah fī Tamyīz al-Ṣaḥābah* — the corpus, tracked in git |
 | `audit.py` | Integrity checks and source-verification triage (see **Audit tooling**) |
 | `site_notice.py` | Post-build step: puts an "Unverified entry" notice on every published page tagged `unverified` |
+| `site_nav.py` | Post-build step: Contents sidebar built from the hub, frontmatter infoboxes, chronological prev/next links |
 | `review/` | Generated source sheets and triage reports — git-ignored, Quartz-ignored |
 | `build.sh`, `quartz.config.yaml`, `patch-quartz.mjs`, `custom.scss`, `netlify.toml`, `.github/` | Site build |
 | `.obsidian/` | Obsidian config + `obsidian-git` plugin |
@@ -43,9 +44,17 @@ also gates a Netlify-side build, which uses the same script). It then clones Qua
 `quartz.config.yaml` and `custom.scss`, runs `patch-quartz.mjs` (folds IJMES diacritics and Arabic script
 into ASCII URL slugs — without it the CDN produces redirect loops and 404s), builds into `public/`, and
 runs `site_notice.py` over `public/` (every page whose note is tagged `unverified` gets a warning callout
-under its tags; the homepage gets a site-wide version), copies `the-sirah.html` to `index.html` so the hub
+under its tags; the homepage gets a site-wide version), then runs `site_nav.py` over `public/`, and copies `the-sirah.html` to `index.html` so the hub
 is the homepage; then `netlify-cli` deploys `public/`. The notice lives only in the built HTML — notes are
 never edited for it — so it disappears from a page as soon as the user marks the note `verified`.
+**Site navigation is driven by the hub and frontmatter** (`site_nav.py`; Quartz's Explorer and
+Properties plugins are disabled in its favour). The left sidebar mirrors `The Sīrah.md` — its `##`
+sections, `###` subsections and the first wikilink of each bullet, in hub order — so reordering or
+regrouping the hub reorders the sidebar. Every typed note gets an infobox built from its frontmatter
+(fields per `type` are listed in `FIELDS` in `site_nav.py`; a key not listed there is simply not shown) with
+role tags (`badri`, `ansari`, `ghazwah`, …) as chips linking to tag pages. Event notes listed under the hub's
+*Chronological Master Index* get previous/next links in that order. Like the notice, all of this exists only
+in the built HTML.
 Anything that must not be published goes in `ignorePatterns` in `quartz.config.yaml` (`sources`,
 `review`, `audit.py`, the agent docs, …).
 

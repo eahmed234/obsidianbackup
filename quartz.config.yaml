@@ -22,6 +22,7 @@ configuration:
     - review
     - audit.py
     - site_notice.py
+    - site_nav.py
     - build.sh
     - patch-quartz.mjs
     - custom.scss
@@ -143,7 +144,7 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false   # replaced by site_nav.py
     layout:
       position: left
       priority: 50
@@ -254,7 +255,7 @@ plugins:
     options: {}
     order: 50
   - source: "@quartz-community/note-properties"
-    enabled: true
+    enabled: false   # replaced by site_nav.py
     options:
       includeAll: false
       includedProperties:
