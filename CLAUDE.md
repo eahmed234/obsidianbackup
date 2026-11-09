@@ -69,8 +69,9 @@ orphan — there is no folder structure to discover it by. `audit.py` fails on o
 | `index` | 1 | `The Sīrah.md` |
 
 `Ghazwat Badr al-Kubrā.md` and `ʿAbd al-Raḥmān b. ʿAwf.md` are **featured master entries**, built far
-longer than the rest. They are the reference for *depth and structure only* — not for sourcing (both
-still carry uncited and other-work material; run `python3 audit.py --note "Ghazwat Badr al-Kubrā"`).
+longer than the rest. Badr was rewritten from its pages in Nov 2026 and is footnoted throughout;
+`ʿAbd al-Raḥmān b. ʿAwf` is the reference for *depth and structure only* — not for sourcing (it still
+carries uncited and other-work material; run `python3 audit.py --note "ʿAbd al-Raḥmān b. ʿAwf"`).
 Match a note's depth to its counterparts, not to these, unless the user asks for a master entry.
 
 **Unresolved links are intentional.** Links are written eagerly so the graph connects when a note is
