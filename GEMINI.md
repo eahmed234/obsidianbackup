@@ -36,10 +36,10 @@ When committing from the CLI, follow the same `vault backup: <timestamp>` conven
 
 ## Build and deployment
 
-Pushing to `main` runs `.github/workflows/deploy.yml`. It first runs `python3 audit.py --no-content`
-(`build.sh` runs it again, so a Netlify-side build is gated too): **a citation to a page that does not
-exist, an orphaned note, or a wrapped link fails the deploy**, and the live site stays as it was. Then
-`build.sh` clones Quartz into `.quartz/`, copies in
+Pushing to `main` runs `.github/workflows/deploy.yml`, which runs `build.sh`. `build.sh` begins with
+`python3 audit.py --no-content` under `set -e`: **a citation to a page that does not exist, an orphaned
+note, or a wrapped link fails the build, so nothing is deployed** and the live site stays as it was (this
+also gates a Netlify-side build, which uses the same script). It then clones Quartz into `.quartz/`, copies in
 `quartz.config.yaml` and `custom.scss`, runs `patch-quartz.mjs` (folds IJMES diacritics and Arabic script
 into ASCII URL slugs — without it the CDN produces redirect loops and 404s), builds into `public/`, and
 runs `site_notice.py` over `public/` (every page whose note is tagged `unverified` gets a warning callout
@@ -60,7 +60,7 @@ orphan — there is no folder structure to discover it by. `audit.py` fails on o
 
 | `type` | Count | Body pattern |
 | --- | --- | --- |
-| `person` | 268 | `## 1. Lineage & Background`, `## 2. Key Sīrah Milestones`, merits, death & burial |
+| `person` | 268 | Lead paragraph, then plain-titled chronological sections (Name, early life, campaigns…, Death) |
 | `event` | 106 | Numbered sections: context, deployment, climax, aftermath, Qurʾānic connection |
 | `group` | 39 | Lineage (*nasab*), territory, alliances (*ḥilf*), role in the Sīrah, members |
 | `place` | 36 | Topography, events at the place, linked to its `primary_event` |
@@ -158,8 +158,14 @@ work titles) live; it is never to be presented as the author's own statement.
 
 ### Citation format
 
-- Inline after each claim: `*Subul al-Hudā*, <vol>:<page>` or `*al-Iṣābah*, <vol>:<page>`; lists and
-  ranges are fine (`4:192–193`, `6:402, 403`, `*al-Iṣābah*, 1:533; 3:461`).
+- **Footnotes** (new and rewritten notes): put `[^key]` after the sentence or clause it supports, and the
+  definitions at the end of the note — `[^s4.192]: *Subul al-Hudā*, 4:192–193.` Keys are `s<vol>.<page>`
+  or `i<vol>.<page>` (add a letter for a second footnote on the same page: `i3.146b`); reuse a key for a
+  repeated citation. A definition may add a short note after the citation (which report the wording comes
+  from, a variant name), and the definition must cite the page for that note too. `audit.py` expands each
+  footnote into its claim before checking it.
+- Older notes cite inline after each claim — `(*Subul al-Hudā*, 4:192–193)`, `(*al-Iṣābah*, 1:533; 3:461)`
+  — which remains valid; convert to footnotes when a note is rewritten.
 - `primary_source:` in frontmatter gives the source(s), volume(s) and page range(s).
 - The bare shorthand `(vol. N, pp. X–Y)` **always means *Subul al-Hudā***. *al-Iṣābah* pagination must
   always name the book (`*al-Iṣābah*, vol. 3, pp. 460–461, no. 4365`) or it is read — and validated — as
@@ -226,9 +232,21 @@ inconsistency is preserved deliberately: the Prophet's note is `Muḥammad b. ʻ
 diacritics on Abdullah), so it is always linked with a display alias —
 `[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ`.
 
-**Body style.** `# Title (Arabic script)`, then an italic epithet line; numbered `##` sections; Arabic
-quotations in `«…»` inside blockquotes with an English rendering beneath; `> [!NOTE]` callouts for
-provenance and scholarly asides.
+**Writing style — encyclopedic prose.** Write for an educated general reader, in the manner of a good
+Wikipedia article; `Abū Dujānah.md` is the model.
+- `# Title (Arabic script)`, an italic epithet line, then a **lead paragraph** summarising the subject
+  (sourced like everything else), then plain-titled `##` sections (Name, Early life, Badr, Uḥud, Later
+  campaigns, Death…), in chronological order.
+- **Paragraphs, not bullet lists.** Tell the story in connected sentences. Lists and tables only for
+  material that really is a list — rosters, participants, *asbāb al-nuzūl*.
+- **Name people as participants, not as sources.** "al-Zubayr followed him to see what he would do", not
+  "al-Ṣāliḥī reports from Isḥāq b. Rāhawayh and al-Bazzār from al-Zubayr that…". The footnote carries the
+  attribution. Name an authority in the text only when the reader needs it: a weak report ("according to
+  one report", "it is said"), a disagreement ("others credit Thābit b. al-Jidhʿ"), or a verdict ("the
+  better-known view is…"). This changes the wording, never the rule: a *qīla* is still marked as one.
+- **Arabic sparingly**: quote in `«…»` (blockquote, English beneath) for famous or decisive words; otherwise
+  paraphrase in English. Vocalisation notes, chains of transmission and editors' remarks go in footnotes.
+- `> [!NOTE]` callouts only for genuine asides a general reader may skip.
 
 **Honorifics** are Unicode ligatures written bare after the name, as the source text does. Gender and
 number must agree, so this is never a blind find-and-replace:

@@ -514,7 +514,7 @@ def parse_citations(line):
                     break
             start = j
         limit = anchors[k + 1].start() if k + 1 < len(anchors) else len(line)
-        limit = min(limit, tail_start + 200)
+        limit = min(limit, tail_start + 700)   # long enough for an expanded footnote
         # tail stops at an unbalanced ")", a quote, a table pipe, or another work
         depth, end = 0, limit
         for i in range(tail_start, limit):
@@ -820,7 +820,7 @@ class Auditor:
     def audit_note(self, bname):
         note = self.notes[bname]
         out = []
-        lines = note["raw"].split("\n")
+        lines = expand_footnotes(note["raw"])
         in_fm = lines[0].strip() == "---"
         in_refs = False
         pending_quotes = []          # (lineno, quote) waiting for a citation on a following line
@@ -881,7 +881,7 @@ class Auditor:
             # group citations separated only by punctuation into one claim
             groups, cur = [], [cites[0]]
             for c in cites[1:]:
-                if re.fullmatch(r"[\s;,*()\[\]]*", line[cur[-1].end:c.start]):
+                if re.fullmatch(r"[\s;,.*()\[\]]*", line[cur[-1].end:c.start]):
                     cur.append(c)
                 else:
                     groups.append(cur); cur = [c]
@@ -907,6 +907,30 @@ class Auditor:
 #  Source sheets
 # ════════════════════════════════════════════════════════════════════════════
 
+FOOTDEF_RE = re.compile(r"^\[\^([^\]]+)\]:\s?(.*)$")
+FOOTREF_RE = re.compile(r"\[\^([^\]]+)\](?!:)")
+
+
+def expand_footnotes(raw):
+    """Lines of a note with each footnote reference replaced by "(definition)", and the definition
+    lines themselves blanked — so a claim is checked against the pages its footnote cites."""
+    lines = raw.split("\n")
+    defs = {}
+    for l in lines:
+        m = FOOTDEF_RE.match(l)
+        if m:
+            defs[m.group(1)] = m.group(2).strip().replace('"', "'")   # a quote would end the citation span
+    if not defs:
+        return lines
+    out = []
+    for l in lines:
+        if FOOTDEF_RE.match(l):
+            out.append("")
+            continue
+        out.append(FOOTREF_RE.sub(lambda m: f" ({defs[m.group(1)]})" if m.group(1) in defs else m.group(0), l))
+    return out
+
+
 def write_sheet(auditor, bname, findings):
     note = auditor.notes[bname]
     os.makedirs(REVIEW_DIR, exist_ok=True)
@@ -921,7 +945,7 @@ def write_sheet(auditor, bname, findings):
            "Below: the full text of every page the note cites, matn and taḥqīq separated. A flag is a",
            "prompt to look, not a verdict; an unflagged line is not thereby verified.", "",
            "## Claims", ""]
-    for i, line in enumerate(note["raw"].split("\n"), 1):
+    for i, line in enumerate(expand_footnotes(note["raw"]), 1):
         cites = parse_citations(line)
         if not cites and i not in by_line:
             continue
