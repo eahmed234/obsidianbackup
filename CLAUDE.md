@@ -90,22 +90,35 @@ against the books**. Only the user changes it.
 
 ## Sourcing rules (absolute)
 
-The vault relies exclusively upon **two canonical sources**:
-1. ***Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād*** by Imām Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī
-   (d. 942 AH) — narrative, campaign and geographical backbone. Dār al-Kutub al-ʿIlmiyyah, Beirut,
-   1414/1993, 12 vols. (`sources/1693.epub`)
-2. ***al-Iṣābah fī Tamyīz al-Ṣaḥābah*** by al-Ḥāfiẓ Ibn Ḥajar al-ʿAsqalānī (d. 852 AH) — biographies of
-   the Ṣaḥābah. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1415/1995, 8 vols, ed. ʿĀdil ʿAbd al-Mawjūd & ʿAlī
-   Muʿawwaḍ. (`sources/9767.epub`)
+The vault relies exclusively upon **five canonical sources**, each with a defined role:
 
-This is a religious text: **every statement in every note must trace to one of these two books and be
-verifiable on the page cited.** This rule overrides helpfulness, completeness and fluency — an incomplete
+| # | Source | Role | Cited by | File |
+| --- | --- | --- | --- | --- |
+| 1 | ***Ṣaḥīḥ al-Bukhārī*** (d. 256 AH), al-Sulṭāniyyah edition | Highest authority for any report it contains | ḥadīth number | `sources/1681.epub` |
+| 2 | ***Ṣaḥīḥ Muslim*** (d. 261 AH), ed. Muḥammad Fuʾād ʿAbd al-Bāqī | Highest authority for any report it contains | ḥadīth number (the bracketed one) | `sources/1727.epub` |
+| 3 | ***Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād***, Imām al-Ṣāliḥī (d. 942 AH). Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993, 12 vols | The narrative, campaign and geographical backbone | vol:page | `sources/1693.epub` |
+| 4 | ***al-Iṣābah fī Tamyīz al-Ṣaḥābah***, al-Ḥāfiẓ Ibn Ḥajar (d. 852 AH). Dār al-Kutub al-ʿIlmiyyah, Beirut, 1415/1995, 8 vols, ed. ʿĀdil ʿAbd al-Mawjūd & ʿAlī Muʿawwaḍ | Biographies of the Ṣaḥābah | vol:page (and entry no.) | `sources/9767.epub` |
+| 5 | ***al-Bidāyah wa-l-Nihāyah***, Ibn Kathīr (d. 774 AH), ed. ʿAbdullāh b. ʿAbd al-Muḥsin al-Turkī. Dār Hajr, 1417–1419/1997–98, 21 vols | **Only** for what follows the Prophet's ﷺ death — vol. 8, p. 79 onward | vol:page | `sources/4445.epub` |
+
+**Precedence.** Where sources differ, the Ṣaḥīḥayn lead: give their wording and present the other report
+as a variant ("in another report…"). Between *Subul al-Hudā* and *al-Iṣābah*, follow the subject — *Subul*
+for events, *al-Iṣābah* for a Companion's name, lineage and dates — and report a real disagreement as one.
+*al-Bidāyah* is used only where the first four are silent, and only for the period after the Prophet's ﷺ
+death; `audit.py` flags any *al-Bidāyah* citation to a page before 8:79.
+
+**Scope — the prophetic era comes first.** The current priority is the Prophet's ﷺ life and the Ṣaḥābah
+within it. Do not create new notes on the period after his death, and do not expand the existing ones,
+unless the user asks for it. When such a note is rewritten, it is rewritten from these sources and may be
+short.
+
+This is a religious text: **every statement in every note must trace to one of these five books and be
+verifiable on the page or ḥadīth cited.** This rule overrides helpfulness, completeness and fluency — an incomplete
 note that is fully sourced is correct; a rich note carrying unsourced background is defective, however
 accurate that background may be.
 
-**Do not add anything from general knowledge of the sīrah**, however well established. If neither book
-mentions a detail, it does not enter the vault. Where a fact is needed but absent from both, say so
-explicitly ("neither *Subul al-Hudā* nor *al-Iṣābah* gives his death date").
+**Do not add anything from general knowledge of the sīrah**, however well established. If none of the
+books mentions a detail, it does not enter the vault. Where a fact is needed but absent, say so
+explicitly ("the sources do not give his death date").
 
 **Read before writing.** A heading, a chapter title or an index entry establishes only *where* a topic is
 treated, never the content of a claim. Before writing or editing a claim, read the page and write from
@@ -114,7 +127,13 @@ its text:
 ```bash
 python3 audit.py --page S 6:77-78      # Subul al-Hudā, vol. 6, pp. 77–78 (matn, then taḥqīq)
 python3 audit.py --page I 7:99-100     # al-Iṣābah, vol. 7, pp. 99–100
+python3 audit.py --page B 9:414        # al-Bidāyah, vol. 9, p. 414
+python3 audit.py --page K 3039         # Ṣaḥīḥ al-Bukhārī, ḥadīth 3039 (the page(s) it is on)
+python3 audit.py --page M 1779         # Ṣaḥīḥ Muslim, ḥadīth 1779
 ```
+
+For the Ṣaḥīḥayn, find the report from the citation *Subul al-Hudā* gives ("rawāhu al-Bukhārī…") or by
+searching the EPUB text, then confirm its number with `--page` before citing it.
 
 Never cite a page whose text you have not inspected, and read the **whole** page (see failure modes).
 
@@ -133,18 +152,20 @@ Never cite a page whose text you have not inspected, and read the **whole** page
   he quotes — is reported as his verdict. Example: *al-Iṣābah* 7:100 says *wa-qīla innahu mimman shāraka
   fī qatl Musaylimah*; writing "he struck Musaylimah down" turns a weak report into a fact.
 - **Nasab exactly as the book gives it.** Do not extend a lineage beyond what the cited entry states.
-- **Other works appear only through the two books.** When al-Ṣāliḥī or Ibn Ḥajar quotes Ibn Isḥāq,
-  al-Wāqidī, al-Bukhārī, Muslim, al-Ṭabarānī etc., you may name that authority, framed as transmitted and
-  cited to the canonical page — `(Muslim, as cited in *al-Iṣābah*, 7:100)` or "al-Ṣāliḥī reports from
-  Ibn Isḥāq that … (*Subul al-Hudā*, 4:192)". Never cite another work's own pagination or ḥadīth number,
-  and never list another work in a note's References. `audit.py` flags other works cited without
+- **Other works appear only through the five books.** When al-Ṣāliḥī, Ibn Ḥajar or Ibn Kathīr quotes
+  Ibn Isḥāq, al-Wāqidī, Ibn Saʿd, al-Ṭabarī, al-Ṭabarānī, Aḥmad etc., you may name that authority, framed
+  as transmitted and cited to the canonical page — `(al-Ṭabarānī, as cited in *Subul al-Hudā*, 4:192)` or
+  "al-Ṣāliḥī reports from Ibn Isḥāq that … (*Subul al-Hudā*, 4:192)". Never cite another work's own
+  pagination or ḥadīth number, and never list another work in a note's References. (al-Bukhārī and Muslim
+  are now sources in their own right: cite them directly by number.) `audit.py` flags other works cited without
   `as cited in` / `apud` / `quoted by` framing.
 - **Arabic quotations are verbatim** from the cited page (vocalisation may be added). If you are
   paraphrasing, do not use «…».
 
 ### The two tiers, and how to cite them
 
-Both books, in these editions, contain two voices. **Both may be cited; they must be told apart.**
+*Subul al-Hudā* and *al-Iṣābah*, in these editions, each contain two voices (the same holds for
+al-Turkī's apparatus to *al-Bidāyah* and ʿAbd al-Bāqī's notes to Muslim). **Both may be cited; they must be told apart.**
 
 | Source & tier | Whose words | Cite as |
 | --- | --- | --- |
@@ -160,8 +181,9 @@ work titles) live; it is never to be presented as the author's own statement.
 ### Citation format
 
 - **Footnotes** (new and rewritten notes): put `[^key]` after the sentence or clause it supports, and the
-  definitions at the end of the note — `[^s4.192]: *Subul al-Hudā*, 4:192–193.` Keys are `s<vol>.<page>`
-  or `i<vol>.<page>` (add a letter for a second footnote on the same page: `i3.146b`); reuse a key for a
+  definitions at the end of the note — `[^s4.192]: *Subul al-Hudā*, 4:192–193.` Keys are `s<vol>.<page>`,
+  `i<vol>.<page>` or `b<vol>.<page>`, and `bukh<no.>` / `musl<no.>` for the Ṣaḥīḥayn —
+  `[^bukh3039]: *Ṣaḥīḥ al-Bukhārī*, no. 3039.` (add a letter for a second footnote on the same page: `i3.146b`); reuse a key for a
   repeated citation. A definition may add a short note after the citation (which report the wording comes
   from, a variant name), and the definition must cite the page for that note too. `audit.py` expands each
   footnote into its claim before checking it.
@@ -172,7 +194,7 @@ work titles) live; it is never to be presented as the author's own statement.
   always name the book (`*al-Iṣābah*, vol. 3, pp. 460–461, no. 4365`) or it is read — and validated — as
   Subul.
 - Longer notes end with a numbered `## References` list in full bibliographic form, **containing only the
-  two canonical books**.
+  canonical books the note actually cites**.
 - Never invent a volume/page. If you cannot find the page, say so rather than fabricating one.
 
 ### Gregorian dates — exempt
@@ -201,12 +223,13 @@ exemption. Ages, troop counts, casualty figures, distances and Hijrī dates are 
 
 ### Where the books are silent
 
-Some authorities *Subul al-Hudā* cites have no biographical entry in either book (e.g. Mūsā b. ʿUqbah,
-Ibn Kathīr, al-Ṣāliḥī himself). Their notes record only what is attested — that a book cites them, which
-works it names, the verdicts it takes from them — and say plainly that neither book supplies a biography.
-The same holds for events after the Prophet's ﷺ death (the Riddah wars, the conquests, the *fitnah*):
-the books treat many of these only in passing, and a note may be short — or say what is not recorded —
-rather than be filled from elsewhere.
+Some authorities *Subul al-Hudā* cites have no biographical entry in *Subul* or *al-Iṣābah* (e.g. Mūsā
+b. ʿUqbah, Ibn Kathīr, al-Ṣāliḥī himself). Their notes record only what is attested — that a book cites
+them, which works it names, the verdicts it takes from them — and say plainly that the sources supply no
+biography. (*al-Bidāyah*'s obituaries may cover some of them, but they belong to the post-prophetic period
+and wait until that work is taken up.) For the period after the Prophet's ﷺ death, use *al-Bidāyah* where
+the other four are silent; a note may still be short, or say what is not recorded, rather than be filled
+from elsewhere.
 
 ### Biographical enrichment for Ṣaḥābah
 
@@ -279,7 +302,8 @@ python3 audit.py --links | --citations | --no-content | --reindex
 ```
 
 **Structural checks** — the exit code is non-zero if any fails:
-1. *Citation bounds*: every cited vol:page (every page of a list or range) exists in the EPUB.
+1. *Citation bounds*: every cited vol:page (every page of a list or range) and every cited ḥadīth number
+   exists in its EPUB.
 2. *Hub completeness*: every note is linked from `The Sīrah.md`.
 3. *Wrapped links*: no wikilink contains a line break.
 4. *Frontmatter*: required fields present.
@@ -295,8 +319,9 @@ checked against the Arabic of the pages it cites (citations spanning more than 1
 | `phrase` | an italic transliterated Arabic phrase is absent from the pages |
 | `quote` | a «…» quotation is not on the pages (shows % of its words found) |
 | `apparatus` | a term occurs only in the editors' footnotes but is cited as matn |
-| `uncited` | a substantive line with no citation to either book |
+| `uncited` | a substantive line with no citation to any of the five books |
 | `other-work` | another work cited directly, or listed in References |
+| `scope` | *al-Bidāyah* cited for the period before the Prophet's ﷺ death (before vol. 8, p. 79) |
 
 "found at V:P" means the missing item does appear within three pages of the citation.
 

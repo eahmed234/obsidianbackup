@@ -29,7 +29,8 @@ Usage:
   python3 audit.py --content           full findings for every note
   python3 audit.py --report review/_triage.md   write the full triage as Markdown
   python3 audit.py --sheet "Sariyyat al-Ghamr"  write a source sheet for a human verifier
-  python3 audit.py --page S 6:77-78    print cited pages (S = Subul al-Hudā, I = al-Iṣābah)
+  python3 audit.py --page S 6:77-78    print cited pages (S = Subul al-Hudā, I = al-Iṣābah, B = al-Bidāyah)
+  python3 audit.py --page K 3039       print a ḥadīth by number (K = al-Bukhārī, M = Muslim)
   python3 audit.py --links             list every unresolved wikilink
   python3 audit.py --citations         list every out-of-bounds citation
   python3 audit.py --reindex           rebuild the EPUB page index cache
@@ -51,11 +52,27 @@ VAULT_DIR = os.path.dirname(os.path.abspath(__file__))
 SOURCES_DIR = os.path.join(VAULT_DIR, "sources")
 REVIEW_DIR = os.path.join(VAULT_DIR, "review")
 CACHE_FILE = os.path.join(SOURCES_DIR, ".index_cache.json")
-SUBUL_EPUB = os.path.join(SOURCES_DIR, "1693.epub")
-ISABAH_EPUB = os.path.join(SOURCES_DIR, "9767.epub")
 NON_NOTES = {"GEMINI.md", "CLAUDE.md", "README.md", "AGENTS.md"}
 
-BOOK_LABEL = {"S": "Subul al-Hudā", "I": "al-Iṣābah"}
+# The canonical sources (see CLAUDE.md, "Sourcing rules"). kind "page" is cited vol:page;
+# kind "hadith" is cited by ḥadīth number.
+SOURCES = {
+    "S": {"label": "Subul al-Hudā", "file": "1693.epub", "kind": "page", "key": "subul"},
+    "I": {"label": "al-Iṣābah", "file": "9767.epub", "kind": "page", "key": "isabah"},
+    "B": {"label": "al-Bidāyah", "file": "4445.epub", "kind": "page", "key": "bidayah"},
+    "K": {"label": "Ṣaḥīḥ al-Bukhārī", "file": "1681.epub", "kind": "hadith", "key": "bukhari"},
+    "M": {"label": "Ṣaḥīḥ Muslim", "file": "1727.epub", "kind": "hadith", "key": "muslim"},
+}
+BOOK_LABEL = {k: v["label"] for k, v in SOURCES.items()}
+# al-Bidāyah (ed. al-Turkī) is a source only for what follows the Prophet's ﷺ death: vol. 8, p. 79
+# ("events after his death and before his burial") onward. Earlier pages are out of scope.
+BIDAYAH_FROM = (8, 79)
+# Ḥadīth number at the start of a report: al-Bukhārī "٦٨٨٧ - …"; Muslim (ʿAbd al-Bāqī) "١٣٠ - (٧٦) …",
+# where the bracketed number is the standard one.
+HADITH_START = {
+    "K": re.compile(r"^([٠-٩]+)\s*-"),
+    "M": re.compile(r"^(?:[٠-٩]+\s*-\s*)?\(([٠-٩]+)\)"),
+}
 BROAD_RANGE = 12          # a citation spanning more pages than this is not content-checked
 NEAR = 3                  # how far either side of a citation to look for a "found at" hint
 
@@ -73,22 +90,40 @@ def _mtime(p):
         return 0
 
 
-def build_epub_index(epub_path, name):
+def build_epub_index(epub_path, name, book=None):
     if not os.path.isfile(epub_path):
         print(f"Warning: {epub_path} not found. Skipping {name} index.")
         return {}
     print(f"Indexing {name} from {os.path.basename(epub_path)}...")
-    index, vol_max = {}, {}
+    index, vol_max, ordered = {}, {}, []
     with zipfile.ZipFile(epub_path) as z:
         for fname in z.namelist():
             if not fname.startswith("OEBPS/text/"):
                 continue
-            m = PAGE_RE.search(z.read(fname).decode("utf-8", errors="ignore"))
+            data = z.read(fname).decode("utf-8", errors="ignore")
+            m = PAGE_RE.search(data)
             if m:
                 v, p = int(m.group(1)), int(m.group(2))
                 index[f"{v}:{p}"] = fname
                 vol_max[v] = max(vol_max.get(v, 0), p)
-    return {"pages": index, "max_pages": vol_max, "mtime": _mtime(epub_path)}
+                ordered.append((v, p, data))
+    out = {"pages": index, "max_pages": vol_max, "mtime": _mtime(epub_path)}
+    if book in HADITH_START:
+        # ḥadīth number → the pages it occupies (from its first page to the page before the next number)
+        rx, digits = HADITH_START[book], str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
+        hadith, current = {}, None
+        for v, p, data in sorted(ordered, key=lambda x: (x[0], x[1])):
+            key = f"{v}:{p}"
+            if current and key not in hadith[current] and len(hadith[current]) < 6:
+                hadith[current].append(key)
+            for para in re.findall(r"<p(?![^>]*hamesh)[^>]*>(.*?)</p>", data, re.S):
+                t = html.unescape(re.sub(r"<[^>]+>", "", para)).strip()
+                hm = rx.match(t)
+                if hm:
+                    current = str(int(hm.group(1).translate(digits)))
+                    hadith.setdefault(current, [key])
+        out["hadith"] = hadith
+    return out
 
 
 def load_or_build_indices(force=False):
@@ -100,10 +135,11 @@ def load_or_build_indices(force=False):
         except Exception:
             cache = {}
     updated = False
-    for key, path, label in (("subul", SUBUL_EPUB, "Subul al-Hudā"), ("isabah", ISABAH_EPUB, "al-Iṣābah")):
+    for code, src in SOURCES.items():
+        key, path = src["key"], os.path.join(SOURCES_DIR, src["file"])
         c = cache.get(key, {})
         if not (c.get("mtime") == _mtime(path) and c.get("pages")):
-            cache[key] = build_epub_index(path, label)
+            cache[key] = build_epub_index(path, src["label"], code)
             updated = True
     if updated:
         try:
@@ -111,7 +147,15 @@ def load_or_build_indices(force=False):
                 json.dump(cache, f)
         except Exception as e:
             print(f"Warning: could not save index cache: {e}")
-    return cache.get("subul", {}), cache.get("isabah", {})
+    return {code: cache.get(src["key"], {}) for code, src in SOURCES.items()}
+
+
+def make_corpora(indices):
+    corp = {}
+    for code, src in SOURCES.items():
+        corp[code] = Corpus(code, os.path.join(SOURCES_DIR, src["file"]), indices.get(code, {}))
+        HADITH_INDEX[code] = corp[code].hadith
+    return corp
 
 
 class Corpus:
@@ -121,6 +165,7 @@ class Corpus:
         self.book = book
         self.path = epub_path
         self.pages = index.get("pages", {})
+        self.hadith = index.get("hadith", {})
         self._zip = None
         self._raw = {}
         self._norm = {}
@@ -446,9 +491,9 @@ def is_arabicish(tok, name_words):
 #  Citation parsing
 # ════════════════════════════════════════════════════════════════════════════
 
-ANCHOR_RE = re.compile(r"Subul al-Hud[āa]|al-I[ṣs][āa]bah|\(vol\.", re.I)
+ANCHOR_RE = re.compile(r"Subul al-Hud[āa]|al-I[ṣs][āa]bah|al-Bid[āa]yah|Ṣaḥīḥ al-Bukhārī|Ṣaḥīḥ Muslim|\(vol\.", re.I)
 OTHER_WORK_RE = re.compile(
-    r"Qurʾān|Qur'an|\bQ\.\s*\d|Sūra[th]?\b|Ṣaḥīḥ|Sunan|Musnad|Tārīkh|Ṭabaqāt|Bidāyah|Ibn Hishām|Rawḍ al-Unuf|"
+    r"Qurʾān|Qur'an|\bQ\.\s*\d|Sūra[th]?\b|Ṣaḥīḥ(?! al-Bukhārī| Muslim)|Sunan|Musnad|Tārīkh|Ṭabaqāt|Ibn Hishām|Rawḍ al-Unuf|"
     r"Dalāʾil|Mustadrak|Muwaṭṭaʾ|Jāmiʿ|Fatḥ al-Bārī|Usd al-Ghābah|Istīʿāb|ʿUyūn al-Athar|Maghāzī|"
     r"Zād al-Maʿād|Sharḥ|Muṣannaf|Tafsīr")
 _T_VP = re.compile(r"(\d+)\s*:\s*(\d+)(?:\s*[–-]\s*(\d+))?")
@@ -456,21 +501,33 @@ _T_VOL = re.compile(r"\bvol(?:ume)?s?\.?\s*(\d+)\b", re.I)
 _T_PP = re.compile(r"\bpp?\.\s*((?:\d+(?:\s*[–-]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[–-]\s*\d+)?(?!\s*:))*)", re.I)
 _T_NO = re.compile(r"\b(?:entr(?:y|ies)\s*(?:nos?\.?)?|nos?\.?)\s*(\d+)(?:\s*(?:,|and|&)\s*\d+(?!\s*:))*", re.I)
 _T_NOTE = re.compile(r"\bn\.\s*(\d+)|taḥqīq", re.I)
+_T_HADITH = re.compile(r"[\s*,:]*(?:ḥadīth\s+)?(?:nos?\.?\s*)?(\d+(?:\s*(?:,|and|&)\s*\d+)*)", re.I)
 _T_CONT = re.compile(r",\s*(\d+)(?:\s*[–-]\s*(\d+))?(?=\s*(?:[,;)\]|.\"]|$|\(|n\.|\*))")
 
 
+HADITH_INDEX = {}   # book → {ḥadīth number: [vol:page, …]}; filled when the corpora are loaded
+
+
 class Citation:
-    __slots__ = ("book", "refs", "start", "end", "tahqiq", "entries", "text")
+    __slots__ = ("book", "refs", "start", "end", "tahqiq", "entries", "text", "numbers")
 
     def __init__(self, book, start):
         self.book, self.start = book, start
         self.refs = []          # (vol, first, last)
         self.tahqiq = False
         self.entries = []
+        self.numbers = []       # ḥadīth numbers, for the Ṣaḥīḥayn
         self.end = start
         self.text = ""
 
     def pages(self):
+        if self.numbers:
+            out = []
+            for n in self.numbers:
+                for key in HADITH_INDEX.get(self.book, {}).get(str(n), []):
+                    v, p = key.split(":")
+                    out.append((int(v), int(p)))
+            return out
         out = []
         for v, a, b in self.refs:
             if b - a <= BROAD_RANGE:
@@ -481,6 +538,8 @@ class Citation:
         return any(b - a > BROAD_RANGE for _, a, b in self.refs)
 
     def label(self):
+        if self.numbers:
+            return f"{BOOK_LABEL[self.book]} no. " + ", ".join(map(str, self.numbers))
         parts = []
         for v, a, b in self.refs:
             parts.append(f"{v}:{a}" + (f"–{b}" if b != a else ""))
@@ -500,7 +559,8 @@ def parse_citations(line):
         anchors.append(a)
     for k, a in enumerate(anchors):
         s = a.group(0).lower()
-        book = "S" if (s.startswith("subul") or s.startswith("(vol")) else "I"
+        book = ("S" if (s.startswith("subul") or s.startswith("(vol")) else "I" if "bah" in s and "id" not in s[:6]
+                else "B" if "bid" in s else "K" if "bukh" in s else "M")
         start = a.start()
         if s.startswith("(vol"):
             tail_start = a.start() + 1
@@ -535,6 +595,14 @@ def parse_citations(line):
             tail = tail[:ow.start()]
             end = tail_start + ow.start()
         c = Citation(book, start)
+        if SOURCES[book]["kind"] == "hadith":
+            hm = _T_HADITH.match(tail)
+            if hm:
+                c.numbers = [int(x) for x in re.findall(r"\d+", hm.group(1))]
+                c.end = end + (1 if end < len(line) and line[end] == ")" and "(" in line[start:tail_start + 1] else 0)
+                c.text = line[c.start:c.end]
+                cites.append(c)
+            continue
         vol = None
         pos, last_was_page = 0, False
         while pos < len(tail):
@@ -709,8 +777,8 @@ def _term_phrases(text, name_words):
 
 
 class Auditor:
-    def __init__(self, subul_idx, isabah_idx, notes, aliases):
-        self.corp = {"S": Corpus("S", SUBUL_EPUB, subul_idx), "I": Corpus("I", ISABAH_EPUB, isabah_idx)}
+    def __init__(self, indices, notes, aliases):
+        self.corp = make_corpora(indices)
         self.notes = notes
         self.name_words = build_name_words(notes, aliases)
         self._rx_cache = {}
@@ -749,6 +817,10 @@ class Auditor:
             return
         label = "; ".join(c.label() for c in cites)
         tahqiq_cited = any(c.tahqiq for c in cites)
+        for c in cites:
+            if c.book == "B" and any((v, a) < BIDAYAH_FROM for v, a, _ in c.refs):
+                out.append(Finding(note, lineno, "scope", "al-Bidāyah cited for the period before the Prophet's ﷺ "
+                                   "death; use Subul al-Hudā, al-Iṣābah or the Ṣaḥīḥayn there", claim, label))
         # numbers
         page_nums = set().union(*(n["nums"] for *_, n in pool))
         for num in sorted(english_numbers(plain(claim))):
@@ -1000,17 +1072,27 @@ def resolve_note(notes, name):
 
 
 def print_pages(args):
-    subul_idx, isabah_idx = load_or_build_indices(force=args.reindex)
+    corpora = make_corpora(load_or_build_indices(force=args.reindex))
     book = args.page[0].upper()[:1]
-    if book not in ("S", "I"):
-        sys.exit("--page takes S (Subul al-Hudā) or I (al-Iṣābah), then vol:page[-page] …")
-    corp = Corpus(book, SUBUL_EPUB if book == "S" else ISABAH_EPUB, subul_idx if book == "S" else isabah_idx)
+    if book not in SOURCES:
+        sys.exit("--page takes S (Subul al-Hudā), I (al-Iṣābah), B (al-Bidāyah) then vol:page[-page] …, "
+                 "or K (al-Bukhārī) / M (Muslim) then ḥadīth numbers")
+    corp = corpora[book]
     for ref in args.page[1:]:
-        m = re.fullmatch(r"(\d+):(\d+)(?:[-–](\d+))?", ref)
-        if not m:
-            sys.exit(f"Bad page reference {ref!r}; use vol:page or vol:page-page")
-        v, a = int(m.group(1)), int(m.group(2))
-        for p in range(a, int(m.group(3) or a) + 1):
+        if SOURCES[book]["kind"] == "hadith":
+            keys = corp.hadith.get(str(int(ref))) if ref.isdigit() else None
+            if not keys:
+                print(f"══════ {BOOK_LABEL[book]} no. {ref}: not found ══════\n")
+                continue
+            print(f"══════ {BOOK_LABEL[book]} no. {ref} — on {', '.join(keys)} (other reports may share these pages) ══════")
+            pages = [tuple(map(int, k.split(":"))) for k in keys]
+        else:
+            m = re.fullmatch(r"(\d+):(\d+)(?:[-–](\d+))?", ref)
+            if not m:
+                sys.exit(f"Bad page reference {ref!r}; use vol:page or vol:page-page")
+            v, a = int(m.group(1)), int(m.group(2))
+            pages = [(v, p) for p in range(a, int(m.group(3) or a) + 1)]
+        for v, p in pages:
             r = corp.raw(v, p)
             print(f"══════ {BOOK_LABEL[book]} {v}:{p} ══════")
             if r is None:
@@ -1027,9 +1109,9 @@ def run(args):
     if args.page:
         return print_pages(args)
     print("=== Nabiwiki Knowledge Graph & Citation Audit ===\n")
-    subul_idx, isabah_idx = load_or_build_indices(force=args.reindex)
+    indices = load_or_build_indices(force=args.reindex)
     notes, aliases = load_notes()
-    auditor = Auditor(subul_idx, isabah_idx, notes, aliases)
+    auditor = Auditor(indices, notes, aliases)
 
     only = resolve_note(notes, args.note or args.sheet) if (args.note or args.sheet) else None
 
@@ -1054,6 +1136,10 @@ def run(args):
                 unresolved[t.strip()].append(b)
         for ln, line in enumerate(raw.split("\n"), 1):
             for c in parse_citations(line):
+                for hn in c.numbers:
+                    cite_total[c.book] += 1
+                    if str(hn) not in auditor.corp[c.book].hadith:
+                        out_of_bounds.append((b, ln, f"{BOOK_LABEL[c.book]} no. {hn}", c.text.strip()))
                 for v, a, bb in c.refs:
                     cite_total[c.book] += 1
                     for p in sorted({a, bb}):
@@ -1082,20 +1168,21 @@ def run(args):
     kinds = Counter(f.kind for fs in findings.values() for f in fs)
 
     # ── report ───────────────────────────────────────────────────────────
-    print(f"Content notes: {len(notes)}   Subul pages indexed: {len(auditor.corp['S'].pages)}   "
-          f"al-Iṣābah pages indexed: {len(auditor.corp['I'].pages)}\n")
+    print(f"Content notes: {len(notes)}   sources: " + ", ".join(
+        f"{BOOK_LABEL[k]} ({len(c.hadith) or len(c.pages)} {'ḥadīths' if c.hadith else 'pages'})"
+        for k, c in auditor.corp.items()) + "\n")
     print("-" * 64)
     print("STRUCTURE")
     print(f"  Hub completeness       {'PASS' if not hub_orphans else f'FAIL ({len(hub_orphans)} orphans)'}")
     print(f"  Wrapped links          {'PASS' if not multiline else f'FAIL ({len(multiline)})'}")
-    print(f"  Citation bounds        Subul refs {cite_total['S']}, al-Iṣābah refs {cite_total['I']}, "
-          f"out of bounds {len(out_of_bounds)}")
+    print(f"  Citation bounds        " + ", ".join(f"{BOOK_LABEL[k]} {cite_total[k]}" for k in SOURCES)
+          + f" refs; out of bounds {len(out_of_bounds)}")
     print(f"  Wikilinks              {total_links} total, {len(unresolved)} unresolved targets (by design)")
     print(f"  Frontmatter            missing FM {len(missing_fm)}, missing fields {len(missing_fields)}, "
           f"missing primary_source {len(missing_ps)}")
     if findings:
         print("CONTENT TRIAGE  (prompts for a human reader, not verdicts)")
-        for k in ("number", "term", "phrase", "quote", "apparatus", "uncited", "other-work"):
+        for k in ("number", "term", "phrase", "quote", "apparatus", "uncited", "other-work", "scope"):
             print(f"  {k:<11} {kinds.get(k, 0)}")
         hinted = sum(1 for fs in findings.values() for f in fs if f.hint.startswith("found at"))
         print(f"  …of which the missing item occurs within {NEAR} pages of the citation: {hinted}")
