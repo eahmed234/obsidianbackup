@@ -42,7 +42,7 @@ Abū Quḥāfah was the patriarch of the clan of **Banū Taym b. Murrah** of Qur
 ## 2. During the Makkan Era & The Hijrah
 Throughout the Makkan period, Abū Quḥāfah remained an adherent of ancestral tradition, grieving that his foremost son Abū Bakr had devoted his life, fortune, and prestige to the Messenger of Allāh ﷺ (*al-Iṣābah*, 4:374).
 
-When the Prophet ﷺ and Abū Bakr emigrated secretly during the **[[Hijrah]]** to Medina (1 AH), Abū Bakr took with him his remaining savings (five or six thousand dirhams) to support the nascent Islamic mission. Abū Quḥāfah—who had lost his sight (*kaffa baṣaruh*) due to advanced age—visited the house of Abū Bakr and lamented to his granddaughter Asmāʾ: *"By Allāh, I fear he has distressed you with his departure and stripped you of all his wealth!"* Asmāʾ reassured him by placing smooth stones into a wall niche where money was kept, covering them with a cloth, and having her blind grandfather touch them, which brought comfort to his heart (*Subul al-Hudā*, 3:242).
+When the Prophet ﷺ and Abū Bakr emigrated secretly during the **[[al-Hijrah ilā al-Madīnah|Hijrah]]** to Medina (1 AH), Abū Bakr took with him his remaining savings (five or six thousand dirhams) to support the nascent Islamic mission. Abū Quḥāfah—who had lost his sight (*kaffa baṣaruh*) due to advanced age—visited the house of Abū Bakr and lamented to his granddaughter Asmāʾ: *"By Allāh, I fear he has distressed you with his departure and stripped you of all his wealth!"* Asmāʾ reassured him by placing smooth stones into a wall niche where money was kept, covering them with a cloth, and having her blind grandfather touch them, which brought comfort to his heart (*Subul al-Hudā*, 3:242).
 
 ---
 

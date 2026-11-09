@@ -4,7 +4,6 @@ arabic: بناء المسجد النبوي الشريف
 aliases:
   - Construction of the Prophet's Mosque
   - Building of the Mosque
-  - The Prophet's Mosque
 type: event
 tags:
   - event

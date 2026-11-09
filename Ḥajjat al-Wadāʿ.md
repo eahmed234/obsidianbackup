@@ -3,7 +3,7 @@ title: Ḥajjat al-Wadāʿ
 arabic: حجة الوداع وخطبة البلاغ
 aliases:
   - The Farewell Pilgrimage
-  - Khutbat al-Wada
+  - Khutbat al-Wadāʿ
   - Hajjat al-Balagh
 type: event
 tags:
@@ -24,7 +24,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 8, pp. 450–485)"
 *The Farewell Pilgrimage — The Universal Manifesto of Human Dignity, Ritual Establishment, and the Completion of Islam*
 
 ## 1. Strategic and Spiritual Context
-In late Dhū al-Qaʿdah 10 AH, the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ announced his intention to perform the major pilgrimage (*al-Ḥajj*). Since the Hijrah, he had performed four ʿUmrahs—[[Ṣulḥ al-Ḥudaybiyah|ʿUmrat al-Ḥudaybiyah]] (prevented), [[ʿUmrat al-Qaḍāʾ]] (7 AH), [[Ghazwat Ḥunayn|ʿUmrat al-Jiʿrānah]] (8 AH), and the ʿUmrah combined with this Hajj (*Subul al-Hudā*, 8:445–446)—but had not undertaken the complete obligatory pilgrimage since the triumph over paganism and the dispatch of [[Abū Bakr al-Ṣiddīq|Abū Bakr]] ﵁ and [[ʿAlī b. Abī Ṭālib|ʿAlī]] ﵁ in 9 AH to purge the sanctuary of idolatrous rites (*Subul al-Hudā*, 8:442–443).
+In late Dhū al-Qaʿdah 10 AH, the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ announced his intention to perform the major pilgrimage (*al-Ḥajj*). Since the Hijrah, he had performed four ʿUmrahs—[[Ṣulḥ al-Ḥudaybiyah|ʿUmrat al-Ḥudaybiyah]] (prevented), [[ʿUmrat al-Qaḍāʾ]] (7 AH), [[ʿUmrat al-Jiʿrānah]] (8 AH), and the ʿUmrah combined with this Hajj (*Subul al-Hudā*, 8:445–446)—but had not undertaken the complete obligatory pilgrimage since the triumph over paganism and the dispatch of [[Abū Bakr al-Ṣiddīq|Abū Bakr]] ﵁ and [[ʿAlī b. Abī Ṭālib|ʿAlī]] ﵁ in 9 AH to purge the sanctuary of idolatrous rites (*Subul al-Hudā*, 8:442–443).
 
 Hearing the call, over 100,000 Muslims assembled from every corner of the Arabian Peninsula to accompany the Messenger of Allāh ﷺ and witness the practical demonstration of divine law (*«خُذُوا عَنِّي مَنَاسِكَكُمْ»* — *"Take from me your rituals"*, *Subul al-Hudā*, 8:481).
 

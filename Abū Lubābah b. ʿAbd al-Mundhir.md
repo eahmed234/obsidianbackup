@@ -36,7 +36,7 @@ At the conquest of Makkah, Abū Lubābah carried the tribal standard of Banū ʿ
 ## 3. Banū Qurayẓah and the Pillar of Repentance (5 AH)
 During the siege of **[[Ghazwat Banī Qurayẓah]]**, the besieged Jewish clan—long-standing pre-Islamic confederates of al-Aws—pleaded with the Prophet ﷺ to send Abū Lubābah to consult them (*Subul al-Hudā*, 5:8; *al-Iṣābah*, 7:290). When he entered their fortresses, their women and children wept before him. They asked: *"O Abū Lubābah, shall we submit to the judgment of Muḥammad?"* He replied: *"Yes,"* but pointed to his throat, indicating that unconditional surrender would mean execution (*Subul al-Hudā*, 5:8).
 
-Immediately realizing that he had betrayed the trust of Allāh and His Messenger, Abū Lubābah did not return to the Prophet ﷺ. Instead, he went straight to the **[[Bināʾ al-Masjid al-Nabawī|Prophet's Mosque]]** in Medina, tied himself securely to one of the mosque's pillars (*Isṭiwānat al-Tawbah*), and vowed:
+Immediately realizing that he had betrayed the trust of Allāh and His Messenger, Abū Lubābah did not return to the Prophet ﷺ. Instead, he went straight to the **[[al-Masjid al-Nabawī|Prophet's Mosque]]** in Medina, tied himself securely to one of the mosque's pillars (*Isṭiwānat al-Tawbah*), and vowed:
 > *"By Allāh, I shall not depart from this spot, nor taste food or drink, until Allāh forgives me, and none shall untie me save the Messenger of Allāh ﷺ with his own hand!"* (*Subul al-Hudā*, 5:8–24).
 
 He remained bound there for several days until his repentance was revealed to the Prophet ﷺ in the early morning at the dwelling of **[[Umm Salamah]]** ﵂ (*Subul al-Hudā*, 5:8). The Prophet ﷺ came personally to the mosque and untied him with his own blessed hands (*Subul al-Hudā*, 5:8).

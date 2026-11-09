@@ -27,7 +27,7 @@ Before his conversion, Thumāmah was a formidable adversary of the emerging Musl
 
 ## 2. Capture & Miraculous Transformation in Medina
 
-In al-Muḥarram 6 AH, a Muslim cavalry detachment operating in Najd under [[Muḥammad b. Maslamah]] ﵁ apprehended Thumāmah while he was traveling toward the Ḥijāz intending ʿUmrah, unaware of his status (*Subul al-Hudā*, 6:71). They brought him to Medina and secured him to one of the central pillars of [[Bināʾ al-Masjid al-Nabawī|the Prophetic Mosque]] (*Subul al-Hudā*, 6:71; *al-Iṣābah*, 1:525).
+In al-Muḥarram 6 AH, a Muslim cavalry detachment operating in Najd under [[Muḥammad b. Maslamah]] ﵁ apprehended Thumāmah while he was traveling toward the Ḥijāz intending ʿUmrah, unaware of his status (*Subul al-Hudā*, 6:71). They brought him to Medina and secured him to one of the central pillars of [[al-Masjid al-Nabawī|the Prophetic Mosque]] (*Subul al-Hudā*, 6:71; *al-Iṣābah*, 1:525).
 
 When the Prophet ﷺ observed him bound, he ordered his Companions to treat his captivity with nobility and commanded that food and milk from his own milch-camel (*liqḥah*) be brought to him daily (*Subul al-Hudā*, 6:71). Over three days, the Prophet ﷺ approached him, offering him Islam or ransom, to which Thumāmah famously replied:
 > «عندي خير يا محمد، إن تقتل تقتل ذا دم، وإن تنعم تنعم على شاكر، وإن ترد الفداء فسل منه ما شئت»

@@ -57,7 +57,7 @@ Among ʿUthmān's paramount religious achievements was the unification of the Mu
 ---
 
 ## 4. Expansion of al-Masjid al-Nabawī & Civic Works
-- In 29 AH, ʿUthmān undertook the monumental expansion of **[[Bināʾ al-Masjid al-Nabawī|al-Masjid al-Nabawī]]**, widening its perimeter, constructing walls of carved stone and mortar, erecting pillars of decorated stone reinforced with iron and lead, and roofing the sanctum with Indian teak wood (*sāj*).
+- In 29 AH, ʿUthmān undertook the monumental expansion of **[[al-Masjid al-Nabawī]]**, widening its perimeter, constructing walls of carved stone and mortar, erecting pillars of decorated stone reinforced with iron and lead, and roofing the sanctum with Indian teak wood (*sāj*).
 - He maintained generous stipends, instituted a special financial allowance for newly born infants (such as granting fifty dirhams to an infant and raising it to one hundred after one year) (*Subul al-Hudā*, 11:285), and emancipated an enslaved person every Friday (*Subul al-Hudā*, 11:285).
 
 ---

@@ -86,7 +86,7 @@ During the caliphate of **[[ʿUmar b. al-Khaṭṭāb]]** ﵁, al-Ḥārith b. H
   > *"Had I sought to trade your homeland for another homeland, I would never have accepted a replacement for you; but rather, this is the migration unto Allāh!"* (*al-Iṣābah*, 1:698).
 - **Jihād & Martyrdom**: He remained an active mujāhid in Bilād al-Shām until Allāh sealed his life with the highest honor (*al-Iṣābah*, 1:698):
   - Al-Wāqidī and scholars of Sīrah recorded that he died during the catastrophic Plague of ʿAmwās (**[[Ṭāʿūn ʿAmwās]]**) (*al-Iṣābah*, 1:698).
-  - Al-Madāʾinī and Ibn Saʿd (via Ḥabīb b. Abī Thābit) transmitted that he attained martyrdom on the battlefield of Yarmūk (**[[Battle of Yarmūk]]**) (*al-Iṣābah*, 1:698).
+  - Al-Madāʾinī and Ibn Saʿd (via Ḥabīb b. Abī Thābit) transmitted that he attained martyrdom on the battlefield of Yarmūk (**[[Ghazwat al-Yarmūk|Battle of Yarmūk]]**) (*al-Iṣābah*, 1:698).
 
 ---
 

@@ -25,7 +25,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 11, p. 129; vol. 12, pp. 3
 His full genealogy is recorded by Ibn Ḥajar as:
 **Qutham b. al-ʿAbbās b. ʿAbd al-Muṭṭalib b. Hāshim al-Qurashī al-Hāshimī** (*al-Iṣābah*, 5:320, no. 7096).
 
-He was the first cousin of the Messenger of Allāh ﷺ, born to **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib|al-ʿAbbās]]** ﵁ and **[[Umm al-Faḍl Lubābah|Umm al-Faḍl Lubābah al-Kubrā]]** ﵂, and the full brother of **[[ʿAbdullāh b. ʿAbbās]]** ﵄ and **[[al-Faḍl b. al-ʿAbbās]]**. He bore an extraordinary physical resemblance to the Prophet ﷺ (*al-Iṣābah*, 5:320). When Fāṭimah al-Zahrāʾ ﵂ gave birth to **[[al-Ḥasan b. ʿAlī]]**, Umm al-Faḍl fostered and nursed al-Ḥasan alongside her infant son Qutham, making them foster-brothers through suckling (*al-Iṣābah*, 5:320).
+He was the first cousin of the Messenger of Allāh ﷺ, born to **[[al-ʿAbbās b. ʿAbd al-Muṭṭalib|al-ʿAbbās]]** ﵁ and **[[Umm al-Faḍl|Umm al-Faḍl Lubābah al-Kubrā]]** ﵂, and the full brother of **[[ʿAbdullāh b. ʿAbbās]]** ﵄ and **[[al-Faḍl b. al-ʿAbbās]]**. He bore an extraordinary physical resemblance to the Prophet ﷺ (*al-Iṣābah*, 5:320). When Fāṭimah al-Zahrāʾ ﵂ gave birth to **[[al-Ḥasan b. ʿAlī]]**, Umm al-Faḍl fostered and nursed al-Ḥasan alongside her infant son Qutham, making them foster-brothers through suckling (*al-Iṣābah*, 5:320).
 
 In *Ṣaḥīḥ al-Bukhārī*, ʿAbdullāh b. Jaʿfar ﵄ related:
 > «لو رأيتني وقثم بن العباس وعبيد الله بن العباس نلعب، إذ مرّ النبيّ ﷺ على دابته فقال: ارفعوا هذا إليّ، فحملني أمامه، ثم قال لقثم: ارفعوا هذا إليّ، فحمله وراءه»

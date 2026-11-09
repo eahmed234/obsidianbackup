@@ -108,7 +108,7 @@ Saʿd displayed extraordinary generosity:
 > «بَارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، لَا حَاجَةَ لِي فِي ذَلِكَ، دُلُّونِي عَلَى السُّوقِ!»
 > *"May Allāh bless you in your family and your wealth! I have no need of that; simply direct me to the marketplace!"*
 
-He went to the **[[Sūq Banū Qaynuqāʿ|Market of Banū Qaynuqāʿ]]**, traded in dried curds (*aqiṭ*) and clarified butter (*samn*), and returned by evening with a profit. Within a short time, he accumulated sufficient wealth to marry an Anṣārī woman for a dowry of a gold weight (*nawāt min dhahab*). The Prophet ﷺ invoked blessings upon him:
+He went to the **market of [[Banū Qaynuqāʿ]]**, traded in dried curds (*aqiṭ*) and clarified butter (*samn*), and returned by evening with a profit. Within a short time, he accumulated sufficient wealth to marry an Anṣārī woman for a dowry of a gold weight (*nawāt min dhahab*). The Prophet ﷺ invoked blessings upon him:
 > «أَوْلِمْ وَلَوْ بِشَاةٍ، بَارَكَ اللَّهُ لَكَ فِي مَالِكَ»
 > *"Host a wedding banquet, even if with a single sheep. May Allāh bless you in your wealth!"* (*Ṣaḥīḥ al-Bukhārī*, no. 2048; *Subul al-Hudā*, 3:365).
 

@@ -19,7 +19,7 @@ birth: Makkah
 death: After the year 15 AH (Medina)
 clan: Banū Makhzūm
 tribe: Quraysh
-spouses: "[[ʿIkrimah b. Abī Jahl]] ﵁, [[Khālid b. Saʿīd]] b. al-ʿĀṣ ﵁, [[ʿUmar b. al-Khaṭṭāb]] ﵁"
+spouses: "[[ʿIkrimah b. Abī Jahl]] ﵁, [[Khālid b. Saʿīd b. al-ʿĀṣ]] ﵁, [[ʿUmar b. al-Khaṭṭāb]] ﵁"
 father: "[[al-Ḥārith b. Hishām]] ﵁"
 role: Emissary of Pardon at Fatḥ Makkah & Heroine of Marj al-Ṣuffar
 primary_source: "*al-Iṣābah*, 8:379–380 (entry 11984); *Subul al-Hudā*, 5:252–253, 294–295"

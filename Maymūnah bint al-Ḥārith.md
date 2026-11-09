@@ -33,7 +33,7 @@ primary_source: "*al-Iṣābah*, 8:322–324 (no. 11783); *Subul al-Hudā*, 11:2
 - **Original Name**: Her birth name was Barrah (برّة); the Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ changed her name to **Maymūnah** (*Subul al-Hudā*, 11:207).
 - **Maternal Lineage**: Her mother was Hind bint ʿAwf b. Zuhayr b. al-Ḥārith al-Jarashiyyah, famously celebrated across Arabia as "the noblest mother-in-law on earth" (*akram ʿajūz fī al-arḍ aṣhārā*) due to her prestigious sons-in-law (*Subul al-Hudā*, 11:207).
 - **Sisters (Full & Maternal)**:
-  - Full sister: [[Umm al-Faḍl Lubābah al-Kubrā]], wife of [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] and mother of [[ʿAbdullāh b. ʿAbbās]] (*Subul al-Hudā*, 11:207).
+  - Full sister: [[Umm al-Faḍl|Umm al-Faḍl Lubābah al-Kubrā]], wife of [[al-ʿAbbās b. ʿAbd al-Muṭṭalib]] and mother of [[ʿAbdullāh b. ʿAbbās]] (*Subul al-Hudā*, 11:207).
   - Full sister: Lubābah al-Ṣughrā, wife of al-Walīd b. al-Mughīrah and mother of [[Khālid b. al-Walīd]] (*Subul al-Hudā*, 11:207).
   - Maternal sister: [[Asmāʾ bint ʿUmays]], who wed sequentially [[Jaʿfar b. Abī Ṭālib]], [[Abū Bakr al-Ṣiddīq]], and [[ʿAlī b. Abī Ṭālib]] (*Subul al-Hudā*, 11:207).
   - Maternal sister: Salmā bint ʿUmays, wife of [[Ḥamzah b. ʿAbd al-Muṭṭalib]] (*Subul al-Hudā*, 11:207).
