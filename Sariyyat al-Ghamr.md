@@ -1,6 +1,9 @@
 ---
 title: "Sariyyat al-Ghamr"
 arabic: "سرية الغمر"
+aliases:
+  - Sariyyat ʿUkkāshah b. Miḥṣan ilā al-Ghamr
+  - Sariyyat Ghamr Marzūq
 type: event
 tags:
   - event
@@ -10,68 +13,70 @@ tags:
   - unverified
 date_hijri: "Rabīʿ al-Awwal 6 AH"
 leader: "[[ʿUkkāshah b. Miḥṣan]] ﵁"
-adversaries:
-  - "Banū Asad b. Khuzaymah"
+location: "Ghamr Marzūq, a water of [[Banū Asad]]"
 strength_muslim: 40 men
-casualties_enemy: 0
-casualties_muslim: 0
-booty: "200 camels"
-location: "Ghamr Marzūq (watering place of Banū Asad)"
-primary_source: "*Subul al-Hudā*, 6:77–78"
+casualties_muslim: none
+booty: 200 camels
+primary_source: "*Subul al-Hudā*, 6:77–78 (and 4:11 for the identification of al-Wāqidī)"
 ---
 
 # Sariyyat al-Ghamr (سرية الغمر)
-*The forty-man swift desert strike against Banū Asad at Ghamr Marzūq under the command of ʿUkkāshah b. Miḥṣan*
+*The expedition of ʿUkkāshah b. Miḥṣan with forty men to Ghamr Marzūq, a water of Banū Asad*
 
-## 1. Strategic Context & Deployment
-
-In Rabīʿ al-Awwal of the year 6 AH, following the Confederate coalition of [[Ghazwat al-Khandaq]], the Prophet ﷺ continued his aggressive preemptive deployments to neutralize the nomadic confederates of Quraysh (*Subul al-Hudā*, 6:77). Among the fiercest of these confederates were the clans of **Banū Asad b. Khuzaymah**, who had marched under Ṭulayḥah b. Khuwaylid during the siege of Medina (*Subul al-Hudā*, 6:77).
-
-The Prophet ﷺ dispatched a mobile force of **40 men** under the command of **[[ʿUkkāshah b. Miḥṣan]]** ﵁ (*Subul al-Hudā*, 6:77). Accompanying him were seasoned veterans including:
-- **[[Thābit b. Aqram]]** ﵁ (noted by Ibn ʿĀʾidh as a commanding officer, *Subul al-Hudā*, 6:77)
-- **Shujāʿ b. Wahb** ﵁
-- **Yazīd b. Ruqaysh** ﵁
-- **Laqīṭ b. ʿAṣr** (or Laqīṭ b. Aʿṣam) ﵁, confederate of Banū Balī (*Subul al-Hudā*, 6:77)
-
-Their objective was **Ghamr Marzūq** (*al-Ghamr*), a vital desert watering hole belonging to Banū Asad (*Subul al-Hudā*, 6:77).
-
-## 2. The Rapid March & Reconnaissance
-
-ʿUkkāshah marched his men rapidly, urging their mounts at maximum speed (*yaghuddu al-sayr*) (*Subul al-Hudā*, 6:77). However, desert lookouts warned Banū Asad of the approaching force (*nudhira al-qawmu bihim*), prompting them to evacuate their pasture grounds and scatter into the rugged heights of their territory (*ʿalyā bilādihim*) (*Subul al-Hudā*, 6:77).
-
-When ʿUkkāshah arrived at Ghamr Marzūq, he found the encampment deserted (*al-dāra khulūfan*) (*Subul al-Hudā*, 6:77). He immediately dispatched **Shujāʿ b. Wahb** ﵁ at the head of a forward reconnaissance patrol (*ṭalīʿah*) to scout the surrounding terrain and locate enemy tracks (*Subul al-Hudā*, 6:77). Shujāʿ returned reporting fresh camel tracks in the near vicinity (*Subul al-Hudā*, 6:77).
-
-## 3. Capture of the Scout & Interception of the Herds
-
-Advancing along the trail, the Muslim detachment captured a scout (*rabīʾah*) belonging to Banū Asad who had fallen asleep after keeping watch through the night (*Subul al-Hudā*, 6:77). When questioned regarding the location of his people, the scout replied that they had fled deep into the upper ranges with their main flocks (*Subul al-Hudā*, 6:77). 
-
-Seeking protection, the scout made a covenant:
-> «أتؤمنوني على دمي وأطلعكم على نعم لبني عمّ له لم يعلموا بمسيركم إليهم؟»
-> *"Will you grant me security for my blood if I lead you to pasturing camels belonging to a cousin of his who knows nothing of your approach?"* (*Subul al-Hudā*, 6:77).
-
-They granted him quarter, and he guided the detachment across the desert until they reached a prominent rocky hillock (*ẓurayb*) (*Subul al-Hudā*, 6:77). Peering over the crest, the Muslims found pasturing herds of grazing camels (*niʿam rawātiʿ*) whose owners had received no warning (*Subul al-Hudā*, 6:77).
-
-Launching an immediate raid, the Muslims secured the herds, while the Bedouin herdsmen scattered across the desert in every direction (*Subul al-Hudā*, 6:77). Following the established prophetic military code, ʿUkkāshah strictly forbade pursuing the fleeing nomads (*wa-nahā ʿUkkāshah ʿan al-ṭalab*) (*Subul al-Hudā*, 6:77).
-
-## 4. Return to Medina & Fulfillment of Safe Conduct
-
-The company rounded up **200 camels** (*miʾatay baʿīr*) and drove them south toward Medina (*Subul al-Hudā*, 6:77). True to their word, ʿUkkāshah released the captured scout unharmed without violating his safe conduct (*wa-arsalū al-rajul*) (*Subul al-Hudā*, 6:77). 
-
-The expedition returned safely to the Prophet ﷺ in Medina without suffering a single casualty or encountering any counter-attack (*lam yuṣab minhum aḥadun wa-lam yalqaw kaydā*) (*Subul al-Hudā*, 6:77).
-
-> [!NOTE]
-> Imām al-Ṣāliḥī clarifies that the claim made by some chroniclers that [[Thābit b. Aqram]] ﵁ was martyred during this expedition is baseless (*laysa bi-shayʾ*), as Thābit survived all the Prophet's campaigns and was martyred alongside ʿUkkāshah during [[Ḥurūb al-Riddah]] (*Subul al-Hudā*, 6:77).
+> [!NOTE] Source
+> al-Ṣāliḥī treats this expedition in a single short chapter, *al-Bāb al-Thāmin ʿAshar fī Sariyyat ʿUkkāshah b. Miḥṣan* (*Subul al-Hudā*, 6:77–78): the narrative on 6:77, then his *tanbīhāt* and a glossary of its rare words running onto 6:78. Everything below is from those two pages and the editors' notes on them.
 
 ---
 
-## 5. Strategic Significance
+## 1. Date, Command and Composition
 
-1. **Denial of Safe Sanctuaries**: Dispatched so soon after the Trench, the expedition demonstrated that distance and desert expanses could not shield hostile tribes of Najd from rapid, preemptive Islamic mobile columns (*Subul al-Hudā*, 6:77).
-2. **Inviolability of Amān**: ʿUkkāshah's release of the enemy scout after he guided them exemplified the sanctity of the Muslim pledge of security (*amān*), even in deep hostile territory (*Subul al-Hudā*, 6:77).
-3. **Economic Deterrence**: Depriving Banū Asad of 200 war and transport camels severely degraded their logistics and hastened their eventual submission (*Subul al-Hudā*, 6:77).
+al-Ṣāliḥī dates the expedition to Rabīʿ al-Awwal of the year 6, and names its objective as Ghamr Marzūq, «ماء لبني أسد» — a water belonging to [[Banū Asad]] (*Subul al-Hudā*, 6:77). He narrates it from Muḥammad b. ʿUmar — [[al-Wāqidī]], whom al-Ṣāliḥī names in full as Abū ʿAbdillāh Muḥammad b. ʿUmar b. Wāqid al-Aslamī al-Wāqidī (*Subul al-Hudā*, 4:11) — from al-Qāsim b. Muḥammad:
+> «بعث رسول اللَّه صلى الله عليه وآله وسلم عكاشة بن محصن في أربعين رجلًا»
+> *The Messenger of Allāh ﷺ sent **[[ʿUkkāshah b. Miḥṣan]]** with forty men* (*Subul al-Hudā*, 6:77).
+
+Among them, al-Ṣāliḥī names (*Subul al-Hudā*, 6:77):
+- **[[Thābit b. Aqram]]** ﵁ — and Ibn ʿĀʾidh states that *he* was the commander;
+- **Shujāʿ b. Wahb** ﵁;
+- **Yazīd b. Ruqaysh** ﵁;
+- and, as an addition of Ibn ʿĀʾidh, **Laqīṭ b. Aʿṣam**, «حليف بني عمرو بن عروة، ثم من بني معاوية بن مالك بن بليّ» — an ally of Banū ʿAmr b. ʿUrwah [so printed], and by descent of Banū Muʿāwiyah b. Mālik of Baliyy (*Subul al-Hudā*, 6:77).
+
+On the name of the last, al-Ṣāliḥī comments that it is given thus in *al-ʿUyūn* from Ibn ʿĀʾidh, but that he found no one in the books on the Companions called Laqīṭ whose father was Aʿṣam; what he found was **Laqīṭ b. ʿAṣr** (*Subul al-Hudā*, 6:78).
+
+## 2. The March
+
+ʿUkkāshah set out quickly, pressing the pace (*yughiddu al-sayr*). The people were warned of their coming (*nadhira al-qawmu bihim*), fled from their herds, and withdrew to the heights of their country. The Muslims reached the water and found the place empty of its people (*fa-wajada al-dāra khulūfan*) (*Subul al-Hudā*, 6:77).
+
+ʿUkkāshah sent Shujāʿ b. Wahb ahead as a scout (*ṭalīʿah*) to seek news or find tracks; Shujāʿ came back and reported that he had seen the tracks of livestock nearby (*Subul al-Hudā*, 6:77).
+
+## 3. The Captured Lookout
+
+Moving on, they came upon one of the tribe's lookouts (*rabīʾah*), who had kept watch through the night listening for sound and was asleep when they took him in the morning. Asked about the people, he said they had gone to the heights of their country; asked about the livestock, he said it was with them. One of the Muslims struck him with a whip he was holding, and he said (*Subul al-Hudā*, 6:77):
+> «أتؤمنوني على دمي وأطلعكم على نعم لبني عمّ له لم يعلموا بمسيركم إليهم»
+> *"Will you guarantee my life, and I will lead you to livestock belonging to cousins of his who do not know you are marching on them?"* (*Subul al-Hudā*, 6:77)
+
+They agreed and gave him safe-conduct. He led them so far that they feared treachery and swore they would strike off his head unless he told them the truth; he answered that they would look down upon the herds from "this *ẓarīb*", a low rocky rise. They came close and found livestock grazing at will (*niʿam rawātiʿ*) (*Subul al-Hudā*, 6:77).
+
+## 4. The Raid and the Return
+
+> «فأغاروا عليها وأصابوها وهربت الأعراب في كل وجه، ونهى عكّاشة عن الطلب. واستاقوا مائتي بعير»
+
+They raided the herds and took them; the Bedouin fled in every direction, and ʿUkkāshah forbade pursuit. They drove off **two hundred camels**, brought them down to Medina, and let the man go. They came back to the Messenger of Allāh ﷺ «ولم يصب منهم أحد ولم يلقوا كيدا» — none of them harmed, and having met no fighting (*kayd*, which al-Ṣāliḥī glosses as *ḥarb*) (*Subul al-Hudā*, 6:77–78).
+
+## 5. al-Ṣāliḥī's Notes (*tanbīhāt*)
+
+1. **Thābit b. Aqram was not killed here.** «قول من قال أن ثابت بن أقرم أصيب فيها ليس بشيء فإنه استشهد أيام الرّدّة» — the claim that Thābit b. Aqram was killed on this expedition is worthless (*laysa bi-shayʾ*); he was martyred in the days of the Riddah (*Subul al-Hudā*, 6:77). See [[Ḥurūb al-Riddah]].
+2. **Shujāʿ, not "Sibāʿ".** In Abū al-Fatḥ's copy of al-Ḥākim's *al-Iklīl* the scout appears as "Sibāʿ b. Wahb"; the copies have Shujāʿ b. Wahb, and there is no Sibāʿ b. Wahb among the Companions (*Subul al-Hudā*, 6:77–78).
+3. **Vocalisation and rare words.** al-Ṣāliḥī gives ʿUkkāshah with *ḍamm* on the *ʿayn* and a doubled *kāf* that may also be lightened; al-Ghamr with *fatḥ* on the *ghayn* and *sukūn* on the *mīm*; Marzūq "in the form of a passive participle"; and glosses *yughiddu* (hastens), *nadhira bihi al-qawm* (they learned of him), *ʿulyā* (the highest part), *khulūf* (absent), *ṭalīʿah*, *rabīʾah*, *ẓarīb* (a projecting rock, or a small or low hill), *rawātiʿ* (beasts grazing as they please), and *kayd* (fighting) (*Subul al-Hudā*, 6:78).
+
+## 6. The Editors' Apparatus (*taḥqīq*)
+
+The 1414/1993 editors add (these are their words, not al-Ṣāliḥī's):
+- On the place: it appears in another form as **Ghamrah**; citing *Marāṣid al-Iṭṭilāʿ*, a watering-place on the Makkah road marking the boundary between Tihāmah and Najd (*Subul al-Hudā*, 6:77 n. 1 (taḥqīq)).
+- On **Thābit b. Aqram**: Thābit b. Aqram b. Thaʿlabah b. ʿAdī b. al-ʿAjlān al-Balawī, an ally of the Anṣār; Mūsā b. ʿUqbah counts him among the people of Badr; at Muʾtah, Ibn Isḥāq reports, he took the banner after Ibn Rawāḥah was killed and passed it to Khālid b. al-Walīd — citing *al-Iṣābah* (*Subul al-Hudā*, 6:77 n. 2 (taḥqīq)).
+- On **Shujāʿ b. Wahb** al-Asadī: Ibn Isḥāq counts him among the first Muslims, the emigrants to Abyssinia and the people of Badr; Ibn Abī Ḥātim says he was martyred at al-Yamāmah — citing *al-Iṣābah* (*Subul al-Hudā*, 6:77 n. 3 (taḥqīq)).
 
 ---
 
 ## References
 
-1. al-Ṣāliḥī, Muḥammad b. Yūsuf. *Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād*. Edited by ʿĀdil ʿAbd al-Mawjūd and ʿAlī Muʿawwaḍ. 12 vols. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993. Vol. 6, pp. 77–78.
+1. al-Ṣāliḥī, Muḥammad b. Yūsuf. *Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād*. Edited by ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. 12 vols. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993. Vol. 6, pp. 77–78; vol. 4, p. 11.

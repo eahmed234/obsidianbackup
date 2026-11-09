@@ -85,5 +85,5 @@ He passed away in Medina on Monday night, 22 Jumādā al-Ākhirah 13 AH, at the 
 ---
 
 ## 5. References
-1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, pp. 144–150, entry no. 4835 (*ʿAbdullāh b. ʿUthmān Abū Bakr al-Ṣiddīq*); vol. 7, pp. 433–440, entry no. 9636.
+1. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 4, pp. 144–150, entry no. 4835 (*ʿAbdullāh b. ʿUthmān Abū Bakr al-Ṣiddīq*); vol. 7, p. 38, entry no. 9636.
 2. *[[Subul al-Hudā war-Rashād]]*, vol. 2, p. 308; vol. 3, pp. 235–245; vol. 4, p. 38; vol. 5, pp. 445, 495; vol. 11, pp. 251–263.

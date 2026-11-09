@@ -125,7 +125,7 @@ Seeing the deadlock, the peerless warrior **[[al-Barāʾ b. Mālik]]** ﵁ (brot
 
 His companions placed him upon a shield, raised him upon the points of their spears, and hurled him over the high battlements into the midst of thousands of enemy combatants (*al-Iṣābah*, 1:414). Single-handedly, al-Barāʾ fought through the enemy ranks, sustaining over eighty wounds from swords and arrows, reached the inner gate, threw it open, and enabled the Muslim army to flood inside (*al-Iṣābah*, 1:414).
 
-Within that enclosure—forever commemorated as **Ḥadīqat al-Mawt** (*The Garden of Death*)—the final battle was waged (*al-Iṣābah*, 1:414). **[[Waḥshī b. Ḥarb]]** ﵁ hurled his famous javelin at Musaylimah, striking him through his torso, and **Abū Dujānah** ﵁ (or ʿAbdullāh b. Zayd) struck him down with his sword, putting an end to the arch-impostor (*al-Iṣābah*, 1:414; 3:364).
+Within that enclosure—forever commemorated as **Ḥadīqat al-Mawt** (*The Garden of Death*)—the final battle was waged (*al-Iṣābah*, 1:414). **[[Waḥshī b. Ḥarb]]** ﵁ relates that he threw his javelin and it struck Musaylimah while a man of the Anṣār struck him with the sword, «فربّك أعلم أيّنا قتله» — *"your Lord knows best which of us killed him"* (*Subul al-Hudā*, 4:217). al-Ṣāliḥī records disagreement over that Anṣārī: ʿAbdullāh b. Zayd b. ʿĀṣim al-Māzinī — the better-known view, according to al-Ḥāfiẓ — and *it is said* ʿAdī b. Sahl, **[[Abū Dujānah]]** ﵁, or [[Zayd b. al-Khaṭṭāb]] (*Subul al-Hudā*, 4:218).
 
 ---
 

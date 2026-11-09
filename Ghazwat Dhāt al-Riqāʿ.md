@@ -123,8 +123,8 @@ A Companion captured a fledgling bird from its nest (*Subul al-Hudā*, 5:179). S
 ## 9. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 5, pp. 175–188 (al-Bāb al-Khāmis wal-ʿIshrūn fī Ghazwat Dhāt al-Riqāʿ).
 2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*:
-   - Biography of ʿAbbād b. Bishr (vol. 3, pp. 496–497, entry no. 4473).
-   - Biography of Abū Mūsā al-Ashʿarī (vol. 4, pp. 181–183, entry no. 4916).
-   - Biography of Jābir b. ʿAbdillāh (vol. 1, pp. 546–548, entry no. 1028).
+   - Biography of ʿAbbād b. Bishr (*al-Iṣābah*, vol. 3, pp. 496–497, entry no. 4473).
+   - Biography of Abū Mūsā al-Ashʿarī (*al-Iṣābah*, vol. 4, pp. 181–183, entry no. 4916).
+   - Biography of Jābir b. ʿAbdillāh (*al-Iṣābah*, vol. 1, pp. 546–547, entry no. 1028).
 3. *Ṣaḥīḥ al-Bukhārī*, Kitāb al-Maghāzī, Bāb Ghazwat Dhāt al-Riqāʿ.
 4. *Ṣaḥīḥ Muslim*, Kitāb Ṣalāt al-Musāfirīn wa-Qaṣrihā, Bāb Ṣalāt al-Khawf.

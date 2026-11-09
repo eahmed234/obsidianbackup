@@ -78,6 +78,6 @@ The renowned poet of Islam **[[Kaʿb b. Mālik]]** ﵁ commemorated the panic of
 ## 7. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 5, pp. 30–33 (al-Bāb al-Ḥādī wal-ʿIshrūn fī Ghazwat Banī Liḥyān).
 2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*:
-   - Biography of ʿĀṣim b. Thābit (vol. 3, pp. 460–461, entry no. 4365).
-   - Biography of Khubayb b. ʿAdī (vol. 2, pp. 225–227, entry no. 2227).
+   - Biography of ʿĀṣim b. Thābit (*al-Iṣābah*, vol. 3, pp. 460–461, entry no. 4365).
+   - Biography of Khubayb b. ʿAdī (*al-Iṣābah*, vol. 2, pp. 225–227, entry no. 2227).
 3. *Ṣaḥīḥ al-Bukhārī*, Kitāb al-Maghāzī, Bāb Ghazwat al-Rajīʿ.

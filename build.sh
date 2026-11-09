@@ -3,6 +3,10 @@ set -e
 
 echo "=== Starting Quartz Build Pipeline for nabiwiki ==="
 
+# 0. Refuse to build if citations, links or the hub are broken (see audit.py)
+echo "Auditing citations, links and hub..."
+python3 audit.py --no-content
+
 # 1. Ensure Quartz engine exists
 if [ ! -d ".quartz" ]; then
   echo "Cloning Quartz engine..."
@@ -37,7 +41,10 @@ fi
 echo "Building static site..."
 npm run quartz -- build -d .. -o ../public
 
-# 5. Ensure root index.html is populated from the canonical hub (The Sīrah)
+# 6. Mark every page whose note is still tagged `unverified` (see site_notice.py)
+python3 ../site_notice.py ../public
+
+# 7. Ensure root index.html is populated from the canonical hub (The Sīrah)
 echo "Ensuring root index.html..."
 python3 -c '
 import os, shutil

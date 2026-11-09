@@ -20,4 +20,6 @@ Both files use standard Shamela XHTML page files in `OEBPS/text/`:
 - **Taḥqīq (Footnotes / Apparatus)**: `<p class="hamesh">...</p>`.
 - **Volume / Page Indicator**: `<p class="text-center">الجزء: X - الصفحة: Y</p>`.
 
-These files are queried directly by `audit.py` for verification of volume and page citations across the knowledge graph.
+These files are read directly by `audit.py`: it checks that every cited volume:page exists, compares each
+claim in a note against the Arabic text of the pages it cites (numbers, transliterated names, «…» quotations),
+and prints pages on demand — `python3 audit.py --page S 6:77-78` (S = Subul al-Hudā, I = al-Iṣābah).

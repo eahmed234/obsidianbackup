@@ -47,7 +47,7 @@ Among them was Musaylimah b. Ḥabīb al-Kadhdhāb (the Liar) ☠. When the dele
 Upon returning to al-Yamāmah, Musaylimah apostatized, claimed partnership in prophethood, fabricated mock verses, and dispatched envoys to the Prophet ﷺ claiming joint jurisdiction over the earth (*Subul al-Hudā*, 6:326–327).
 
 ### Aftermath in the Caliphate
-Following the death of the Prophet ﷺ, Banū Ḥanīfah rallied in large numbers around Musaylimah during the Wars of Apostasy (**[[Ḥurūb al-Riddah]]**). The Caliph **[[Abū Bakr al-Ṣiddīq]]** ﵁ dispatched the Muslim army under **[[Khālid b. al-Walīd]]** ﵁ to al-Yamāmah, where in the catastrophic clash at the Garden of Death (*Ḥadīqat al-Mawt*), Musaylimah was slain by **[[Waḥshī b. Ḥarb]]** ﵁ and Abū Dujānah ﵁, and the surviving remnant of Banū Ḥanīfah returned to Islam (*Subul al-Hudā*, 6:327).
+Following the death of the Prophet ﷺ, Banū Ḥanīfah rallied in large numbers around Musaylimah during the Wars of Apostasy (**[[Ḥurūb al-Riddah]]**). The Caliph **[[Abū Bakr al-Ṣiddīq]]** ﵁ dispatched the Muslim army under **[[Khālid b. al-Walīd]]** ﵁ to al-Yamāmah, where in the catastrophic clash at the Garden of Death (*Ḥadīqat al-Mawt*), Musaylimah was slain — **[[Waḥshī b. Ḥarb]]** ﵁ relating that his javelin struck him while a man of the Anṣār struck him with the sword, whose identity is disputed (*Subul al-Hudā*, 4:217–218) — and the surviving remnant of Banū Ḥanīfah returned to Islam (*Subul al-Hudā*, 6:327).
 
 ## 3. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 6, pp. 71–72.

@@ -19,7 +19,9 @@ configuration:
     - CLAUDE.md
     - README.md
     - sources
+    - review
     - audit.py
+    - site_notice.py
     - build.sh
     - patch-quartz.mjs
     - custom.scss
