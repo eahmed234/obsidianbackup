@@ -3,7 +3,8 @@
 site_notice.py — post-build step for nabiwiki (run by build.sh after Quartz).
 
 Adds a visible notice to every published page whose note is tagged `unverified`, i.e. every entry
-the editor has not yet checked against Subul al-Hudā and al-Iṣābah. The notes themselves are not
+the editor has not yet checked against the books it cites. The start page and the hub get a site-wide
+version of the notice. The notes themselves are not
 touched: the notice is injected into the built HTML in public/, so it disappears from a page as soon
 as the note's tag is changed to `verified` and the site is rebuilt.
 
@@ -18,14 +19,14 @@ MARK = 'data-nabiwiki-notice="unverified"'
 
 ENTRY_TITLE = "Unverified entry"
 ENTRY_TEXT = (
-    "This entry has not yet been checked against its two sources, <em>Subul al-Hudā war-Rashād</em> "
-    "and <em>al-Iṣābah fī Tamyīz al-Ṣaḥābah</em>. Its contents and citations may contain errors; "
+    "The editor has not yet checked this entry against the books it cites. "
+    "Its contents and citations may contain errors; "
     "consult the cited pages before relying on it."
 )
 HUB_TITLE = "Work in progress"
 HUB_TEXT = (
-    "Entries on nabiwiki are being checked one by one against <em>Subul al-Hudā war-Rashād</em> "
-    "and <em>al-Iṣābah fī Tamyīz al-Ṣaḥābah</em>. Pages marked “Unverified entry” have not yet been "
+    "Entries on nabiwiki are being checked one by one against the books they cite. "
+    "Pages marked “Unverified entry” have not yet been "
     "checked; consult the cited pages before relying on them."
 )
 
@@ -45,7 +46,7 @@ def callout(title, text):
 
 def is_hub(fname):
     base = os.path.basename(fname).lower()
-    return base in ("index.html",) or (base.startswith("the-s") and base.endswith("rah.html"))
+    return base in ("index.html", "start-here.html") or (base.startswith("the-s") and base.endswith("rah.html"))
 
 
 def main(public):

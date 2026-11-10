@@ -27,6 +27,7 @@ sys.path.insert(0, HERE)
 from audit import load_notes  # noqa: E402  (frontmatter parser and alias map shared with the audit)
 
 HUB = "The Sīrah"
+HOME = "Start Here"          # the short start page; build.sh copies it to index.html
 CHRONO_HEADING = "Chronological Master Index"
 MARK = "data-sirah-nav"
 
@@ -162,7 +163,11 @@ def sidebar_html(sections, linker, current_slug, depth):
     hub_slug = linker.slug(HUB)
     if hub_slug:
         cls = " sn-active" if hub_slug == current_slug else ""
-        parts.append(f'<a class="sn-hub{cls}" href="{linker.href(hub_slug, depth)}">The Sīrah — index</a>')
+        parts.append(f'<a class="sn-hub{cls}" href="{linker.href(hub_slug, depth)}">Full index</a>')
+    home_slug = linker.slug(HOME)
+    if home_slug:
+        cls = " sn-active" if home_slug == current_slug else ""
+        parts.insert(1, f'<a class="sn-hub{cls}" href="{linker.href(home_slug, depth)}">Start here</a>')
     for sec in sections:
         slugs_in = {linker.slug(t) for sub in sec["subs"] for t, _ in sub["entries"]}
         open_ = " open" if current_slug in slugs_in else ""

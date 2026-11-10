@@ -59,21 +59,21 @@ python3 ../site_nav.py ../public
 # names; fails the build if a query listed under "expect" in site_search.json no longer matches (see site_search.py)
 python3 ../site_search.py ../public
 
-# 7. Ensure root index.html is populated from the canonical hub (The Sīrah)
+# 7. The homepage is the short start page (Start Here.md); the hub (The Sīrah) stays at /the-sirah.
+#    If the start page is missing, fall back to the hub so the site always has a homepage.
 echo "Ensuring root index.html..."
 python3 -c '
-import os, shutil
+import os, shutil, sys
 
-found = False
-for f in os.listdir("../public"):
-    if f.startswith("the-s") and f.endswith("rah.html"):
-        shutil.copyfile(os.path.join("../public", f), "../public/index.html")
-        print(f"Mapped {f} -> ../public/index.html")
-        found = True
-        break
-
-if not found:
-    print("Warning: could not find the-sirah.html among:", os.listdir("../public"))
+pub = "../public"
+src = "start-here.html"
+if not os.path.exists(os.path.join(pub, src)):
+    src = next((f for f in os.listdir(pub) if f.startswith("the-s") and f.endswith("rah.html")), None)
+    print("Warning: start-here.html not found; using the hub as the homepage.")
+if not src:
+    sys.exit("No start page and no hub page in public/ - refusing to deploy a site without a homepage.")
+shutil.copyfile(os.path.join(pub, src), os.path.join(pub, "index.html"))
+print(f"Mapped {src} -> index.html")
 '
 
 echo "=== Build Completed Successfully! Output in public/ ==="

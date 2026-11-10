@@ -103,3 +103,37 @@ blockquote {
   .sn-seq-label { color: var(--gray); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem; }
   .sn-next { text-align: right; }
 }
+
+/* ───────────────────────── Start page (Start Here.md → index.html) ───────────────────────── */
+/* Short lists become rows of large tap targets; the page's own date, reading time and tags are hidden. */
+body[data-slug="start-here"] {
+  /* Quartz's own title ("Start Here"), date, reading time, tags and backlinks add nothing on the homepage */
+  .article-title, .content-meta, ul.tags, .breadcrumb-container, .backlinks { display: none; }
+  article ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.6rem 0 1.4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 0.5rem;
+  }
+  article ul > li {
+    margin: 0;
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background: var(--light);
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding-right: 0.6rem;
+  }
+  article ul > li > a.internal {
+    flex: 1 1 auto;
+    display: block;
+    padding: 0.7rem 0.2rem 0.7rem 0.9rem;
+    background: none;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+  article ul > li:hover { border-color: var(--secondary); }
+}

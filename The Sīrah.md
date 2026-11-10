@@ -12,6 +12,8 @@ tags:
 # The Noble Sīrah (السيرة النبوية الشريفة)
 *Master Knowledge Graph & Scholarly Portal of the Prophetic Life*
 
+*New here? Begin at **[[Start Here]]** — the Prophet ﷺ, the main events, the Ten and the Mothers of the Believers on one short page.*
+
 Welcome to the comprehensive Seerah Wiki in English, designed from an orthodox Sunni scholarly perspective. The architecture utilizes a dense network of bidirectional hyperlinks connecting historical **events**, **biographies**, **Qurʾānic revelations** (*asbāb al-nuzūl*), and **ḥadīth transmissions**.
 
 All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kulli ḥāl*, *ʿAlī b. Abī Ṭālib*, *al-Ghazwah*) and cite primary Arabic authorities, spearheaded by the comprehensive encyclopedia ***[[Subul al-Hudā war-Rashād|Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād]]*** by [[al-Ṣāliḥī|Imām Muḥammad b. Yūsuf al-Ṣāliḥī al-Shāmī]] (d. 942 AH).

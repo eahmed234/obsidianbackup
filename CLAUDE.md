@@ -16,7 +16,8 @@ Layout (repository root):
 | Path | What it is |
 | --- | --- |
 | `*.md` | The notes — **flat in the root, no folders** (~470 as of Nov 2026). `CLAUDE.md`/`GEMINI.md` are not notes. |
-| `The Sīrah.md` | The hub (`type: index`) — the only navigational entry point |
+| `The Sīrah.md` | The hub (`type: index`) — the full index; every note must be linked from it |
+| `Start Here.md` | The homepage (`type: index`): a short start page — the Prophet ﷺ, sixteen main events, the Ten, the Mothers of the Believers — linking on to the hub |
 | `sources/1693.epub` | *Subul al-Hudā war-Rashād* — the corpus, tracked in git |
 | `sources/9767.epub` | *al-Iṣābah fī Tamyīz al-Ṣaḥābah* — the corpus, tracked in git |
 | `audit.py` | Integrity checks and source-verification triage (see **Audit tooling**) |
@@ -47,8 +48,8 @@ also gates a Netlify-side build, which uses the same script). It then fetches Qu
 into ASCII URL slugs — without it the CDN produces redirect loops and 404s — and makes search fold
 diacritics; see **Search and names**), builds into `public/`, and
 runs `site_notice.py` over `public/` (every page whose note is tagged `unverified` gets a warning callout
-under its tags; the homepage gets a site-wide version), then runs `site_nav.py` and `site_search.py` over `public/`, and copies `the-sirah.html` to `index.html` so the hub
-is the homepage; then `netlify-cli` deploys `public/`. The notice lives only in the built HTML — notes are
+under its tags; the homepage gets a site-wide version), then runs `site_nav.py` and `site_search.py` over `public/`, and copies `start-here.html` to `index.html`, so the short start page
+is the homepage and the hub stays at `/the-sirah`; then `netlify-cli` deploys `public/`. The notice lives only in the built HTML — notes are
 never edited for it — so it disappears from a page as soon as the user marks the note `verified`.
 **Site navigation is driven by the hub and frontmatter** (`site_nav.py`; Quartz's Explorer and
 Properties plugins are disabled in its favour). The left sidebar mirrors `The Sīrah.md` — its `##`
@@ -62,6 +63,13 @@ Anything that must not be published goes in `ignorePatterns` in `quartz.config.y
 `review`, `audit.py`, the agent docs, …).
 
 ## Architecture of the knowledge graph
+
+**The start page.** `Start Here.md` is the site's homepage, for a reader who arrives knowing nothing of the
+vault: a few sentences on what the site is, then short lists of links. It makes **no claims of its own** —
+links carry a plain English name ("The Battle of Badr") and nothing else, no dates, epithets or
+descriptions — and its lists follow the hub (the Ten and the Mothers of the Believers are the hub's own
+sections). Keep it to one or two phone screens per section; anything longer belongs in the hub.
+`custom.scss` styles its lists as tap targets (`body[data-slug="start-here"]`).
 
 **The hub.** `The Sīrah.md` holds the chronological master index of events (Makkan era → early Madinan →
 major *ghazawāt* → culmination & departure → the era of the Rightly Guided Caliphs), plus registers for
