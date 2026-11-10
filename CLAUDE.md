@@ -337,7 +337,10 @@ which touches a note:
   rule-made English forms (*Ghazwat/Sariyyat X* → "Expedition of X", *Sūrat* → "Surah", *Jabal* → "Mount",
   *Banū* → "Bani / Tribe of") and common spellings of the title (ibn/bin, Zaid, Saad, Waleed). It drops
   tag pages and `.base` files from the index, orders notes by inbound links, writes a redirect for every
-  extra name, and settles shared names (below). It then checks every query under `expect` and exits
+  extra name, and settles shared names (below). It also deletes the redirect Quartz writes at a note's
+  unfolded name when that differs from the page only in letter case (`Badr.html` → `badr`,
+  `Start-Here.html` → `start-here`): Netlify ignores case, so such a redirect answers for the page itself
+  and the browser loops for ever. (Every note whose title is plain ASCII was affected until Nov 2026.) It then checks every query under `expect` and exits
   non-zero — failing the build — if one no longer matches its note.
 - **`site_search.json`** is the only hand-kept part: `extra` (note → names a reader may type), `primary`
   (shared name → the one note its URL opens), `ambiguous` (shared names that become a disambiguation
