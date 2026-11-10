@@ -110,7 +110,7 @@ For thirty to forty consecutive mornings in the dawn prayer (*Ṣalāt al-Fajr*)
 
 Regarding the martyrs of Biʾr Maʿūnah, Allāh revealed a verse of the Qurʾān that was recited by the early community until its recitation (*tilāwah*) was abrogated while its spiritual reality remained enduring:
 > «بَلِّغُوا عَنَّا قَوْمَنَا أَنَّا قَدْ لَقِينَا رَبَّنَا، فَرَضِيَ عَنَّا وَأَرْضَانَا»
-> *"Convey from us to our people that we have met our Lord, and He is well pleased with us and has granted us satisfaction."* (*Subul al-Hudā*, 6:61, 6:65; *Ṣaḥīḥ al-Bukhārī*, no. 4092).
+> *"Convey from us to our people that we have met our Lord, and He is well pleased with us and has granted us satisfaction."* (*Subul al-Hudā*, 6:61, 6:65; *Ṣaḥīḥ al-Bukhārī*, no. 4091).
 
 ## 7. References
 1. *[[Subul al-Hudā war-Rashād]]*, vol. 6, pp. 57–66 (The Sixteenth Chapter: The Expedition of al-Mundhir b. ʿAmr to Biʾr Maʿūnah, the Slaying of ʿĀmir b. Fuhayrah, the List of Martyrs, and Legal Exegesis).

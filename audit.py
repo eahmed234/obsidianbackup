@@ -90,6 +90,14 @@ def _mtime(p):
         return 0
 
 
+INDEX_FORMAT = 3   # bump to force a rebuild of .index_cache.json when the index layout changes
+
+
+def _file_order(fname):
+    """Sort key putting Shamela's page_<part>_<seq>.xhtml files in reading order."""
+    return [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", fname)]
+
+
 def build_epub_index(epub_path, name, book=None):
     if not os.path.isfile(epub_path):
         print(f"Warning: {epub_path} not found. Skipping {name} index.")
@@ -97,17 +105,18 @@ def build_epub_index(epub_path, name, book=None):
     print(f"Indexing {name} from {os.path.basename(epub_path)}...")
     index, vol_max, ordered = {}, {}, []
     with zipfile.ZipFile(epub_path) as z:
-        for fname in z.namelist():
-            if not fname.startswith("OEBPS/text/"):
-                continue
+        # Shamela often splits one printed page over several files (in the Ṣaḥīḥayn, roughly one per
+        # report or heading), each carrying the same page marker. Keep every file, in reading order.
+        names = sorted((n for n in z.namelist() if n.startswith("OEBPS/text/")), key=_file_order)
+        for fname in names:
             data = z.read(fname).decode("utf-8", errors="ignore")
             m = PAGE_RE.search(data)
             if m:
                 v, p = int(m.group(1)), int(m.group(2))
-                index[f"{v}:{p}"] = fname
+                index.setdefault(f"{v}:{p}", []).append(fname)
                 vol_max[v] = max(vol_max.get(v, 0), p)
                 ordered.append((v, p, data))
-    out = {"pages": index, "max_pages": vol_max, "mtime": _mtime(epub_path)}
+    out = {"pages": index, "max_pages": vol_max, "mtime": _mtime(epub_path), "format": INDEX_FORMAT}
     if book in HADITH_START:
         # ḥadīth number → the pages it occupies (from its first page to the page before the next number)
         rx, digits = HADITH_START[book], str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
@@ -121,7 +130,9 @@ def build_epub_index(epub_path, name, book=None):
                 hm = rx.match(t)
                 if hm:
                     current = str(int(hm.group(1).translate(digits)))
-                    hadith.setdefault(current, [key])
+                    pages = hadith.setdefault(current, [key])
+                    if key not in pages:              # a sub-report of the same number further on (Muslim)
+                        pages.append(key)
         out["hadith"] = hadith
     return out
 
@@ -138,7 +149,7 @@ def load_or_build_indices(force=False):
     for code, src in SOURCES.items():
         key, path = src["key"], os.path.join(SOURCES_DIR, src["file"])
         c = cache.get(key, {})
-        if not (c.get("mtime") == _mtime(path) and c.get("pages")):
+        if not (c.get("mtime") == _mtime(path) and c.get("pages") and c.get("format") == INDEX_FORMAT):
             cache[key] = build_epub_index(path, src["label"], code)
             updated = True
     if updated:
@@ -178,13 +189,15 @@ class Corpus:
         key = f"{vol}:{page}"
         if key in self._raw:
             return self._raw[key]
-        fname = self.pages.get(key)
-        if not fname:
+        fnames = self.pages.get(key)
+        if not fnames:
             self._raw[key] = None
             return None
+        if isinstance(fnames, str):
+            fnames = [fnames]
         if self._zip is None:
             self._zip = zipfile.ZipFile(self.path)
-        data = self._zip.read(fname).decode("utf-8", errors="ignore")
+        data = "\n".join(self._zip.read(f).decode("utf-8", errors="ignore") for f in fnames)
         matn, tahqiq = [], []
         for m in re.finditer(r"<(p|h\d)([^>]*)>(.*?)</\1>", data, re.S):
             txt = html.unescape(re.sub(r"<[^>]+>", " ", m.group(3)))
@@ -1071,6 +1084,45 @@ def resolve_note(notes, name):
     sys.exit(f"No unique note matches {name!r}." + (f" Candidates: {hits[:8] or close}" if hits or close else ""))
 
 
+_AR_DIGITS = str.maketrans("0123456789", "٠١٢٣٤٥٦٧٨٩")
+_REPORT_START = {
+    "K": lambda n: re.compile(r"(?:^|\n)\s*" + n + r"\s*-"),
+    "M": lambda n: re.compile(r"(?:^|\n|\s)(?:[٠-٩]+\s*-\s*)?(?:م-?\s*)?\(" + n + r"\)"),
+}
+_NEXT_REPORT = {
+    "K": re.compile(r"\n\s*([٠-٩]+)\s*-"),
+    "M": re.compile(r"(?:^|\n|\s)[٠-٩]+\s*-\s*(?:م-?\s*)?\(([٠-٩]+)\)"),
+}
+
+
+def extract_report(book, number, text):
+    """The text of one ḥadīth cut out of the pages it is on — for Muslim, every sub-report carrying the
+    same bracketed number, joined with "…" where other reports come between them — or None."""
+    n = str(number).translate(_AR_DIGITS)
+    segments, pos = [], 0
+    start_re = _REPORT_START[book](n)
+    while True:
+        m = start_re.search(text, pos)
+        if not m:
+            break
+        rest = text[m.start():].lstrip("\n")
+        end = len(rest)
+        for nx in _NEXT_REPORT[book].finditer(rest, 1):
+            if nx.group(1) != n:
+                end = nx.start()
+                break
+        seg = rest[:end]
+        lines = seg.rstrip().split("\n")
+        while len(lines) > 1 and re.match(r"\s*(?:[٠-٩]+\s*-\s*)?(?:باب|كتاب)",
+                                          re.sub(r"[\u064B-\u0652\u0670]", "", lines[-1])):
+            lines.pop()                               # a chapter heading belonging to the next report
+        segments.append("\n".join(lines).strip())
+        pos = m.start() + len(text[m.start():]) - len(rest) + max(end, 1)
+        if book == "K":
+            break
+    return "\n…\n".join(segments) if segments else None
+
+
 def print_pages(args):
     corpora = make_corpora(load_or_build_indices(force=args.reindex))
     book = args.page[0].upper()[:1]
@@ -1084,8 +1136,14 @@ def print_pages(args):
             if not keys:
                 print(f"══════ {BOOK_LABEL[book]} no. {ref}: not found ══════\n")
                 continue
-            print(f"══════ {BOOK_LABEL[book]} no. {ref} — on {', '.join(keys)} (other reports may share these pages) ══════")
             pages = [tuple(map(int, k.split(":"))) for k in keys]
+            text = "\n".join((corp.raw(v, p) or ("", ""))[0] for v, p in pages)
+            report = extract_report(book, int(ref), text)
+            if report and not args.whole_pages:
+                print(f"══════ {BOOK_LABEL[book]} no. {ref} — {', '.join(keys)} ══════")
+                print(report + "\n")
+                continue
+            print(f"══════ {BOOK_LABEL[book]} no. {ref} — on {', '.join(keys)} (other reports may share these pages) ══════")
         else:
             m = re.fullmatch(r"(\d+):(\d+)(?:[-–](\d+))?", ref)
             if not m:
@@ -1267,5 +1325,7 @@ if __name__ == "__main__":
     ap.add_argument("--no-content", action="store_true", help="structural checks only (fast)")
     ap.add_argument("--report", metavar="PATH", help="write the full content triage as Markdown")
     ap.add_argument("--sheet", metavar="NAME", help="write review/<NAME>.sheet.md for a human verifier")
-    ap.add_argument("--page", nargs="+", metavar="REF", help="print pages: S|I vol:page[-page] … (e.g. S 6:77-78)")
+    ap.add_argument("--page", nargs="+", metavar="REF", help="print pages: S|I|B vol:page[-page] … (e.g. S 6:77-78), "
+                    "or K|M ḥadīth numbers (prints the report itself)")
+    ap.add_argument("--whole-pages", action="store_true", help="with --page K|M, print the whole pages, not just the report")
     sys.exit(run(ap.parse_args()))

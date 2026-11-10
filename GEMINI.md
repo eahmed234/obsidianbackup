@@ -137,12 +137,15 @@ its text:
 python3 audit.py --page S 6:77-78      # Subul al-Hudā, vol. 6, pp. 77–78 (matn, then taḥqīq)
 python3 audit.py --page I 7:99-100     # al-Iṣābah, vol. 7, pp. 99–100
 python3 audit.py --page B 9:414        # al-Bidāyah, vol. 9, p. 414
-python3 audit.py --page K 3039         # Ṣaḥīḥ al-Bukhārī, ḥadīth 3039 (the page(s) it is on)
-python3 audit.py --page M 1779         # Ṣaḥīḥ Muslim, ḥadīth 1779
+python3 audit.py --page K 3039         # Ṣaḥīḥ al-Bukhārī, ḥadīth 3039 — prints the report itself
+python3 audit.py --page M 1779         # Ṣaḥīḥ Muslim, ḥadīth 1779 — every sub-report with that number
+python3 audit.py --page K 3039 --whole-pages   # the whole page(s) the report is on
 ```
 
 For the Ṣaḥīḥayn, find the report from the citation *Subul al-Hudā* gives ("rawāhu al-Bukhārī…") or by
-searching the EPUB text, then confirm its number with `--page` before citing it.
+searching the EPUB text, then confirm its number with `--page` before citing it. Read the whole report:
+the wording you quote must be in the report you cite, not in a neighbouring one or a variant elsewhere
+(Bukhārī often has a shorter and a longer version of the same report under different numbers).
 
 Never cite a page whose text you have not inspected, and read the **whole** page (see failure modes).
 
@@ -227,6 +230,15 @@ exemption. Ages, troop counts, casualty figures, distances and Hijrī dates are 
   section's glossary. `6:94` opens with a lexical *tanbīh* on weights and zakāt and then carries the whole
   Dūmat al-Jandal expedition. Judging it by its first lines produced a wrong "correction" that had to be
   reverted.
+- **The Ṣaḥīḥayn index was blind until Nov 2026.** Shamela splits each printed page of the Ṣaḥīḥayn
+  over several files, and `audit.py` used to keep only the last file per page — 86% of al-Bukhārī and 71%
+  of Muslim were unreadable, and `--page K|M` showed a neighbouring report. A re-check of every
+  Ṣaḥīḥayn citation then found wording attached to the wrong number (e.g. no. 1327 for words that are in
+  3877, 4092 for 4091). If a report "isn't in the EPUB", suspect the tool before the book.
+- **Known misprints in the Muslim EPUB.** Sub-reports 260–261 (the opening of the Prophet's ﷺ chest in
+  childhood) are printed «(١٦١)» but belong to no. 162; the highest number, «(٤٥٧٥)», is also a misprint.
+  The editors' introduction to *Subul al-Hudā* (vol. 1, before p. 3) carries no page markers in the EPUB,
+  so it cannot be checked by `--page`.
 - **A corrected claim can survive elsewhere.** "Christian Arab confederation of Banū Kalb" was removed
   from `Banū Kalb` but still stood in `ʿAbd al-Raḥmān b. ʿAwf`. After fixing a claim, grep the vault.
 

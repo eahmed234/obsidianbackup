@@ -44,7 +44,7 @@ Al-Najāshī embraced Islam at the hands of Jaʿfar, testifying to the Messenger
 ## 4. Demise & Funeral Prayer in Absentia
 The Negus passed away in Aksum in Rajab 9 AH. On the very day he died, the Messenger of Allāh ﷺ in Medina received divine tidings and informed his companions:
 > «قَدْ مَاتَ الْيَوْمَ رَجُلٌ صَالِحٌ، فَقُومُوا فَصَلُّوا عَلَى أَخِيكُمْ أَصْحَمَةَ»
-> *"Today a righteous man has died; arise and perform the funeral prayer over your brother Aṣḥamah!"* (*Subul al-Hudā*, 2:400–401; 5:485; *Ṣaḥīḥ al-Bukhārī*, no. 1327).
+> *"Today a righteous man has died; arise and perform the funeral prayer over your brother Aṣḥamah!"* (*Subul al-Hudā*, 2:400–401; 5:485; *Ṣaḥīḥ al-Bukhārī*, no. 3877).
 The Prophet ﷺ led the companions out to the prayer ground (*al-Muṣallā*), lined them in rows, and performed the funeral prayer in absentia (*Ṣalāt al-Janāzah ʿalā al-Ghāʾib*) with four Takbīrs, asking forgiveness for him (*Subul al-Hudā*, 2:401). It was related that celestial light continued to be seen emanating above his tomb in Abyssinia (*Subul al-Hudā*, 2:402).
 
 ## 5. References
