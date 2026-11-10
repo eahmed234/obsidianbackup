@@ -8,18 +8,20 @@ Structural checks (these set the exit code):
   3. Wrapped links     no wikilink contains a line break.
   4. Frontmatter       title / arabic / type / tags present; primary_source on content notes.
   5. Link integrity    unresolved wikilink targets (informational: eager links are by design).
+  6. Alias collisions  no name (alias, or extra search name in site_search.json) is claimed by two
+                       notes unless site_search.json settles it ("primary" or "ambiguous").
 
 Content triage (informational — a list for a human to look at, never a verdict):
   Each line of a note is split at its citations; the text before a citation is a
   "claim", and it is checked against the Arabic text of the pages it cites.
-  6. numbers     numerals in the claim that appear on none of the cited pages
+  7. numbers     numerals in the claim that appear on none of the cited pages
                  (Arabic-Indic / Western digits and Arabic number words).
-  7. terms       transliterated names / terms whose consonantal skeleton is absent
+  8. terms       transliterated names / terms whose consonantal skeleton is absent
                  from the cited pages.
-  8. quotes      Arabic «…» quotations not found on the cited pages.
-  9. apparatus   a term found only in the taḥqīq of a page cited as matn.
- 10. uncited     substantive prose lines carrying no citation to either book.
- 11. other-work  direct citations of works other than the two canonical books.
+  9. quotes      Arabic «…» quotations not found on the cited pages.
+ 10. apparatus   a term found only in the taḥqīq of a page cited as matn.
+ 11. uncited     substantive prose lines carrying no citation to either book.
+ 12. other-work  direct citations of works other than the two canonical books.
  A missing item that does occur within a few pages of the citation is reported with
  "found at V:P" — the typical signature of a close-but-wrong citation.
 
@@ -53,6 +55,7 @@ SOURCES_DIR = os.path.join(VAULT_DIR, "sources")
 REVIEW_DIR = os.path.join(VAULT_DIR, "review")
 CACHE_FILE = os.path.join(SOURCES_DIR, ".index_cache.json")
 NON_NOTES = {"GEMINI.md", "CLAUDE.md", "README.md", "AGENTS.md"}
+SEARCH_CFG = os.path.join(VAULT_DIR, "site_search.json")   # search names and alias rulings (see site_search.py)
 
 # The canonical sources (see CLAUDE.md, "Sourcing rules"). kind "page" is cited vol:page;
 # kind "hadith" is cited by ḥadīth number.
@@ -709,6 +712,82 @@ def load_notes():
     return notes, aliases
 
 
+# ── names, slugs and alias collisions (shared with site_search.py) ─────────────────────────────
+
+def slugify(name):
+    """The URL slug Quartz gives a title or an alias — a Python copy of slugifyPath/slugifyAlias
+    in patch-quartz.mjs. Keep the two in step."""
+    import unicodedata
+    s = unicodedata.normalize("NFD", name)
+    s = re.sub(r"[\u0300-\u036f]", "", s)
+    s = re.sub(r"[ʿʻʾʽ`\u02BF\u02BE\u2018\u2019]", "", s)
+    s = re.sub(r"[\u0600-\u06FF]", "", s)
+    parts = []
+    for seg in s.split("/"):
+        seg = re.sub(r"\s+", "-", seg).replace("&", "-and-").replace("%", "-percent")
+        seg = re.sub(r'[?#<>:"|*]', "", seg)
+        parts.append(seg.lower())
+    return re.sub(r"/$", "", "/".join(parts))
+
+
+def load_search_config():
+    """site_search.json: {"extra": {note: [names]}, "primary": {name: note}, "ambiguous": [names],
+    "expect": {query: note}}. A missing file is an empty configuration."""
+    cfg = {"extra": {}, "primary": {}, "ambiguous": [], "expect": {}}
+    if os.path.exists(SEARCH_CFG):
+        with open(SEARCH_CFG, encoding="utf-8") as f:
+            cfg.update({k: v for k, v in json.load(f).items() if k in cfg})
+    return cfg
+
+
+def note_aliases(note):
+    al = note["fm"].get("aliases", [])
+    return [a.strip() for a in (al if isinstance(al, list) else [al]) if a and a.strip()]
+
+
+def name_claims(notes, cfg):
+    """slug → {note: the name as written}, for every alias and every extra search name. A slug with
+    no Latin letter or digit (an Arabic-script alias) makes no usable URL and is left out."""
+    claims = defaultdict(dict)
+    for b, n in notes.items():
+        for name in note_aliases(n) + list(cfg["extra"].get(b, [])):
+            sl = slugify(name)
+            if re.search(r"[a-z0-9]", sl) and "/" not in sl and sl != slugify(b):
+                claims[sl].setdefault(b, name)
+    return claims
+
+
+def alias_report(notes, cfg):
+    """(collisions, errors). A collision is a name claimed by several notes, or by a note other than
+    the one whose title it is, that site_search.json does not settle. Errors are mistakes in
+    site_search.json itself (a note that does not exist, a ruling that names a non-claimant)."""
+    title_slug = {slugify(b): b for b in notes}
+    claims = name_claims(notes, cfg)
+    primary = {slugify(k): v for k, v in cfg["primary"].items()}
+    ambiguous = {slugify(k) for k in cfg["ambiguous"]}
+    collisions, errors = [], []
+    for sl, owners in sorted(claims.items()):
+        if sl in title_slug:
+            collisions.append((sl, f"is the title of [[{title_slug[sl]}]] but also a name of "
+                               + ", ".join(f"[[{o}]]" for o in owners)))
+        elif len(owners) > 1 and sl not in ambiguous and primary.get(sl) not in owners:
+            collisions.append((sl, f"“{next(iter(owners.values()))}” is claimed by "
+                               + ", ".join(f"[[{o}]]" for o in sorted(owners))))
+    for key in ("extra",):
+        for b in cfg[key]:
+            if b not in notes:
+                errors.append(f'"{key}" names a note that does not exist: {b!r}')
+    for name, b in cfg["primary"].items():
+        if b not in notes:
+            errors.append(f'"primary" sends {name!r} to a note that does not exist: {b!r}')
+        elif b not in claims.get(slugify(name), {}):
+            errors.append(f'"primary" sends {name!r} to [[{b}]], which has no such alias or extra name')
+    for q, b in cfg["expect"].items():
+        if b not in notes:
+            errors.append(f'"expect" maps {q!r} to a note that does not exist: {b!r}')
+    return collisions, errors
+
+
 def build_name_words(notes, aliases):
     """Capitalised words from titles/aliases that never occur lower-case in prose: proper names."""
     lower_seen = set()
@@ -1212,6 +1291,8 @@ def run(args):
         if fm.get("type") not in ("index", "source") and "primary_source" not in fm:
             missing_ps.append(b)
 
+    alias_collisions, search_cfg_errors = alias_report(notes, load_search_config())
+
     # ── content triage ───────────────────────────────────────────────────
     findings = {}
     if not args.no_content:
@@ -1238,6 +1319,8 @@ def run(args):
     print(f"  Wikilinks              {total_links} total, {len(unresolved)} unresolved targets (by design)")
     print(f"  Frontmatter            missing FM {len(missing_fm)}, missing fields {len(missing_fields)}, "
           f"missing primary_source {len(missing_ps)}")
+    alias_bad = len(alias_collisions) + len(search_cfg_errors)
+    print(f"  Alias collisions       {'PASS' if not alias_bad else f'FAIL ({len(alias_collisions)} unsettled, {len(search_cfg_errors)} errors in site_search.json)'}")
     if findings:
         print("CONTENT TRIAGE  (prompts for a human reader, not verdicts)")
         for k in ("number", "term", "phrase", "quote", "apparatus", "uncited", "other-work", "scope"):
@@ -1262,6 +1345,14 @@ def run(args):
             print(f"  - {b} L{ln}: {key} not in EPUB   [{txt[:70]}]")
         if len(out_of_bounds) > 15 and not args.citations:
             print(f"  … {len(out_of_bounds) - 15} more (--citations for all)")
+        print()
+    if alias_collisions or search_cfg_errors:
+        print(f"Alias collisions ({len(alias_collisions)}) — give the name to one note, or settle it in "
+              f"site_search.json (\"primary\": one note owns the redirect; \"ambiguous\": a disambiguation page):")
+        for sl, msg in alias_collisions:
+            print(f"  - /{sl}: {msg}")
+        for e in search_cfg_errors:
+            print(f"  - site_search.json: {e}")
         print()
     if missing_fields or missing_ps:
         for b, f in missing_fields[:10]:
@@ -1312,7 +1403,7 @@ def run(args):
         path = write_sheet(auditor, only, findings.get(only, []))
         print(f"Wrote source sheet → {os.path.relpath(path, VAULT_DIR)}")
 
-    return 1 if (hub_orphans or multiline or out_of_bounds) else 0
+    return 1 if (hub_orphans or multiline or out_of_bounds or alias_collisions or search_cfg_errors) else 0
 
 
 if __name__ == "__main__":

@@ -22,6 +22,8 @@ Layout (repository root):
 | `audit.py` | Integrity checks and source-verification triage (see **Audit tooling**) |
 | `site_notice.py` | Post-build step: puts an "Unverified entry" notice on every published page tagged `unverified` |
 | `site_nav.py` | Post-build step: Contents sidebar built from the hub, frontmatter infoboxes, chronological prev/next links |
+| `site_search.py` | Post-build step: other names and spellings in the search index, redirects, disambiguation pages (see **Search and names**) |
+| `site_search.json` | Hand-kept search names and alias rulings read by `audit.py` and `site_search.py` |
 | `review/` | Generated source sheets and triage reports — git-ignored, Quartz-ignored |
 | `build.sh`, `quartz.config.yaml`, `patch-quartz.mjs`, `custom.scss`, `netlify.toml`, `.github/` | Site build |
 | `.obsidian/` | Obsidian config + `obsidian-git` plugin |
@@ -40,11 +42,12 @@ When committing from the CLI, follow the same `vault backup: <timestamp>` conven
 Pushing to `main` runs `.github/workflows/deploy.yml`, which runs `build.sh`. `build.sh` begins with
 `python3 audit.py --no-content` under `set -e`: **a citation to a page that does not exist, an orphaned
 note, or a wrapped link fails the build, so nothing is deployed** and the live site stays as it was (this
-also gates a Netlify-side build, which uses the same script). It then clones Quartz into `.quartz/`, copies in
+also gates a Netlify-side build, which uses the same script). It then fetches Quartz into `.quartz/` **at the commit pinned as `QUARTZ_REF` in `build.sh`**, copies in
 `quartz.config.yaml` and `custom.scss`, runs `patch-quartz.mjs` (folds IJMES diacritics and Arabic script
-into ASCII URL slugs — without it the CDN produces redirect loops and 404s), builds into `public/`, and
+into ASCII URL slugs — without it the CDN produces redirect loops and 404s — and makes search fold
+diacritics; see **Search and names**), builds into `public/`, and
 runs `site_notice.py` over `public/` (every page whose note is tagged `unverified` gets a warning callout
-under its tags; the homepage gets a site-wide version), then runs `site_nav.py` over `public/`, and copies `the-sirah.html` to `index.html` so the hub
+under its tags; the homepage gets a site-wide version), then runs `site_nav.py` and `site_search.py` over `public/`, and copies `the-sirah.html` to `index.html` so the hub
 is the homepage; then `netlify-cli` deploys `public/`. The notice lives only in the built HTML — notes are
 never edited for it — so it disappears from a page as soon as the user marks the note `verified`.
 **Site navigation is driven by the hub and frontmatter** (`site_nav.py`; Quartz's Explorer and
@@ -311,6 +314,35 @@ number must agree, so this is never a blind find-and-replace:
 `ashara_mubashsharah`, `ansari`, `muhajir`, `munafiq`), topic, and the verification tag above. Reuse the
 existing vocabulary.
 
+## Search and names
+
+A reader types "Abu Bakr", "Omar" or "Battle of Uhud", not IJMES. Three pieces make that work, none of
+which touches a note:
+
+- **`patch-quartz.mjs`, section 5** rewrites Quartz's search script: diacritics, ʿayn and hamzah are
+  folded and punctuation splits words ("khattab" finds *al-Khaṭṭāb*), in the index, the query and the
+  result snippet alike; and a third field, `names`, is searched and ranked with the title. Each edit must
+  match Quartz's built file exactly, and **the build fails if one does not** — which is why Quartz is
+  pinned. To upgrade Quartz: raise `QUARTZ_REF`, delete `.quartz/`, build, and try the search.
+- **`site_search.py`** (after the build) writes each note's other names into the search index as
+  `otherNames`: its frontmatter `aliases` and `arabic`, the names under `extra` in `site_search.json`,
+  rule-made English forms (*Ghazwat/Sariyyat X* → "Expedition of X", *Sūrat* → "Surah", *Jabal* → "Mount",
+  *Banū* → "Bani / Tribe of") and common spellings of the title (ibn/bin, Zaid, Saad, Waleed). It drops
+  tag pages and `.base` files from the index, orders notes by inbound links, writes a redirect for every
+  extra name, and settles shared names (below). It then checks every query under `expect` and exits
+  non-zero — failing the build — if one no longer matches its note.
+- **`site_search.json`** is the only hand-kept part: `extra` (note → names a reader may type), `primary`
+  (shared name → the one note its URL opens), `ambiguous` (shared names that become a disambiguation
+  page), `expect` (query → note). Its names are finding aids, not content: they appear in no note, so the
+  sourcing rules do not govern them — keep them to standard English names and spellings, and add no
+  claims. Copy note titles from the file names.
+
+**Shared names.** A kunyah or title often belongs to several people (*Abū ʿAbdillāh* is on fifteen notes).
+Quartz would send `/abu-abdillah` to whichever it met first — `/abu-bakr` used to open ʿAbdullāh b.
+al-Zubayr. `audit.py` therefore **fails when a name (alias or extra name) is claimed by two notes, or is
+another note's title, unless `site_search.json` settles it**. When that happens, do not delete the alias:
+add the name to `ambiguous`, or to `primary` if one bearer is plainly the one meant.
+
 ## Audit tooling (`audit.py`)
 
 ```bash
@@ -328,6 +360,8 @@ python3 audit.py --links | --citations | --no-content | --reindex
 2. *Hub completeness*: every note is linked from `The Sīrah.md`.
 3. *Wrapped links*: no wikilink contains a line break.
 4. *Frontmatter*: required fields present.
+5. *Alias collisions*: no alias or extra search name is claimed by two notes unless `site_search.json`
+   lists it under `primary` or `ambiguous`; and `site_search.json` names only notes that exist.
 Unresolved wikilinks are counted but are not failures (they are intentional).
 
 **Content triage** — informational. Each line is split at its citations; the text before a citation is

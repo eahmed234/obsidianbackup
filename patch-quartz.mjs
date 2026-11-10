@@ -207,4 +207,74 @@ for (const graphFile of graphFiles) {
   console.log(`Patched graph component in ${graphFile} for dynamic Obsidian-style labels, 100% reliable canvas hover, and smooth physics.`);
 }
 
+
+// 5. Search: fold diacritics and split on punctuation, so that "Abu Bakr" finds "Abū Bakr al-Ṣiddīq",
+//    "khattab" finds "al-Khaṭṭāb" and "aisha" finds "ʿĀʾishah". Quartz's own tokenizer only lower-cases
+//    and splits on spaces. The same folding is applied to the result snippet and its highlighting.
+//    A "names" field is also added to the index, so that "Omar" or "Battle of Uhud" — names that
+//    site_search.py supplies, and that are not in the title — rank as title matches do.
+//    The search script is stored inside a template literal, so the injected code must not contain
+//    backslashes, backticks or "${".
+//    If Quartz changes and a pattern below is not found, the build FAILS on purpose: a site whose
+//    search cannot find "Abu Bakr" should not be deployed silently. (build.sh pins the Quartz commit,
+//    so this can only happen when QUARTZ_REF is raised.)
+const searchFiles = [
+  `${prefix}node_modules/@quartz-community/search/dist/index.js`,
+  `${prefix}node_modules/@quartz-community/search/dist/components/index.js`
+];
+const SEARCH_MARK = "__nwFold";
+const searchHelpers =
+  'var __nwFold=function(s){var o="";for(var ch of String(s).normalize("NFD")){var k=ch.codePointAt(0);' +
+  // combining marks; modifier letters incl. the IJMES ʿayn / hamzah; curly and straight apostrophes;
+  // backtick; Arabic tashkīl, dagger alif and taṭwīl
+  'if(k>=768&&k<=879||k>=697&&k<=703||k===8216||k===8217||k===39||k===96||k>=1611&&k<=1631||k===1648||k===1600)continue;' +
+  'o+=ch}return o.toLowerCase()},' +
+  // ASCII punctuation, general punctuation, guillemets, Arabic punctuation and ﷺ become spaces
+  '__nwTok=function(s){var o="";for(var ch of __nwFold(s)){var k=ch.codePointAt(0);' +
+  'o+=(k<128&&!(k>=48&&k<=57||k>=97&&k<=122)||k>=8192&&k<=8303||k===171||k===187||k===183||k===1548||k===1563||k===1567||k===65018)?" ":ch}return o},' +
+  // does word w contain a token starting with query term q?
+  '__nwHit=function(w,q){q=__nwTok(q).trim();return q!==""&&(" "+__nwTok(w)).includes(" "+q)};';
+const searchEdits = [
+  // helpers, defined once before the search state
+  ['var Me="basic"', searchHelpers + 'var Me="basic"'],
+  // tokenizer used for both the index and the query
+  ["i=t.toLowerCase(),s=0;for(let u of i)", "i=__nwTok(t),s=0;for(let u of i)"],
+  // snippet window: count words that match a query term after folding
+  ["c.toLowerCase().startsWith(g.toLowerCase())", "__nwHit(c,g)"],
+  // highlighting: match after folding …
+  ["l.toLowerCase().includes(f.toLowerCase())", "__nwHit(l,f)"],
+  // … and when the literal query is not in the word (Abu vs Abū), highlight the whole word
+  ["</span>\\`);break}", "</span>\\`);h===l&&(h='<span class=\"highlight\">'+l+'</span>');break}"],
+  // when no word of the text matches (the note was found by another name), show its opening, not its end
+  ["D>=f&&(f=D,a=c)", "D>f&&(f=D,a=c)"],
+  // a third searched field, "names": the other names site_search.py writes into contentIndex.json as
+  // `otherNames` (aliases, English names, common spellings). Ranked with the title, ahead of body text.
+  ['index:[{field:"title",tokenize:"forward"},', 'index:[{field:"title",tokenize:"forward"},{field:"names",tokenize:"forward"},'],
+  ['title:i.title||"",content:i.content||""', 'title:i.title||"",names:i.otherNames||"",content:i.content||""', 2],
+  ['index:["title","content"]}', 'index:["title","names","content"]}'],
+  ["Nt=[...new Set(h.flatMap(at=>ct(at)))]", 'Nt=[...new Set(h.flatMap(at=>at==="title"?["title","names"]:[at]).flatMap(at=>ct(at)))]'],
+];
+let searchPatched = 0;
+for (const file of searchFiles) {
+  if (!fs.existsSync(file)) continue;
+  let text = fs.readFileSync(file, "utf8");
+  if (text.includes(SEARCH_MARK)) { searchPatched++; continue; }
+  for (const [from, to, times = 1] of searchEdits) {
+    const n = text.split(from).length - 1;
+    if (n !== times) {
+      console.error(`Search patch: expected ${times} occurrence(s) of ${JSON.stringify(from)} in ${file}, found ${n}.`);
+      console.error("Quartz's search script has changed; update section 5 of patch-quartz.mjs (see CLAUDE.md, Search).");
+      process.exit(1);
+    }
+    text = text.split(from).join(to);
+  }
+  fs.writeFileSync(file, text);
+  searchPatched++;
+}
+if (searchPatched === 0) {
+  console.error("Search patch: @quartz-community/search was not found; refusing to build a site with unfolded search.");
+  process.exit(1);
+}
+console.log(`Patched search in ${searchPatched} file(s): diacritics folded, punctuation split, other names indexed.`);
+
 console.log("Quartz node_modules patched successfully for clean ASCII slugs!");

@@ -23,6 +23,8 @@ configuration:
     - audit.py
     - site_notice.py
     - site_nav.py
+    - site_search.py
+    - site_search.json
     - build.sh
     - patch-quartz.mjs
     - custom.scss

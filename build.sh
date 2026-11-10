@@ -7,10 +7,18 @@ echo "=== Starting Quartz Build Pipeline for nabiwiki ==="
 echo "Auditing citations, links and hub..."
 python3 audit.py --no-content
 
-# 1. Ensure Quartz engine exists
+# 1. Ensure Quartz engine exists — at a pinned commit.
+#    patch-quartz.mjs rewrites Quartz's built files (slugs, search), so an unannounced upstream change
+#    can break the site. To upgrade: raise QUARTZ_REF, delete .quartz, build locally, and check search.
+QUARTZ_REF="${QUARTZ_REF:-beeeed45b82a3cd559d4645fee41f5f699f89188}"   # Quartz v5.1.0, 10 Nov 2026
 if [ ! -d ".quartz" ]; then
-  echo "Cloning Quartz engine..."
-  git clone --depth 1 https://github.com/jackyzha0/quartz.git .quartz
+  echo "Fetching Quartz engine at ${QUARTZ_REF}..."
+  git init -q .quartz
+  git -C .quartz remote add origin https://github.com/jackyzha0/quartz.git
+  git -C .quartz fetch -q --depth 1 origin "${QUARTZ_REF}"
+  git -C .quartz checkout -q FETCH_HEAD
+elif [ "$(git -C .quartz rev-parse HEAD 2>/dev/null)" != "${QUARTZ_REF}" ]; then
+  echo "Warning: .quartz is not at the pinned commit ${QUARTZ_REF}; delete .quartz to refetch it."
 fi
 
 cd .quartz
@@ -46,6 +54,10 @@ python3 ../site_notice.py ../public
 
 # Contents sidebar, infoboxes and chronological links, built from the hub and frontmatter (see site_nav.py)
 python3 ../site_nav.py ../public
+
+# Search: other names and spellings in the index, redirects for them, disambiguation pages for shared
+# names; fails the build if a query listed under "expect" in site_search.json no longer matches (see site_search.py)
+python3 ../site_search.py ../public
 
 # 7. Ensure root index.html is populated from the canonical hub (The Sīrah)
 echo "Ensuring root index.html..."
