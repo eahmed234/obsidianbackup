@@ -45,7 +45,7 @@ While the Prophet ﷺ sat resting against the wall of one of their fortresses:
 Their evacuated agricultural lands and date groves were designated as *Fayʾ* granted exclusively to the Prophet ﷺ, who distributed them among the destitute Muhājirūn and two impoverished Anṣārī veterans (**[[Sahl b. Ḥunayf]]** and Abū Dujānah) (*Subul al-Hudā*, 4:326). This historic siege was memorialized by Allāh in the revelation of **[[Sūrat al-Ḥashr]]** (*Sūrat al-Naḍīr*) (*Subul al-Hudā*, 4:324).
 
 ## 4. Instigation of the Confederates & Final Subjugation
-The exiled chiefs of Banū al-Naḍīr, led by **Ḥuyayy b. Akhṭab** and Sallām b. Abī al-Ḥuqayq, resettled in the massive citadel of **[[Khaybar]]** (*Subul al-Hudā*, 4:325). From Khaybar, they traveled to Makkah and Najd to assemble the ten-thousand-man confederate army during **[[Ghazwat al-Khandaq]]** (5 AH), and Ḥuyayy personally infiltrated the fortress of Kaʿb b. Asad to orchestrate the treason of **[[Banū Qurayẓah]]** (*Subul al-Hudā*, 4:363, 373).
+Most of the exiles settled at **[[Khaybar]]**, among them **Ḥuyayy b. Akhṭab**, Sallām b. Abī al-Ḥuqayq and Kinānah b. Ṣuwayrāʾ, and some went on to Syria (*Subul al-Hudā*, 4:324). From Khaybar their leaders went to Makkah and to Ghaṭafān to assemble the ten-thousand-man confederate army during **[[Ghazwat al-Khandaq]]** (5 AH), and Ḥuyayy personally infiltrated the fortress of Kaʿb b. Asad to orchestrate the treason of **[[Banū Qurayẓah]]** (*Subul al-Hudā*, 4:363–364, 373).
 
 Their final power was shattered during **[[Ghazwat Khaybar]]** (7 AH), where their chief warriors were slain, culminating in the marriage of the Prophet ﷺ to **[[Ṣafiyyah bint Ḥuyayy]]** ﵂ (*Subul al-Hudā*, 5:115–151).
 
