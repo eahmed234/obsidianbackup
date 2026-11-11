@@ -38,6 +38,19 @@ Commits are normally made by the Obsidian **obsidian-git** plugin:
 When committing from the CLI, follow the same `vault backup: <timestamp>` convention. Expect
 `.obsidian/workspace.json` and `.obsidian/graph.json` as noise in diffs (both are git-ignored).
 
+**Branches — work on `drafts`, publish from `main`.** Every push to `main` deploys the site, and each
+deploy costs Netlify credits. So the vault is checked out on `drafts` (tracking `origin/drafts`), and
+pushes from Obsidian go there without deploying. The user publishes when ready, with
+`git push origin drafts:main`.
+- Agents commit to `drafts` only. They never push, and never commit or merge to `main`, unless the user
+  asks in that conversation.
+- If `git branch --show-current` prints `main`, stop and tell the user.
+- The device shell has no git identity: commit with
+  `git -c user.name="$(git log -1 --format=%an)" -c user.email="$(git log -1 --format=%ae)" commit …`.
+- Through the device bridge, git cannot delete its own lock files until deletion is permitted. Request
+  it once, before the first git command that writes.
+- The full rewrite and verify procedures are the `/rewrite-note` and `/verify-note` skills.
+
 ## Build and deployment
 
 Pushing to `main` runs `.github/workflows/deploy.yml`, which runs `build.sh`. `build.sh` begins with
