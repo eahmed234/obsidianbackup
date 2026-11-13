@@ -12,40 +12,45 @@ tags:
   - fath_makkah
   - martyr
   - unverified
-death_hijri: 8 AH
-burial: "Makkah"
-clan: "Banū Fihr ([[Quraysh]])"
-father: Jābir b. Ḥabīb
-role: "Commander of the expedition of al-ʿUrayniyyīn and cavalry martyr of Fatḥ Makkah"
-primary_source: "*al-Iṣābah* (vol. 5, p. 435, entry 7409); [[Subul al-Hudā war-Rashād]] (vol. 4, p. 16; vol. 5, p. 229; vol. 6, pp. 115–117)"
+nisbah: al-Qurashī al-Fihrī
+tribe: "[[Quraysh]] (Fihr)"
+death: "Day of the Conquest of Makkah (martyred)"
+role: "A chief of the polytheists who raided the pasturing animals of Madīnah, later a Muslim; commander of the twenty horsemen sent after the ʿUraniyyūn; one of the two horsemen killed at the Conquest of Makkah"
+primary_source: "*al-Iṣābah*, no. 7409 (5:434–435); *Subul al-Hudā*, 4:16"
 ---
 
 # Kurz b. Jābir al-Fihrī (كرز بن جابر الفهري) ﵁
-*Commander of the Expedition of al-ʿUrayniyyīn and Cavalier Martyr of the Conquest of Makkah*
+*A chief of the polytheists who raided the pasturing animals of Madīnah and later became Muslim; commander of the horsemen sent after the ʿUraniyyūn; killed on the day of the Conquest of Makkah*[^i5.435]
 
-## 1. Lineage & Background
-Kurz b. Jābir belonged to the Banū Fihr branch of [[Quraysh]]:
-- **Ancestral Lineage**: Kurz b. Jābir b. Ḥabīb b. Wahb b. Ḥudhāfah b. Hilāl b. ʿĀmir b. ʿAmr b. ʿAwf b. Kaʿb b. ʿĀmir b. Luʾayy al-Qurashī al-Fihrī (*al-Iṣābah*, 5:435, entry 7409).
-- **Pre-Islamic Conflict (Ghazwat Safawān)**: Prior to his acceptance of Islam, in early 2 AH, Kurz was a formidable desert chieftain. He launched a sudden dawn raid against the grazing livestock and milch camels (*sarḥ*) of Medina pasturing in the district of **al-Jammāʾ** (*Subul al-Hudā*, 4:16). The Prophet [[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ pursued him as far as the valley of Safawān near Badr (**[[Ghazwat Safawān]]**, also known as *Badr al-Ūlā*), but Kurz evaded capture in the desert ravines (*Subul al-Hudā*, 4:16).
-- **Conversion**: He subsequently traveled to Medina and embraced Islam with sincere devotion, placing his desert tracking abilities and martial prowess in the service of the Prophet ﷺ (*Subul al-Hudā*, 4:16; *al-Iṣābah*, 5:435).
+Kurz b. Jābir al-Qurashī al-Fihrī was one of the chiefs of the polytheists before he became Muslim. He raided the pasturing animals of Madīnah, and the Prophet ﷺ went out after him as far as Safawān; he then became Muslim, and the Prophet ﷺ appointed him commander over twenty horsemen sent after the men of ʿUraynah. He was killed on the day of the Conquest of Makkah.[^i5.434][^i5.435]
 
-## 2. Command of the Punitive Expedition of al-ʿUrayniyyīn (6 AH)
-In Shawwāl 6 AH, a group of eight men from the tribes of ʿUkl and ʿUraynah came to Medina, professed Islam, and were treated for illness by being permitted to drink the milk and urine of the Prophet's pasturing camels (*Subul al-Hudā*, 6:115–116). Once cured, they apostatized, murdered the Prophet's herdsman Yasār with extreme brutality, and drove off the milch camels (*Subul al-Hudā*, 6:116; *al-Iṣābah*, 5:435).
+## Name and lineage
 
-Demonstrating complete trust in his tactical acumen, the Messenger of Allāh ﷺ appointed Kurz b. Jābir al-Fihrī as supreme commander of an elite pursuit force of twenty (20) cavalrymen, which included seasoned warriors such as [[Salamah b. al-Akwaʿ]], Abū Dharr al-Ghifārī, and Buraydah b. al-Ḥuṣayb (*Subul al-Hudā*, 6:116; *al-Iṣābah*, 5:435). Kurz tracked the culprits relentlessly across the desert wastes, encircled them, and brought them back in chains to Medina to face legal retribution (*qiṣāṣ*) (*Subul al-Hudā*, 6:116–117).
+Ibn Ḥajar gives his lineage as Kurz b. Jābir b. Ḥisl b. al-Ajab b. Ḥabīb b. ʿAmr b. Shaybān b. Muḥārib b. Fihr, of [[Quraysh]], al-Fihrī.[^i5.434]
 
-## 3. Martyrdom at Fatḥ Makkah (8 AH)
-In Ramaḍān 8 AH, Kurz b. Jābir joined the army of ten thousand marching to liberate Makkah (**[[Fatḥ Makkah]]**), riding in the cavalry vanguard (*Subul al-Hudā*, 5:229; *al-Iṣābah*, 5:435).
+## Before Islam
 
-As the divisions approached Makkah:
-- Kurz and his comrade **[[Ḥubaysh b. Khālid al-Khuzāʿī]]** ﵁ (Ibn al-Ashʿar) inadvertently strayed from the main body of the cavalry column (*shadhdhā ʿan al-ʿaskar wa-salakā ṭarīqan ukhrā*) (*al-Iṣābah*, 5:435; *Subul al-Hudā*, 5:229).
-- They were ambushed near Khandamah by armed polytheist partisans under ʿIkrimah b. Abī Jahl and Ṣafwān b. Umayyah (*Subul al-Hudā*, 5:229).
-- Both men dismounted, stood back-to-back, and fought with heroic valor against overwhelming odds until both achieved martyrdom (*Subul al-Hudā*, 5:229; *al-Iṣābah*, 5:435).
+Kurz was one of the chiefs of the polytheists before he became Muslim. He once raided the *sarḥ* of Madīnah, and the Prophet ﷺ went out in pursuit of him until he reached Safawān; Kurz escaped him.[^i5.434] Ibn Ḥajar says that this is the first expedition of Badr, and that Kurz then became Muslim.[^i5.434] Al-Ṣāliḥī gives the same account: the *sarḥ* used to pasture at al-Jammāʾ and its surroundings, and the Prophet ﷺ sought Kurz until he reached Safawān, on the side of Badr, without overtaking him (see [[Ghazwat Safawān]]).[^s4.16]
 
-Kurz b. Jābir and Ḥubaysh b. Khālid were the only two Muslim cavalrymen martyred during the Conquest of Makkah (*Subul al-Hudā*, 5:229).
+## Commander of the horsemen sent after the ʿUraniyyūn
 
----
+According to a report from Salamah b. al-Akwaʿ, when the ʿUraniyyūn attacked the Prophet's ﷺ servant and drove off the camels, the Prophet ﷺ sent horsemen of the Muslims after them with Kurz b. Jābir al-Fihrī as their commander. Ibn Ḥajar notes that one of its transmitters, Mūsā b. Muḥammad al-Taymī, is weak, but that Yazīd b. Rūmān corroborated him.[^i5.434]
+
+In the report Ibn Ḥajar quotes from Yazīd b. Rūmān, a group of eight men from ʿUraynah came and became Muslim, and found Madīnah unhealthy. When they had recovered and grown fat they attacked the milch camels and drove them off. Yasār, the freedman of the Messenger of Allāh ﷺ, overtook them and fought them; they cut off his hand and foot and thrust thorns into his tongue and eyes, and he died.[^i5.434][^i5.435] When this reached the Prophet ﷺ he sent twenty horsemen in their tracks and appointed Kurz b. Jābir over them. They set out in the morning and met a woman carrying the shoulder of a camel; she told them she had passed a people who had slaughtered a camel and given her this, and that they were in that wilderness. The horsemen went, found them and took them captive.[^i5.435] (See [[Sariyyat al-ʿUraniyyīn]].)
+
+## The Conquest of Makkah
+
+According to Ibn Ḥajar, Mūsā b. ʿUqbah (from Ibn Shihāb), Abū l-Aswad (from ʿUrwah), Ibn Isḥāq and others name Kurz among those martyred on the day of the Conquest, among those who were with [[Khālid b. al-Walīd]], together with [[Ḥubaysh b. Khālid al-Khuzāʿī|Ḥubaysh b. Khālid]].[^i5.435] Ibn Isḥāq says that the two strayed from the army and took another road, and were killed.[^i5.435]
+
+Ibn Ḥajar adds that the same occurs in al-Bukhārī, in the report of Hishām b. ʿUrwah from his father: the Prophet ﷺ ordered Khālid b. al-Walīd to enter from the upper part of Makkah, and two men of Khālid's horse were killed that day, Ḥubaysh b. al-Ashʿar al-Khuzāʿī and Kurz b. Jābir al-Fihrī.[^i5.435]
+
+The sources read for this note do not give the date of his death beyond the day of the Conquest.
 
 ## References
-1. al-Ṣāliḥī, Muḥammad b. Yūsuf. *Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād*. Edited by ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. 12 vols. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993, vol. 4, p. 16; vol. 5, p. 229; vol. 6, pp. 115–117.
-2. Ibn Ḥajar al-ʿAsqalānī, Aḥmad b. ʿAlī. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*. Edited by ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. 8 vols. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1415/1995, vol. 5, p. 435 (entry 7409).
+
+1. Ibn Ḥajar al-ʿAsqalānī, Aḥmad b. ʿAlī. *al-Iṣābah fī Tamyīz al-Ṣaḥābah*. Edited by ʿĀdil Aḥmad ʿAbd al-Mawjūd and ʿAlī Muḥammad Muʿawwaḍ. 8 vols. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1415/1995, vol. 5, pp. 434–435 (no. 7409).
+2. al-Ṣāliḥī, Muḥammad b. Yūsuf. *Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād*. Beirut: Dār al-Kutub al-ʿIlmiyyah, 1414/1993, vol. 4, p. 16.
+
+[^i5.434]: *al-Iṣābah*, no. 7409 (5:434). The report from Salamah b. al-Akwaʿ is given there from al-Ṭabarānī; the report from Yazīd b. Rūmān is given from al-Wāqidī.
+[^i5.435]: *al-Iṣābah*, no. 7409 (5:435).
+[^s4.16]: *Subul al-Hudā*, 4:16.
