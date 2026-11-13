@@ -23,6 +23,10 @@ step() {   # step <skill> <note>
 }
 
 while IFS= read -r note || [ -n "$note" ]; do
+  note="${note%$'\r'}"                                   # tolerate Windows line ends
+  note="${note#"${note%%[![:space:]]*}"}"                 # … and leading
+  note="${note%"${note##*[![:space:]]}"}"                 # … and trailing spaces
+  note="${note%.md}"
   case "$note" in ""|\#*) continue ;; esac
   grep -qxF -- "$note" review/done.txt && continue
   [ -f "$note.md" ] || { echo "No such note: $note — stopping."; exit 1; }
