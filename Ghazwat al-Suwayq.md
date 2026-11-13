@@ -37,7 +37,7 @@ When the routed remnant of the polytheists returned to Makkah, bereaved and grie
 
 ## At Madinah
 
-He took the Najd road and halted at the head of Qanāh, beside a mountain called Yatīb, at Madinah, about a *barīd* away.[^s4.174] Qanāh is one of the valleys of Madinah.[^s4.175]
+He took the Najd road and halted at the head of Qanāh, towards a mountain called Yatīb, at Madinah, about a *barīd* away or so.[^s4.174] Qanāh is one of the valleys of Madinah.[^s4.175]
 
 That night he went to Banū al-Naḍīr under cover of darkness. He came first to Ḥuyayy b. Akhṭab and knocked at his door, but Ḥuyayy was afraid of him and refused to open.[^s4.174] He left and went to Sallām b. Mishkam, who was the chief of Banū al-Naḍīr at that time and the keeper of their treasure — the wealth they gathered against emergencies and whatever might befall them.[^s4.174][^s4.175] Abū Sufyān asked leave to enter and was admitted; Sallām gave him food and drink and told him of the people's private affairs and of the affairs of the Messenger of Allāh ﷺ.[^s4.174]
 
@@ -58,7 +58,7 @@ The Messenger of Allāh ﷺ returned to Madinah, having been away five days.[^s4
 ## Disputes and variants
 
 - **The number of the Muslim force.** The text gives two hundred of the Muhājirūn and Anṣār, while *al-Ishārah* has eighty. The two figures have been reconciled by saying that the riders were eighty and the force as a whole two hundred.[^s4.174]
-- **Who carried out the raid.** It is said that Abū Sufyān did this himself when he came back that night from Sallām b. Mishkam, rather than sending others.[^s4.174]
+- **When the raid took place.** It is said that Abū Sufyān did this when he came back that night from Sallām b. Mishkam. The source does not say more; the report most naturally means that he carried out the raid on al-ʿUrayḍ himself rather than sending men.[^s4.174]
 
 ## What the source does not say
 
