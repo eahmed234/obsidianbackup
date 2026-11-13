@@ -39,30 +39,32 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Noto Serif
-      body: Noto Serif
-      code: IBM Plex Mono
+      header: Source Serif 4
+      body: Source Serif 4
+      # Quartz loads only these three families, so the interface font (Inter) rides in the "code" slot;
+      # custom.scss gives code blocks their own monospace stack.
+      code: Inter
     colors:
       lightMode:
-        light: "#fafafa"
-        lightgray: "#e4e4e4"
-        gray: "#ababab"
-        darkgray: "#222222"
-        dark: "#1a1a1a"
-        secondary: "#7852ee"
-        tertiary: "#906cf2"
-        highlight: "rgba(120, 82, 238, 0.12)"
-        textHighlight: "#a882ff33"
+        light: "#ffffff"
+        lightgray: "#e3e5e8"
+        gray: "#555b63"
+        darkgray: "#1b1d1f"
+        dark: "#1b1d1f"
+        secondary: "#1d5c4d"
+        tertiary: "#0d3229"
+        highlight: "rgba(29, 92, 77, 0.10)"
+        textHighlight: "rgba(29, 92, 77, 0.10)"
       darkMode:
-        light: "#1c1c1c"
-        lightgray: "#282828"
-        gray: "#666666"
-        darkgray: "#dadada"
-        dark: "#f5f5f5"
-        secondary: "#a882ff"
-        tertiary: "#c4a7ff"
-        highlight: "rgba(168, 130, 255, 0.15)"
-        textHighlight: "#a882ff33"
+        light: "#15171a"
+        lightgray: "#2c3036"
+        gray: "#a3a9b2"
+        darkgray: "#e6e8eb"
+        dark: "#e6e8eb"
+        secondary: "#7cc7b0"
+        tertiary: "#a6e0cd"
+        highlight: "rgba(124, 199, 176, 0.14)"
+        textHighlight: "rgba(124, 199, 176, 0.14)"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -206,12 +208,12 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 30
@@ -227,7 +229,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35

@@ -12,8 +12,7 @@ note, or a wrapped link fails the build, so nothing is deployed** and the live s
 `quartz.config.yaml` and `custom.scss`, runs `patch-quartz.mjs` (folds IJMES diacritics and Arabic script
 into ASCII URL slugs — without it the CDN produces redirect loops and 404s — and makes search fold
 diacritics; see **Search and names**), builds into `public/`, and
-runs `site_notice.py` over `public/` (every page whose note is tagged `unverified` gets a warning callout
-under its tags; the homepage gets a site-wide version), then runs `site_nav.py` and `site_search.py` over `public/`, and copies `start-here.html` to `index.html`, so the short start page
+runs `site_notice.py` over `public/` (every page whose note is tagged `unverified` — read from the note, since the tag list is no longer on the page — gets the slim "Not yet checked by a person" notice; the hub and start page get a site-wide version), then runs `site_nav.py` and `site_search.py` over `public/`, and copies `start-here.html` to `index.html`, so the short start page
 is the homepage and the hub stays at `/the-sirah`; then the workflow uploads `public/` as a GitHub Pages artifact and deploys it (Settings → Pages → Source must be "GitHub Actions"; the repo is `eahmed234/eahmed234.github.io`, so the site is served from the root). The notice lives only in the built HTML — notes are
 never edited for it — so it disappears from a page as soon as the user marks the note `verified`.
 **Site navigation is driven by the hub and frontmatter** (`site_nav.py`; Quartz's Explorer and
@@ -57,3 +56,21 @@ Quartz would send `/abu-abdillah` to whichever it met first — `/abu-bakr` used
 al-Zubayr. `audit.py` therefore **fails when a name (alias or extra name) is claimed by two notes, or is
 another note's title, unless `site_search.json` settles it**. When that happens, do not delete the alias:
 add the name to `ambiguous`, or to `primary` if one bearer is plainly the one meant.
+
+## Visual design
+
+The look is specified in `docs/design/README.md`, with reference HTML beside it. Colours and fonts are Quartz
+theme keys in `quartz.config.yaml` (Source Serif 4 for text; Inter, which Quartz only loads in its "code" slot,
+for the interface; Noto Naskh Arabic is added by Quartz). Everything else is `custom.scss`; the only hex colours in it
+are the two variable blocks at the top (light, `:root[saved-theme="dark"]`). The `content-meta`, `tag-list` and
+`reader-mode` plugins are disabled. `custom.scss` dissolves Quartz's left sidebar into the page grid (title and
+search become the header row, the Contents nav the left column); on a phone a menu button (added by `site_nav.py`)
+opens the nav.
+
+`site_nav.py` also rebuilds the header of each note page: breadcrumb (The Sīrah › hub section), the title with the
+Arabic name from the note's own `# Title (Arabic)` heading beside it, the epithet (the first italic paragraph),
+then the notice; that heading and paragraph are removed from the body, and "Table of Contents" becomes "On this
+page". The homepage keeps its own heading. The infobox sits before the lead paragraph (floated right); on a phone
+CSS reorders it after the lead. The Contents sidebar opens only the section holding the current page, shows the
+page (bordered pill) and three neighbours either side, and a "Show all N…" button reveals the rest. Before/after
+cards replace the old chronology line.

@@ -11,37 +11,34 @@ as the note's tag is changed to `verified` and the site is rebuilt.
 Usage: python3 site_notice.py [public_dir]      (default: public)
 """
 
+import json
 import os
 import re
 import sys
 
 MARK = 'data-nabiwiki-notice="unverified"'
 
-ENTRY_TITLE = "Unverified entry"
-ENTRY_TEXT = (
-    "The editor has not yet checked this entry against the books it cites. "
-    "Its contents and citations may contain errors; "
-    "consult the cited pages before relying on it."
-)
-HUB_TITLE = "Work in progress"
+ENTRY_TITLE = "Not yet checked by a person."
+ENTRY_TEXT = "This entry was written from the cited pages and is awaiting review against the books."
+HUB_TITLE = "Work in progress."
 HUB_TEXT = (
-    "Entries on nabiwiki are being checked one by one against the books they cite. "
-    "Pages marked “Unverified entry” have not yet been "
-    "checked; consult the cited pages before relying on them."
+    "Entries are being checked one by one against the books they cite; "
+    "pages marked “Not yet checked by a person” are still awaiting review."
 )
 
-TAG_RE = re.compile(r'<ul class="tags"[^>]*>.*?</ul>', re.S)
-UNVERIFIED_RE = re.compile(r'href="(?:\./|\.\./)*tags/unverified"')
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
 ANCHOR = '<div class="markdown-preview-view markdown-rendered">'
 
 
+ICON = ('<svg class="nw-notice-icon" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" '
+        'stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6.5"></circle><path d="M8 4.5v4M8 11v.5"></path></svg>')
+
+
 def callout(title, text):
-    return (
-        f'<blockquote class="callout warning" data-callout="warning" {MARK}>'
-        '<div class="callout-title"><div class="callout-icon"></div>'
-        f'<div class="callout-title-inner"><p>{title}</p></div></div>'
-        f'<div class="callout-content"><p>{text}</p></div></blockquote>'
-    )
+    """One slim bordered box (styled in custom.scss); site_nav.py moves it under the title block."""
+    return (f'<div class="nw-notice" role="note" {MARK}>{ICON}'
+            f'<span><strong>{title}</strong> {text}</span></div>')
 
 
 def is_hub(fname):
@@ -49,8 +46,24 @@ def is_hub(fname):
     return base in ("index.html", "start-here.html") or (base.startswith("the-s") and base.endswith("rah.html"))
 
 
+def unverified_slugs(public):
+    """Slugs of the pages whose note carries the `unverified` tag (the tag list is no longer on the page)."""
+    from audit import load_notes
+    notes, _ = load_notes()
+    with open(os.path.join(public, "static", "contentIndex.json"), encoding="utf-8") as f:
+        index = json.load(f)
+    out = set()
+    for slug, meta in index.items():
+        fp = meta.get("filePath") or ""
+        note = notes.get(fp[:-3]) if fp.endswith(".md") else None
+        if note and "unverified" in (note["fm"].get("tags") or []):
+            out.add(slug)
+    return out
+
+
 def main(public):
     marked = skipped = 0
+    unv = unverified_slugs(public)
     for root, _, files in os.walk(public):
         for name in files:
             if not name.endswith(".html"):
@@ -60,8 +73,8 @@ def main(public):
                 html = f.read()
             if MARK in html or ANCHOR not in html:
                 continue
-            tags = TAG_RE.search(html)
-            if not tags or not UNVERIFIED_RE.search(tags.group(0)):
+            slug = os.path.relpath(path, public)[:-5].replace(os.sep, "/")
+            if slug not in unv and not is_hub(path):
                 skipped += 1
                 continue
             box = callout(HUB_TITLE, HUB_TEXT) if is_hub(path) else callout(ENTRY_TITLE, ENTRY_TEXT)
