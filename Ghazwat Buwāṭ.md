@@ -11,7 +11,7 @@ tags:
   - caravan_interception
   - 2-ah
   - unverified
-date_hijri: "Rabīʿ al-Awwal 2 AH, thirteen months from the hijrah (Abū ʿUmar and Ibn Ḥazm: Rabīʿ al-Ākhir)"
+date_hijri: "Rabīʿ al-Awwal, at the head of thirteen months from the hijrah (Abū ʿUmar and Ibn Ḥazm: Rabīʿ al-Ākhir)"
 location: "Buwāṭ, a mountain of Juhaynah on the side of Raḍwā at Yanbuʿ"
 commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
@@ -34,8 +34,7 @@ Ibn Saʿd and others say he set out in Rabīʿ al-Awwal, at the head of thirteen
 
 The Prophet ﷺ went out with two hundred of the Muhājirūn, intercepting a caravan of Quraysh. In the caravan were Umayyah b. Khalaf, a hundred men of Quraysh and two thousand five hundred camels.[^s4.15] His white banner was carried by [[Saʿd b. Abī Waqqāṣ]] ﵁.[^s4.15]
 
-He reached Buwāṭ and did not meet with any harm (*lam yalqa kaydā*), and returned to Madīnah.[^s4.15] *Subul al-Hudā* records no fighting here.
-
+He reached Buwāṭ and did not meet with any harm (*lam yalqa kaydā*), and returned to Madīnah.[^s4.15]
 ## The place
 
 Buwāṭ is a mountain of the mountains of Juhaynah, on the side of Raḍwā, a mountain at Yanbuʿ; between it and Madīnah are four *burud*.[^s4.15]
