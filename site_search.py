@@ -17,7 +17,7 @@ Makes the published site findable by a reader who types plain English — "Abu B
    notes share goes to the note site_search.json calls "primary", or becomes a disambiguation page
    if it is listed as "ambiguous". Quartz would otherwise send it to whichever note it met first.
    Redirects that differ from the page they point to only in letter case (Badr.html → badr) are
-   removed: Netlify ignores case, so such a redirect loops for ever.
+   removed: on a case-insensitive host or file system such a redirect loops for ever.
 3. A check: every query under "expect" in site_search.json must match its note, and the search
    script must carry the folding patch. If not, this script exits non-zero and the build fails.
 
@@ -223,7 +223,7 @@ def write_redirects(public, notes, cfg, slug_of):
 def drop_case_twins(public):
     """Quartz writes a redirect at each note's unfolded name (Abū-Bakr-al-Ṣiddīq.html → abu-bakr-al-siddiq).
     For a title that is already plain ASCII the two differ only in letter case (Badr.html → badr,
-    Start-Here.html → start-here). Netlify serves paths case-insensitively, so the redirect answers for
+    Start-Here.html → start-here). A case-insensitive host or file system answers such a redirect for
     the page itself and the browser loops for ever. Remove every redirect whose lower-cased name is a
     real page. Returns the names removed."""
     removed = []
@@ -271,7 +271,7 @@ def main(public):
           f"{stats['disambiguation']} disambiguation pages.")
     if twins:
         print(f"  {len(twins)} redirects differing from their page only in letter case removed "
-              f"(they loop on Netlify): {', '.join(twins[:6])}{' …' if len(twins) > 6 else ''}")
+              f"(they loop on case-insensitive hosts): {', '.join(twins[:6])}{' …' if len(twins) > 6 else ''}")
     if stats["skipped"]:
         print(f"  (not redirected, the address is a real page: {', '.join(stats['skipped'])})")
     problems = check(public, notes, cfg, lines)

@@ -9,7 +9,7 @@ lines — **when you change one, change the other**.
 An Obsidian vault, git-backed, containing an English-language scholarly wiki of the *Sīrah* (Prophetic
 biography) written from an orthodox Sunni perspective. The deliverable is the Markdown notes and the link
 graph between them. The same files are also the source of the public site **nabiwiki**
-(https://nabiwiki.netlify.app/), built with Quartz v5.
+(https://eahmed234.github.io/), built with Quartz v5.
 
 Layout (repository root):
 
@@ -29,7 +29,7 @@ Layout (repository root):
 | `.claude/skills/`, `rewrite-queue.sh` | The ledger / rewrite / verify procedures, and the script that runs them over `review/queue.txt` |
 | `docs/site.md` | How the site is built, navigated and searched — read only when working on the site |
 | `ledger/` | Claim ledgers: one file per source chapter or entry, read once and reused (see `ledger/README.md`) — tracked, Quartz-ignored |
-| `build.sh`, `quartz.config.yaml`, `patch-quartz.mjs`, `custom.scss`, `netlify.toml`, `.github/` | Site build |
+| `build.sh`, `quartz.config.yaml`, `patch-quartz.mjs`, `custom.scss`, `.github/` | Site build |
 | `.obsidian/` | Obsidian config + `obsidian-git` plugin |
 
 ## Git workflow
@@ -42,7 +42,7 @@ When committing from the CLI, follow the same `vault backup: <timestamp>` conven
 `.obsidian/workspace.json` and `.obsidian/graph.json` as noise in diffs (both are git-ignored).
 
 **Branches — work on `drafts`, publish from `main`.** Every push to `main` deploys the site, and each
-deploy costs Netlify credits. So the vault is checked out on `drafts` (tracking `origin/drafts`), and
+deploy runs a full build. So the vault is checked out on `drafts` (tracking `origin/drafts`), and
 pushes from Obsidian go there without deploying. The user publishes when ready, with
 `git push origin drafts:main`.
 - Agents commit to `drafts` only. They never push, and never commit or merge to `main`, unless the user

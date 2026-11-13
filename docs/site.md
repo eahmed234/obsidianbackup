@@ -8,14 +8,13 @@ scripts or `site_search.json`. It is not needed for writing or rewriting notes; 
 
 Pushing to `main` runs `.github/workflows/deploy.yml`, which runs `build.sh`. `build.sh` begins with
 `python3 audit.py --no-content` under `set -e`: **a citation to a page that does not exist, an orphaned
-note, or a wrapped link fails the build, so nothing is deployed** and the live site stays as it was (this
-also gates a Netlify-side build, which uses the same script). It then fetches Quartz into `.quartz/` **at the commit pinned as `QUARTZ_REF` in `build.sh`**, copies in
+note, or a wrapped link fails the build, so nothing is deployed** and the live site stays as it was . It then fetches Quartz into `.quartz/` **at the commit pinned as `QUARTZ_REF` in `build.sh`**, copies in
 `quartz.config.yaml` and `custom.scss`, runs `patch-quartz.mjs` (folds IJMES diacritics and Arabic script
 into ASCII URL slugs — without it the CDN produces redirect loops and 404s — and makes search fold
 diacritics; see **Search and names**), builds into `public/`, and
 runs `site_notice.py` over `public/` (every page whose note is tagged `unverified` gets a warning callout
 under its tags; the homepage gets a site-wide version), then runs `site_nav.py` and `site_search.py` over `public/`, and copies `start-here.html` to `index.html`, so the short start page
-is the homepage and the hub stays at `/the-sirah`; then `netlify-cli` deploys `public/`. The notice lives only in the built HTML — notes are
+is the homepage and the hub stays at `/the-sirah`; then the workflow uploads `public/` as a GitHub Pages artifact and deploys it (Settings → Pages → Source must be "GitHub Actions"; the repo is `eahmed234/eahmed234.github.io`, so the site is served from the root). The notice lives only in the built HTML — notes are
 never edited for it — so it disappears from a page as soon as the user marks the note `verified`.
 **Site navigation is driven by the hub and frontmatter** (`site_nav.py`; Quartz's Explorer and
 Properties plugins are disabled in its favour). The left sidebar mirrors `The Sīrah.md` — its `##`
@@ -45,8 +44,7 @@ which touches a note:
   tag pages and `.base` files from the index, orders notes by inbound links, writes a redirect for every
   extra name, and settles shared names (below). It also deletes the redirect Quartz writes at a note's
   unfolded name when that differs from the page only in letter case (`Badr.html` → `badr`,
-  `Start-Here.html` → `start-here`): Netlify ignores case, so such a redirect answers for the page itself
-  and the browser loops for ever. (Every note whose title is plain ASCII was affected until Nov 2026.) It then checks every query under `expect` and exits
+  `Start-Here.html` → `start-here`): a case-insensitive host or file system answers such a redirect for the page itself and the browser loops for ever. GitHub Pages is case-sensitive, so the deletion is a precaution. It then checks every query under `expect` and exits
   non-zero — failing the build — if one no longer matches its note.
 - **`site_search.json`** is the only hand-kept part: `extra` (note → names a reader may type), `primary`
   (shared name → the one note its URL opens), `ambiguous` (shared names that become a disambiguation

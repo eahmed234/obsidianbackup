@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: nabiwiki.netlify.app
+  baseUrl: eahmed234.github.io
   ignorePatterns:
     - private
     - templates
@@ -32,7 +32,6 @@ configuration:
     - build.sh
     - patch-quartz.mjs
     - custom.scss
-    - netlify.toml
     - package.json
     - package-lock.json
     - node_modules
@@ -243,7 +242,7 @@ plugins:
     enabled: true
     options:
       links:
-        "nabiwiki": "https://nabiwiki.netlify.app"
+        "nabiwiki": "https://eahmed234.github.io"
         "GitHub": "https://github.com/eahmed234/obsidianbackup"
     layout:
       position: footer
