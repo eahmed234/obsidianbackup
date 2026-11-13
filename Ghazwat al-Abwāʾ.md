@@ -16,53 +16,45 @@ tags:
   - treaty
   - 2-ah
   - unverified
-date_hijri: Ṣafar 2 AH (August 623 CE)
-location: "al-Abwāʾ & Waddān"
+date_hijri: "Ṣafar 2 AH"
+duration: "fifteen nights"
+location: "al-Abwāʾ (Waddān)"
 commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
-commanders_enemy: "Caravan of Quraysh (evaded contact)"
 standard_bearer: "[[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁"
-deputy_in_medina: "[[Saʿd b. ʿUbādah]] ﵁"
-strength_muslim: "Company of Muhājirūn warriors (*Subul al-Hudā*, 4:14)"
-strength_enemy: "Unspecified Quraysh caravan"
-casualties_muslim: 0
-casualties_enemy: 0
-treaty_partner: "Banū Ḍamrah (represented by Makhshī b. ʿAmr al-Ḍamrī)"
-duration: "15 nights (*Subul al-Hudā*, 4:14)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 14–15)"
+deputy_in_medina: "[[Saʿd b. ʿUbādah]] ﵁ (according to Abū Saʿd and Abū ʿUmar)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 14)"
 ---
 
-# Ghazwat al-Abwāʾ (غزوة الأبواء - ودان)
-*The First Ghazwah in Islamic History — The Deployment to Waddān, The Standard of Ḥamzah, and The Universal Pact with Banū Ḍamrah*
+# Ghazwat al-Abwāʾ (غزوة الأبواء)
+*The first campaign the Messenger of Allāh ﷺ fought in person, and the truce with Banū Ḍamrah*[^s4.14]
 
-## 1. Strategic Context & Historical Precedence
-Following the Hijrah to Medina, the Messenger of Allāh ﷺ spent the remaining months of the first year organizing the civic fabric of the state, enacting **[[Dustūr al-Madīnah]]**, establishing **[[al-Muʾākhāh]]**, and dispatching early scouting detachments (*sarāyā*) (*Subul al-Hudā*, 4:14).
+Ghazwat al-Abwāʾ, also called Ghazwat Waddān, was the first campaign the Messenger of Allāh ﷺ himself fought. He went out in Ṣafar of the second year of the hijrah with the [[al-Muhājirūn|Muhājirūn]], intercepting a caravan of [[Quraysh]]; he met no fighting, but made a truce with Banū Ḍamrah b. ʿAbd Manāt b. [[Banū Kinānah|Kinānah]], and returned to Madīnah after an absence of fifteen nights.[^s4.14]
 
-In the month of Ṣafar 2 AH (twelve months following the arrival in Medina), the Messenger of Allāh ﷺ personally marched out at the head of an army for the first time in Islamic history:
-> «وَهِيَ أَوَّلُ غَزَاةٍ غَزَاهَا رَسُولُ اللَّهِ ﷺ بِنَفْسِهِ الْكَرِيمَةِ»
-> *"And this was the very first military campaign that the Messenger of Allāh ﷺ commanded in his own noble person."* (*Subul al-Hudā*, 4:14).
+## The departure
 
-The strategic objective was to project Islamic sovereign authority along the coastal trade route connecting Makkah to Syria, intercepting a commercial caravan belonging to Quraysh (*Subul al-Hudā*, 4:14).
+Abū ʿAmr says that the Prophet ﷺ stayed in Madīnah for the rest of Rabīʿ al-Awwal, the month in which he arrived, and for the rest of the year until Ṣafar of the second year. He then went out on a campaign in Ṣafar. [[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁ carried his banner, which was white. According to what Abū Saʿd and Abū ʿUmar said, he appointed [[Saʿd b. ʿUbādah]] ﵁ over Madīnah. He went out with the Muhājirūn, none of them an Anṣārī, to intercept a caravan of Quraysh, and met no fighting.[^s4.14]
 
-## 2. Mobilization & Vanguard Deployment
-The Prophet ﷺ appointed the chieftain of the Khazraj, **[[Saʿd b. ʿUbādah]]** ﵁, as his deputy governor in charge of Medina (*Subul al-Hudā*, 4:14). 
+## The truce with Banū Ḍamrah
 
-The expeditionary force was composed entirely of **[[al-Muhājirūn]]**, as the Anṣār were not bound by the second pledge of al-ʿAqabah to fight outside the defensive boundaries of Medina (*Subul al-Hudā*, 4:14). The Prophet ﷺ entrusted the supreme white standard of the army to his valiant paternal uncle, **[[Ḥamzah b. ʿAbd al-Muṭṭalib]]** ﵁ (*Subul al-Hudā*, 4:14).
+The Prophet ﷺ made a truce with Banū Ḍamrah b. ʿAbd Manāt b. Kinānah, and their chief concluded it with him. Ibn Isḥāq, Ibn Saʿd and Abū ʿAmr name Makhshī b. ʿAmr al-Ḍamrī in this connection, whereas Ibn al-Kalbī gives ʿUmārah b. Makhshī b. Khuwaylid b. ʿAbd Fahm b. Yaʿmur b. ʿAwf b. Jadī b. Ḍamrah. Ibn Ḥazm, in *al-Jamharah*, likewise says that he was ʿUmārah b. Makhshī — "and Allāh knows best".[^s4.14]
 
-The force advanced southwest across the coastal desert plains until they reached **Waddān** and **al-Abwāʾ**—the historic resting place of the Prophet's mother, **[[Āminah bint Wahb]]** (*Subul al-Hudā*, 4:14). The Qurashī caravan had bypassed the area, and no military clash took place (*Subul al-Hudā*, 4:14).
+The terms were that the Prophet ﷺ would not raid Banū Ḍamrah and they would not raid him, that they would not gather in large numbers against him, and that they would not help an enemy against him. He wrote a document between himself and them:[^s4.14]
 
-## 3. The Treaty of Alliance with Banū Ḍamrah
-Rather than returning empty-handed, the Prophet ﷺ seized the initiative to transform the geopolitical map of the Red Sea littoral. He entered into direct diplomatic negotiations with the powerful bedouin tribe of **Banū Ḍamrah** (Banū Ḍamrah b. Bakr b. ʿAbd Manāt b. Kinānah), residing in the territory (*Subul al-Hudā*, 4:14).
+> «بسم الله الرحمن الرحيم. هذا كتاب من محمد رسول الله لبني ضمرة بأنهم آمنون على أموالهم وأنفسهم، وأن لهم النصرة على من رامهم إلا أن يحاربوا في دين الله ما بل بحر صوفة. وأن النبي صلى الله عليه وآله وسلم إذا دعاهم لنصره أجابوه، عليهم بذلك ذمة الله وذمة رسوله، ولهم النصر على من بر منهم واتقى»
 
-Their paramount chieftain, **Makhshī b. ʿAmr al-Ḍamrī**, met with the Messenger of Allāh ﷺ and concluded a binding covenant of mutual defense, non-aggression, and friendship (*Subul al-Hudā*, 4:14). The Prophet ﷺ personally dictated the historic charter:
-> «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. هَذَا كِتَابٌ مِنْ مُحَمَّدٍ رَسُولِ اللَّهِ لِبَنِي ضَمْرَةَ: بِأَنَّهُمْ آمِنُونَ عَلَى أَمْوَالِهِمْ وَأَنْفُسِهِمْ، وَأَنَّ لَهُمُ النَّصْرَةَ عَلَى مَنْ رَامَهُمْ، إِلَّا أَنْ يُحَارِبُوا فِي دِينِ اللَّهِ، مَا بَلَّ بَحْرٌ صُوفَةً. وَأَنَّ النَّبِيَّ ﷺ إِذَا دَعَاهُمْ لِنَصْرِهِ أَجَابُوهُ، عَلَيْهِمْ بِذَلِكَ ذِمَّةُ اللَّهِ وَذِمَّةُ رَسُولِهِ، وَلَهُمُ النَّصْرُ عَلَى مَنْ بَرَّ مِنْهُمْ وَاتَّقَى»
-> *"In the name of Allāh, the Most Compassionate, the Most Merciful. This is a covenant from Muhammad, the Messenger of Allāh, to Banū Ḍamrah: that they are secure in their wealth and their lives, and that they shall have assistance against whoever attacks them, so long as they do not wage war against the religion of Allāh, for as long as a sea wets a fleece of wool. And that whenever the Prophet calls upon them for assistance, they shall respond to him. Upon them is the pledge of Allāh and the pledge of His Messenger, and assistance is assured for whoever among them acts righteously and remains God-fearing."* (*Subul al-Hudā*, 4:14).
+In English: "In the name of Allāh, the Most Merciful, the Most Compassionate. This is a document from Muḥammad, the Messenger of Allāh, to Banū Ḍamrah: that they are secure in their property and their persons, and that they have support against whoever seeks to harm them, unless they wage war against the religion of Allāh, for as long as the sea wets a piece of wool; and that when the Prophet ﷺ calls them to his support, they will answer him. Upon them for that is the covenant (*dhimmah*) of Allāh and the covenant of His Messenger, and theirs is support against whoever of them is righteous and godfearing."[^s4.14]
 
-## 4. Strategic Impact
-- **The Inauguration of Prophetic Campaigns**: Al-Abwāʾ established the precedent of Prophetic expeditions (*ghazawāt*), demonstrating the transition of the Muslim community from a persecuted minority in Makkah to an assertive, sovereign territorial power in Arabia.
-- **Securing the Western Flank**: The treaty with Banū Ḍamrah secured the southern coastal corridor between Medina and Yanbuʿ, depriving Quraysh of potential tribal allies along the main caravan artery and paving the way for the decisive engagements at **[[Ghazwat al-ʿUshayrah]]** and **[[Ghazwat Badr al-Kubrā]]**.
-- **Absence Duration**: The Prophet ﷺ remained away from Medina for fifteen (15) nights before returning safely without experiencing any military harm (*Subul al-Hudā*, 4:14).
+Then the Messenger of Allāh ﷺ returned to Madīnah; his absence had been fifteen nights.[^s4.14]
 
-## 5. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 14–15 (al-Bāb al-Thālith fī Ghazwat al-Abwāʾ wa-hiya Waddān).
-2. *Ibn Hishām*, *al-Sīrah al-Nabawiyyah*, Ghazwat al-Abwāʾ.
+## The places and the names
+
+Al-Abwāʾ is a village between Makkah and Madīnah. It is said that it was so named because of the pestilence (*wabāʾ*) in it, but al-Ṣāliḥī objects that, were that so, the word would be *al-Awbāʾ* or a transposition of it; the correct view, he says, is that it was named because the floods settle (*tabawwaʾ*) in it, as Thābit b. Qāsim said. Waddān is a large village of the district of al-Farʿ.[^s4.14]
+
+Of Makhshī, al-Ṣāliḥī says he has not seen anyone who mentions an acceptance of Islam by him.[^s4.14]
+
+## References
+
+1. *Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād*, Imām al-Ṣāliḥī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993, vol. 4, p. 14.
+
+[^s4.14]: *Subul al-Hudā*, 4:14.
