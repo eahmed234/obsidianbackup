@@ -37,7 +37,15 @@ ledger leaves unclear — and then correct the ledger first.
 - Each sentence states what one or more entries state, at the strength of their kind:
   `qīla` → "it is said / reported"; `khilāf` → both sides; `verdict` → as that person's verdict;
   `hedge` → the hedge kept; `via` → the footnote carries the attribution unless the reader needs it.
-- A `- note:` in a ledger is the reader's remark, not the book's. It never becomes a claim.
+- A `- note:` in a ledger is the reader's remark, not the book's. It never becomes a claim: no "this most
+  naturally means…", and no section listing what the source does not say. A silence is stated only where a
+  reader would expect the fact (the year, a death date), in one clause.
+- The italic epithet line, the lead and every frontmatter value are claims like any other: each clause
+  needs its entry. ("Reached Buwāṭ without meeting the caravan" is not what «لم يلق كيدا» says.)
+- A frontmatter value for a disputed point gives both sides or is left out; a reconciliation the page
+  reports in the passive is not stated as fact.
+- Names as the ledger has them; recurring phrases as `ledger/GLOSSARY.md` renders them.
+- Nothing about the book's own arrangement ("al-Ṣāliḥī treats it after…") unless the reader needs it.
 - Every `khilāf` and `verdict` entry about the subject appears in the note, usually in a disputes section.
 - Footnotes are the entry's page: `S4.174.12` → `[^s4.174]`, `I7.99.03` → `[^i7.99]`, `K3039.01` →
   `[^bukh3039]`, `M1779.01` → `[^musl1779]`. One per page, reused.
@@ -56,6 +64,16 @@ ledger leaves unclear — and then correct the ledger first.
 - Body: `# Title (Arabic)`, an italic epithet line, a sourced lead paragraph, plain `##` sections in
   chronological order, prose paragraphs (lists only for real lists), a disputes section,
   `## References` listing only the canonical books cited, then the footnote definitions.
+- **Write for a reader, not as a list of entries.** The note is an encyclopedia article, not the ledger
+  in English:
+  - connect sentences into paragraphs; weave a gloss into the sentence that needs it ("Safawān, a valley
+    on the side of Badr") rather than giving it a sentence of its own; drop glosses the story does not need;
+  - when every sentence of a paragraph rests on the same page, footnote the paragraph once, at its end;
+  - a dispute is told once: in the narrative where it matters (the date, the deputy), or in the disputes
+    section — not both, and no section that only points to another;
+  - a one-page chapter makes a short note: a lead and two or three sections. Do not pad it with headings;
+  - translate or explain a term on first use (*barīd*, *sawīq*) if the ledger gives the meaning; otherwise
+    leave it in italics.
 - No analysis, "significance" or "lessons" unless an entry gives them as the author's own.
 - Honorific ligatures agree in gender and number (﵁ ﵂ ﵃ ﵄ ﵅ ﵊).
 
@@ -68,7 +86,9 @@ with none. Common slips:
 
 - a `qīla` or `hedge` entry written as fact; one side of a `khilāf`;
 - a detail moved to another person or occasion; two entries merged into one story;
-- a connective the entries do not give: "so", "because", "then", "the next morning", "immediately";
+- a connective or detail the entries do not give: "so", "because", "then", "first", "on the way back",
+  "the next morning", "immediately", "the people *of Madinah*";
+- an attribution stretched: a date or detail credited to an authority whose entry does not contain it;
 - a flourish: "elite", "fearless", "at full gallop", "catastrophic";
 - a year, kunyah, nasab or place identification supplied from general knowledge;
 - a frontmatter value that merges two descriptions the entries keep apart;

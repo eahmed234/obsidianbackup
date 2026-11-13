@@ -36,7 +36,8 @@ It is said that Abū Sufyān did this when he came back that night from Sallām 
   - `via` — the author names the work or person he takes it from (*qāla fī al-Imtāʿ*);
   - `gloss` — from the *sharḥ al-gharīb*: only definitions of places, peoples and things a note may use.
     Vocalisation notes are left out.
-- **`>` line**: the Arabic, **verbatim from that page**, as short as carries the claim. Words left out in
+- **`>` line**: the Arabic, **verbatim from that page**, as short as carries the claim but able to stand
+  alone (its subject included; a gloss with the word it glosses). Words left out in
   the middle are marked ` … `. `python3 audit.py --ledger` fails if a snippet is not on its page.
 - **English line(s)**: what the Arabic says and no more — no connective, timing, motive or adjective that
   is not in the snippet. Arabic idiom is rendered, not transliterated.

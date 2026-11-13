@@ -35,7 +35,8 @@ snippet starts or ends oddly, open the page.
 
 ## 3. Check the note against the entries
 
-For each sentence or clause with a footnote, and each frontmatter value:
+For each sentence or clause — **including the italic epithet line, the lead paragraph, every frontmatter
+value and any sentence without a footnote**:
 
 - **supported** — an entry says this, at this strength;
 - **overstated** — the entry says less: a `qīla` as fact, one side of a `khilāf`, a dropped verdict, an
@@ -47,6 +48,16 @@ For each sentence or clause with a footnote, and each frontmatter value:
 Also:
 
 - «…» quotations match a snippet word for word;
+- small additions: "first", "then", "on the way back", "of Madinah", "himself" — is each in a snippet?
+- nothing from a ledger `- note:` appears as a claim or an interpretation;
+- a disputed point in the frontmatter shows both sides; a reconciliation is not stated as fact;
+- names are as the ledger prints them, and recurring phrases follow `ledger/GLOSSARY.md`;
+- **attribution scope** — for each `via` entry, re-read the Arabic: do the authority's words really run to
+  the end of the snippet, or does the author's own narrative resume? If it can be read both ways, it goes
+  under **For you**;
+- **readability** — glosses standing as one-sentence paragraphs, the same dispute told twice, a footnote
+  after every sentence of a paragraph that rests on one page: tidy these (see "Write for a reader" in the
+  rewrite-note skill). This changes wording only, never content.
 - **missing dispute** — a `khilāf`, `verdict` or `qīla` entry about the subject that the note leaves out;
 - **completeness of the ledger** — read in full the page with the *tanbīhāt* (or, for a Companion, the
   whole entry if it is two pages or less) and confirm no sentence lacks an entry.

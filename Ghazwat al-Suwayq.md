@@ -19,7 +19,7 @@ commanders_muslim:
 commanders_enemy:
   - "[[Abū Sufyān b. Ḥarb]]"
 deputy_in_medina: "Bashīr b. ʿAbd al-Mundhir"
-strength_muslim: "Two hundred of the Muhājirūn and Anṣār, of whom eighty were riders"
+strength_muslim: "Two hundred of the Muhājirūn and Anṣār (*al-Ishārah*: eighty)"
 strength_enemy: "Two hundred riders of Quraysh"
 casualties_muslim: "A man of the Anṣār and an ally of his"
 duration: "Five days away from Madinah"
@@ -39,7 +39,7 @@ When the routed remnant of the polytheists returned to Makkah, bereaved and grie
 
 He took the Najd road and halted at the head of Qanāh, towards a mountain called Yatīb, at Madinah, about a *barīd* away or so.[^s4.174] Qanāh is one of the valleys of Madinah.[^s4.175]
 
-That night he went to Banū al-Naḍīr under cover of darkness. He came first to Ḥuyayy b. Akhṭab and knocked at his door, but Ḥuyayy was afraid of him and refused to open.[^s4.174] He left and went to Sallām b. Mishkam, who was the chief of Banū al-Naḍīr at that time and the keeper of their treasure — the wealth they gathered against emergencies and whatever might befall them.[^s4.174][^s4.175] Abū Sufyān asked leave to enter and was admitted; Sallām gave him food and drink and told him of the people's private affairs and of the affairs of the Messenger of Allāh ﷺ.[^s4.174]
+That night he went to Banū al-Naḍīr under cover of darkness. He came to Ḥuyayy b. Akhṭab and knocked at his door, but Ḥuyayy was afraid of him and refused to open.[^s4.174] He left and went to Sallām b. Mishkam, who was the chief of Banū al-Naḍīr at that time and the keeper of their treasure — the wealth they gathered against emergencies and whatever might befall them.[^s4.174][^s4.175] Abū Sufyān asked leave to enter and was admitted; Sallām gave him food and drink and told him of the people's private affairs and of the affairs of the Messenger of Allāh ﷺ.[^s4.174]
 
 ## The raid on al-ʿUrayḍ
 
@@ -47,22 +47,18 @@ At the end of that night Abū Sufyān returned to his companions and sent men of
 
 ## The pursuit
 
-The people of Madinah learned of the raiders, and on Sunday the fifth of Dhū al-Ḥijjah the Messenger of Allāh ﷺ went out in pursuit with two hundred of the Muhājirūn and Anṣār.[^s4.174] He left Bashīr b. ʿAbd al-Mundhir in charge of Madinah.[^s4.174] He went as far as Qarqarat al-Kudr. Abū Sufyān and his companions were lightening their loads to flee, throwing down sacks of *sawīq*, which made up most of their provisions, and the Muslims picked them up. For this the expedition was named Ghazwat al-Suwayq. The Muslims did not catch up with the Quraysh.[^s4.174]
+The people learned of the raiders, and on Sunday the fifth of Dhū al-Ḥijjah, "at the head of twenty-two months" (the source names no year), the Messenger of Allāh ﷺ went out in pursuit with two hundred of the Muhājirūn and Anṣār.[^s4.174] He left Bashīr b. ʿAbd al-Mundhir in charge of Madinah.[^s4.174] He went as far as Qarqarat al-Kudr. Abū Sufyān and his companions were lightening their loads to flee, throwing down sacks of *sawīq*, which made up most of their provisions, and the Muslims picked them up. For this the expedition was named Ghazwat al-Suwayq. The Muslims did not catch up with the Quraysh.[^s4.174]
 
 *Sawīq* is wheat or barley that is roasted and then ground; it is carried as provisions and eaten dry at times, or with something to moisten it, or with ghee, or with honey and ghee.[^s4.174]
 
 ## The return
 
-The Messenger of Allāh ﷺ returned to Madinah, having been away five days.[^s4.174] On the way back the Muslims asked him whether he hoped this would count for them as an expedition (*ghazwah*), and he answered, "Yes."[^s4.174]
+The Messenger of Allāh ﷺ returned to Madinah, having been away five days.[^s4.174] When he brought them back, the Muslims asked him whether he hoped this would count for them as an expedition (*ghazwah*), and he answered, "Yes."[^s4.174]
 
 ## Disputes and variants
 
 - **The number of the Muslim force.** The text gives two hundred of the Muhājirūn and Anṣār, while *al-Ishārah* has eighty. The two figures have been reconciled by saying that the riders were eighty and the force as a whole two hundred.[^s4.174]
-- **When the raid took place.** It is said that Abū Sufyān did this when he came back that night from Sallām b. Mishkam. The source does not say more; the report most naturally means that he carried out the raid on al-ʿUrayḍ himself rather than sending men.[^s4.174]
-
-## What the source does not say
-
-The source does not give a year for the expedition; it dates the Prophet's ﷺ departure only as Sunday the fifth of Dhū al-Ḥijjah "at the head of twenty-two months", without saying from what the months are counted. It does not give a kunyah for Bashīr b. ʿAbd al-Mundhir, and it does not name the ally who was killed with the Anṣārī.[^s4.174]
+- **When the raid took place.** It is said that Abū Sufyān did this when he came back that night from Sallām b. Mishkam.[^s4.174]
 
 ## References
 

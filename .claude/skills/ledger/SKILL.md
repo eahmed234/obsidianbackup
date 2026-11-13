@@ -7,8 +7,8 @@ description: Read one source chapter or entry of the nabiwiki (Sīrah vault) cor
 
 Argument: a note name (`Ghazwat al-Suwayq`), or a source range (`S 4:174-175`, `I 7:99-100`, `K 3039`).
 
-`CLAUDE.md` holds the sourcing rules; `ledger/README.md` holds the ledger format. Read `ledger/README.md`
-and one finished ledger (`ledger/S 4.174 Ghazwat al-Suwayq.md`) before you start. This skill is the procedure.
+`CLAUDE.md` holds the sourcing rules; `ledger/README.md` holds the ledger format; `ledger/GLOSSARY.md` holds
+standing renderings and rulings. Read `ledger/README.md`, `ledger/GLOSSARY.md` and one finished ledger (`ledger/S 4.174 Ghazwat al-Suwayq.md`) before you start. This skill is the procedure.
 
 A ledger is the only time the chapter is read. Everything a note may later say has to be in it, and nothing
 may be in it that the page does not say.
@@ -38,7 +38,18 @@ may be in it that the page does not say.
 Read every page to its last line (pages often open with the tail of the previous section). Write the
 ledger as you go, in page order, under plain `##` headings that follow the chapter's own divisions.
 
-- Every sentence of the narrative and of the *tanbīhāt* gets an entry. Do not summarise.
+- Every sentence of the narrative and of the *tanbīhāt* gets an entry. Do not summarise. The chapter or
+  entry heading is the first entry (it often carries a second name: «وهي بدر الأولى»).
+- **A snippet stands alone**: it includes its subject, and a gloss includes the word being glossed
+  («سفوان … واد معروف», not «واد معروف»).
+- **Where a quotation ends.** After «قال فلان:» decide where his words stop and the author's narrative
+  resumes. If the sequel reads like the author's usual narrative (the opening formula of a chapter,
+  «خرج رسول الله … في شهر كذا»), or would contradict what the same page reports of that authority, make
+  it a separate entry, and if you cannot tell, say so under `unsettled:`. Never extend an attribution
+  to be safe.
+- **Names as printed.** Do not normalise a name to the form you know (أبو عمرو stays Abū ʿAmr). If the
+  print looks wrong, keep it, add a `- note:`, list it under `unsettled:`, and check `ledger/GLOSSARY.md`
+  for a ruling.
 - **Copy the Arabic from the file; do not retype it from memory.** Keep each snippet as short as carries the
   claim; mark words left out in the middle with ` … `.
 - Give each entry its tier (`matn` / `taḥqīq`) and its kind (`plain`, `qīla`, `khilāf`, `verdict`, `hedge`,
@@ -62,7 +73,8 @@ Re-read each entry: snippet, then rendering. The rendering says what the snippet
 - date idiom: «لاثنتي عشرة ليلة خلت» is "when twelve nights had passed", not "the twelfth night";
 - no adjective, timing ("that morning", "immediately") or motive the snippet lacks;
 - an unnamed person stays unnamed; a name the page gives without kunyah or nasab gets none;
-- numbers exactly as given, including "about" and "or so".
+- numbers exactly as given, including "about" and "or so";
+- recurring phrases as `ledger/GLOSSARY.md` renders them.
 
 ## 4. Verify and commit
 

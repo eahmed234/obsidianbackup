@@ -25,7 +25,7 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 16)"
 # Ghazwat Safawān (غزوة سفوان)
 *The expedition in which the Prophet ﷺ went out after Kurz b. Jābir al-Fihrī, who had raided the pasturing animals of Madīnah, and reached Safawān without overtaking him — also called Badr al-Ūlā*[^s4.16]
 
-Ghazwat Safawān, which al-Ṣāliḥī calls "Badr al-Ūlā" in the title of its chapter, was an expedition in which the Messenger of Allāh ﷺ went out after [[Kurz b. Jābir al-Fihrī]], who had raided the *sarḥ* of Madīnah, the animals sent out to pasture. The Prophet ﷺ sought him as far as Safawān on the side of Badr, did not overtake him, and returned, meeting with no harm.[^s4.16]
+Ghazwat Safawān, which al-Ṣāliḥī calls "Badr al-Ūlā" in the title of its chapter, was an expedition in which the Messenger of Allāh ﷺ went out after [[Kurz b. Jābir al-Fihrī]], who had raided the *sarḥ* of Madīnah, the animals sent out to pasture. The Prophet ﷺ sought him as far as Safawān on the side of Badr, did not overtake him, and returned, having met no fighting.[^s4.16][^s4.14]
 
 ## Date
 
@@ -47,6 +47,7 @@ Ibn Saʿd, Zirr b. Ḥubaysh and others mention this expedition before al-ʿUsha
 
 ## References
 
-1. *Subul al-Hudā wa-l-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993. Vol. 4, p. 16.
+1. *Subul al-Hudā wa-l-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993. Vol. 4, pp. 14, 16.
 
+[^s4.14]: *Subul al-Hudā*, 4:14, where «لم يلق كيدا» is glossed «أي حربا».
 [^s4.16]: *Subul al-Hudā*, 4:16.
