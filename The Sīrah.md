@@ -112,7 +112,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
   - [[Wafd Najrān]] (10 AH) — *The Christian Embassy, Event of Mubāhalah, and Dispatch of the Amīn*
   - [[Wafd Banī Ḥanīfah]] (9/10 AH) — *Confrontation with Musaylimah & Prophetic Vision of the Twin Bracelets*
   - [[Wafd Tujīb]] (9 AH) — *The Thirteen-Man Delegation bringing surplus Zakāt & the Youth of Banū Abdhā*
-  - [[Wafd Bahrāʾ]] (9/10 AH) — *The Yemeni Delegation & Prophetic Multiplication of the Dish of Ḥays*
+  - [[Wafd Bahrāʾ]] — *The delegation of Bahrāʾ from the Yemen, and the bowl of ḥays*
   - [[Wafd Kindah]] (10 AH) — *Arrival of the Silk-Clad Royal Horsemen under al-Ashʿath b. Qays*
 - [[Sariyyat ʿAlī b. Abī Ṭālib ilā al-Yaman]] (Ramaḍān 10 AH) — *Conversion of Madhḥij and Hamdān in a Single Day*
 

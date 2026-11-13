@@ -9,7 +9,6 @@ tags:
   - delegation
   - miracles
   - unverified
-location: "Medina (at the residence of al-Miqdād b. ʿAmr in Banū Ḥudaylah)"
 participants_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad b. ʿAbdullāh]] ﷺ"
   - "[[al-Miqdād b. ʿAmr]] ﵁"
@@ -18,45 +17,28 @@ primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 6, p. 284)"
 ---
 
 # Wafd Bahrāʾ (وفد بهراء)
-*The Yemeni Delegation of Bahrāʾ and the Prophetic Multiplication of the Dish of Ḥays*
+*The delegation of Bahrāʾ from the Yemen, and the bowl of ḥays*
 
-> [!NOTE] Primary Sourcing & Biographical Provenance
-> Sourced directly from Imām Muḥammad b. Yūsuf al-Ṣāliḥī's ***[[Subul al-Hudā war-Rashād]]***, vol. 6, p. 284 (*al-Bāb al-Thāmin ʿAshar fī Wufūd Bahrāʾ ilā Rasūlillāh ﷺ*).
+A delegation of thirteen men of Bahrāʾ came from the Yemen to the Messenger of Allāh ﷺ and lodged at the door of [[al-Miqdād b. ʿAmr]] ﵁.[^s6.284] Food that the household of al-Miqdād set before them, and the remainder of it that the Prophet ﷺ ate from and sent back, lasted as long as they stayed; hearing why, they bore witness that he is the Messenger of Allāh and became Muslims.[^s6.284]
 
----
+## Arrival at the house of al-Miqdād
+The men came leading their mounts until they reached the door of al-Miqdād b. ʿAmr, whose household lived among Banū Ḥudaylah. Al-Miqdād came out, welcomed them, lodged them and set before them a large bowl (*jafnah*) of *ḥays*, a mixture of dried curd with dates and clarified butter. [[Ḍubāʿah bint al-Zubayr]] ﵂, who tells the story, says that the household had prepared it to sit down to it themselves before the guests alighted; al-Miqdād carried it to them, being generous with food.[^s6.284]
 
-## 1. Context & Arrival
-During the Year of Delegations (**[[ʿĀm al-Wufūd]]**, around the delegation period), a delegation from the southern Arab tribe of **Bahrāʾ** (a branch of Quḍāʿah in Yemen) journeyed to Medina to investigate Islam (*Subul al-Hudā*, 6:284).
-- **The Delegation**: The delegation consisted of thirteen men leading their riding camels (*rawāḥil*) (*Subul al-Hudā*, 6:284).
-- **Arrival at the Residence of al-Miqdād**: They arrived at the residence of the noble cavalier **[[al-Miqdād b. ʿAmr]]** ﵁ and his wife **[[Ḍubāʿah bint al-Zubayr]]** ﵂ (the cousin of the Prophet ﷺ) in the quarters of Banū Ḥudaylah in Medina (*Subul al-Hudā*, 6:284). Al-Miqdād welcomed them with hospitality and settled them as honored guests.
+## The remainder sent to the Prophet ﷺ
+The guests ate until they were fully satisfied. The bowl came back with something left in it, which was gathered into a small bowl and sent by Ḍubāʿah's *mawlāh* Sidrah to the Messenger of Allāh ﷺ, whom she found in the house of [[Umm Salamah]] ﵂. He asked: «ضباعة أرسلت بهذا؟» ("Did Ḍubāʿah send this?"). Sidrah said yes, and he told her to put it down, then asked what had become of the guest of Abū Maʿbad; she answered that they were with them. He and those with him in the house ate of it until they were fully satisfied, and Sidrah ate with them. Then he said: «اذهبي بما بقي إلى ضيفكم» ("Go with what is left to your guest").[^s6.284]
 
----
+## The bowl that did not diminish
+Sidrah took the bowl back to Ḍubāʿah, and the guests ate from it for as long as they stayed. Whenever it was set before them again it did not diminish. The guests began to say: "O Abū Maʿbad, you satisfy us with the food dearest to us, and we could not afford the like of this except at times. We were told that your land is short of food, that it is only *al-ʿilq* (the bare sufficiency of food) or the like, yet with you we are in plenty."[^s6.284]
 
-## 2. The Miracle of the Bowl of Ḥays
-Karīmah bint al-Miqdād narrated from her mother Ḍubāʿah bint al-Zubayr b. ʿAbd al-Muṭṭalib ﵂ that when the guests arrived, al-Miqdād presented them with a large bowl (*jafnah*) of *ḥays* (a traditional confection of dates, clarified butter, and dried curd) which the household had prepared for themselves (*Subul al-Hudā*, 6:284).
-- **Satiation of the Guests**: The thirteen delegates ate until they were completely full and satisfied, leaving a remaining portion in the dish.
-- **The Prophet's Touch**: Ḍubāʿah collected the remaining food into a smaller bowl and sent it via her bondwoman Sidrah to the Messenger of Allāh ﷺ, who was residing in the apartment of Mother of the Believers **[[Umm Salamah]]** ﵂ (*Subul al-Hudā*, 6:284). The Prophet ﷺ inquired: *«ضباعة أرسلت بهذا؟»* (*"Did Ḍubāʿah send this?"*), to which Sidrah replied affirmatively. The Prophet ﷺ then asked after the guests: *«ما فعل ضيف أبي معبد؟»* (*"How are the guests of Abū Maʿbad [al-Miqdād]?"*), and she answered: *"They are with us."*
-- The Prophet ﷺ ate from the dish alongside those present in the house, including Sidrah, until everyone was satisfied. He ﷺ then instructed her:
-  > «اذْهَبِي بِمَا بَقِيَ إِلَى ضَيْفِكُمْ»
-  > *"Take what remains back to your guests."* (*Subul al-Hudā*, 6:284).
+Abū Maʿbad told them that the Messenger of Allāh ﷺ had eaten of it and sent it back, and that this was the blessing (*barakah*) of his fingers ﷺ. The men began to say: «نشهد أنه رسول الله» ("We bear witness that he is the Messenger of Allāh"), and their certainty grew — "and that was what he ﷺ had intended".[^s6.284]
 
----
+## Islam and departure
+They came to him and became Muslims, learned the obligations (*al-farāʾiḍ*) and stayed some days. Then they came to take leave of the Messenger of Allāh ﷺ; he ordered gifts (*jawāʾiz*) for them, and they went back to their families.[^s6.284] The page gives no date for the delegation.
 
-## 3. The Enduring Blessing & Conversion
-Sidrah brought the bowl back to Ḍubāʿah and al-Miqdād. Throughout the entire duration of the delegation's stay in Medina, the guests continued to eat from this single bowl without its contents ever diminishing (*mā taghīḍ*) (*Subul al-Hudā*, 6:284).
-- **Astonishment of the Delegates**: The delegates eventually marveled to al-Miqdād: *"O Abū Maʿbad! You satisfy us with the most delectable food, yet we were told that your land possesses little sustenance except meager rations, while we find ourselves completely satiated!"* (*Subul al-Hudā*, 6:284).
-- **The Proclamation of Prophethood**: Al-Miqdād informed them: *"This is the food from which the Messenger of Allāh ﷺ ate and returned to us; it is the miraculous divine blessing (*barakah*) of his blessed fingers ﷺ."*
-- Upon hearing this clear sign, the men of Bahrāʾ exclaimed:
-  > «نَشْهَدُ أَنَّهُ رَسُولُ اللَّهِ!»
-  > *"We bear witness that he is indeed the Messenger of Allāh!"* (*Subul al-Hudā*, 6:284).
-- Their conviction intensified; they presented themselves before the Prophet ﷺ, embraced Islam sincerely, learned the compulsory religious ordinances (*al-farāʾiḍ*), and remained in Medina for several days in devotion (*Subul al-Hudā*, 6:284).
+## Chain of the report
+The report is given by Muḥammad b. ʿUmar from Karīmah bint al-Miqdād, who heard it from her mother Ḍubāʿah bint al-Zubayr b. ʿAbd al-Muṭṭalib; the part about the bowl in the Prophet's ﷺ house is told by Sidrah.[^s6.284]
 
----
+## References
+1. *Subul al-Hudā wa-l-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī, Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993, vol. 6, p. 284.
 
-## 4. Departure
-When they prepared to return to Yemen, the delegates came to the Messenger of Allāh ﷺ to bid him farewell. The Prophet ﷺ ordered generous gifts and provisions (*jawāʾiz*) for each of them, and they returned to their tribe as ambassadors of the faith (*Subul al-Hudā*, 6:284).
-
----
-
-## 5. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 6, p. 284 (*al-Bāb al-Thāmin ʿAshar fī Wufūd Bahrāʾ ilā Rasūlillāh ﷺ*).
+[^s6.284]: *Subul al-Hudā*, 6:284.
