@@ -40,7 +40,7 @@ In the report Ibn Ḥajar quotes from Yazīd b. Rūmān, a group of eight men fr
 
 ## The Conquest of Makkah
 
-According to Ibn Ḥajar, Mūsā b. ʿUqbah (from Ibn Shihāb), Abū l-Aswad (from ʿUrwah), Ibn Isḥāq and others name Kurz among those martyred on the day of the Conquest, among those who were with [[Khālid b. al-Walīd]], together with [[Ḥubaysh b. Khālid al-Khuzāʿī|Ḥubaysh b. Khālid]].[^i5.435] Ibn Isḥāq says that the two strayed from the army and took another road, and were killed.[^i5.435]
+According to Ibn Ḥajar, Mūsā b. ʿUqbah (from Ibn Shihāb), Abū l-Aswad (from ʿUrwah), Ibn Isḥāq and others name Kurz among those martyred on the day of the Conquest, among those who were with [[Khālid b. al-Walīd]], together with [[Ḥubaysh b. Khālid al-Khuzāʿī|Ḥubaysh b. Khālid]].[^i5.435] Ibn Isḥāq says that the two strayed from the army and took another road, and were killed.[^i5.435] Al-Ṣāliḥī likewise says that he became Muslim and was martyred in the expedition of the Conquest.[^s4.16]
 
 Ibn Ḥajar adds that the same occurs in al-Bukhārī, in the report of Hishām b. ʿUrwah from his father: the Prophet ﷺ ordered Khālid b. al-Walīd to enter from the upper part of Makkah, and two men of Khālid's horse were killed that day, Ḥubaysh b. al-Ashʿar al-Khuzāʿī and Kurz b. Jābir al-Fihrī.[^i5.435]
 

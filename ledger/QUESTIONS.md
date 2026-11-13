@@ -58,3 +58,10 @@ that has any.
   now: Abū ʿAmr is named only for the stay in Madīnah; departure and treaty terms are plain narrative. →
 - [ ] **S4.14.04 — «أبو سعد وأبو عمر».** Abū ʿUmar here, Abū ʿAmr elsewhere. (See General on «أبو عمرو».)
   now: as printed. →
+
+## Kurz b. Jābir al-Fihrī
+
+- [ ] **I5.435.01–02 — whose words are «ثمانية فأسلموا … وفيه: …».** They follow al-Wāqidī's «قدم نفر من عرينة» (5:434), but the page does not say whether al-Wāqidī's words run to the end or Ibn Ḥajar resumes.
+  now: given as the report from Yazīd b. Rūmān (via al-Wāqidī), as printed. →
+- [ ] **I5.435.05 vs .07 — Ḥubaysh b. Khālid / Ḥubaysh b. al-Ashʿar.** Ibn Ḥajar writes «هو وحبيش بن خالد» and then «وكذا وقع عند البخاري … حبيش بن الأشعر الخزاعي»; the page does not say whether one man or two.
+  now: both names given as printed; the note links the first to Ḥubaysh b. Khālid and does not identify the two. →
