@@ -44,6 +44,7 @@ Kurz was one of the chiefs of the polytheists before he became Muslim. He became
 ## Disputes
 
 Ibn Saʿd, Zirr b. Ḥubaysh and others mention this expedition before al-ʿUshayrah, while Ibn Isḥāq mentions it after it.[^s4.16]
+
 ## References
 
 1. *Subul al-Hudā wa-l-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993. Vol. 4, p. 16.
