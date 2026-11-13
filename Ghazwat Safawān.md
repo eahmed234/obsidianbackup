@@ -35,7 +35,7 @@ Ibn Isḥāq says that when the Messenger of Allāh ﷺ came back from [[Ghazwat
 
 He set out in the track of Kurz b. Jābir al-Fihrī because of Kurz's raid on the *sarḥ* of Madīnah, which used to pasture at al-Jammāʾ and its surroundings.[^s4.16] Al-Jammāʾ is a place in Madīnah.[^s4.16] ʿAlī b. Abī Ṭālib ﵁ carried the Prophet's ﷺ banner, which was white, and he left [[Zayd b. Ḥārithah]] ﵁ as his deputy over Madīnah.[^s4.16]
 
-The Prophet ﷺ sought Kurz until he reached Safawān, on the side of Badr; he did not overtake him, and returned, meeting with no harm.[^s4.16] Safawān is a well-known valley.[^s4.16]
+The Prophet ﷺ sought Kurz until he reached Safawān, on the side of Badr; he did not overtake him, and returned, having met no fighting.[^s4.16] Safawān is a well-known valley.[^s4.16]
 
 ## Kurz b. Jābir
 
