@@ -11,42 +11,45 @@ tags:
   - caravan_interception
   - 2-ah
   - unverified
-date_hijri: Rabīʿ al-Awwal 2 AH (October 623 CE)
-location: "Mount Buwāṭ (Juhaynah mountains near Raḍwā)"
+date_hijri: "Rabīʿ al-Awwal 2 AH, thirteen months from the hijrah (Abū ʿUmar and Ibn Ḥazm: Rabīʿ al-Ākhir)"
+location: "Buwāṭ, a mountain of Juhaynah on the side of Raḍwā at Yanbuʿ"
 commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
-commanders_enemy: "[[Umayyah b. Khalaf]] ☠"
 standard_bearer: "[[Saʿd b. Abī Waqqāṣ]] ﵁"
-deputy_in_medina: "al-Sāʾib b. ʿUthmān b. Maẓʿūn ﵁ (or [[Saʿd b. Muʿādh]] ﵁)"
-strength_muslim: "200 Muhājirūn warriors (*Subul al-Hudā*, 4:15)"
-strength_enemy: "100 Qurashī guards escorting 2,500 camels (*Subul al-Hudā*, 4:15)"
-casualties_muslim: 0
-casualties_enemy: 0
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 15–16)"
+deputy_in_medina: "al-Sāʾib b. ʿUthmān b. Maẓʿūn (Ibn Hishām, Abū ʿUmar), or [[Saʿd b. Muʿādh]] (Ibn Saʿd)"
+strength_muslim: "200 of the Muhājirūn"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 15)"
 ---
 
 # Ghazwat Buwāṭ (غزوة بواط)
-*The Second Campaign of the Prophet ﷺ — The 200 Muhājirūn, The Standard of Saʿd, and The Interception of Umayyah b. Khalaf's 2,500 Camels*
+*The expedition in which the Prophet ﷺ went out with two hundred Muhājirūn to intercept a caravan of Quraysh and reached Buwāṭ without meeting it*[^s4.15]
 
-## 1. Strategic Context & Objective
-In Rabīʿ al-Awwal 2 AH (thirteen months following the Hijrah), the Messenger of Allāh ﷺ set out from Medina on his second personal campaign (*Subul al-Hudā*, 4:15).
+Ghazwat Buwāṭ was an expedition led in person by the Messenger of Allāh ﷺ at the head of thirteen months from his hijrah. He set out with two hundred of the Muhājirūn to intercept a caravan of Quraysh, reached the mountain of Buwāṭ, met with no harm, and returned to Madīnah.[^s4.15] Al-Ṣāliḥī treats it in the chapter after [[Ghazwat al-Abwāʾ]] and before [[Ghazwat Safawān]].
 
-Intelligence reached Medina regarding a massive commercial caravan belonging to Quraysh traversing the northern coastal route toward Syria (*Subul al-Hudā*, 4:15). The caravan carried substantial Makkan wealth, escorted by one hundred (100) armed men of Quraysh commanded by one of the arch-persecutors of Islam, **[[Umayyah b. Khalaf]]** ☠, guarding a herd of two thousand five hundred (2,500) camels (*Subul al-Hudā*, 4:15).
+## Date
 
-The objective was to tighten the economic blockade against Quraysh and demonstrate that their commercial lifeblood along the Red Sea route remained under constant Medinan surveillance.
+Ibn Saʿd and others say he set out in Rabīʿ al-Awwal, at the head of thirteen months from his hijrah; Abū ʿUmar and Ibn Ḥazm say Rabīʿ al-Ākhir.[^s4.15]
 
-## 2. Mobilization & Deployment
-The Prophet ﷺ appointed **al-Sāʾib b. ʿUthmān b. Maẓʿūn** ﵁ (or **[[Saʿd b. Muʿādh]]** ﵁) as his deputy over Medina (*Subul al-Hudā*, 4:15). 
+## The expedition
 
-The Muslim army numbered two hundred (200) warriors, drawn exclusively from **[[al-Muhājirūn]]** (*Subul al-Hudā*, 4:15). The Prophet ﷺ handed the white battle standard to the master archer **[[Saʿd b. Abī Waqqāṣ]]** ﵁ (*Subul al-Hudā*, 4:15).
+The Prophet ﷺ went out with two hundred of the Muhājirūn, intercepting a caravan of Quraysh. In the caravan were Umayyah b. Khalaf, a hundred men of Quraysh and two thousand five hundred camels.[^s4.15] His white banner was carried by [[Saʿd b. Abī Waqqāṣ]] ﵁.[^s4.15]
 
-The force advanced westward until they reached **Buwāṭ**—a rugged mountain range belonging to the tribe of Juhaynah in the vicinity of Mount Raḍwā near Yanbuʿ, approximately four postal stages (*arbaʿat burud*) from Medina (*Subul al-Hudā*, 4:15).
+He reached Buwāṭ and did not meet with any harm (*lam yalqa kaydā*), and returned to Madīnah.[^s4.15] *Subul al-Hudā* records no fighting here.
 
-## 3. Outcome & Return
-Umayyah b. Khalaf had received intelligence of the Muslim movement and diverted his massive herd across difficult alternative desert trails closer to the coast (*Subul al-Hudā*, 4:15). 
+## The place
 
-The Prophet ﷺ arrived at Buwāṭ without encountering the caravan (*lam yalqa kaydā*) and returned safely to Medina with his army, having expanded Medinan reconnaissance deep into Juhaynah territory (*Subul al-Hudā*, 4:15).
+Buwāṭ is a mountain of the mountains of Juhaynah, on the side of Raḍwā, a mountain at Yanbuʿ; between it and Madīnah are four *burud*.[^s4.15]
 
-## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 15–16 (al-Bāb al-Rābiʿ fī Ghazwat Buwāṭ).
-2. *Ibn Saʿd*, *al-Ṭabaqāt al-Kubrā*, Ghazwat Buwāṭ.
+## Disputes
+
+**Who governed Madīnah.** Ibn Saʿd says the Prophet ﷺ left [[Saʿd b. Muʿādh]] ﵁ as his deputy; Ibn Hishām and Abū ʿUmar say al-Sāʾib b. ʿUthmān b. Maẓʿūn, and *al-ʿUyūn*, *al-Ishārah* and *al-Mawrid* follow them.[^s4.15]
+
+Al-Ṣāliḥī adds a point from *al-Rawḍ*. Ibn Hishām mentions al-Sāʾib b. Maẓʿūn, brother of ʿUthmān b. Maẓʿūn, as the deputy, and then says that al-Sāʾib b. ʿUthmān, the nephew, was present at Badr. The words of *al-Rawḍ* therefore imply that the deputy was al-Sāʾib b. Maẓʿūn rather than al-Sāʾib b. ʿUthmān b. Maẓʿūn. Al-Ṣāliḥī objects to this, because the copy of the *Sīrah* has "al-Sāʾib b. ʿUthmān b. Maẓʿūn".[^s4.15]
+
+**The month.** See *Date* above: Rabīʿ al-Awwal against Rabīʿ al-Ākhir.[^s4.15]
+
+## References
+
+1. *Subul al-Hudā wa-l-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993. Vol. 4, p. 15.
+
+[^s4.15]: *Subul al-Hudā*, 4:15.
