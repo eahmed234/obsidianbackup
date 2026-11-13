@@ -44,7 +44,9 @@ ledger leaves unclear — and then correct the ledger first.
   needs its entry. ("Reached Buwāṭ without meeting the caravan" is not what «لم يلق كيدا» says.)
 - A frontmatter value for a disputed point gives both sides or is left out; a reconciliation the page
   reports in the passive is not stated as fact.
-- Names as the ledger has them; recurring phrases as `ledger/GLOSSARY.md` renders them.
+- Names as the ledger has them; recurring phrases as `ledger/GLOSSARY.md` renders them. Where
+  `ledger/QUESTIONS.md` has a ruling (`- [x]` … `→`), follow it; where a question is still open, follow its
+  `now:` line.
 - Nothing about the book's own arrangement ("al-Ṣāliḥī treats it after…") unless the reader needs it.
 - Every `khilāf` and `verdict` entry about the subject appears in the note, usually in a disputes section.
 - Footnotes are the entry's page: `S4.174.12` → `[^s4.174]`, `I7.99.03` → `[^i7.99]`, `K3039.01` →

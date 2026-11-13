@@ -58,7 +58,8 @@ ledger as you go, in page order, under plain `##` headings that follow the chapt
 - *Gharīb*: keep only definitions of places, peoples and things. Leave out vocalisation notes.
 - Long poetry and bare isnāds may be skipped; say so in the header (`skipped:`).
 - Anything you cannot settle (a likely misprint, an unclear referent) goes in a `- note:` and in the
-  header's `unsettled:` line. Do not resolve it by guessing.
+  header's `unsettled:` line. Do not resolve it by guessing. Check `ledger/QUESTIONS.md` first: the user
+  may already have ruled on it (`- [x]` … `→ ruling`), and a ruling is binding.
 - **Long chapters** (more than about 25 pages): split at the chapter's own sections into parts
   (`S 4.363a …`, `S 4.363b …`), one file each. Finish and save one part before reading the next.
 

@@ -74,6 +74,13 @@ Apply the fixes yourself; do not wait to be asked.
 Leave unfixed, and list under **For you**, only what needs the user's judgement: a likely misprint, an
 Arabic sentence that can be read two ways, a conflict between two of the five books.
 
+**Record every such item in `ledger/QUESTIONS.md`**, under a `## <note name>` heading, in the form the file
+shows: `- [ ]`, the entry id, the Arabic, the possible readings, and on a `now:` line what the note does
+meanwhile (always the cautious reading: as printed, the narrower attribution). Carry over the `unsettled:`
+items of the note's ledgers too. Do not add a question that is already there, and never tick one: only the
+user rules. A question answered there (`- [x]` … `→ ruling`) is binding — apply it to the ledger and note.
+A question that recurs across notes goes under `## General`, with "See General" in the note's section.
+
 ## 5. Report and commit
 
 Write `review/<name>.verify.md` (git-ignored):
@@ -92,5 +99,5 @@ List every non-supported item with the Arabic that shows it. Supported claims ar
 If a finding is a kind of error the rewrite-note or ledger self-check lists do not name, say so on a last
 line, so the lists can be extended.
 
-Commit the note and ledgers following **Git workflow** in `CLAUDE.md` (branch `drafts`, never push). End
+Commit the note, ledgers and `ledger/QUESTIONS.md` following **Git workflow** in `CLAUDE.md` (branch `drafts`, never push). End
 with the summary line and the **For you** items. A clean result is a valid result: say so plainly.

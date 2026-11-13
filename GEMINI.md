@@ -339,6 +339,7 @@ python3 audit.py --report review/_triage.md  # every finding for every note, as 
 python3 audit.py --page S 6:77-78          # print pages (S = Subul al-Hudā, I = al-Iṣābah)
 python3 audit.py --exists "Name" "Name"     # which names have a note (and the link to write)
 python3 audit.py --page S 4:170-180 --out review/src.txt   # write pages to a file instead of printing
+python3 audit.py --questions              # notes with open questions for the user (ledger/QUESTIONS.md)
 python3 audit.py --ledger                 # every Arabic snippet in ledger/*.md is verbatim on its page
 python3 audit.py --links | --citations | --no-content | --reindex
 ```
