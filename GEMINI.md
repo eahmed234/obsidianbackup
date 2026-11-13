@@ -26,6 +26,7 @@ Layout (repository root):
 | `site_search.py` | Post-build step: other names and spellings in the search index, redirects, disambiguation pages (see `docs/site.md`) |
 | `site_search.json` | Hand-kept search names and alias rulings read by `audit.py` and `site_search.py` |
 | `review/` | Generated source sheets and triage reports — git-ignored, Quartz-ignored |
+| `.claude/skills/`, `rewrite-queue.sh` | The ledger / rewrite / verify procedures, and the script that runs them over `review/queue.txt` |
 | `docs/site.md` | How the site is built, navigated and searched — read only when working on the site |
 | `ledger/` | Claim ledgers: one file per source chapter or entry, read once and reused (see `ledger/README.md`) — tracked, Quartz-ignored |
 | `build.sh`, `quartz.config.yaml`, `patch-quartz.mjs`, `custom.scss`, `netlify.toml`, `.github/` | Site build |
@@ -51,7 +52,9 @@ pushes from Obsidian go there without deploying. The user publishes when ready, 
   `git -c user.name="$(git log -1 --format=%an)" -c user.email="$(git log -1 --format=%ae)" commit …`.
 - Through the device bridge, git cannot delete its own lock files until deletion is permitted. Request
   it once, before the first git command that writes.
-- The full rewrite and verify procedures are the `/rewrite-note` and `/verify-note` skills.
+- The procedures are the skills in `.claude/skills/`: `ledger` (read a chapter once into `ledger/`),
+  `rewrite-note` (write a note from ledgers) and `verify-note` (second reader; fixes what it finds).
+  `rewrite-queue.sh` runs the last two over a list of notes.
 
 ## Site build and search — see `docs/site.md`
 
@@ -334,6 +337,8 @@ python3 audit.py --note "Sariyyat al-Ghamr" # every finding for one note
 python3 audit.py --sheet "Sariyyat al-Ghamr" # review/<note>.sheet.md: claims, flags, full cited pages
 python3 audit.py --report review/_triage.md  # every finding for every note, as Markdown
 python3 audit.py --page S 6:77-78          # print pages (S = Subul al-Hudā, I = al-Iṣābah)
+python3 audit.py --exists "Name" "Name"     # which names have a note (and the link to write)
+python3 audit.py --page S 4:170-180 --out review/src.txt   # write pages to a file instead of printing
 python3 audit.py --ledger                 # every Arabic snippet in ledger/*.md is verbatim on its page
 python3 audit.py --links | --citations | --no-content | --reindex
 ```

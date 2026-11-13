@@ -1266,10 +1266,12 @@ def check_ledgers(corpora):
 def print_pages(args):
     # Vocalisation marks are dropped unless --tashkil is given: they cost a reader-model about a quarter
     # of the Ṣaḥīḥayn's text and carry nothing a claim rests on. Use --tashkil to copy a «…» quotation.
+    out = open(args.out, "w", encoding="utf-8") if args.out else None
+
     def print(*a, **k):                                       # noqa: A001 — local shadow, this function only
         if not args.tashkil:
             a = tuple(_TASHKIL.sub("", x) if isinstance(x, str) else x for x in a)
-        builtins.print(*a, **k)
+        builtins.print(*a, **({**k, "file": out} if out else k))
     corpora = make_corpora(load_or_build_indices(force=args.reindex))
     book = args.page[0].upper()[:1]
     if book not in SOURCES:
@@ -1306,12 +1308,21 @@ def print_pages(args):
             if r[1]:
                 print("── taḥqīq (editors' apparatus) ──\n" + r[1])
             print()
+    if out:
+        out.close()
+        builtins.print(f"wrote {args.out} ({sum(1 for _ in open(args.out, encoding='utf-8'))} lines)")
     return 0
 
 
 def run(args):
     if args.page:
         return print_pages(args)
+    if args.exists:
+        _, aliases = load_notes()
+        for name in args.exists:
+            target = aliases.get(name)
+            print(("OK  " if target else "--  ") + name + (f"   → [[{target}|{name}]]" if target and target != name else ""))
+        return 0
     if args.ledger:
         n, bad = check_ledgers(make_corpora(load_or_build_indices(force=args.reindex)))
         for line in bad:
@@ -1491,6 +1502,8 @@ if __name__ == "__main__":
     ap.add_argument("--sheet", metavar="NAME", help="write review/<NAME>.sheet.md for a human verifier")
     ap.add_argument("--page", nargs="+", metavar="REF", help="print pages: S|I|B vol:page[-page] … (e.g. S 6:77-78), "
                     "or K|M ḥadīth numbers (prints the report itself)")
+    ap.add_argument("--out", metavar="PATH", help="with --page, write the pages to PATH instead of printing them")
+    ap.add_argument("--exists", nargs="+", metavar="NAME", help="say which names (titles or aliases) have a note, for linking")
     ap.add_argument("--ledger", action="store_true", help="check that every Arabic snippet in ledger/*.md is verbatim on its page")
     ap.add_argument("--tashkil", action="store_true", help="with --page, keep the vocalisation marks (dropped by default)")
     ap.add_argument("--whole-pages", action="store_true", help="with --page K|M, print the whole pages, not just the report")

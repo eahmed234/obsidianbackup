@@ -20,6 +20,8 @@ configuration:
     - README.md
     - sources
     - review
+    - .claude
+    - rewrite-queue.sh
     - docs
     - ledger
     - audit.py
