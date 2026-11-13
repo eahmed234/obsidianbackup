@@ -39,6 +39,7 @@ Usage:
 """
 
 import argparse
+import builtins
 import glob
 import html
 import json
@@ -1202,7 +1203,73 @@ def extract_report(book, number, text):
     return "\n…\n".join(segments) if segments else None
 
 
+_AR_LETTERS_ONLY = re.compile(r"[^\u0621-\u063A\u0641-\u064A]")
+_LEDGER_ID = re.compile(r"^### ([SIBKM])(\d+)(?:\.(\d+))?\.(\d+) · (matn|taḥqīq) · (\S+)\s*$")
+LEDGER_KINDS = {"plain", "qīla", "khilāf", "verdict", "hedge", "via", "gloss"}
+
+
+def check_ledgers(corpora):
+    """Every Arabic snippet in ledger/*.md must be verbatim on the page its id names (letters only:
+    vocalisation, punctuation and spacing are ignored; a run-over onto the next page is allowed).
+    Returns (entries checked, [problems])."""
+    letters = lambda t: _AR_LETTERS_ONLY.sub("", _TASHKIL.sub("", t))
+    n, bad = 0, []
+    for fpath in sorted(glob.glob(os.path.join(VAULT_DIR, "ledger", "*.md"))):
+        fname = os.path.basename(fpath)
+        if fname == "README.md":
+            continue
+        lines = open(fpath, encoding="utf-8").read().split("\n")
+        for i, line in enumerate(lines):
+            if not line.startswith("### "):
+                continue
+            m = _LEDGER_ID.match(line)
+            where = f"{fname}:{i + 1}"
+            if not m:
+                bad.append(f"{where}  heading not in the form '### S4.174.07 · matn · plain'")
+                continue
+            book, a, b, _, tier, kind = m.groups()
+            n += 1
+            if kind not in LEDGER_KINDS:
+                bad.append(f"{where}  unknown kind {kind!r}")
+            j, quoted = i + 1, []
+            while j < len(lines) and lines[j].startswith(">"):
+                quoted.append(lines[j][1:].strip())
+                j += 1
+            snippet = " ".join(quoted)
+            if not snippet:
+                bad.append(f"{where}  no Arabic snippet")
+                continue
+            corp = corpora[book]
+            if SOURCES[book]["kind"] == "hadith":
+                keys = corp.hadith.get(str(int(a))) or []
+                pages = [tuple(map(int, k.split(":"))) for k in keys]
+            else:
+                pages = [(int(a), int(b or 0)), (int(a), int(b or 0) + 1)]
+            raws = [corp.raw(v, p) for v, p in pages]
+            if not raws or raws[0] is None:
+                bad.append(f"{where}  {line[4:].split(' ')[0]}: page or report not in the EPUB")
+                continue
+            text = letters("\n".join(r[0 if tier == "matn" else 1] for r in raws if r))
+            pos = 0
+            for seg in snippet.split("…"):
+                seg = letters(seg)
+                if not seg:
+                    continue
+                at = text.find(seg, pos)
+                if at < 0:
+                    bad.append(f"{where}  {line[4:].split(' ')[0]}: not verbatim in the {tier} — «{seg[:40]}…»")
+                    break
+                pos = at + len(seg)
+    return n, bad
+
+
 def print_pages(args):
+    # Vocalisation marks are dropped unless --tashkil is given: they cost a reader-model about a quarter
+    # of the Ṣaḥīḥayn's text and carry nothing a claim rests on. Use --tashkil to copy a «…» quotation.
+    def print(*a, **k):                                       # noqa: A001 — local shadow, this function only
+        if not args.tashkil:
+            a = tuple(_TASHKIL.sub("", x) if isinstance(x, str) else x for x in a)
+        builtins.print(*a, **k)
     corpora = make_corpora(load_or_build_indices(force=args.reindex))
     book = args.page[0].upper()[:1]
     if book not in SOURCES:
@@ -1245,6 +1312,12 @@ def print_pages(args):
 def run(args):
     if args.page:
         return print_pages(args)
+    if args.ledger:
+        n, bad = check_ledgers(make_corpora(load_or_build_indices(force=args.reindex)))
+        for line in bad:
+            print("  " + line)
+        print(f"Ledger snippets: {n} checked, {len(bad)} problem(s)")
+        return 1 if bad else 0
     print("=== Nabiwiki Knowledge Graph & Citation Audit ===\n")
     indices = load_or_build_indices(force=args.reindex)
     notes, aliases = load_notes()
@@ -1418,5 +1491,7 @@ if __name__ == "__main__":
     ap.add_argument("--sheet", metavar="NAME", help="write review/<NAME>.sheet.md for a human verifier")
     ap.add_argument("--page", nargs="+", metavar="REF", help="print pages: S|I|B vol:page[-page] … (e.g. S 6:77-78), "
                     "or K|M ḥadīth numbers (prints the report itself)")
+    ap.add_argument("--ledger", action="store_true", help="check that every Arabic snippet in ledger/*.md is verbatim on its page")
+    ap.add_argument("--tashkil", action="store_true", help="with --page, keep the vocalisation marks (dropped by default)")
     ap.add_argument("--whole-pages", action="store_true", help="with --page K|M, print the whole pages, not just the report")
     sys.exit(run(ap.parse_args()))

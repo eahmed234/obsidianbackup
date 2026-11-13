@@ -20,6 +20,8 @@ configuration:
     - README.md
     - sources
     - review
+    - docs
+    - ledger
     - audit.py
     - site_notice.py
     - site_nav.py
