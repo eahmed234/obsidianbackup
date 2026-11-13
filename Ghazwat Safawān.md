@@ -13,42 +13,39 @@ tags:
   - badr
   - 2-ah
   - unverified
-date_hijri: Rabīʿ al-Awwal / Rabīʿ al-Ākhir 2 AH (Autumn 623 CE)
-location: "Valley of Safawān (district of Badr)"
+date_hijri: "Rabīʿ al-Awwal, at the head of thirteen months from the hijrah (Ibn Ḥazm)"
+location: "Safawān, a valley on the side of Badr"
 commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
-commanders_enemy: "[[Kurz b. Jābir al-Fihrī]] (prior to Islam)"
 standard_bearer: "[[ʿAlī b. Abī Ṭālib]] ﵁"
 deputy_in_medina: "[[Zayd b. Ḥārithah]] ﵁"
-strength_muslim: "Elite cavalry and pursuit detachment (*Subul al-Hudā*, 4:16)"
-strength_enemy: "Mounted raiders of Kurz b. Jābir al-Fihrī"
-casualties_muslim: 0
-casualties_enemy: 0
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 16–17)"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 16)"
 ---
 
-# Ghazwat Safawān (غزوة سفوان - بدر الأولى)
-*The First Badr & The Pursuit of Kurz b. Jābir — The Raid on al-Jammāʾ and The Sprint to Wādī Safawān*
+# Ghazwat Safawān (غزوة سفوان)
+*The expedition in which the Prophet ﷺ went out after Kurz b. Jābir al-Fihrī, who had raided the pasturing animals of Madīnah, and reached Safawān without overtaking him — also called Badr al-Ūlā*[^s4.16]
 
-## 1. Strategic Context & Provocation
-In Rabīʿ al-Awwal (or Rabīʿ al-Ākhir) 2 AH (thirteen months after the Hijrah), only brief nights following the return from an earlier desert deployment, the outer pastures of Medina were violated (*Subul al-Hudā*, 4:16).
+Ghazwat Safawān, which al-Ṣāliḥī calls "Badr al-Ūlā" in the title of its chapter, was an expedition in which the Messenger of Allāh ﷺ went out after [[Kurz b. Jābir al-Fihrī]], who had raided the *sarḥ* of Madīnah, the animals sent out to pasture. The Prophet ﷺ sought him as far as Safawān on the side of Badr, did not overtake him, and returned, meeting with no harm.[^s4.16]
 
-A cunning polytheist chieftain of Quraysh, **[[Kurz b. Jābir al-Fihrī]]** (prior to his conversion to Islam), launched a predatory hit-and-run dawn raid against the grazing camels and livestock (*sarḥ*) of Medina pasturing in the district of **al-Jammāʾ** on the outskirts of the city (*Subul al-Hudā*, 4:16).
+## Date
 
-Because of this direct violation of the territorial sovereignty of Medina, the Messenger of Allāh ﷺ sounded an immediate mobilization for pursuit (*Subul al-Hudā*, 4:16).
+Ibn Isḥāq says that when the Messenger of Allāh ﷺ came back from [[Ghazwat al-ʿUshayrah]] he stayed in Madīnah only a few nights, not reaching ten.[^s4.16] Ibn Ḥazm says that ten days after it he set out, in Rabīʿ al-Awwal, at the head of thirteen months from the hijrah.[^s4.16]
 
-## 2. Mobilization & The Pursuit
-The Prophet ﷺ appointed his beloved freedman, **[[Zayd b. Ḥārithah]]** ﵁, as his deputy governor in charge of Medina (*Subul al-Hudā*, 4:16). 
+## The raid and the pursuit
 
-The Prophet ﷺ handed the supreme white battle standard to **[[ʿAlī b. Abī Ṭālib]]** ﵁ (*Subul al-Hudā*, 4:16). 
+He set out in the track of Kurz b. Jābir al-Fihrī because of Kurz's raid on the *sarḥ* of Madīnah, which used to pasture at al-Jammāʾ and its surroundings.[^s4.16] Al-Jammāʾ is a place in Madīnah.[^s4.16] ʿAlī b. Abī Ṭālib ﵁ carried the Prophet's ﷺ banner, which was white, and he left [[Zayd b. Ḥārithah]] ﵁ as his deputy over Madīnah.[^s4.16]
 
-The Messenger of Allāh ﷺ led a rapid mounted vanguard in hot pursuit of the raiders, tracking them through the desert ravines south of Medina (*Subul al-Hudā*, 4:16). The pursuit pressed at full speed across the wilderness until the Muslims reached the valley of **Safawān**, a wadi in the district of **Badr** (*Subul al-Hudā*, 4:16). Because of its geographic terminus at the perimeter of Badr, this expedition was named in classical Sīrah literature as **Badr al-Ūlā** (The First Badr) (*Subul al-Hudā*, 4:16).
+The Prophet ﷺ sought Kurz until he reached Safawān, on the side of Badr; he did not overtake him, and returned, meeting with no harm.[^s4.16] Safawān is a well-known valley.[^s4.16]
 
-## 3. Outcome & Historical Footnote
-Kurz b. Jābir had ridden with desperate haste and managed to slip beyond the wadi into inaccessible terrain (*Subul al-Hudā*, 4:16). Unable to overtake him, the Prophet ﷺ halted at Safawān and returned with his Companions to Medina without experiencing any military harm (*Subul al-Hudā*, 4:16).
+## Kurz b. Jābir
 
-Kurz b. Jābir subsequently embraced Islam with deep sincerity. He was appointed by the Prophet ﷺ to command the punitive expedition against the murderers of al-ʿUrayniyyīn in 6 AH, and achieved martyrdom as a cavalry commander alongside **[[Khālid b. al-Walīd]]** ﵁ during **[[Fatḥ Makkah]]** (8 AH) (*Subul al-Hudā*, 4:16).
+Kurz was one of the chiefs of the polytheists before he became Muslim. He became Muslim afterwards and was martyred in the expedition of the Conquest (see [[Fatḥ Makkah]]).[^s4.16]
 
-## 4. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 16–17 (al-Bāb al-Khāmis fī Ghazwat Safawān ... wa-hiya Badr al-Ūlā).
-2. *Ibn Hishām*, *al-Sīrah al-Nabawiyyah*, Ghazwat Safawān (Badr al-Ūlā).
+## Disputes
+
+Ibn Saʿd, Zirr b. Ḥubaysh and others mention this expedition before al-ʿUshayrah, while Ibn Isḥāq mentions it after it.[^s4.16]
+## References
+
+1. *Subul al-Hudā wa-l-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993. Vol. 4, p. 16.
+
+[^s4.16]: *Subul al-Hudā*, 4:16.
