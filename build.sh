@@ -59,6 +59,10 @@ python3 ../site_nav.py ../public
 # names; fails the build if a query listed under "expect" in site_search.json no longer matches (see site_search.py)
 python3 ../site_search.py ../public
 
+# An alias that slugifies to nothing (an Arabic-only alias such as «الإصابة») makes Quartz write a redirect
+# named ".html". GitHub Pages serves that file for "/" (as application/octet-stream), so remove it.
+rm -f ../public/.html
+
 # 7. The homepage is the short start page (Start Here.md); the hub (The Sīrah) stays at /the-sirah.
 #    If the start page is missing, fall back to the hub so the site always has a homepage.
 echo "Ensuring root index.html..."
