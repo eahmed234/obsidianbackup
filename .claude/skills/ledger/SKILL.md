@@ -30,7 +30,10 @@ may be in it that the page does not say.
 - **Ṣaḥīḥayn.** For each report the matn names («رواه البخاري») or the taḥqīq numbers, and that the chapter
   relies on: `python3 audit.py --page K 3039 --out review/k3039.txt`. Its entries go in the same ledger,
   under a `## Ṣaḥīḥayn` heading, with ids `K3039.01`, `M1779.01`. Ledger only the reports that bear on
-  this chapter's subject.
+  this chapter's subject. **Commentary printed with a report is not the report**: in the Muslim EPUB the
+  editor's notes (often opening «ش» or «قال القاضي…», «قال النووي…») follow the text; an entry taken from
+  them is tier `taḥqīq`, and a note cites it as `[^musl1671b]: *Ṣaḥīḥ Muslim*, no. 1671, editor's note
+  (taḥqīq)`.
 - Print with `--out` and read the file with the Read tool. Never print the same pages twice.
 
 ## 2. Read and record

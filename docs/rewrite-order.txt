@@ -1,0 +1,433 @@
+# nabiwiki rewrite order — generated from the hub (The Sīrah.md), 13 Nov 2026.
+# Notes already rewritten (footnoted) or listed in review/done.txt are left out.
+# Run the next ten:   LIMIT=10 ./rewrite-queue.sh docs/rewrite-order.txt
+# The script skips finished notes, so this file never needs editing; reorder or comment out (#) freely.
+
+# ════════ PART 1 — EVENTS, in the hub's chronological order ════════
+# Events first: each chapter ledger makes the people in it cheaper to write later.
+
+# ── 2. The Early Madinan Era State Foundation & First Expeditions (1–2 AH) (8)
+#    BIG: ~21 pages cited — expect a long, costlier run
+Bināʾ al-Masjid al-Nabawī
+al-Muʾākhāh
+Dustūr al-Madīnah
+Sariyyat Ḥamzah b. ʿAbd al-Muṭṭalib ilā Sayf al-Baḥr
+Sariyyat ʿUbaydah b. al-Ḥārith ilā Baṭn Rābigh
+Sariyyat Saʿd b. Abī Waqqāṣ ilā al-Kharrār
+Sariyyat ʿAbdillāh b. Jaḥsh ilā Baṭn Nakhlah
+Taḥwīl al-Qiblah
+
+# ── 3. The Epoch of Major Ghazawāt (2–9 AH) (47)
+Ghazwat Banī Qaynuqāʿ
+Ghazwat Banī Sulaym
+Sariyyat al-Qaradah
+Ghazwat Dhī Amr
+Ghazwat Ḥamrāʾ al-Asad
+Sariyyat al-Rajīʿ
+Maʾsāt Biʾr Maʿūnah
+#    BIG: ~20 pages cited — expect a long, costlier run
+Ghazwat Banī al-Naḍīr
+Ghazwat Badr al-Mawʿid
+Ghazwat Dūmat al-Jandal
+Ghazwat Banī al-Muṣṭaliq
+#    BIG: ~20 pages cited — expect a long, costlier run
+Ghazwat Dhī Qarad
+Ghazwat Banī Liḥyān
+Sariyyat al-Quraṭāʾ
+Sariyyat ʿAlī b. Abī Ṭālib ilā Fadak
+Sariyyat Wādī al-Qurā
+Sariyyat Dūmat al-Jandal
+Bayʿat al-Riḍwān
+#    BIG: ~37 pages cited — expect a long, costlier run
+Ghazwat Khaybar
+Ghazwat Dhāt al-Riqāʿ
+#    BIG: ~36 pages cited — expect a long, costlier run
+Kutub al-Nabī ﷺ ilā al-Mulūk
+Sariyyat al-Mayfaʿah
+#    BIG: ~23 pages cited — expect a long, costlier run
+Ghazwat Muʾtah
+Sariyyat Dhāt al-Salāsil
+Sariyyat Sayf al-Baḥr (al-Khabaṭ)
+Sariyyat Baṭn Iḍam
+Sariyyat Khālid b. al-Walīd ilā al-ʿUzzā
+Sariyyat ʿAmr b. al-ʿĀṣ ilā Suwāʿ
+Sariyyat Saʿd b. Zayd al-Ashhalī ilā Manāt
+Sariyyat Khālid b. al-Walīd ilā Banī Jadhimah
+#    BIG: ~72 pages cited — expect a long, costlier run
+Ghazwat Ḥunayn
+Sariyyat Abī ʿĀmir al-Ashʿarī ilā Awṭās
+#    BIG: ~27 pages cited — expect a long, costlier run
+Ghazwat al-Ṭāʾif
+Sariyyat al-Fuls
+Qismat Ghanāʾim Ḥunayn bi-al-Jiʿrānah
+#    BIG: ~58 pages cited — expect a long, costlier run
+Ghazwat Tabūk
+Hadam Masjid al-Ḍirār
+Ḥajjat Abī Bakr al-Ṣiddīq
+ʿĀm al-Wufūd
+Wafd al-Ashʿariyyīn
+Wafd Thaqīf
+Wafd Banī Tamīm
+Wafd Najrān
+Wafd Banī Ḥanīfah
+Wafd Tujīb
+Wafd Kindah
+Sariyyat ʿAlī b. Abī Ṭālib ilā al-Yaman
+
+# ── 1. The Makkan Era (العهد المكي) (17)
+ʿĀm al-Fīl
+#    BIG: ~37 pages cited — expect a long, costlier run
+Mawlid al-Nabī
+Shaqq al-Ṣadr
+Riḥlat al-Shām al-Ūlā
+Ḥarb al-Fijār
+Ḥilf al-Fuḍūl
+Riḥlat al-Shām al-Thāniyah
+Tajdīd al-Kaʿbah
+#    BIG: ~53 pages cited — expect a long, costlier run
+Mabʿath al-Nabī
+#    BIG: ~74 pages cited — expect a long, costlier run
+al-Daʿwah al-Sirriyyah wal-Jahriyyah
+#    BIG: ~50 pages cited — expect a long, costlier run
+al-Hijrah ilā al-Ḥabashah
+al-Ḥiṣār fī Shiʿb Abī Ṭālib
+ʿĀm al-Ḥuzn
+Riḥlat al-Ṭāʾif
+#    BIG: ~177 pages cited — expect a long, costlier run
+al-Isrāʾ wal-Miʿrāj
+Bayʿat al-ʿAqabah al-Ūlā
+Bayʿat al-ʿAqabah al-Thāniyah
+
+# ── 4. The Culmination & Departure (10–11 AH) (4)
+#    BIG: ~36 pages cited — expect a long, costlier run
+Ḥajjat al-Wadāʿ
+Sariyyat Usāmah b. Zayd
+#    BIG: ~111 pages cited — expect a long, costlier run
+Wafāt al-Nabī
+Saqīfat Banī Sāʿidah
+
+# ════════ PART 2 — PEOPLE ════════
+# Smaller figures first; the Ten, the Household and the Prophet ﷺ last, when most chapters are ledgered.
+
+# ── Companions of the Early Expeditions (3)
+Duʿthūr b. al-Ḥārith
+Masʿūd b. Sinān al-Sulamī
+Umm Maʿbad
+
+# ── Further Companions of Badr & Uḥud (31)
+ʿUbaydah b. al-Ḥārith
+ʿĀṣim b. Thābit
+Khubayb b. ʿAdī
+Mālik b. Sinān
+al-Uṣayrim (ʿAmr b. Thābit)
+Ḥusīl b. Jābir (al-Yamān)
+Mukhayrīq
+Yāmīn b. ʿUmayr
+Abū Saʿd b. Wahb
+Khallād b. Suwayd
+Abū Sinān b. Miḥṣan
+ʿAbdullāh b. Jubayr
+Anas b. al-Naḍr
+Ḥanẓalah b. Abī ʿĀmir
+ʿAmr b. al-Jamūḥ
+ʿAbdullāh b. ʿAmr b. Ḥarām
+Waḥshī b. Ḥarb
+Surāqah b. Mālik b. Juʿshum
+Maʿbad b. Abī Maʿbad al-Khuzāʿī
+Nuʿaym b. Masʿūd
+Ḥubaysh b. Khālid al-Khuzāʿī
+Ayman b. ʿUbayd
+ʿAbdullāh Dhū al-Bijādayn
+Murārah b. al-Rabīʿ
+Hilāl b. Umayyah
+Bishr b. al-Barāʾ
+al-Ṭufayl b. ʿAmr al-Dawsī
+Abū Hurayrah
+al-Aṣbagh b. ʿAmr al-Kalbī
+Tumāḍir bint al-Aṣbagh
+Abū Salamah b. ʿAbd al-Raḥmān
+
+# ── Knights & Champions of Dhī Qarad (2)
+Abū Qatādah al-Anṣārī
+Muḥraz b. Naḍlah
+
+# ── Companions & Sentry of Dhāt al-Riqāʿ (2)
+ʿAbbād b. Bishr
+Abū Mūsā al-Ashʿarī
+
+# ── Companions of Banū al-Muṣṭaliq (2)
+Zayd b. Arqam
+Jahjāh b. Saʿīd al-Ghifārī
+
+# ── Companions of al-Ḥudaybiyah & The Later Treaties (9)
+Sinān b. Abī Sinān al-Asadī
+Abū Baṣīr (ʿUtbah b. Usayd)
+Abū Jandal b. Suhayl
+Salamah b. al-Akwaʿ
+Khirāsh b. Umayyah
+Maʿqil b. Yasār
+Budayl b. Warqāʾ al-Khuzāʿī
+Bisr b. Sufyān al-Khuzāʿī
+Numaylah b. ʿAbdillāh al-Laythī
+
+# ── Companions of the Supreme Conquest (Fatḥ Makkah) (10)
+ʿUthmān b. Ṭalḥah
+ʿAmr b. Sālim al-Khuzāʿī
+Abū Quḥāfah
+Suhayl b. ʿAmr
+ʿIkrimah b. Abī Jahl
+Qays b. Saʿd b. ʿUbādah
+Ṣafwān b. Umayyah
+Hind bint ʿUtbah
+Umm Ḥakīm bint al-Ḥārith
+ʿAbdullāh b. al-Zibaʿrā
+
+# ── Heroes & Martyrs of Muʾtah (3)
+Thābit b. Aqram
+al-Ḥārith b. ʿUmayr al-Azdī
+Quṭbah b. Qatādah al-ʿUdhrī
+
+# ── Companions of al-Ṭāʾif & The Envoys (2)
+Abū Bakrah al-Thaqafī
+Mālik b. ʿAwf al-Naṣrī
+
+# ── Later Converts, Statesmen & Chieftains (17)
+Ḥakīm b. Ḥizām
+al-Mughīrah b. Shuʿbah
+al-Ḥārith b. Hishām
+ʿAbdullāh b. Suhayl
+ʿAbdullāh b. al-Zubayr
+Muʿāwiyah b. Abī Sufyān
+Yazīd b. Abī Sufyān
+Ḥudhayfah b. al-Yamān
+Thumāmah b. Uthāl
+ʿAdī b. Ḥātim al-Ṭāʾī
+ʿUthmān b. Abī al-ʿĀṣ
+Buraydah b. al-Ḥuṣayb
+Abū Barzah al-Aslamī
+Abū ʿĀmir al-Ashʿarī
+Farwah b. ʿAmr al-Bayāḍī
+Farwah b. ʿAmr al-Judhāmī
+Furāt b. Ḥayyān
+
+# ── Chieftains & Heroes of the Anṣār (49)
+Saʿd b. Muʿādh
+Usayd b. Ḥuḍayr
+Saʿd b. ʿUbādah
+Abū Usayd al-Sāʿidī
+al-Barāʾ b. Maʿrūr
+Saʿd b. al-Rabīʿ
+Asʿad b. Zurārah
+Jābir b. ʿAbdillāh
+Zayd b. Thābit
+Ubayy b. Kaʿb
+Anas b. Mālik
+Kaʿb b. Mālik
+al-Ḥubāb b. al-Mundhir
+ʿAbdullāh b. Rawāḥah
+Abū Ayyūb al-Anṣārī
+Abū Lubābah b. ʿAbd al-Mundhir
+ʿUmayr b. al-Ḥumām
+Muʿādh b. ʿAmr b. al-Jamūḥ
+Muʿawwidh b. ʿAfrāʾ
+Muʿādh b. Jabal
+Abū al-Dardāʾ
+Sahl b. Ḥunayf
+Khārijah b. Zayd
+Zayd b. Khārijah
+ʿUtbān b. Mālik
+al-Barāʾ b. ʿĀzib
+ʿAbdullāh b. ʿAbdillāh b. Ubayy
+Sawād b. Ghaziyyah
+ʿUbādah b. al-Ṣāmit
+Muḥammad b. Maslamah
+al-Mundhir b. Qudāmah
+ʿAbdullāh b. Salām
+al-Ḥārith b. al-Ṣimmah
+Nusaybah bint Kaʿb
+Thābit b. Qays
+Ḥassān b. Thābit
+Abū Ṭalḥah al-Anṣārī
+Abū Saʿīd al-Khudrī
+al-Barāʾ b. Mālik
+al-Mundhir b. ʿAmr
+Bashīr b. Saʿd
+Qatādah b. al-Nuʿmān
+Saʿd b. Zayd al-Ashhalī
+Aws b. Khawlī
+Khawwāt b. Jubayr
+Mālik b. al-Dukhshum
+ʿĀṣim b. ʿAdī
+Abū Laylā al-Māzinī
+Maslamah b. Mukhallad
+
+# ── Foremost Muhājirūn Pioneers & Martyrs (52)
+Ḥamzah b. ʿAbd al-Muṭṭalib
+Jaʿfar b. Abī Ṭālib
+Muṣʿab b. ʿUmayr
+Bilāl b. Rabāḥ
+ʿAmmār b. Yāsir
+Yāsir b. ʿĀmir
+Sumayyah bint Khayyāṭ
+Khabbāb b. al-Aratt
+ʿĀmir b. Fuhayrah
+ʿUthmān b. Maẓʿūn
+ʿAbdullāh b. Jaḥsh
+Abū Fukayhah
+Zunnīrah al-Rūmiyyah
+Lubaybah
+Umm ʿUnays
+al-Nahdiyyah
+al-Arqam b. Abī al-Arqam
+Abū Dharr al-Ghifārī
+Ṣuhayb b. Sinān
+al-Miqdād b. ʿAmr
+Khunays b. Ḥudhāfah
+ʿAbdullāh b. Masʿūd
+ʿAbdullāh b. ʿUmar
+ʿAbdullāh b. Umm Maktūm
+Salmān al-Fārisī
+Zayd b. Ḥārithah
+Usāmah b. Zayd
+Ḥāṭib b. Abī Baltaʿah
+al-ʿAbbās b. ʿAbd al-Muṭṭalib
+ʿAbdullāh b. ʿAbbās
+Khālid b. al-Walīd
+ʿAmr b. al-ʿĀṣ
+Abū Sufyān b. Ḥarb
+al-Najāshī (Aṣḥamah)
+Zayd b. al-Khaṭṭāb
+ʿAbd al-Raḥmān b. Abī Bakr
+ʿUtbah b. Ghazwān
+Sālim Mawlā Abī Ḥudhayfah
+ʿUkkāshah b. Miḥṣan
+Wāqid b. ʿAbdillāh
+Abū Marthad al-Ghanawī
+Marthad b. Abī Marthad al-Ghanawī
+Hishām b. al-ʿĀṣ
+ʿAyyāsh b. Abī Rabīʿah
+Salāmah b. Hishām
+al-Walīd b. al-Walīd
+Shuraḥbīl b. Ḥasanah
+Shuqrān
+Abū Rāfiʿ
+Asmāʾ bint Abī Bakr
+Asmāʾ bint ʿUmays
+Maʿn b. ʿAdī
+
+# ── Polytheist & Hypocrite Antagonists (9)
+Abū Jahl (ʿAmr b. Hishām)
+ʿUtbah b. Rabīʿah
+Ubayy b. Khalaf
+Iblīs
+Abū Lahab
+ʿAbdullāh b. Ubayy b. Salūl
+al-Walīd b. ʿUtbah
+al-Akhnas b. Sharīq
+al-Muṭʿim b. ʿAdī
+
+# ── Forebears, Guardians & the Mawlid (15)
+ʿAbd al-Muṭṭalib
+ʿAbdullāh b. ʿAbd al-Muṭṭalib
+Abū Ṭālib
+al-Zubayr b. ʿAbd al-Muṭṭalib
+Ḍubāʿah bint al-Zubayr
+Ṣafiyyah bint ʿAbd al-Muṭṭalib
+Rabīʿah b. al-Ḥārith
+al-Faḍl b. al-ʿAbbās
+Qutham b. al-ʿAbbās
+ʿAbdullāh b. Jaʿfar
+Abū Sufyān b. al-Ḥārith
+al-Shifāʾ bint ʿAwf
+Ḥalīmah al-Saʿdiyyah
+Umm Ayman
+ʿAbdullāh b. Judʿān
+
+# ── The Sacred Lineage (al-Nasab al-Sharīf)  Ancestors to ʿAdnān (20)
+Muḥammad b. ʻAbdullah
+Hāshim b. ʿAbd Manāf
+ʿAbd Manāf b. Quṣayy
+Quṣayy b. Kilāb
+Kilāb b. Murrah
+Murrah b. Kaʿb
+Kaʿb b. Luʾayy
+Luʾayy b. Ghālib
+Ghālib b. Fihr
+Fihr b. Mālik
+Mālik b. al-Naḍr
+al-Naḍr b. Kinānah
+Kinānah b. Khuzaymah
+Khuzaymah b. Mudrikah
+Mudrikah b. Ilyās
+Ilyās b. Muḍar
+Muḍar b. Nizār
+Nizār b. Maʿadd
+Maʿadd b. ʿAdnān
+ʿAdnān
+
+# ── The Ten Promised Paradise (al-ʿAsharah al-Mubashsharūn) (9)
+#    needs many chapters — best left until Part 1 is done
+ʿUmar b. al-Khaṭṭāb
+ʿUthmān b. ʿAffān
+ʿAlī b. Abī Ṭālib
+ʿAbd al-Raḥmān b. ʿAwf
+Ṭalḥah b. ʿUbaydillāh
+al-Zubayr b. al-ʿAwwām
+Saʿd b. Abī Waqqāṣ
+Saʿīd b. Zayd
+Abū ʿUbaydah b. al-Jarrāḥ
+
+# ── The Household & Mothers of the Believers (Ahl al-Bayt) (16)
+#    needs many chapters — best left until Part 1 is done
+Āminah bint Wahb
+Khadījah bint Khuwaylid
+Sawdah bint Zamʿah
+ʿĀʾishah bint Abī Bakr
+Ḥafṣah bint ʿUmar
+Zaynab bint Jaḥsh
+Umm Salamah
+Juwayriyah bint al-Ḥārith
+Umm Ḥabībah
+Ṣafiyyah bint Ḥuyayy
+Maymūnah bint al-Ḥārith
+Ruqayyah bint Rasūlillāh
+Fāṭimah al-Zahrāʾ
+al-Ḥasan b. ʿAlī
+al-Ḥusayn b. ʿAlī
+Umm Kulthūm bint ʿAlī
+
+# ── Other people in the hub (13)
+al-Ṣāliḥī
+Ibn Ḥajar al-ʿAsqalānī
+al-Bukhārī
+Muslim
+Ibn Saʿd
+Ibn Kathīr
+Mūsā b. ʿUqbah
+Ibn Isḥāq
+Ibn Hishām
+al-Wāqidī
+al-Wāḥidī
+al-Suhaylī
+al-Dhahabī
+
+# ════════ NOT QUEUED ════════
+# Post-prophetic events (14) — out of scope for now (CLAUDE.md, 'prophetic era comes first'):
+#   Khilāfat Abī Bakr al-Ṣiddīq
+#   Ḥurūb al-Riddah
+#   Jamʿ al-Qurʾān
+#   Khilāfat ʿUmar b. al-Khaṭṭāb
+#   Ghazwat al-Yarmūk
+#   Ghazwat al-Qādisiyyah
+#   Fatḥ Bayt al-Maqdis
+#   Khilāfat ʿUthmān b. ʿAffān
+#   Khilāfat ʿAlī b. Abī Ṭālib
+#   Waqʿat al-Jamal
+#   Waqʿat Ṣiffīn
+#   Waqʿat al-Nahrawān
+#   ʿĀm al-Jamāʿah
+#   Waqʿat Karbalāʾ
+# place notes (36) — the skills do not cover this type yet (no single chapter or entry to ledger).
+# group notes (39) — the skills do not cover this type yet (no single chapter or entry to ledger).
+# source notes (2) — the skills do not cover this type yet (no single chapter or entry to ledger).
+# text notes (20) — the skills do not cover this type yet (no single chapter or entry to ledger).

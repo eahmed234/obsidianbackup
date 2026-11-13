@@ -1296,7 +1296,10 @@ def check_ledgers(corpora):
             if not raws or raws[0] is None:
                 bad.append(f"{where}  {line[4:].split(' ')[0]}: page or report not in the EPUB")
                 continue
-            text = letters("\n".join(r[0 if tier == "matn" else 1] for r in raws if r))
+            if SOURCES[book]["kind"] == "hadith":       # the Ṣaḥīḥayn EPUBs do not mark editors' notes apart
+                text = letters("\n".join(r[0] + "\n" + r[1] for r in raws if r))
+            else:
+                text = letters("\n".join(r[0 if tier == "matn" else 1] for r in raws if r))
             pos = 0
             for seg in snippet.split("…"):
                 seg = letters(seg)

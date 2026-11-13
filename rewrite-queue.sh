@@ -4,6 +4,7 @@
 #   ./rewrite-queue.sh                 # reads review/queue.txt — one note name per line, # for comments
 #   MODEL=opus ./rewrite-queue.sh big.txt
 #   QUIET=1 ./rewrite-queue.sh         # one line per step instead of live progress
+#   LIMIT=10 ./rewrite-queue.sh docs/rewrite-order.txt   # the next ten notes of the full list
 #
 # Finished notes are recorded in review/done.txt and skipped next time, so the script can be stopped
 # (Ctrl-C) and restarted, or re-run after a usage limit resets. It stops at the first failure.
@@ -74,6 +75,14 @@ step() {   # step <skill> <note>
   fi
 }
 
+LIMIT="${LIMIT:-0}"     # LIMIT=10 ./rewrite-queue.sh list.txt  → stop after ten notes
+
+left_uncommitted() {   # warn if a step finished without committing its work
+  local dirty; dirty=$(git status --porcelain -- "$1.md" ledger | grep -v '^??.*\.sheet\.md' || true)
+  [ -z "$dirty" ] || echo "    note: $2 left uncommitted changes (the next step or you will need to commit them):" && \
+    [ -z "$dirty" ] || echo "$dirty" | sed 's/^/      /'
+}
+
 total=0; todo=0
 while IFS= read -r line || [ -n "$line" ]; do
   n="$(trim "$line")"; case "$n" in ""|\#*) continue ;; esac
@@ -88,6 +97,7 @@ while IFS= read -r line || [ -n "$line" ]; do
   note="$(trim "$line")"
   case "$note" in ""|\#*) continue ;; esac
   grep -qxF -- "$note" review/done.txt && continue
+  if [ "$LIMIT" -gt 0 ] && [ "$i" -ge "$LIMIT" ]; then echo; echo "Reached LIMIT=$LIMIT — stopping here."; break; fi
   i=$((i + 1))
   [ -f "$note.md" ] || { echo "No such note: '$note' — stopping. (Names are the file names without .md.)"; exit 1; }
   echo
@@ -96,8 +106,10 @@ while IFS= read -r line || [ -n "$line" ]; do
 
   echo "  ── 1/3 rewrite"
   step rewrite-note "$note" || { echo "  ✗ rewrite failed — see $LOGS/$note.rewrite-note.log"; exit 1; }
+  left_uncommitted "$note" "the rewrite"
   echo "  ── 2/3 verify"
   step verify-note  "$note" || { echo "  ✗ verify failed — see $LOGS/$note.verify-note.log"; exit 1; }
+  left_uncommitted "$note" "the verify"
   echo "  ── 3/3 audit"
   python3 audit.py --no-content > /dev/null && python3 audit.py --ledger > /dev/null \
     || { echo "  ✗ audit fails after $note — stopping. Run: python3 audit.py --no-content"; exit 1; }
