@@ -81,3 +81,8 @@ that has any.
   now: "Ḍubāʿah's *mawlāh* Sidrah". →
 - [ ] **S6.284.13 — «فرددها عليهم».** Subject not stated (al-Miqdād or the household).
   now: "whenever it was set before them again", no subject. →
+
+## Umayyah b. Khalaf
+
+- [ ] **S4.47.10 — where the report ends.** «وكان هو الذي يعذب بلالا بمكة حتى يترك الإسلام». Either ʿAbd al-Raḥmān's own words or an aside by Ibn Isḥāq/al-Ṣāliḥī; the page does not mark it.
+  now: the note says "the text adds that he was the one who used to torture Bilāl", unattributed. →

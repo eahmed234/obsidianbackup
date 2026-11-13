@@ -1,8 +1,6 @@
 ---
 title: Umayyah b. Khalaf
 arabic: أمية بن خلف
-aliases:
-  - Umayyah b. Khalaf al-Jumaḥī
 type: person
 tags:
   - person
@@ -23,7 +21,7 @@ Umayyah b. Khalaf, whom his wife and Abū Jahl address as Abū Ṣafwān, was a 
 
 Saʿd and Umayyah were friends: when Umayyah passed through Madinah he stopped at Saʿd's, and when Saʿd passed through Makkah he stayed with Umayyah. After the Messenger of Allāh ﷺ came to Madinah, Saʿd went to Makkah for ʿumrah and stayed with Umayyah, asking him to find an hour of seclusion so that he could circle the House. Umayyah took him out near midday, and Abū Jahl met them and asked who was with him. Told that it was Saʿd, he said that he saw him circling at Makkah in safety when they had sheltered the *ṣubāh* and claimed that they would help and support them, and that but for Abū Ṣafwān's company Saʿd would not have gone home safe. Saʿd raised his voice and answered that if Abū Jahl stopped him he would stop something harder for him, Abū Jahl's road to Madinah.[^s4.46] Umayyah told him not to raise his voice at Abū al-Ḥakam, the master of the people of the valley.[^bukh3950]
 
-Saʿd said: "Leave us, Umayyah. By Allāh, I heard the Messenger of Allāh ﷺ say: 'They are your killers.'" Umayyah asked: "At Makkah?" and Saʿd said that he did not know. Umayyah was greatly terrified.[^bukh3950] In another wording, the Prophet's words were «إنه قاتلك» ("he is your killer"), and Umayyah asked "Me?", was told yes, and then asked whether at Makkah.[^s4.46] He said: "By Allāh, Muḥammad does not lie when he speaks."[^s4.46]
+Saʿd said: "Leave us, Umayyah. By Allāh, I heard the Messenger of Allāh ﷺ say: 'They are your killers.'" Umayyah asked: "At Makkah?" and Saʿd said that he did not know. Umayyah was greatly terrified.[^bukh3950] Al-Ṣāliḥī's own text of the Prophet's words is «إنه قاتلك» ("he is your killer"), with "they are your killers" as another wording; after either, Umayyah asked "Me?", was told yes, and then asked whether at Makkah.[^s4.46] He said: "By Allāh, Muḥammad does not lie when he speaks."[^s4.46]
 
 Back with his family he told Umm Ṣafwān what Saʿd had said, that Muḥammad had told them that they were his killers, and swore that he would not leave Makkah.[^bukh3950]
 
@@ -37,7 +35,7 @@ Umayyah b. Khalaf is also named among those in the Quraysh caravan that the Prop
 
 ## ʿAbd al-Raḥmān b. ʿAwf
 
-ʿAbd al-Raḥmān b. ʿAwf related that he wrote Umayyah a document, that Umayyah would guard his dependants at Makkah and he Umayyah's at Madinah. When he mentioned al-Raḥmān, Umayyah said that he did not know al-Raḥmān and asked him to write with the name he had borne in the Jāhiliyyah, and he wrote it as ʿAbd ʿAmr.[^bukh2301] In Ibn Isḥāq's fuller wording, Umayyah had been his friend at Makkah and used to meet him there and ask whether he had turned away from a name his father had given him; he said he knew no al-Raḥmān and asked for something else to call him by, and they settled on ʿAbd al-Ilāh, to which ʿAbd al-Raḥmān would answer. When he emigrated to Madinah he wrote to him, each to protect the other in his distress.[^s4.47]
+ʿAbd al-Raḥmān b. ʿAwf related that he wrote Umayyah a document, that Umayyah would guard his dependants at Makkah and he Umayyah's at Madinah. When he mentioned al-Raḥmān, Umayyah said that he did not know al-Raḥmān and asked him to write with the name he had borne in the Jāhiliyyah, and he wrote it as ʿAbd ʿAmr.[^bukh2301] In Ibn Isḥāq's fuller wording, Umayyah had been his friend at Makkah and used to meet him there and ask whether he had turned away from a name his father had given him; he said he knew no al-Raḥmān and asked for something else to call him by, and they settled on ʿAbd al-Ilāh, to which ʿAbd al-Raḥmān would answer. When he emigrated to Madinah he made a written agreement with him, each to protect the other in his distress.[^s4.47]
 
 ## His death at Badr
 
@@ -45,7 +43,7 @@ In al-Bukhārī's report, ʿAbd al-Raḥmān went out on the day of Badr, to a m
 
 In Ibn Isḥāq's wording, ʿAbd al-Raḥmān went out to secure him from being killed and found him holding the hand of his son ʿAlī b. Umayyah, while he himself carried coats of mail. Umayyah, calling him ʿAbd al-Ilāh, asked whether he wanted him, as he was better for him than the mail; ʿAbd al-Raḥmān threw the mail down and took the hands of father and son. The son asked who the man marked with an ostrich feather on his chest was, and was told that it was Ḥamzah b. ʿAbd al-Muṭṭalib, who, he said, was the one who had done those deeds to them.[^s4.47]
 
-While ʿAbd al-Raḥmān was leading them, Bilāl saw Umayyah, who was the one who used to torture him at Makkah until he would give up Islam, and said: "The head of disbelief, Umayyah b. Khalaf — may I not be saved if he is saved!" Bilāl called to the Anṣār, and a band of them followed. When ʿAbd al-Raḥmān feared they would catch up he let the son go to occupy them, and told Umayyah, a heavy man, to kneel, and threw himself over him. The Anṣār surrounded them, and while he defended Umayyah a man swung his sword and struck the son's leg, so that he fell; Umayyah cried out as ʿAbd al-Raḥmān had never heard anyone cry. ʿAbd al-Raḥmān told him to save himself, for there was no saving him, and said that he could do nothing for him. They cut Umayyah to pieces with their swords, and one of them struck the top of ʿAbd al-Raḥmān's foot. ʿAbd al-Raḥmān used to say: "May Allāh have mercy on Bilāl: my mail was lost and he bereaved me of my captive."[^s4.47]
+While ʿAbd al-Raḥmān was leading them, Bilāl saw Umayyah — the text adds that he was the one who used to torture Bilāl at Makkah until he would give up Islam — and said: "The head of disbelief, Umayyah b. Khalaf — may I not be saved if he is saved!" Bilāl called to the Anṣār, and a band of them followed. When ʿAbd al-Raḥmān feared they would catch up he let the son go to occupy them, and told Umayyah, a heavy man, to kneel, and threw himself over him. The Anṣār surrounded them, and while he defended Umayyah a man swung his sword and struck the son's leg, so that he fell; Umayyah cried out as ʿAbd al-Raḥmān had never heard anyone cry. ʿAbd al-Raḥmān told him to save himself, for there was no saving him, and said that he could do nothing for him. They cut Umayyah to pieces with their swords, and one of them struck the top of ʿAbd al-Raḥmān's foot. ʿAbd al-Raḥmān used to say: "May Allāh have mercy on Bilāl: my mail was lost and he bereaved me of my captive."[^s4.47]
 
 ## References
 
