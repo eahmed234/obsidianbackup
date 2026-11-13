@@ -86,3 +86,14 @@ that has any.
 
 - [ ] **S4.47.10 — where the report ends.** «وكان هو الذي يعذب بلالا بمكة حتى يترك الإسلام». Either ʿAbd al-Raḥmān's own words or an aside by Ibn Isḥāq/al-Ṣāliḥī; the page does not mark it.
   now: the note says "the text adds that he was the one who used to torture Bilāl", unattributed. →
+
+## ʿUmrat al-Qaḍāʾ
+
+- [ ] **S5.189.13 — «ويقال: عويف بن الأضبط».** Printed straight after al-Balādhurī's «استعمل أبا ذر»; whose words are they (al-Balādhurī's, or al-Ṣāliḥī's, since ʿUwayf is already Ibn Hishām's)?
+  now: "The page then has: …", no speaker named. →
+- [ ] **S5.191.10 — «الرابع من ذي الحجة».** Printed Dhū al-Ḥijjah though the chapter opens in Dhū al-Qaʿdah; misprint?
+  now: "as the page prints it". →
+- [ ] **S5.195.14 — «وكان عدة المسلمين … ألفين».** Ibn Isḥāq's words or al-Ṣāliḥī's? 
+  now: stated unattributed after Ibn Isḥāq's sentence. →
+- [ ] **S5.195.16 — «يعني خيبر».** Whose gloss: Ibn Hishām's, Abū ʿUbaydah's or al-Ṣāliḥī's?
+  now: "glossed there as Khaybar". →

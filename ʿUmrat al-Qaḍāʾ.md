@@ -32,7 +32,7 @@ primary_source: "*Subul al-Hudā*, 5:189–199; *Ṣaḥīḥ al-Bukhārī*, nos
 
 The Messenger of Allah ﷺ ordered his Companions to make ready for the ʿumrah, and that none who had been present at al-Ḥudaybiyah stay behind. None who had been present did so, except men who had been martyred at Khaybar and men who had died.[^s5.189] Some of the Arabs living near Madinah said they had no provisions and no one to feed them. He ordered the Muslims to spend in the way of Allah, to give charity and not to hold back their hands lest they perish, and when they asked with what they were to give charity when one of them found nothing, he answered: «With whatever there is, even half a date.»[^s5.189]
 
-The sources differ on who was left in charge of Madinah. Muḥammad b. ʿUmar and Ibn Saʿd say he appointed Abū Ruhm al-Ghifārī; Ibn Hishām says ʿUwayf b. al-Aḍbaṭ; al-Balādhurī says Abū Dharr. Al-Ṣāliḥī adds: "and it is said ʿUwayf b. al-Aḍbaṭ — and Allah knows best."[^s5.189]
+The sources differ on who was left in charge of Madinah. Muḥammad b. ʿUmar and Ibn Saʿd say he appointed Abū Ruhm al-Ghifārī; Ibn Hishām says ʿUwayf b. al-Aḍbaṭ; al-Balādhurī says Abū Dharr. The page then has: "and it is said ʿUwayf b. al-Aḍbaṭ — and Allah knows best."[^s5.189]
 
 ## The hady, the horses and the weapons
 
@@ -48,7 +48,7 @@ Ibn ʿUqbah reports that the Prophet ﷺ sent [[Jaʿfar b. Abī Ṭālib]] ahead
 
 The Prophet ﷺ entered *iḥrām* at the door of the mosque, because he took the road of al-Farʿ; otherwise he would have begun the *talbiyah* at al-Baydāʾ.[^s5.190][^s5.198] He travelled making the *talbiyah*, with the Muslims doing the same, until he reached Marr al-Ẓahrān.[^s5.190]
 
-There he sent the weapons ahead to Baṭn Yaʾjaj, a valley near Makkah, when he saw the markers of the Ḥaram.[^s5.190][^s5.198] Quraysh sent Mikraz b. Ḥafṣ with a party, who met him at Baṭn Yaʾjaj, the *hady* and weapons having caught up. They said: "Muḥammad, we have not known you, small or great, for treachery — you enter the Ḥaram upon your people with weapons, when you stipulated to them that you enter only with the traveller's weapons, swords in their scabbards!" He answered: «I shall not enter upon them with weapons.» Mikraz replied: "That is what you are known by, righteousness and fidelity," and went back quickly to Makkah to tell Quraysh that Muḥammad would not enter with weapons and held to the condition he had made.[^s5.190][^s5.191]
+He sent the weapons ahead to Baṭn Yaʾjaj, a valley near Makkah, when he saw the markers of the Ḥaram.[^s5.190][^s5.198] Quraysh sent Mikraz b. Ḥafṣ with a party, who met him at Baṭn Yaʾjaj, the *hady* and weapons having caught up. They said: "Muḥammad, we have not known you, small or great, for treachery — you enter the Ḥaram upon your people with weapons, when you stipulated to them that you enter only with the traveller's weapons, swords in their scabbards!" He answered: «I shall not enter upon them with weapons.» Mikraz replied: "That is what you are known by, righteousness and fidelity," and went back quickly to Makkah to tell Quraysh that Muḥammad would not enter with weapons and held to the condition he had made.[^s5.190][^s5.191]
 
 At Marr al-Ẓahrān word reached the Companions that Quraysh were saying they could not rouse themselves for weakness. They proposed to slaughter some of their mounts, eat the meat and drink the broth, so as to be rested tomorrow when they entered. The Prophet ﷺ told them not to, but to gather their provisions to him; they spread leather mats and ate until they left off, and each filled his bag.[^s5.191]
 
@@ -94,7 +94,7 @@ As the Prophet ﷺ left, the daughter of [[Ḥamzah b. ʿAbd al-Muṭṭalib]] f
 
 ## The return
 
-Ibn Isḥāq says that the Prophet ﷺ then went back in Dhū al-Ḥijjah.[^s5.195] The number of the Muslims, apart from women and boys, was two thousand.[^s5.195] Ibn Hishām says that Allah revealed on this occasion, as Abū ʿUbaydah related to him, the verse that Allah has indeed fulfilled for His Messenger the vision in truth (al-Fatḥ 27), and that the "near conquest" in it means Khaybar.[^s5.195]
+Ibn Isḥāq says that the Prophet ﷺ then went back in Dhū al-Ḥijjah.[^s5.195] The number of the Muslims, apart from women and boys, was two thousand.[^s5.195] Ibn Hishām says that Allah revealed, as Abū ʿUbaydah related to him, the verse that Allah has indeed fulfilled for His Messenger the vision in truth (al-Fatḥ 27), and the verse continues with a "near conquest", glossed there as Khaybar.[^s5.195]
 
 ## Names and disputes
 
@@ -106,7 +106,7 @@ Ibn Isḥāq says that the Prophet ﷺ then went back in Dhū al-Ḥijjah.[^s5.1
 
 **Al-Tirmidhī and Kaʿb b. Mālik.** Al-Tirmidhī said that another ḥadīth gives the story to Kaʿb b. Mālik, and that this is sounder since Ibn Rawāḥah was killed at Muʾtah before this ʿumrah. Al-Ḥāfiẓ calls it a gross oversight and a rejected error, because the dispute of Jaʿfar, ʿAlī and Zayd over Ḥamzah's daughter belongs to this ʿumrah, and Jaʿfar, Zayd and Ibn Rawāḥah were killed in one place; he adds that some have al-Tirmidhī's report from Anas as concerning the conquest of Makkah, in which case the objection would stand, but that al-Ṣāliḥī saw the other reading in several copies of the *Jāmiʿ*.[^s5.197]
 
-**The time of the departure.** That Suhayl and Ḥuwayṭib came at midday, al-Ṣāliḥī takes, shows that he entered early in the day, so that the three days were not complete until a like time on the fourth.[^s5.197]
+**The time of the departure.** That Suhayl and Ḥuwayṭib came at midday, al-Ṣāliḥī says, makes it appear that he entered early in the day, so that the three days were not complete until a like time on the fourth.[^s5.197]
 
 **"O uncle."** The girl's address is explained as veneration of the Prophet ﷺ, or by Ḥamzah's being his brother by suckling as well as his uncle by lineage. ʿAlī's taking her out of Makkah was approved despite the stipulation that none of its people be taken out, because they had not asked for her, and because the believing women were not included in it — the Qurʾān on that came only after their return to Madinah.[^s5.197][^s5.198]
 
