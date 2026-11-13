@@ -65,3 +65,10 @@ that has any.
   now: given as the report from Yazīd b. Rūmān (via al-Wāqidī), as printed. →
 - [ ] **I5.435.05 vs .07 — Ḥubaysh b. Khālid / Ḥubaysh b. al-Ashʿar.** Ibn Ḥajar writes «هو وحبيش بن خالد» and then «وكذا وقع عند البخاري … حبيش بن الأشعر الخزاعي»; the page does not say whether one man or two.
   now: both names given as printed; the note links the first to Ḥubaysh b. Khālid and does not identify the two. →
+
+## Sariyyat al-ʿUraniyyīn
+
+- [ ] **S6.120.01 — «يريد أنهم كحلوا بأميال قد أحميت…».** The sentence opens 6:120 with no named subject; it follows al-Khaṭṭābī's «وقد يكون من المسمار» (end of 6:119). Either al-Khaṭṭābī is explaining *samr* as from *mismār*, or al-Ṣāliḥī / another author is explaining the whole report.
+  now: given unattributed ("it is explained that…"). →
+- [ ] **S6.116.12 / .14 — «قال أنس كما عند ابن عمر».** Printed "Ibn ʿUmar" (for Muḥammad b. ʿUmar?). See the ledger's `unsettled`.
+  now: Anas's words are not attributed to either source in the note. →
