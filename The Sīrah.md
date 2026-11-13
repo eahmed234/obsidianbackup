@@ -60,7 +60,7 @@ All entries follow strict academic **IJMES transliteration** (e.g., *ʾalā kull
 - **[[Ghazwat Badr al-Kubrā]]** (17 Ramaḍān 2 AH) — *Yawm al-Furqān (Featured Master Entry)*
 - [[Ghazwat Banī Qaynuqāʿ]] (Shawwāl 2 AH) — *Breach of Treaty & Expulsion*
 - [[Ghazwat Banī Sulaym]] (Shawwāl 2 AH) — *Expedition of Qarqarat al-Kudr & Emancipation of Yasār*
-- [[Ghazwat al-Suwayq]] (Dhū al-Ḥijjah 2 AH) — *Abū Sufyān's Hit-and-Run Raid & The Jettisoned Barley Meal*
+- [[Ghazwat al-Suwayq]] (Dhū al-Ḥijjah) — *Abū Sufyān's Night Raid & The Jettisoned Barley Meal*
 - [[Sariyyat al-Qaradah]] (Jumādā al-Ākhirah 3 AH) — *Interception of the Iraqi Route under Zayd b. Ḥārithah*
 - [[Ghazwat Dhī Amr]] (Ṣafar 3 AH) — *Preemptive Strike in Najd & Conversion of Duʿthūr*
 - [[Ghazwat Uḥud]] (7 Shawwāl 3 AH) — *The Trial of Archers & 70 Martyrs*

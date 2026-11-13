@@ -12,65 +12,61 @@ tags:
   - quraysh
   - 2-ah
   - unverified
-date_hijri: 5 Dhū al-Ḥijjah 2 AH (June 624 CE)
-location: "al-ʿUrayḍ (Medina) to Qarqarat al-Kudr"
+date_hijri: "5 Dhū al-Ḥijjah (the day the Prophet ﷺ set out; the source gives no year)"
+location: "al-ʿUrayḍ (Madinah) to Qarqarat al-Kudr"
 commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
 commanders_enemy:
-  - "[[Abū Sufyān b. Ḥarb]] (prior to Islam)"
-deputy_in_medina: "[[Abū Lubābah b. ʿAbd al-Mundhir]] ﵁"
-strength_muslim: "200 warriors (including 80 mounted cavalry) (*Subul al-Hudā*, 4:174)"
-strength_enemy: "200 mounted horsemen of Quraysh (*Subul al-Hudā*, 4:174)"
-casualties_muslim: "1 Anṣārī martyr (Maʿbad b. ʿAmr) and an ally (*Subul al-Hudā*, 4:174)"
-casualties_enemy: "0 (fled at full gallop, discarding provisions)"
-spoils: "Abundant sacks of roasted barley meal (suwayq) (*Subul al-Hudā*, 4:174)"
-duration: "5 days (*Subul al-Hudā*, 4:174)"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 174–176)"
+  - "[[Abū Sufyān b. Ḥarb]]"
+deputy_in_medina: "Bashīr b. ʿAbd al-Mundhir"
+strength_muslim: "Two hundred of the Muhājirūn and Anṣār, of whom eighty were riders"
+strength_enemy: "Two hundred riders of Quraysh"
+casualties_muslim: "A man of the Anṣār and an ally of his"
+duration: "Five days away from Madinah"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 174–175)"
 ---
 
 # Ghazwat al-Suwayq (غزوة السويق)
-*The Expedition of the Barley Meal — Abū Sufyān's Hit-and-Run Raid, The Treachery of Banū al-Naḍīr, and the Pursuit to Qarqarat al-Kudr*
+*The Expedition of the Barley Meal — Abū Sufyān's night raid on the outskirts of Madinah and the Prophet's ﷺ pursuit to Qarqarat al-Kudr*[^s4.174]
 
-## 1. Strategic Context & The Vow of Abū Sufyān
-Following the catastrophic defeat of Quraysh at **[[Ghazwat Badr al-Kubrā]]** in Ramaḍān 2 AH, the surviving polytheist leadership returned to Makkah in humiliation and despair (*Subul al-Hudā*, 4:174). Eager to salvage the shattered prestige of Quraysh, their paramount leader, **[[Abū Sufyān b. Ḥarb]]**, took a solemn pagan oath: he swore that he would never apply perfumed oil to his body nor wash his head from ritual impurity (*janābah*) until he exacted blood revenge upon the Prophet ﷺ and the Muslims for the fallen chieftains of Badr (*Subul al-Hudā*, 4:174).
+Ghazwat al-Suwayq was the Prophet's ﷺ pursuit of [[Abū Sufyān b. Ḥarb]] and two hundred riders of Quraysh, who had come to the outskirts of Madinah to fulfil a vow of vengeance for [[Ghazwat Badr al-Kubrā|Badr]]. The Prophet ﷺ followed them as far as Qarqarat al-Kudr without overtaking them, and the expedition took its name from the sacks of *sawīq* (roasted, ground grain) that the fleeing Quraysh threw down along the way.[^s4.174]
 
-In Dhū al-Ḥijjah 2 AH (two months following Badr), Abū Sufyān set out from Makkah at the head of two hundred (200) elite cavalrymen to fulfill his vow (*Subul al-Hudā*, 4:174). Taking the highland Najdi route to evade detection, the detachment arrived outside Medina by night and encamped at the foot of Mount Yatīb, near the upper reaches of Wādī Qanāt, approximately one postal stage (*barīd*) from the city (*Subul al-Hudā*, 4:174).
+## Abū Sufyān's vow
 
-## 2. Night Infiltration & Intelligence from Banū al-Naḍīr
-Under cover of darkness, Abū Sufyān rode into the fortified quarters of the Jewish tribe of **[[Banū al-Naḍīr]]** to coordinate an attack (*Subul al-Hudā*, 4:174). 
+When the routed remnant of the polytheists returned to Makkah, bereaved and grieving, Abū Sufyān forbade himself oil and vowed that no water would touch his head for *janābah* until he had taken vengeance on the Messenger of Allāh ﷺ and his Companions for those of the polytheists who had been struck down at Badr.[^s4.174] To fulfil the oath he set out with two hundred riders of Quraysh.[^s4.174]
 
-He first knocked upon the fortress door of **Ḥuyayy b. Akhṭab**. Fearing the political and military consequences of being caught harboring the enemy, Ḥuyayy refused to open the gate (*Subul al-Hudā*, 4:174). 
+## At Madinah
 
-Abū Sufyān then proceeded to the fortress of **Sallām b. Mishkam**, who was the paramount chief of Banū al-Naḍīr and the custodian of their collective treasury (*ṣāḥib kanzihim*) (*Subul al-Hudā*, 4:174). Sallām welcomed Abū Sufyān inside, hosted him hospitably, served him wine and food, and provided him with vital intelligence regarding the internal security, disposition, and daily movements of the Prophet ﷺ and the Muslims in Medina (*Subul al-Hudā*, 4:174).
+He took the Najd road and halted at the head of Qanāh, beside a mountain called Yatīb, at Madinah, about a *barīd* away.[^s4.174] Qanāh is one of the valleys of Madinah.[^s4.175]
 
-## 3. The Raid on al-ʿUrayḍ
-Before dawn, Abū Sufyān rejoined his two hundred cavalrymen and dispatched a raiding party to the agricultural district of **al-ʿUrayḍ**, northeast of Medina (*Subul al-Hudā*, 4:174). 
+That night he went to Banū al-Naḍīr under cover of darkness. He came first to Ḥuyayy b. Akhṭab and knocked at his door, but Ḥuyayy was afraid of him and refused to open.[^s4.174] He left and went to Sallām b. Mishkam, who was the chief of Banū al-Naḍīr at that time and the keeper of their treasure — the wealth they gathered against emergencies and whatever might befall them.[^s4.174][^s4.175] Abū Sufyān asked leave to enter and was admitted; Sallām gave him food and drink and told him of the people's private affairs and of the affairs of the Messenger of Allāh ﷺ.[^s4.174]
 
-The raiders set fire to several clusters of date palms (*aṣwār min nakhl*), causing panic in the groves (*Subul al-Hudā*, 4:174). They encountered a solitary Anṣārī farmer named **Maʿbad b. ʿAmr** alongside an ally tending their fields, and murdered them both in cold blood (*Subul al-Hudā*, 4:174; *al-Iṣābah*, 6:132). 
+## The raid on al-ʿUrayḍ
 
-Having spilled Muslim blood and burned property, Abū Sufyān deemed his solemn oath technically fulfilled. Terrified of being surrounded by the Medinan garrison, he ordered his entire force to retreat immediately at full gallop toward Makkah (*Subul al-Hudā*, 4:174).
+At the end of that night Abū Sufyān returned to his companions and sent men of Quraysh, who came to a part of Madinah called al-ʿUrayḍ, a valley in which the people of Madinah have properties.[^s4.174][^s4.175] They set fire to clusters of young palms there, and finding a man of the Anṣār and an ally of his in a field of theirs, they killed them both.[^s4.174] The Anṣārī is identified, on the authority of *al-Imtāʿ*, as Maʿbad b. ʿAmr; the ally is not named.[^s4.174] Abū Sufyān considered his oath discharged, and they turned back.[^s4.174]
 
-## 4. The Prophetic Pursuit to Qarqarat al-Kudr
-When news of the raid reached the Prophet ﷺ on Sunday morning, the 5th of Dhū al-Ḥijjah 2 AH, he ordered the general mobilization of Medina (*Subul al-Hudā*, 4:174). He appointed **[[Abū Lubābah b. ʿAbd al-Mundhir]]** ﵁ (Bashīr b. ʿAbd al-Mundhir) as his deputy over the city (*Subul al-Hudā*, 4:174).
+## The pursuit
 
-The Prophet ﷺ rode out in swift pursuit leading two hundred (200) Muhājirūn and Anṣār, including eighty (80) mounted cavalry (*Subul al-Hudā*, 4:174). The Muslim army pressed the chase across the desert wilderness, relentlessly pursuing the raiders as far as **Qarqarat al-Kudr** (*Subul al-Hudā*, 4:174).
+The people of Madinah learned of the raiders, and on Sunday the fifth of Dhū al-Ḥijjah the Messenger of Allāh ﷺ went out in pursuit with two hundred of the Muhājirūn and Anṣār.[^s4.174] He left Bashīr b. ʿAbd al-Mundhir in charge of Madinah.[^s4.174] He went as far as Qarqarat al-Kudr. Abū Sufyān and his companions were lightening their loads to flee, throwing down sacks of *sawīq*, which made up most of their provisions, and the Muslims picked them up. For this the expedition was named Ghazwat al-Suwayq. The Muslims did not catch up with the Quraysh.[^s4.174]
 
-## 5. The Jettisoned Barley Meal (*al-Suwayq*)
-Sensing the imminent closing of the Muslim cavalry and desperate to lighten their beasts to escape capture, the fleeing Qurashī horsemen began untying and casting off their provisions (*Subul al-Hudā*, 4:174). Their primary rations consisted of leather sacks filled with **suwayq**—coarsely ground, roasted barley and wheat meal sweetened and mixed with butter or honey (*Subul al-Hudā*, 4:174).
+*Sawīq* is wheat or barley that is roasted and then ground; it is carried as provisions and eaten dry at times, or with something to moisten it, or with ghee, or with honey and ghee.[^s4.174]
 
-As the Muslims rode hard in pursuit, they found the desert track littered with abandoned leather sacks of rich barley meal (*Subul al-Hudā*, 4:174). The Muslim warriors collected the abundant discarded sacks as valuable provisions and returned victorious to Medina, having chased the polytheists out of their borders. Because of these provisions gathered along the trail, the campaign became known in Islamic history as **Ghazwat al-Suwayq** (*Subul al-Hudā*, 4:174).
+## The return
 
-The Prophet's ﷺ absence from Medina lasted five (5) days (*Subul al-Hudā*, 4:174). Upon their return, the Companions inquired:
-> «يَا رَسُولَ اللَّهِ، أَتَطْمَعُ أَنْ تَكُونَ لَنَا غَزْوَةٌ؟»
-> *"O Messenger of Allāh, do you hope that this counts for us as a full military expedition (ghazwah)?"*
-> The Prophet ﷺ smiled and replied:
-> «نَعَمْ!»
-> *"Yes!"* (*Subul al-Hudā*, 4:174).
+The Messenger of Allāh ﷺ returned to Madinah, having been away five days.[^s4.174] On the way back the Muslims asked him whether he hoped this would count for them as an expedition (*ghazwah*), and he answered, "Yes."[^s4.174]
 
-## 6. Strategic Outcomes
-- **Demonstration of Vulnerability in Quraysh**: Abū Sufyān's inability to launch an open confrontation—resorting instead to a midnight arson raid and fleeing frantically before the Prophetic vanguard—demonstrated that Quraysh had completely lost the psychological offensive after Badr.
-- **Unmasking Internal Treachery**: The clandestine coordination between Sallām b. Mishkam of Banū al-Naḍīr and Abū Sufyān provided early concrete proof of Banū al-Naḍīr's breach of the **[[Dustūr al-Madīnah]]**, foreshadowing their subsequent expulsion in **[[Ghazwat Banī al-Naḍīr]]** (4 AH).
+## Disputes and variants
 
-## 7. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 174–176 (al-Bāb al-Tāsiʿ fī Ghazwat al-Suwayq).
-2. *[[al-Iṣābah fī Tamyīz al-Ṣaḥābah]]*, vol. 6, p. 132 (entry no. 8117: Maʿbad b. ʿAmr al-Anṣārī).
+- **The number of the Muslim force.** The text gives two hundred of the Muhājirūn and Anṣār, while *al-Ishārah* has eighty. The two figures have been reconciled by saying that the riders were eighty and the force as a whole two hundred.[^s4.174]
+- **Who carried out the raid.** It is said that Abū Sufyān did this himself when he came back that night from Sallām b. Mishkam, rather than sending others.[^s4.174]
+
+## What the source does not say
+
+The source does not give a year for the expedition; it dates the Prophet's ﷺ departure only as Sunday the fifth of Dhū al-Ḥijjah "at the head of twenty-two months", without saying from what the months are counted. It does not give a kunyah for Bashīr b. ʿAbd al-Mundhir, and it does not name the ally who was killed with the Anṣārī.[^s4.174]
+
+## References
+
+1. *Subul al-Hudā war-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993. Vol. 4, pp. 174–175.
+
+[^s4.174]: *Subul al-Hudā*, 4:174.
+[^s4.175]: *Subul al-Hudā*, 4:175.
