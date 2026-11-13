@@ -37,7 +37,7 @@ Abū ʿAmr says that the Prophet ﷺ stayed in Madīnah for the rest of Rabīʿ 
 
 ## The truce with Banū Ḍamrah
 
-The Prophet ﷺ made a truce with Banū Ḍamrah b. ʿAbd Manāt b. Kinānah, and their chief concluded it with him. Ibn Isḥāq, Ibn Saʿd and Abū ʿAmr name Makhshī b. ʿAmr al-Ḍamrī in this connection, whereas Ibn al-Kalbī gives ʿUmārah b. Makhshī b. Khuwaylid b. ʿAbd Fahm b. Yaʿmur b. ʿAwf b. Jadī b. Ḍamrah. Ibn Ḥazm, in *al-Jamharah*, likewise says that he was ʿUmārah b. Makhshī — "and Allāh knows best".[^s4.14]
+The Prophet ﷺ made a truce with Banū Ḍamrah b. ʿAbd Manāt b. Kinānah, and their chief concluded it with him. Ibn Isḥāq, Ibn Saʿd and Abū ʿAmr name Makhshī b. ʿAmr al-Ḍamrī in this connection, whereas Ibn al-Kalbī gives ʿUmārah b. Makhshī b. Khuwaylid b. ʿAbd Fahm b. Yaʿmur b. ʿAwf b. Jadī b. Ḍamrah. Al-Amīr Abū Naṣr, under *Jadī*, gives it so, and Ibn Ḥazm, in *al-Jamharah*, likewise says that he was ʿUmārah b. Makhshī — "and Allāh knows best".[^s4.14]
 
 The terms were that the Prophet ﷺ would not raid Banū Ḍamrah and they would not raid him, that they would not gather in large numbers against him, and that they would not help an enemy against him. He wrote a document between himself and them:[^s4.14]
 

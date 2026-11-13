@@ -49,3 +49,12 @@ that has any.
   now: the note gives the report in the source's words without interpreting it. →
 - [ ] **Tag `2-ah`.** The page gives «على رأس اثنين وعشرين شهرا» without saying from what, and no year. See General.
   now: tag kept. →
+
+## Ghazwat al-Abwāʾ
+
+- [ ] **S4.14.07 — «قال ابن إسحاق وابن سعد وأبو عمرو: جمع محشي بن عمرو الضمري».** The verb «جمع» has no evident sense here; the sentence reads as a disagreement over who concluded the treaty, but does not say so.
+  now: the note says they "name Makhshī in this connection" and Ibn al-Kalbī gives ʿUmārah; no verb is rendered. →
+- [ ] **S4.14.02–.03, .09 — where Abū ʿAmr's / the Ibn Isḥāq group's words end.** The print marks no end to «قال أبو عمرو: …» (does it cover the banner and departure?) nor to the quotation before «ووادعهم على ألا يغزوا…».
+  now: Abū ʿAmr is named only for the stay in Madīnah; departure and treaty terms are plain narrative. →
+- [ ] **S4.14.04 — «أبو سعد وأبو عمر».** Abū ʿUmar here, Abū ʿAmr elsewhere. (See General on «أبو عمرو».)
+  now: as printed. →
