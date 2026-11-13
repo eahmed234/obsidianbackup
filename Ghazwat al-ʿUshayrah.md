@@ -13,60 +13,42 @@ tags:
   - 2-ah
   - yanbu
   - unverified
-date_hijri: "Jumādā al-Ūlā – Jumādā al-Ākhirah 2 AH (approx. 16 months after Hijrah)"
-location: "al-ʿUshayrah in Baṭn Yanbuʿ (the station of the Egyptian pilgrim route)"
+date_hijri: "Jumādā al-Ūlā (Ibn Isḥāq, Ibn Ḥazm and others) or Jumādā al-Ākhirah (Ibn Saʿd), at the head of sixteen months from the hijrah"
+location: "al-ʿUshayrah, in Baṭn Yanbuʿ"
 commanders_muslim:
   - "[[Muḥammad b. ʻAbdullah|Muḥammad]] ﷺ"
-commanders_enemy: "[[Abū Sufyān b. Ḥarb]] (outbound caravan of Quraysh, evaded contact)"
-standard_bearer: "[[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁ (White standard)"
-deputy_in_medina: "Abū Salamah b. ʿAbd al-Asad al-Makhzūmī ﵁"
-strength_muslim: "150 to 200 Muhājirūn volunteers (alternating riding across 30 camels)"
-treaty_partners: "Banū Mudlij and their confederates of Banū Ḍamrah"
-primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, pp. 17–18)"
+standard_bearer: "[[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁"
+deputy_in_medina: "Abū Salamah b. ʿAbd al-Asad ﵁"
+strength_muslim: "a hundred and fifty, or it is said two hundred, of those who volunteered; thirty camels"
+primary_source: "[[Subul al-Hudā war-Rashād]] (vol. 4, p. 17)"
 ---
 
 # Ghazwat al-ʿUshayrah (غزوة العشيرة)
-*The Interception at Yanbuʿ — The Direct Precursor Expedition to Badr and the Conferral of the Agnomen Abū Turāb*
+*The expedition to intercept a caravan of Quraysh bound for Syria, which had already passed when the Prophet ﷺ reached al-ʿUshayrah*[^s4.17]
 
-## 1. Strategic Context & Departure
-In Jumādā al-Ūlā of the second year of the Hijrah (sixteen months after the Prophet's arrival in Medina), urgent intelligence reached the Muslim leadership that a massive mercantile caravan belonging to **[[Quraysh]]** had departed Makkah destined for Syria (*Subul al-Hudā*, 4:17). 
+Ghazwat al-ʿUshayrah, also called Dhāt al-ʿUshayrah, was an expedition in which the Messenger of Allāh ﷺ went out to intercept a caravan of [[Quraysh]] that had left Makkah for Syria. He reached al-ʿUshayrah in Baṭn Yanbuʿ and found that the caravan had passed some days earlier. He stayed there for some time, made a truce with Banū Mudlij and their allies from Banū Ḍamrah, and returned to Madīnah having met no fighting.[^s4.17][^s4.14]
 
-This was no ordinary commercial venture: the Qurashī patricians had pooled together virtually their entire liquid capital and household investments into this grand outbound convoy, placing it under the supreme command of **[[Abū Sufyān b. Ḥarb]]** (*Subul al-Hudā*, 4:17).
+## The date
 
-The Messenger of Allāh ﷺ sounded a mobilization among the believers, issuing a call for volunteers without compelling anyone (*mimman intadaba wa-lam yukrih aḥadan*). An expeditionary force of between **one hundred and fifty and two hundred warriors** rallied, drawn exclusively from **[[al-Muhājirūn]]** (*Subul al-Hudā*, 4:17). 
+The sources differ on the month. Ibn Saʿd says the Prophet ﷺ set out in Jumādā al-Ākhirah, at the head of sixteen months from his hijrah; Ibn Isḥāq, Ibn Ḥazm and others say Jumādā al-Ūlā.[^s4.17]
 
-The Prophet ﷺ appointed his cousin and brother-in-faith, **Abū Salamah b. ʿAbd al-Asad al-Makhzūmī** ﵁, as deputy governor over Medina (*Subul al-Hudā*, 4:17). The supreme white battle standard of the army was committed into the custody of the Prophet's valiant uncle, **[[Ḥamzah b. ʿAbd al-Muṭṭalib]]** ﵁ (*Subul al-Hudā*, 4:17).
+## The departure
 
-## 2. The March to Baṭn Yanbuʿ
-The Muslim detachment possessed only **thirty mounts**, requiring the Companions to take turns walking on foot and riding in rotation (*yaʿtaqibūnahā*) across the arid wasteland (*Subul al-Hudā*, 4:17).
+Word had come to the Prophet ﷺ that the caravan had left Makkah for Syria, and that Quraysh had gathered their wealth in it. He set out to intercept it with a hundred and fifty men, or, it is said, two hundred, of those who volunteered; he compelled no one to go. They had thirty camels, which they rode in turns. [[Ḥamzah b. ʿAbd al-Muṭṭalib]] ﵁ carried the white banner, and Abū Salamah b. ʿAbd al-Asad ﵁ was left as deputy over Madīnah.[^s4.17]
 
-The Prophet ﷺ led the army along the historical southern inland route past **Malal**, traversing the desert defiles until descending into the coastal basin of **al-ʿUshayrah** (also vocalized as *al-ʿUsayrah*, *Dhāt al-ʿUshayrah*, or *al-ʿUshayr*) in the wadi of **Yanbuʿ**—a prominent waystation traditionally utilized by Egyptian pilgrimage caravans (*Subul al-Hudā*, 4:17).
+## At al-ʿUshayrah
 
-Upon arriving at al-ʿUshayrah, the Muslims discovered that Abū Sufyān's heavily guarded caravan had slipped past the valley several days earlier, traveling with utmost speed along the outer coastline to escape Medinan surveillance (*Subul al-Hudā*, 4:17).
+He took the road of Malal to al-ʿUshayrah, a place in Baṭn Yanbuʿ that was the halting-place of the Egyptian pilgrim. The place is also called Dhāt al-ʿUshayrah and al-ʿUshayr, and al-ʿUsayrah is also said.[^s4.17] He reached it and found the caravan had gone by some days before. He stayed there for the rest of Jumādā al-Ūlā and some nights of Jumādā al-Ākhirah, and made a truce there with Banū Mudlij and their allies from Banū Ḍamrah. Then he returned to Madīnah, having met no fighting.[^s4.17][^s4.14]
 
-## 3. The Direct Causality with Badr al-Kubrā
-This identical caravan—laden with the accumulated wealth of Quraysh and tracked to al-ʿUshayrah on its outbound voyage to Syria—was the **exact target** that the Prophet ﷺ marched out to intercept upon its return journey several months later in Ramaḍān 2 AH (*Subul al-Hudā*, 4:17). 
+It is said that during this expedition the Messenger of Allāh ﷺ gave [[ʿAlī b. Abī Ṭālib]] ﵁ the kunyah Abū Turāb.[^s4.17]
 
-When Abū Sufyān subsequently returned from Syria in the spring of 2 AH, he hired Ḍamḍam b. ʿAmr al-Ghifārī to ride in frenzy to Makkah to summon the full military host of Quraysh to protect this very consignment, directly setting in motion the titanic clash of **[[Ghazwat Badr al-Kubrā]]** (*Subul al-Hudā*, 4:17–18).
+## The caravan and Badr
 
-## 4. Diplomatic Alliances: Banū Mudlij & Banū Ḍamrah
-Rather than immediately retreating to Medina, the Prophet ﷺ remained encamped at al-ʿUshayrah for the remainder of Jumādā al-Ūlā and several days of Jumādā al-Ākhirah (*Subul al-Hudā*, 4:17). 
+This was the caravan for which the Prophet ﷺ later set out when it came back from Syria, and it was the cause of the battle of Badr al-Kubrā (see [[Ghazwat Badr al-Kubrā]]).[^s4.17]
 
-During this extended stay, he capitalized on the sovereign presence of the Muslim army to conduct high-level diplomatic outreach with the local Bedouin clans that controlled the vital Yanbuʿ corridor:
-- He concluded a binding non-aggression and mutual assistance treaty with the tribe of **Banū Mudlij** (renowned across Arabia for their uncanny skill in tracking footprints, *qiyāfah*) and their confederates from **Banū Ḍamrah** (*Subul al-Hudā*, 4:17).
-- By securing non-aggression pacts with both Banū Ḍamrah at [[Ghazwat al-Abwāʾ]] and Banū Mudlij at al-ʿUshayrah, the Prophet ﷺ successfully neutralized the entire maritime coastal strip, isolating the trade routes of Quraysh and depriving Makkah of local tribal support.
+## References
 
-## 5. The Naming of Abū Turāb
-It was during this encampment at al-ʿUshayrah that the Messenger of Allāh ﷺ affectionately conferred the celebrated agnomen **Abū Turāb** ("Father of Dust") upon **[[ʿAlī b. Abī Ṭālib]]** ﵁ (*Subul al-Hudā*, 4:17). 
+1. *Subul al-Hudā wa-l-Rashād fī Sīrat Khayr al-ʿIbād*, al-Ṣāliḥī al-Shāmī. Dār al-Kutub al-ʿIlmiyyah, Beirut, 1414/1993. Vol. 4, pp. 14, 17.
 
-The Prophet ﷺ walked out through the palm groves and found ʿAlī and **[[ʿAmmār b. Yāsir]]** resting upon the earth; ʿAlī had fallen asleep on the sandy ground, and the fine soil had adhered to his side and shoulders. The Prophet ﷺ gently awakened him, dusting the earth from his garments with his noble hand and saying with affectionate cheer:
-> «قُمْ أَبَا تُرَابٍ! قُمْ أَبَا تُرَابٍ!»
-> *"Rise, O Abū Turāb! Rise, O Abū Turāb!"* (*Subul al-Hudā*, 4:17; *Ṣaḥīḥ al-Bukhārī*, no. 3703).
-
-## 6. Return to Medina
-Having concluded the treaties of peace and completely secured the Yanbuʿ approaches, the Prophet ﷺ marched the army back to Medina without having engaged in armed combat (*lam yalqa kaydā*) (*Subul al-Hudā*, 4:17).
-
-## 7. References
-1. *[[Subul al-Hudā war-Rashād]]*, vol. 4, pp. 17–18 (The Sixth Chapter: Exposition of Ghazwat al-ʿUshayrah, the Route, the Treaties, and Historical Consequences).
-2. *Ṣaḥīḥ al-Bukhārī*, Kitāb Faḍāʾil al-Ṣaḥābah, Manāqib ʿAlī b. Abī Ṭālib (no. 3703).
-3. *Sīrat Ibn Isḥāq* / *Sīrat Ibn Hishām*, vol. 1, pp. 598–600.
+[^s4.14]: *Subul al-Hudā*, 4:14, where «لم يلق كيدا» is glossed «أي حربا».
+[^s4.17]: *Subul al-Hudā*, 4:17.

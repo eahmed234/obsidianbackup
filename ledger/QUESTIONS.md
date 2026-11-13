@@ -32,6 +32,15 @@ that has any.
 - [ ] **Tag `2-ah`.** The page gives "thirteen months from his hijrah" and no year. See General.
   now: tag kept. →
 
+## Ghazwat al-ʿUshayrah
+
+- [ ] **S4.17.04–.12 — where the Ibn Isḥāq / Ibn Ḥazm quotation ends.** «وقال ابن إسحاق وابن حزم وغيرهما: في جمادى الأولى، وحمل لواءه … واستخلف … وخرج في مائة وخمسين، ويقال في مائتين». The sentence runs on from the date into the banner, deputy and numbers; either all is theirs or only the date.
+  now: the date is credited to them by name; banner, deputy and numbers are written as plain narrative. →
+- [ ] **S4.17.13–.16 — where Abū ʿAmr's words end.** «قال أبو عمرو: أخذ … على طريق ملل إلى العشيرة، فأقام … ووادع … ثم رجع إلى المدينة ولم يلق كيدا، قالوا: …». Is the whole route/stay/truce/return his, or only the first clause? (See General on «أبو عمرو».)
+  now: written as plain narrative, no attribution in the text. →
+- [ ] **S4.17.17 — «قالوا».** Who "they" are is not stated.
+  now: "It is said that…". →
+
 ## Ghazwat al-Suwayq
 
 - [ ] **S4.174.06 — «فبعث رجلًا من قريش فأتوا…».** Singular «رجلًا» with plural verbs after it.
