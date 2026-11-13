@@ -72,3 +72,12 @@ that has any.
   now: given unattributed ("it is explained that…"). →
 - [ ] **S6.116.12 / .14 — «قال أنس كما عند ابن عمر».** Printed "Ibn ʿUmar" (for Muḥammad b. ʿUmar?). See the ledger's `unsettled`.
   now: Anas's words are not attributed to either source in the note. →
+
+## Wafd Bahrāʾ
+
+- [ ] **S6.284.08, .14 — «أبو معبد».** The page never says Abū Maʿbad is al-Miqdād's kunyah; the guests say «يا أبا معبد» and the Prophet ﷺ asks «ما فعل ضيف أبي معبد؟» (answered «عندنا»).
+  now: name as printed; the note does not identify it with al-Miqdād. →
+- [ ] **S6.284.07, .11 — «مولاتي».** Printed with no gloss: Sidrah as Ḍubāʿah's *mawlāh* (freedwoman), or her mistress?
+  now: "Ḍubāʿah's *mawlāh* Sidrah". →
+- [ ] **S6.284.13 — «فرددها عليهم».** Subject not stated (al-Miqdād or the household).
+  now: "whenever it was set before them again", no subject. →
