@@ -17,9 +17,11 @@
       "Bash(git -c:*)"
     ],
     "deny": [
-      "Bash(git push:*)",
       "Bash(git checkout main:*)",
       "Bash(git merge:*)"
+    ],
+    "ask": [
+      "Bash(git push:*)"
     ]
   }
 }
